@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-09T14:12:58.241282+00:00",
+  "updated_at": "2026-06-09T22:19:23.674527+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -36,7 +36,77 @@
   ],
   "news": [
     {
-      "id": "35244329",
+      "id": "31615886",
+      "category": "経済・ビジネス（日本）",
+      "title": "“イランに対して自衛のための攻撃を開始” アメリカ中央軍",
+      "summary": "アメリカのトランプ大統領は、ホルムズ海峡上空でイラン側によってアメリカ軍のヘリコプターが撃墜されたことを明らかにしました。操縦士は無事でしたが、アメリカ軍はこれに対する自衛攻撃をイランに対して開始し、今後の戦闘終結に向けた協議の行方が不透明な状況となっています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260610/k10015145591000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-09T22:07:22+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "44628109",
+      "category": "経済・ビジネス（日本）",
+      "title": "サグラダ・ファミリア メインタワー完成 10日に記念ミサ",
+      "summary": "スペイン・バルセロナのサグラダ・ファミリア教会で、170メートル超の高さを誇るメインタワー「イエスの塔」が完成し、ローマ教皇レオ14世も参列して記念ミサが行われる予定です。140年以上続いてきた同教会の建設は大きな節目を迎えることになり、地元では歓迎の声が広がっています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260610/k10015145581000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-09T21:36:40+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "71425211",
+      "category": "経済・ビジネス（日本）",
+      "title": "フィリピン沖大地震で37人死亡 4人行方不明 3万人以上が避難",
+      "summary": "フィリピン南部ミンダナオ島沖で発生した大地震から約2日が経過し、37人が死亡、4人が行方不明となっています。被害が特に深刻な地域では3万人以上が避難を余儀なくされており、地震の影響は継続しています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260610/k10015145451000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-09T20:45:53+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "69217570",
+      "category": "経済・ビジネス（日本）",
+      "title": "マレーシア首相 レアアースの加工で日本企業との協力期待",
+      "summary": "来日中のマレーシアのアンワル首相はNHKのインタビューで、マレーシア産のレアアースを国内で加工する際に日本企業との協力を期待していることを表明しました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260610/k10015145511000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-09T20:34:10+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "42472907",
+      "category": "経済・ビジネス（日本）",
+      "title": "LNGなど安定供給 共同声明調整 きょう 日本マレーシア首脳会談",
+      "summary": "高市総理大臣がマレーシアのアンワル首相と首脳会談を行い、中東情勢を背景に、マレーシアからの液化天然ガス（LNG）などのエネルギー資源の安定供給に関する協力を盛り込んだ共同声明の発表に向けて調整を進めている。",
+      "url": "http://www3.nhk.or.jp/news/html/20260610/k10015145521000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-09T20:22:26+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "40642337",
+      "category": "経済・ビジネス（日本）",
+      "title": "中国 習主席が訪朝終え帰国 非核化への言及なしで懸念も",
+      "summary": "中国の習近平国家主席が2日間の北朝鮮訪問を終えて帰国しました。中朝両国は友好関係を強調していますが、金正恩総書記との会談で北朝鮮の核開発問題について協議したかどうかは不明で、中国が核開発を事実上黙認している可能性があると専門家から懸念の声が上がっています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260610/k10015145431000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-09T20:20:25+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "57866821",
+      "category": "経済・ビジネス（日本）",
+      "title": "フィリピン沖大地震で37人死亡 4人行方不明 救助続く",
+      "summary": "フィリピン南部ミンダナオ島近くで発生した大地震により37人が死亡し4人が行方不明となっており、現地では崩れた建物からの救助活動が続いています。専門家はプレート境界の大きなズレにより周辺地域に力が加わっているため、今後も地震が起きやすい状態が続く可能性があり、しばらくは注意が必要だと警告しています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260609/k10015144591000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-09T14:32:27+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "65922412",
       "category": "経済・ビジネス（日本）",
       "title": "G7サミット 首脳宣言とりまとめ見送りの見方強まる",
       "summary": "来週フランスで開催されるG7サミットで、包括的な首脳宣言のとりまとめが見送られるという見方が強まっています。イラン情勢などをめぐってアメリカとヨーロッパ諸国の間に立場の相違があり、各国は意見の対立が表面化することを避けたいと考えているようです。",
@@ -46,87 +116,37 @@
       "lang": "ja"
     },
     {
-      "id": "12368061",
-      "category": "経済・ビジネス（日本）",
-      "title": "米国防総省 中国軍と関わりある企業に百度・アリババなど追加",
-      "summary": "米国防総省が、中国軍との関わりがあるとして百度やアリババグループなどの中国IT企業をリストに追加すると発表しました。これらの企業は今後、米国防総省との取り引きが禁止され、米中間の緊張がさらに高まる可能性があると指摘されています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260609/k10015144781000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-09T10:42:41+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "66318300",
-      "category": "経済・ビジネス（日本）",
-      "title": "中国 習近平国家主席 北朝鮮訪問終え帰国",
-      "summary": "中国の習近平国家主席が7年ぶりに北朝鮮を訪問し、2日間の日程を終えて帰国しました。訪問中に両国は伝統的な友好関係の発展で一致しましたが、北朝鮮の核開発やアメリカとの関係については議論の詳細が明かされていません。",
-      "url": "http://www3.nhk.or.jp/news/html/20260609/k10015145211000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-09T10:41:23+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "45424905",
-      "category": "経済・ビジネス（日本）",
-      "title": "フィリピン沖大地震で37人死亡 4人行方不明 救助続く",
-      "summary": "フィリピン南部ミンダナオ島近くで発生した大地震により37人が死亡し4人が行方不明となっており、現地では崩れた建物からの救助活動が続いています。専門家はプレート境界の大きなズレにより周辺地域に力が加わっているため、今後も地震が起きやすい状態が続く可能性があり、しばらくは注意が必要だと警告しています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260609/k10015144591000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-09T10:25:11+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "11143446",
-      "category": "経済・ビジネス（日本）",
-      "title": "米大統領「あと1、2日で見通しつく」と発言も協議の行方不透明",
-      "summary": "イランとイスラエルが4月の停戦合意以降初めて相互に攻撃を行い、その後双方は攻撃停止を表明しました。トランプ大統領は戦闘終結に向けたイランとの協議が1、2日で見通しがつくと述べて進展を強調していますが、イスラエルのレバノン攻撃に対するイランの強い反発が予想されており、協議の先行きはなお不確実な状況です。",
-      "url": "http://www3.nhk.or.jp/news/html/20260609/k10015144661000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-09T09:29:07+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "73299871",
-      "category": "経済・ビジネス（日本）",
-      "title": "米アップル AIアシスタント機能刷新を発表 開発者会議で",
-      "summary": "アップルは開発者会議でAIアシスタント機能を刷新し、グーグルの生成AIを活用することを発表しました。複数のアプリから情報を取得して質問への回答やメール作成などでユーザーをサポートする機能を提供する予定で、AI機能をめぐる競争が激しくなる中での競争力強化を目指しています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260609/k10015145131000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-09T07:52:09+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "63411940",
-      "category": "経済・ビジネス（日本）",
-      "title": "中国 5月の輸出額 19％余り増加 原油高の影響が今後の焦点",
-      "summary": "中国の5月の輸出額が前年同月比で19％以上増加し、東南アジア向けとアメリカ向けが大きく伸びました。今後は中東情勢に伴う原油価格の上昇が経済に与える影響が注視されています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260609/k10015145101000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-09T05:58:44+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "47775177",
-      "category": "経済・ビジネス（日本）",
-      "title": "【随時更新】ロシア ウクライナに軍事侵攻（6月9日の動き）",
-      "summary": "ロシアによるウクライナへの軍事侵攻が続いており、ウクライナ各地でロシア軍とウクライナ軍の戦闘が継続しています。多くの市民が国外への避難を余儀なくされており、この記事では6月9日の戦闘状況と国際外交の動きについて随時更新されています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260609/k10015128901000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-09T05:53:08+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "73706330",
+      "id": "87651193",
       "category": "経済・ビジネス（世界）",
-      "title": "Final piece of 'iconic' Denby Pottery signed",
-      "summary": "# 日本語翻訳・要約\n\n**タイトル翻訳：** 「象徴的な」デンビー陶磁器の最後の作品に署名\n\n**本文翻訳：** 1809年に創立された同社は、エネルギーと労働コストの上昇により管財人を任命されました。\n\n**3行以内の要約：**\n1809年に創立された象徴的なデンビー陶磁器メーカーが、エネルギーと労働コストの上昇により経営危機に直面し、管財人が任命されました。同社の最後の作品に署名がされることで、長い歴史に幕を閉じることになります。",
-      "url": "https://www.bbc.com/news/articles/cx2vljzw5ego?at_medium=RSS&at_campaign=rss",
+      "title": "World's largest chipmaker does not rule out price rises as costs increase",
+      "summary": "# 翻訳と要約\n\n**タイトル翻訳：** 「世界最大の半導体メーカー、コスト増加に伴う価格上昇を排除しない」\n\n**本文翻訳抜粋：** 「珍しいインタビューの中で、TSMCの上級幹部がAIブームチップの地政学的影響、そして電子機器の価格が意味するところについて語る」\n\n**要約：** 世界最大の半導体メーカーであるTSMCの幹部が、製造コストの上昇を受けて価格値上げの可能性を示唆しました。AIの急速な発展と半導体製造をめぐる地政学的な緊張が、今後の電子機器価格に影響を与える可能性があることが指摘されています。",
+      "url": "https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published_at": "2026-06-09T13:04:34+00:00",
+      "published_at": "2026-06-09T22:00:24+00:00",
       "lang": "en"
     },
     {
-      "id": "77515289",
+      "id": "75362750",
+      "category": "経済・ビジネス（世界）",
+      "title": "Kalshi to make some users reveal job details to tackle insider trading",
+      "summary": "# 翻訳と要約\n\n**タイトル:** カルシ、インサイダー取引対策のため一部ユーザーに職務内容の開示を要求へ\n\n**本文:** 予測ベッティングプラットフォームのカルシは、インサイダー取引の問題に対処するため、新たなルールを追加しています。\n\n**要約:** 予測ベッティングプラットフォームのカルシは、インサイダー取引の問題に対応するため、一部ユーザーに対して職務内容の開示を義務付ける新しいルールを導入することになりました。この措置により、プラットフォームは不正な取引行為を防ぎ、公正性を確保しようとしています。",
+      "url": "https://www.bbc.com/news/articles/cx2vn7wp33po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-06-09T21:51:37+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "70813543",
+      "category": "経済・ビジネス（世界）",
+      "title": "Version of AI tool 'too powerful for public' released to public",
+      "summary": "# 日本語翻訳と要約\n\n**タイトル**: 「一般向けには強力すぎる」とされたAIツールのバージョンが公開される\n\n**本文抜粋**: Claude Fable 5はAnthropicのClaude Mythosのバージョンであり、このAIプログラムはテクノロジー、金融、政府の指導者たちの間で波紋を呼んでいます。\n\n**要約**: Anthropicが開発したAIプログラム「Claude Mythos」の新バージョン「Claude Fable 5」が、一般向けには強力すぎるとされながらも公開されました。このリリースは技術業界や金融、政府の指導者たちから注目を集めています。",
+      "url": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-06-09T18:35:59+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "40487952",
       "category": "経済・ビジネス（世界）",
       "title": "AI giants' race to raise funds heats up as ChatGPT-owner plans stock market debut",
       "summary": "# 翻訳と要約\n\n**タイトル:** AI大手企業の資金調達競争が激化、ChatGPT所有企業が株式上場を計画\n\n**本文:** ChatGPT開発企業が株式上場計画を提出し、この動きはAnthropic社が同様の計画を提出してから1週間後のことである。\n\n**要約:** AI業界の主要企業であるChatGPTの開発元は、競合のAnthropic社に続いて株式上場を目指す計画書を提出しました。このことは、AI企業による資金調達競争が急速に加速していることを示しており、業界全体の急成長と競争の激化を反映しています。",
@@ -136,7 +156,7 @@
       "lang": "en"
     },
     {
-      "id": "42594347",
+      "id": "16619726",
       "category": "経済・ビジネス（世界）",
       "title": "US adds BYD to list of firms with alleged Chinese military ties",
       "summary": "# 翻訳\n\n**タイトル：** 米国、BYDを中国軍との関係疑惑がある企業リストに追加\n\n**本文抜粋：** ペンタゴンのリストは、指定された中国企業との取引に関連するリスクについて、米国企業に警告を発している。\n\n# 要約\n\n米国防総省は電気自動車メーカーの比亜迪（BYD）を中国軍との関連が疑われる企業リストに追加しました。このリストは米国企業に対し、リストに掲載された中国企業との業務提携に伴うリスクについて注意喚起するものです。",
@@ -146,7 +166,7 @@
       "lang": "en"
     },
     {
-      "id": "86146792",
+      "id": "42246882",
       "category": "経済・ビジネス（世界）",
       "title": "SpaceX's stock market blast-off could be Musk's biggest gamble yet",
       "summary": "# 要約\n\nSpaceXが株式公開を準備しており、これはイーロン・マスクにとって最大級のギャンブルとなる可能性があります。この上場がSpaceXだけでなく広く市場全体とマスク個人の資産にも大きな変化をもたらすと予想されています。",
@@ -156,7 +176,7 @@
       "lang": "en"
     },
     {
-      "id": "39409633",
+      "id": "88133672",
       "category": "経済・ビジネス（世界）",
       "title": "Could humanoid robots be heading for the battlefield?",
       "summary": "# 翻訳と要約\n\n**タイトル:** ヒューマノイドロボットは戦場へ向かおうとしているのか？\n\n**本文:** 各国の軍隊はヒューマノイドロボットの実験を進めているものの、実際の戦場配備にはまだ相当な時間がかかる見通しです。現在、複数の武装勢力が軍事用途でのロボット活用を検討していますが、技術的な課題や倫理的な問題など、実運用に向けて解決すべき課題が多く残されている状況です。",
@@ -166,17 +186,7 @@
       "lang": "en"
     },
     {
-      "id": "85342048",
-      "category": "経済・ビジネス（世界）",
-      "title": "How driving test booking is changing for learner drivers",
-      "summary": "# 日本語翻訳と要約\n\n**タイトル：運転免許試験の予約方法が学習者向けドライバーに対して変わる**\n\n**本文抜粋：5月12日より、運転免許試験の予約は教官ではなく、学習者ドライバー本人のみが行うことができるようになります。**\n\n**要約：**\n5月12日から、運転免許試験の予約システムが変更され、教官による代理予約が廃止されます。今後は学習者ドライバー本人のみが試験予約を行うことになり、予約手続きの方法が大きく変わることになります。",
-      "url": "https://www.bbc.com/news/articles/ckgpl9zdw3po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-06-08T23:06:07+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "60185507",
+      "id": "81301026",
       "category": "経済・ビジネス（世界）",
       "title": "Driving test booking rules tightened after thousands of no shows",
       "summary": "# 日本語翻訳と要約\n\n**タイトル**: 無断キャンセル数千件を受け、運転免許試験の予約ルールが厳格化\n\n**本文抜粋**: 学習者ドライバーは、元の予約センターから最も近い3つのセンターにのみ試験を変更できるようになる。\n\n**要約**: 運転免許試験の大量な無断キャンセルを受けて、イギリスの試験予約ルールが厳格化されました。学習者ドライバーは試験の変更先を、元の予約センターから最も近い3つのセンターに限定されることになり、予約の融通性が制限されます。",
@@ -186,97 +196,107 @@
       "lang": "en"
     },
     {
-      "id": "50976588",
-      "category": "経済・ビジネス（世界）",
-      "title": "Widow 'distressed' by firm's nine-month delay to husband's pension",
-      "summary": "# 翻訳と要約\n\n**タイトル:** 夫の年金支給に9ヶ月の遅延をもたらした企業に苦しむ未亡人\n\n**本文:** BBC Scotlandは、アウトソーシング企業Capitaが管理する年金の遅延の影響を受けた人々の証言を報道しました。\n\n**要約:** \nアウトソーシング企業Capitaの年金管理業務の遅延により、複数の利用者が被害を受けている。特にある未亡人は夫の年金支給が9ヶ月も遅れたことで精神的な苦痛を受けており、BBC Scotlandがこうした被害者たちの証言を報道している。",
-      "url": "https://www.bbc.com/news/articles/c1m2mjxz7mmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-06-08T07:01:10+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "24114174",
+      "id": "90122494",
       "category": "テクノロジー・AI",
-      "title": "Sandstone raises $30M to bring AI to in-house legal teams",
-      "summary": "# 翻訳と要約\n\n**タイトル:** サンドストーン、社内法務チームへのAI導入に向けて3,000万ドルを調達\n\n**本文抜粋:** サンドストーンのシリーズAはライトスピード・パートナーズがリードし、セコイアが参加した。\n\n**要約:** AI法務支援企業のサンドストーンがシリーズAラウンドで3,000万ドルの資金調達に成功し、ライトスピード・パートナーズがリード投資家として参画した。この資金は企業の社内法務チームに対するAI技術の導入と提供を推進するために活用される見通しだ。",
-      "url": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
+      "title": "GM joins race to build batteries for AI data centers and the grid",
+      "summary": "# 日本語訳と要約\n\n**タイトル:** GMがAIデータセンターおよび電力網向けバッテリー開発競争に参入\n\n**本文訳:** GMはデータセンターから自社工場まで、あらゆる用途向けの全く新しなナトリウムイオン電池化学を開発しています。\n\n**要約:** GMは、AIデータセンターと電力網向けのバッテリー製造競争に参入し、従来のリチウムイオン電池に代わるナトリウムイオン電池の新しい化学技術を開発している。このバッテリーはデータセンターから工場まで幅広い用途での利用が想定されている。",
+      "url": "https://techcrunch.com/2026/06/09/gm-bets-big-on-energy-storage-for-data-centers-and-the-grid/",
       "source": "TechCrunch",
-      "published_at": "2026-06-09T13:47:25+00:00",
+      "published_at": "2026-06-09T21:00:00+00:00",
       "lang": "en"
     },
     {
-      "id": "30660090",
+      "id": "82917771",
       "category": "テクノロジー・AI",
-      "title": "Apple’s best AI idea looks a lot like vibe coding",
-      "summary": "# 日本語要約\n\nタイトル：Appleの最高のAIアイデアは「バイブコーディング」に見えている\n\nAppleの現在のAIのアイデアのほとんどは、他の企業のAIアイデアと大体同じである。質問に答えてくれるチャットボット、テキスト作成や要約の迅速な方法、そして奇妙でやや不気味な画像生成ツールなどが含まれている。同社はWWDCの基調講演のほとんどの時間をAI技術の最先端に追いつくことに費やし、Siriの機能を発表した。",
-      "url": "https://www.theverge.com/tech/946733/apple-shortcuts-ai-safari-tabs-vibe-code",
+      "title": "GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech",
+      "summary": "# 要約\n\nゼネラルモーターズはサンフランシスコでのイベントで、AI データセンターの急増による電力需要に対処するため、電動車両の双方向充電技術（Vehicle-to-Grid）を活用して電力網の安定化を図ると発表しました。同社は現在のEV利用者と家庭エネルギー顧客向けに新しい双方向充電機能を導入することを明らかにしており、これによりAIの莫大なエネルギー消費をEV車両や蓄電池で補うことを目指しています。この取り組みは電力不足への対応とエネルギー効率化の両面で意義があります。",
+      "url": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion",
       "source": "AI | The Verge",
-      "published_at": "2026-06-09T13:34:48+00:00",
+      "published_at": "2026-06-09T21:00:00+00:00",
       "lang": "en"
     },
     {
-      "id": "50516373",
+      "id": "80541908",
       "category": "テクノロジー・AI",
-      "title": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
-      "summary": "# 訳文と要約\n\n**タイトル翻訳：**\nLovableが年間売上5億ドルを達成し、週に100万の新規プロジェクトが作成されていると発表\n\n**本文翻訳：**\nLovableは現在、年間ランレート売上が5億ドルを超え、ユーザーがビジネスを構築し、社内ソフトウェアを置き換えていると発表しました。\n\n**要約：**\nソフトウェア開発プラットフォームのLovableは、年間売上が5億ドルのランレートに達し、毎週100万件の新規プロジェクトが作成されていることを発表しました。ユーザーはこのプラットフォームを使用して、ビジネスの構築や既存の社内ソフトウェアの置き換えを行っており、同社の急速な成長を示しています。",
-      "url": "https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/",
+      "title": "Hey Siri, here’s what I actually want from AI",
+      "summary": "# 翻訳と要約\n\n**タイトル：「Siriよ、AIに本当に求めることはこれだ」**\n\n**本文抜粋の翻訳：** 「個人用のAIアシスタントを切実に望んでいるが、本当に自分のスマートフォンの親切なロボット音声なしでは機能できない人間になりたいのだろうか？」\n\n**要約：** 著者はAIアシスタントの便利さに魅力を感じながらも、テクノロジーへの過度な依存によって自分の自立性や能力が失われることへの懸念を表明しており、AIとの付き合い方について深く考えている。",
+      "url": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
       "source": "TechCrunch",
-      "published_at": "2026-06-09T13:00:00+00:00",
+      "published_at": "2026-06-09T20:50:17+00:00",
       "lang": "en"
     },
     {
-      "id": "80201008",
+      "id": "80369999",
       "category": "テクノロジー・AI",
-      "title": "Apple’s AI pitch will live or die by its privacy promise",
-      "summary": "# 翻訳と要約\n\n**記事内容：**\n\nアップルのAIピッチは、そのプライバシー約束によって成功するか失敗するかが決まるだろう。予想通り、昨日のWWDCの基調講演はAIについてのものがほとんどだった。同様に予想通り、アップルは遅れての参入を販売ピッチに変えようとしており、AIに急いで取り組まなかったのは正しいやり方をするために時間をかけていたからだと主張している。この場合、「正しい」というのは「他の誰よりもプライバシーを優先する」ことを意味している。これは良いピッチである。\n\n**要約：**\n\nアップルはWWDC基調講演でAI機能を発表しましたが、他社より遅れた参入を、プライバシーを最優先する設計を丁寧に進めてきたためだと正当化しています。アップルのAI戦略の成否は、プライバシー保護というその約束を実際に果たせるかどうかにかかっています。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/946705/apple-private-cloud-compute-ai-siri-intelligence-wwdc",
+      "title": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
+      "summary": "# 日本語翻訳と要約\n\n**タイトル:** Anthropicの「Fable 5」がワンクリックで奇想天外で楽しいビデオゲームを作成可能に\n\n**本文抜粋:** AnthropicのClaude Fable 5はウェブのバイブコーダー（気分重視のプログラマー）の間で大ヒットになるだろう。\n\n**要約:** AnthropicがリリースしたClaude Fable 5は、ボタン一つで独創的で楽しいビデオゲームを簡単に作成できるツールであり、プログラミングの敷居を下げることで、非専門的なコーダーやクリエイターの間で人気を集めることが予想されています。",
+      "url": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-09T20:37:49+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "52931631",
+      "category": "テクノロジー・AI",
+      "title": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
+      "summary": "# 翻訳・要約\n\n**タイトル：** マイクロソフトのAI責任者がAnthropicを批判、Claudeが意識を持つかのように振る舞わせている\n\n**本文要約：** マイクロソフトのAI最高経営責任者ムスタファ・スレイマンは、AIモデルの行動指針である「憲法」の中でClaudeの意識について推測することは「非常に危険」だと主張しています。スレイマンは、このような推測がChatbotを意識を持つかのように振る舞わせてしまう可能性があると指摘しています。",
+      "url": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
       "source": "AI | The Verge",
-      "published_at": "2026-06-09T12:55:33+00:00",
+      "published_at": "2026-06-09T20:24:25+00:00",
       "lang": "en"
     },
     {
-      "id": "89999485",
+      "id": "20366956",
       "category": "テクノロジー・AI",
-      "title": "How an e-scooter founder raised $5 million to build space data centers",
-      "summary": "# 翻訳と要約\n\n**タイトル訳:** 電動スクーター創業者が宇宙データセンター建設に500万ドルを調達した方法\n\n**本文訳:** Orbitalの創業者ユーウィン・プーン氏はSpinで25万台のスクーターを製造した経歴を持つ。現在、彼は1万個の宇宙データセンターの打ち上げを目指している。\n\n**要約:** 電動スクーターメーカー大手のSpinで25万台の製造経験を持つEuwyn Poon氏が、新企業Orbitalで宇宙にデータセンターを構築するプロジェクトに500万ドルの資金調達に成功しました。同氏は宇宙空間に1万個のデータセンター配置を計画しています。",
-      "url": "https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/",
+      "title": "Can tech companies learn to love cheaper AI models?",
+      "summary": "# 翻訳と要約\n\n**タイトル:** テック企業は安価なAIモデルを受け入れることができるか？\n\n**本文抜粋:** もし同じAIの処理負荷が品質に影響を与えずに安価なモデルで対応できるなら、それはAIの経済学における大規模なシフトを意味するだろう。\n\n**要約:** 現在、多くのテック企業は高性能なAIモデルに依存していますが、品質を維持しながらより安価なモデルで同じ処理が可能になれば、AI産業全体の経済構造が大きく変わる可能性があります。こうした転換により、企業のAI運用コストが大幅に削減されることになるでしょう。",
+      "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
       "source": "TechCrunch",
-      "published_at": "2026-06-09T12:00:00+00:00",
+      "published_at": "2026-06-09T18:56:09+00:00",
       "lang": "en"
     },
     {
-      "id": "62562165",
+      "id": "91918020",
       "category": "テクノロジー・AI",
-      "title": "Amazon employees ask Seattle to put the brakes on new data centers",
-      "summary": "# 翻訳と要約\n\n**タイトル:** アマゾン従業員がシアトルに新しいデータセンター建設の一時停止を要請\n\n**本文抜粋:** シアトル市議会が火曜日に、新しいデータセンターの建設を1年間停止する決議案について投票する予定です。これは複数の企業が市内に大規模なデータセンター5か所の建設を提案してからわずか2か月後のことです。この停止案の最も強力な支持者の中には、同市最大のテック企業であるアマゾンの現従業員たちがいます。彼らは証言するために他の人たちと一緒に参加しています。\n\n**要約：** シアトル市議会がデータセンター建設の1年間の一時停止案を投票する予定で、アマゾンの従業員たちがこの案を強く支持しており、複数企業による大規模データセンター建設計画に対抗しています。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/945809/amazon-employees-seattle-data-center-moratorium",
-      "source": "AI | The Verge",
-      "published_at": "2026-06-09T10:00:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "44569254",
-      "category": "テクノロジー・AI",
-      "title": "Evotrex raises $30M to build the RV that doesn’t need a charging station",
-      "summary": "# 翻訳と要約\n\n**タイトル：** Evotrexが充電ステーションが不要なRVを製造するため3,000万ドルを調達\n\n**本文抜粋の翻訳：** このスタートアップはRV市場に参入する多くの企業の一つだが、キャンプ場をはるかに超えた距離まで走行できるハイブリッド電源システムに賭けている。\n\n**要約：** Evotrexというスタートアップが、充電ステーションに頼らずに運用できるハイブリッド動力システムを搭載したRV（キャンピングカー）の開発に向けて3,000万ドルの資金調達に成功しました。同社は既存のRVメーカーとは異なり、より長い走行距離を実現する技術に注力しています。",
-      "url": "https://techcrunch.com/2026/06/09/anker-backed-evotrex-raises-30m-to-build-its-off-grid-rv/",
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+      "summary": "# 日本語要約\n\n**タイトル:** WWDC 2026：Siri AI、iOS 27、Apple Intelligenceなどの発表内容\n\nAppleは長年提供しているSiriアシスタントの改善された体験をアピールしており、他の多くの発表と同様に、大幅なAI機能の強化が含まれています。\n\nAppleは2026年のWWDCでSiriアシスタントの大幅な改善を発表し、iOS 27やApple Intelligenceなどの新機能とともに、AI技術を活用した次世代ユーザー体験の実現を目指していることが明らかになりました。",
+      "url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
       "source": "TechCrunch",
-      "published_at": "2026-06-09T09:00:00+00:00",
+      "published_at": "2026-06-09T18:04:24+00:00",
       "lang": "en"
     },
     {
-      "id": "69093075",
+      "id": "45749127",
       "category": "テクノロジー・AI",
-      "title": "Zepto’s IPO filing reveals fast growth, bigger losses, and a valuation question nobody’s answered yet",
-      "summary": "# 日本語翻訳と要約\n\n**タイトル:** ゼプトのIPO申請書から明らかになった急速な成長、拡大する損失、そしてまだ誰も答えていない評価額の問題\n\n**本文抜粋:** ゼプトの広告収入は151%増と、営業収入の104%成長を大きく上回った。\n\n**要約:**\nゼプトがIPOに向けた申請書を提出し、104%の営業収入成長に加えて広告収入が151%と高い伸びを示す一方で、損失も同時に拡大していることが明らかになりました。同社の急速な成長にもかかわらず、適正な企業評価額についてはまだ決定的な答えが出ていない状況です。",
-      "url": "https://techcrunch.com/2026/06/08/zeptos-ipo-filing-reveals-fast-growth-bigger-losses-and-a-valuation-question-nobodys-answered-yet/",
+      "title": "CISA gives US federal agencies three days to fix a VPN bug under attack by a ransomware gang",
+      "summary": "# 翻訳と要約\n\n米国サイバーセキュリティ・インフラストラクチャセキュリティ庁（CISA）は、ランサムウェア集団による攻撃を受けているVPN脆弱性を、連邦機関が3日以内に修正するよう指示しました。チェックポイント社によると、ハッカーはこの脆弱性を利用して政府機関を含む複数の組織に侵入しており、同社のVPN製品に存在する深刻なセキュリティ欠陥が悪用されています。CISAは政府機関に対して早急な対応を求めており、この脆弱性は現在アクティブに悪用されている状態です。",
+      "url": "https://techcrunch.com/2026/06/09/cisa-gives-us-federal-agencies-three-days-to-fix-a-vpn-bug-under-attack-by-a-ransomware-gang/",
       "source": "TechCrunch",
-      "published_at": "2026-06-09T05:07:17+00:00",
+      "published_at": "2026-06-09T17:40:08+00:00",
       "lang": "en"
     },
     {
-      "id": "63935633",
+      "id": "51203546",
+      "category": "台湾・中台関係",
+      "title": "The AI superpower with no seat at the table",
+      "summary": "# 翻訳と要約\n\n**タイトル:**「テーブルに席を持たないAI大国」\n\n**翻訳:**\n台北は世界的なAI経済の物理的中心地に位置しながらも、その主権的権利が他国によって交渉される外交の場から閉め出されたままである。\n\n**要約:**\n台湾はAI産業の重要な中心地でありながら、国際的な外交交渉の場から除外され、自国の権利について他国による決定に左右されている状況が続いている。",
+      "url": "https://www.abc.net.au/news/2026-06-09/taiwan-artificial-intelligence-china-japan-nvidia/106772162",
+      "source": "ABC News (AU)",
+      "published_at": "2026-06-08T19:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "23729894",
+      "category": "台湾・中台関係",
+      "title": "Beijing’s Military Shadow Looms Large Over Key Taiwan Tech Conference",
+      "summary": "# 日本語訳と要約\n\n**タイトル：北京の軍事的影響が台湾の重要なハイテク会議に大きく影を落とす**\n\n**本文抜粋：中国の航空機と艦船が、島内で大規模なハイテク展示会が開催される中、台湾からの対応を促した。**\n\n**要約：**\n台湾で開催された重要なハイテク関連の国際会議の最中に、中国の軍用機と艦船が台湾周辺に出現し、台湾側がこれに対応する事態が発生しました。この出来事は、地域の緊張関係が経済活動にも影を落としていることを示しています。",
+      "url": "https://dailycaller.com/2026/06/08/beijings-military-shadow-looms-large-over-computex-taipei-conference/",
+      "source": "The Daily Caller",
+      "published_at": "2026-06-08T17:52:07+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "69380438",
       "category": "台湾・中台関係",
       "title": "News24 | Taiwan labels Chinese Coast Guard patrols ‘provocative act’ as tensions escalate",
       "summary": "# 日本語訳と要約\n\n台湾は、中国海警局による台湾東部での巡視活動に対し「挑発的行為」と非難し、台湾の防衛大臣ウェリントン・グー氏は軍と沿岸警備隊が緊密に連携して対応することを明らかにしました。緊張が高まる中、台湾は中国の活動に強く反発する姿勢を示しており、両者間の軍事的対立がさらに激化する可能性を示唆しています。",
@@ -286,7 +306,7 @@
       "lang": "en"
     },
     {
-      "id": "69578630",
+      "id": "33416734",
       "category": "台湾・中台関係",
       "title": "Joint media statement - Australia-Germany 2+2 Ministerial Consultations",
       "summary": "# 日本語訳\n\n**タイトル:** 共同メディア声明 - オーストラリア・ドイツ2+2閣僚協議\n\n**本文抜粋:** オーストラリアとドイツの外交・防衛担当閣僚による第3回安全保障政策協議が、2026年6月8日に閣僚級で開催されました。\n\n# 要約\n\nオーストラリアとドイツが2026年6月8日に外交・防衛閣僚による第3回の安全保障政策協議を開催しました。両国は2+2形式の協議を通じて、安全保障に関する政策について意見交換を行っています。",
@@ -296,7 +316,7 @@
       "lang": "en"
     },
     {
-      "id": "22135261",
+      "id": "72420354",
       "category": "台湾・中台関係",
       "title": "Report: China's maritime outposts could distract Taiwan's allies if Beijing invades",
       "summary": "# 要約\n\n中国が南シナ海に構築した海洋前哨基地は、もし北京が台湾に侵攻した場合、台湾の同盟国の注意を逸らす可能性があるとの報告書が発表されました。専門家は南シナ海での軍事増強が台湾問題と関連していると指摘していますが、実際の戦争が勃発した場合、報告書が描くシナリオが現実化する可能性は低いと考えられています。",
@@ -306,7 +326,7 @@
       "lang": "en"
     },
     {
-      "id": "54894753",
+      "id": "29241010",
       "category": "台湾・中台関係",
       "title": "Revealed: Just how defenceless we would be if Putin DID attack Britain",
       "summary": "# 記事の日本語訳と要約\n\n**タイトル:** 露呈：もしプーチンが英国を攻撃したら、我々がいかに無防備であるか\n\n**本文抜粋:** 何世代にもわたって、英国は今日われわれを脅かしている規模の脅威に直面していない。英国の軍事能力における最大の不足は何か。また、軌道に戻すにはどの程度の費用がかかるのか？\n\n**要約：** 本記事は、ロシアの脅威の高まりに対して英国の軍事力が極めて脆弱であることを指摘し、防衛能力の重大な欠陥を分析しています。軍事態勢の整備と強化に必要な経済的投資の規模について問題提起しています。",
@@ -316,7 +336,7 @@
       "lang": "en"
     },
     {
-      "id": "91207742",
+      "id": "36491392",
       "category": "台湾・中台関係",
       "title": "Taiwan coast guard 'expels' Chinese ships from restricted waters",
       "summary": "# 翻訳・要約\n\n**タイトル:**「台湾沿岸警備隊、中国船を制限水域から『追放』」\n\n台湾の沿岸警備隊は日曜日、同国南部沖の制限水域に侵入した中国政府船4隻を「追放した」と発表しました。両国が互いに厳しい警告を発出した後のことで、緊張がエスカレートしています。中国側の詳細は記事抜粋に記載されていません。\n\n**要約:**\n台湾沿岸警備隊が、南部沖の制限水域に侵入した中国政府船4隻を追放したと発表し、両国間の緊張が高まっています。双方が警告を放送し合った後のこの対立行為は、台湾周辺海域における軍事的対立の継続を示唆しています。",
@@ -326,33 +346,13 @@
       "lang": "en"
     },
     {
-      "id": "44648104",
+      "id": "81502028",
       "category": "台湾・中台関係",
       "title": "[Steven Calabresi] Keep the Blockade of Iran in Place",
       "summary": "# 翻訳と要約\n\n**タイトル：**イランへの経済封鎖を維持すべき\n\n**本文抜粋の翻訳：**\n「イラン政府は実質的な体制転換を経験し、2～4ヶ月以内に無条件降伏する可能性が高い。」\n\n**要約：**\nスティーブン・カラブレジ氏の論説では、イランに対する経済封鎖を継続すべきであり、この措置により短期間（2～4ヶ月）でイランの政権交代と無条件降伏が実現する可能性があると主張しています。この見方は、経済的な圧力がイラン政府に対して決定的な影響を及ぼすと考える立場を反映しています。",
       "url": "https://reason.com/volokh/2026/06/07/keep-the-blockade-of-iran-in-place/",
       "source": "Reason",
       "published_at": "2026-06-07T21:02:19+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "27218606",
-      "category": "台湾・中台関係",
-      "title": "Taiwan expands ban on officials attending China's Straits Forum",
-      "summary": "# 台湾、中国海峡フォーラムへの参加禁止を拡大\n\n台湾の大陸委員会は、今月後半に中国で開催される年次海峡フォーラムへの中央政府職員と地方政府職員の参加を禁止することを発表しました。これまでは中央政府職員のみが対象でしたが、今回は地方政府職員にも禁止令が適用されることになります。",
-      "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260607-cna01.htm",
-      "source": "Globalsecurity.org",
-      "published_at": "2026-06-07T12:00:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "17306700",
-      "category": "台湾・中台関係",
-      "title": "$10,000 in Asia’s Biggest 50 Stocks Became $15,267 in Five Months: Here’s Why",
-      "summary": "# 翻訳と要約\n\n**タイトル**: アジア最大手50銘柄への投資：5ヶ月で1万ドルが1万5267ドルに成長した理由\n\n**本文抜粋**: 2025年最後の取引日にアジア50指数ETF（NYSEARCA:AIA）に投じた1万ドルは、2026年6月3日の取引終了時点で約1万5267ドルの価値になっていた。\n\n**要約**: \n2025年末から2026年上半期にかけて、アジア最大手50企業に投資するETFが著しい上昇を見せ、わずか5ヶ月間で投資額が52パーセント以上増加しました。この急速な成長はアジア経済の堅調な回復と企業利益の改善が主な要因と考えられます。",
-      "url": "https://247wallst.com/investing/2026/06/06/10000-in-asias-biggest-50-stocks-became-15267-in-five-months-heres-why-2/",
-      "source": "24/7 Wall St.",
-      "published_at": "2026-06-06T19:45:02+00:00",
       "lang": "en"
     }
   ]
