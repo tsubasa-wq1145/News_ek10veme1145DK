@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NewsBoard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg:         #0b0e14;
+      --surface:    #111621;
+      --surface2:   #181e2a;
+      --border:     #1f2839;
+      --border2:    #2a3550;
+      --text:       #c8d0e0;
+      --text-dim:   #5a6a88;
+      --text-bright:#e8edf5;
+      --accent:     #3b82f6;
+      --accent2:    #e63946;
+      --up:         #22c55e;
+      --down:       #ef4444;
+      --flat:       #94a3b8;
+      --cat-eco-jp: #3b82f6;
+      --cat-eco-wld:#a855f7;
+      --cat-taiwan: #f59e0b;
+      --cat-tech:   #22d3ee;
+      --mono: 'JetBrains Mono', monospace;
+      --sans: 'Inter', sans-serif;
+    }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--sans);
+      font-size: 14px;
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+    a { color: inherit; text-decoration: none; }
+    a:hover { color: var(--text-bright); }
+    header {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 0 24px;
+      height: 52px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+    .header-left { display: flex; align-items: center; gap: 16px; }
+    .logo { font-family: var(--mono); font-size: 16px; font-weight: 600; color: var(--text-bright); letter-spacing: 0.12em; }
+    .logo span { color: var(--accent); }
+    .updated { font-family: var(--mono); font-size: 11px; color: var(--text-dim); letter-spacing: 0.04em; }
+    .refresh-btn {
+      background: none; border: 1px solid var(--border2); color: var(--text-dim);
+      font-family: var(--mono); font-size: 11px; padding: 4px 10px; border-radius: 4px;
+      cursor: pointer; letter-spacing: 0.04em; transition: color 0.15s, border-color 0.15s;
+    }
+    .refresh-btn:hover { color: var(--text-bright); border-color: var(--accent); }
+    .ticker-wrap {
+      background: var(--surface2); border-bottom: 1px solid var(--border);
+      overflow: hidden; height: 36px; display: flex; align-items: center;
+    }
+    .ticker-label {
+      font-family: var(--mono); font-size: 10px; color: var(--text-dim);
+      letter-spacing: 0.1em; padding: 0 16px; white-space: nowrap; flex-shrink: 0;
+      border-right: 1px solid var(--border); height: 100%; display: flex; align-items: center;
+    }
+    .ticker-scroll { display: flex; gap: 0; animation: ticker-move 30s linear infinite; flex-shrink: 0; }
+    .ticker-wrap:hover .ticker-scroll { animation-play-state: paused; }
+    @keyframes ticker-move { 0% { transform: translateX(0); } 100% { transform: translateX(-50%); } }
+    .ticker-item { display: flex; align-items: center; gap: 10px; padding: 0 28px; border-right: 1px solid var(--border); white-space: nowrap; }
+    .ticker-name { font-family: var(--mono); font-size: 11px; color: var(--text-dim); letter-spacing: 0.06em; }
+    .ticker-price { font-family: var(--mono); font-size: 13px; font-weight: 600; color: var(--text-bright); }
+    .ticker-change { font-family: var(--mono); font-size: 11px; }
+    .ticker-change.up { color: var(--up); }
+    .ticker-change.down { color: var(--down); }
+    .ticker-change.flat { color: var(--flat); }
+    main { max-width: 1280px; margin: 0 auto; padding: 24px 24px 64px; }
+    .tabs { display: flex; gap: 4px; margin-bottom: 20px; flex-wrap: wrap; }
+    .tab-btn {
+      font-family: var(--mono); font-size: 11px; letter-spacing: 0.08em;
+      padding: 6px 14px; border-radius: 4px; border: 1px solid var(--border2);
+      background: none; color: var(--text-dim); cursor: pointer; transition: all 0.15s;
+      display: flex; align-items: center; gap: 7px;
+    }
+    .tab-btn .dot { width: 6px; height: 6px; border-radius: 50%; flex-shrink: 0; }
+    .tab-btn:hover { color: var(--text); border-color: var(--accent); }
+    .tab-btn.active { background: var(--surface2); color: var(--text-bright); border-color: currentColor; }
+    .tab-btn[data-cat="all"] { --dot-color: var(--text-dim); }
+    .tab-btn[data-cat="経済・ビジネス（日本）"] { --dot-color: var(--cat-eco-jp); }
+    .tab-btn[data-cat="経済・ビジネス（世界）"] { --dot-color: var(--cat-eco-wld); }
+    .tab-btn[data-cat="台湾・中台関係"] { --dot-color: var(--cat-taiwan); }
+    .tab-btn[data-cat="テクノロジー・AI"] { --dot-color: var(--cat-tech); }
+    .tab-btn .dot { background: var(--dot-color, var(--text-dim)); }
+    .tab-btn.active { color: var(--dot-color, var(--text-bright)); border-color: var(--dot-color, var(--accent)); }
+    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 12px; }
+    .card {
+      background: var(--surface); border: 1px solid var(--border); border-radius: 6px;
+      padding: 16px 16px 16px 20px; position: relative; transition: border-color 0.15s, background 0.15s;
+      display: flex; flex-direction: column; gap: 8px;
+    }
+    .card::before {
+      content: ''; position: absolute; left: 0; top: 0; bottom: 0;
+      width: 3px; border-radius: 6px 0 0 6px;
+    }
+    .card[data-cat="経済・ビジネス（日本）"]::before { background: var(--cat-eco-jp); }
+    .card[data-cat="経済・ビジネス（世界）"]::before { background: var(--cat-eco-wld); }
+    .card[data-cat="台湾・中台関係"]::before { background: var(--cat-taiwan); }
+    .card[data-cat="テクノロジー・AI"]::before { background: var(--cat-tech); }
+    .card:hover { border-color: var(--border2); background: var(--surface2); }
+    .card-meta { display: flex; align-items: center; gap: 8px; }
+    .card-source { font-family: var(--mono); font-size: 10px; color: var(--text-dim); letter-spacing: 0.06em; }
+    .card-time { font-family: var(--mono); font-size: 10px; color: var(--text-dim); margin-left: auto; }
+    .card-title { font-size: 13px; font-weight: 500; color: var(--text-bright); line-height: 1.5; }
+    .card-title a:hover { color: var(--accent); }
+    .card-summary { font-size: 12px; color: var(--text); line-height: 1.65; opacity: 0.85; }
+    .card-footer { display: flex; align-items: center; justify-content: flex-end; margin-top: 2px; }
+    .card-link {
+      font-family: var(--mono); font-size: 10px; color: var(--text-dim); letter-spacing: 0.04em;
+      padding: 3px 8px; border: 1px solid var(--border2); border-radius: 3px; transition: all 0.12s;
+    }
+    .card-link:hover { color: var(--accent); border-color: var(--accent); }
+    .status-msg { font-family: var(--mono); font-size: 13px; color: var(--text-dim); text-align: center; padding: 64px 0; letter-spacing: 0.06em; }
+    .status-msg.error { color: var(--down); }
+    ::-webkit-scrollbar { width: 6px; height: 6px; }
+    ::-webkit-scrollbar-track { background: var(--bg); }
+    ::-webkit-scrollbar-thumb { background: var(--border2); border-radius: 3px; }
+    @media (max-width: 600px) {
+      header { padding: 0 16px; }
+      main { padding: 16px 16px 48px; }
+      .grid { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+<header>
+  <div class="header-left">
+    <div class="logo">NEWS<span>BOARD</span></div>
+    <div class="updated" id="updated">Loading...</div>
+  </div>
+  <button class="refresh-btn" onclick="loadData()">↺ REFRESH</button>
+</header>
+<div class="ticker-wrap">
+  <div class="ticker-label">MARKET</div>
+  <div id="ticker-inner" style="display:flex; overflow:hidden; flex:1;">
+    <div class="ticker-scroll" id="ticker-scroll"></div>
+    <div class="ticker-scroll" id="ticker-scroll2" aria-hidden="true"></div>
+  </div>
+</div>
+<main>
+  <div class="tabs" id="tabs"></div>
+  <div class="grid" id="grid">
+    <div class="status-msg">Loading news...</div>
+  </div>
+</main>
+<script>
+  const CATEGORIES = [
+    { key: "all", label: "すべて" },
+    { key: "経済・ビジネス（日本）", label: "経済 JP" },
+    { key: "経済・ビジネス（世界）", label: "経済 世界" },
+    { key: "台湾・中台関係", label: "台湾" },
+    { key: "テクノロジー・AI", label: "テック・AI" },
+  ];
+  let allNews = [];
+  let currentCat = "all";
+  async function loadData() {
+    document.getElementById("grid").innerHTML = '<div class="status-msg">Loading...</div>';
+    try {
+      const res = await fetch(`news.json?t=${Date.now()}`);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const data = await res.json();
+      allNews = data.news || [];
+      renderTicker(data.stocks || []);
+      renderTabs();
+      renderCards();
+      const dt = new Date(data.updated_at);
+      const jst = dt.toLocaleString("ja-JP", { timeZone: "Asia/Tokyo", hour12: false });
+      document.getElementById("updated").textContent = `最終更新: ${jst} JST`;
+    } catch (e) {
+      document.getElementById("grid").innerHTML = `<div class="status-msg error">データ取得エラー: ${e.message}<br>news.json が存在するか確認してください。</div>`;
+      document.getElementById("updated").textContent = "更新失敗";
+    }
+  }
+  function renderTicker(stocks) {
+    const html = stocks.map(s => {
+      const price = s.price != null ? s.price.toLocaleString("ja-JP", { maximumFractionDigits: 2 }) : "---";
+      const chg = s.change_pct != null ? (s.change_pct >= 0 ? `+${s.change_pct.toFixed(2)}%` : `${s.change_pct.toFixed(2)}%`) : "";
+      const dir = s.direction || "flat";
+      return `<div class="ticker-item"><span class="ticker-name">${s.name}</span><span class="ticker-price">${price}</span>${chg ? `<span class="ticker-change ${dir}">${chg}</span>` : ""}</div>`;
+    }).join("");
+    document.getElementById("ticker-scroll").innerHTML = html;
+    document.getElementById("ticker-scroll2").innerHTML = html;
+  }
+  function renderTabs() {
+    const tabs = document.getElementById("tabs");
+    tabs.innerHTML = CATEGORIES.map(cat => {
+      const count = cat.key === "all" ? allNews.length : allNews.filter(n => n.category === cat.key).length;
+      const active = currentCat === cat.key ? " active" : "";
+      return `<button class="tab-btn${active}" data-cat="${cat.key}" onclick="setTab('${cat.key}')"><span class="dot"></span>${cat.label}<span style="opacity:.5;font-size:10px;">${count}</span></button>`;
+    }).join("");
+  }
+  function setTab(cat) { currentCat = cat; renderTabs(); renderCards(); }
+  function renderCards() {
+    const grid = document.getElementById("grid");
+    const filtered = currentCat === "all" ? allNews : allNews.filter(n => n.category === currentCat);
+    if (filtered.length === 0) { grid.innerHTML = '<div class="status-msg">ニュースがありません</div>'; return; }
+    grid.innerHTML = filtered.map(n => {
+      const time = formatTime(n.published_at);
+      return `<article class="card" data-cat="${esc(n.category)}"><div class="card-meta"><span class="card-source">${esc(n.source)}</span><span class="card-time">${time}</span></div><div class="card-title"><a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.title)}</a></div><p class="card-summary">${esc(n.summary)}</p><div class="card-footer"><a class="card-link" href="${esc(n.url)}" target="_blank" rel="noopener">元記事 →</a></div></article>`;
+    }).join("");
+  }
+  function formatTime(iso) {
+    if (!iso) return "";
+    try {
+      const d = new Date(iso);
+      return d.toLocaleString("ja-JP", { timeZone: "Asia/Tokyo", month: "numeric", day: "numeric", hour: "2-digit", minute: "2-digit", hour12: false });
+    } catch { return ""; }
+  }
+  function esc(str) {
+    if (!str) return "";
+    return String(str).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&#39;");
+  }
+  loadData();
+</script>
+</body>
+</html>
