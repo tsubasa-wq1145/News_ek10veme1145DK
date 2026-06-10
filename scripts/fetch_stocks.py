@@ -1,39 +1,41 @@
 """
 fetch_stocks.py
-yfinance で株価を取得して stocks.json に保存する
+Stooq API で株価を取得して stocks.json に保存する
+登録不要・APIキー不要
 """
 
 import os
 import json
-import yfinance as yf
+import requests
 from datetime import datetime, timezone
 
 TICKERS = [
-    {"id": "nikkei",  "name": "日経225",  "ticker": "^N225"},
-    {"id": "topix",   "name": "TOPIX",    "ticker": "^TPX"},
-    {"id": "jpx",     "name": "JPX",      "ticker": "8697.T"},
-    {"id": "dow",     "name": "NYダウ",   "ticker": "^DJI"},
-    {"id": "nasdaq",  "name": "NASDAQ",   "ticker": "^IXIC"},
+    {"id": "nikkei",  "name": "日経225",  "symbol": "^nkx"},
+    {"id": "topix",   "name": "TOPIX",    "symbol": "^tpx"},
+    {"id": "jpx",     "name": "JPX",      "symbol": "8697.jp"},
+    {"id": "dow",     "name": "NYダウ",   "symbol": "^dji"},
+    {"id": "nasdaq",  "name": "NASDAQ",   "symbol": "^ndq"},
 ]
 
 
 def fetch_stock(ticker_def):
     try:
-        df = yf.download(
-            ticker_def["ticker"],
-            period="5d",
-            interval="1d",
-            progress=False,
-            auto_adjust=True,
-        )
+        url = f"https://stooq.com/q/l/?s={ticker_def['symbol']}&f=sd2t2ohlcv&h&e=csv"
+        resp = requests.get(url, timeout=10)
+        lines = resp.text.strip().split("\n")
 
-        if df is None or len(df) < 2:
-            raise ValueError("データ不足")
+        if len(lines) < 2:
+            raise ValueError("データなし")
 
-        price = round(float(df["Close"].iloc[-1]), 2)
-        prev_close = round(float(df["Close"].iloc[-2]), 2)
-        change = round(price - prev_close, 2)
-        change_pct = round((change / prev_close) * 100, 2)
+        cols = lines[1].split(",")
+        # 列: Symbol,Date,Time,Open,High,Low,Close,Volume
+        if len(cols) < 7:
+            raise ValueError(f"列数不足: {cols}")
+
+        price = round(float(cols[6]), 2)
+        open_price = round(float(cols[3]), 2)
+        change = round(price - open_price, 2)
+        change_pct = round((change / open_price) * 100, 2) if open_price else 0
 
         return {
             "id": ticker_def["id"],
