@@ -1,6 +1,7 @@
 """
 fetch_stocks.py
-yfinance で株価4指数を取得して stocks.json に保存する
+yfinance で株価を取得して stocks.json に保存する
+市場が閉まっている場合は直近の終値を表示する
 """
 
 import os
@@ -11,6 +12,7 @@ from datetime import datetime, timezone
 TICKERS = [
     {"id": "nikkei",  "name": "日経225",  "ticker": "^N225"},
     {"id": "topix",   "name": "TOPIX",    "ticker": "^TPX"},
+    {"id": "jpx",     "name": "JPX",      "ticker": "8697.T"},
     {"id": "dow",     "name": "NYダウ",   "ticker": "^DJI"},
     {"id": "nasdaq",  "name": "NASDAQ",   "ticker": "^IXIC"},
 ]
@@ -19,10 +21,16 @@ TICKERS = [
 def fetch_stock(ticker_def):
     try:
         t = yf.Ticker(ticker_def["ticker"])
-        info = t.fast_info
 
-        price = round(float(info.last_price), 2)
-        prev_close = round(float(info.previous_close), 2)
+        # 直近5日分の終値履歴を取得
+        # 市場が開いていれば最新値、閉まっていれば直近の終値が末尾に入る
+        hist = t.history(period="5d")
+
+        if hist.empty or len(hist) < 2:
+            raise ValueError("履歴データが取得できません")
+
+        price = round(float(hist["Close"].iloc[-1]), 2)
+        prev_close = round(float(hist["Close"].iloc[-2]), 2)
         change = round(price - prev_close, 2)
         change_pct = round((change / prev_close) * 100, 2)
 
