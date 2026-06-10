@@ -5,6 +5,7 @@ raw_news.json を読み込み、Claude API（Haiku）で要約・日本語訳し
 
 import os
 import json
+import re
 import time
 import anthropic
 from datetime import datetime, timezone
@@ -26,15 +27,38 @@ def build_prompt(article):
     if lang == "ja":
         instruction = (
             "以下のニュース記事を日本語で3行以内に要約してください。\n"
-            "箇条書きや記号は使わず、自然な文章で。\n\n"
+            "出力ルール:\n"
+            "- 要約本文のみを出力する（前置き・見出し・ラベルは一切不要）\n"
+            "- マークダウン記号（#、*、**、-など)は絶対に使わない\n"
+            "- 箇条書きや記号は使わず、自然な文章で書く\n\n"
         )
     else:
         instruction = (
             "以下の英語ニュース記事を日本語に翻訳し、3行以内に要約してください。\n"
-            "箇条書きや記号は使わず、自然な文章で。\n\n"
+            "出力ルール:\n"
+            "- 要約本文のみを出力する（前置き・見出し・「翻訳と要約」などのラベルは一切不要）\n"
+            "- マークダウン記号（#、*、**、-など)は絶対に使わない\n"
+            "- 箇条書きや記号は使わず、自然な文章で書く\n\n"
         )
 
     return instruction + content
+
+
+def clean_summary(text):
+    """マークダウン記号や不要なラベルを除去する保険処理"""
+    # マークダウンの強調・見出し記号を除去
+    text = re.sub(r"\*\*([^*]*)\*\*", r"\1", text)  # **bold**
+    text = re.sub(r"\*([^*]*)\*", r"\1", text)        # *italic*
+    text = re.sub(r"^#+\s*", "", text, flags=re.MULTILINE)  # # 見出し
+    text = re.sub(r"^[-・]\s*", "", text, flags=re.MULTILINE)  # 箇条書き
+    # よくある不要ラベルを除去
+    labels = ["翻訳と要約", "タイトル翻訳", "本文翻訳", "本文抜粋", "要約", "タイトル"]
+    for label in labels:
+        text = text.replace(f"{label}：", "").replace(f"{label}:", "")
+    # 連続する空白・改行を整理
+    text = re.sub(r"\n+", " ", text)
+    text = re.sub(r"\s+", " ", text)
+    return text.strip()
 
 
 def summarize_article(article):
@@ -46,10 +70,10 @@ def summarize_article(article):
             messages=[{"role": "user", "content": prompt}],
         )
         summary = message.content[0].text.strip()
-        return summary
+        return clean_summary(summary)
     except Exception as e:
         print(f"[SUMMARIZE ERROR] {article.get('title', '')[:40]}: {e}")
-        return article.get("description", "")[:200]
+        return clean_summary(article.get("description", "")[:200])
 
 
 def main():
