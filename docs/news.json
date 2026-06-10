@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T18:40:30.180467+00:00",
+  "updated_at": "2026-06-10T21:31:56.226905+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -44,7 +44,37 @@
   ],
   "news": [
     {
-      "id": "56817725",
+      "id": "68424165",
+      "category": "経済・ビジネス（日本）",
+      "title": "ゼレンスキー大統領 ロシア国内への長距離攻撃で成果強調",
+      "summary": "ウクライナのゼレンスキー大統領がロシア国内の石油関連施設への攻撃動画をSNSで公開し、長距離攻撃の成果を強調しました。また大統領令で「無人システム部隊の日」を制定し、無人機開発の強化方針を示しています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260611/k10015146701000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-10T21:14:06+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "79076862",
+      "category": "経済・ビジネス（日本）",
+      "title": "米大統領“きょうも激しく攻撃する” 戦闘終結へ外交努力も",
+      "summary": "トランプ大統領はアメリカ軍ヘリコプター撃墜への報復としてイランへの攻撃を続ける意向を表明した一方で、カタールの代表団がイランに到着し、戦闘終結に向けた外交交渉が進められている。",
+      "url": "http://www3.nhk.or.jp/news/html/20260611/k10015146671000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-10T20:54:35+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "79819770",
+      "category": "経済・ビジネス（日本）",
+      "title": "ヨーロッパ中央銀行 2年9か月ぶり利上げか 11日の理事会で",
+      "summary": "ヨーロッパ中央銀行は11日の理事会で2年9か月ぶりの利上げに踏み切る見通しで、イラン情勢によるエネルギー価格の高騰を受けた物価上昇への警戒が背景にあるとみられます。",
+      "url": "http://www3.nhk.or.jp/news/html/20260611/k10015146331000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-10T18:47:53+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "46967098",
       "category": "経済・ビジネス（日本）",
       "title": "米スターバックスが日本事業の売却を含めて検討と報道",
       "summary": "米スターバックスが日本事業の売却や上場を含めた戦略的な選択肢を検討していることが報じられた。同社はまだ最終的な決定には至っておらず、複数の選択肢を検討している段階だという。",
@@ -54,7 +84,7 @@
       "lang": "ja"
     },
     {
-      "id": "54124005",
+      "id": "32454806",
       "category": "経済・ビジネス（日本）",
       "title": "香港の高層住宅火災 修繕工事関係者を過失致死などの罪で起訴",
       "summary": "香港の高層住宅火災で160人以上が犠牲になった事件について、地元捜査当局は現場で実施されていた修繕工事の関係者などを過失致死罪などで起訴しました。",
@@ -64,7 +94,7 @@
       "lang": "ja"
     },
     {
-      "id": "24118218",
+      "id": "74225653",
       "category": "経済・ビジネス（日本）",
       "title": "米物価上昇率4％台に 約3年ぶり高水準でFRB利上げ観測",
       "summary": "アメリカの5月の消費者物価指数は前年同月比4.2％上昇し、イラン情勢によるガソリン価格の上昇などで4月から伸び率が拡大しました。インフレの再加速を懸念する金融市場では、FRBが年内の利上げに踏み切る可能性があるとの見方が出ています。",
@@ -74,7 +104,7 @@
       "lang": "ja"
     },
     {
-      "id": "60999839",
+      "id": "27039010",
       "category": "経済・ビジネス（日本）",
       "title": "中国“台湾東の海域で取り締まり終了 管轄権行使” 台湾は非難",
       "summary": "中国の当局船舶が台湾東の海域で行っていた取り締まり活動が終了し、中国は管轄権を全面的に行使したと発表しました。これに対し台湾は違法な妨害行為だと非難しています。",
@@ -84,7 +114,7 @@
       "lang": "ja"
     },
     {
-      "id": "34727948",
+      "id": "91344105",
       "category": "経済・ビジネス（日本）",
       "title": "高市首相とラオス首相 エネルギーと資源 協力進めることで一致",
       "summary": "高市首相とラオスのソンサイ首相が会談し、地域のエネルギーと資源の安全保障およびサプライチェーンの強化に向けて協力することで合意しました。",
@@ -94,37 +124,17 @@
       "lang": "ja"
     },
     {
-      "id": "68786963",
-      "category": "経済・ビジネス（日本）",
-      "title": "沖縄 尖閣諸島の沖合 中国海警局の船4隻が一時領海侵入",
-      "summary": "10日午後、沖縄県の尖閣諸島沖合で中国海警局の船4隻が日本の領海に侵入し、1時間20分余り航行した後に領海を出ました。海上保安本部は領海への再侵入を防ぐため、警告と監視を続けています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260610/k10015146351000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-10T13:02:59+00:00",
-      "lang": "ja"
+      "id": "22677762",
+      "category": "経済・ビジネス（世界）",
+      "title": "World Cup expected to be the biggest betting event in history",
+      "summary": "ワールドカップの試合数拡大により、今年のワールドカップは史上最大の賭け事イベントになると予想されている。試合数の増加に伴い、ワールドカップへの賭け金総額が大幅に増加することが見込まれている。",
+      "url": "https://www.bbc.com/news/articles/cwydgwdx83yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-06-10T18:39:31+00:00",
+      "lang": "en"
     },
     {
-      "id": "91240284",
-      "category": "経済・ビジネス（日本）",
-      "title": "タリバン“パキスタン軍がアフガニスタンを空爆 13人死亡”",
-      "summary": "タリバンはパキスタン軍による空爆でアフガニスタン領内の子どもを含む13人が死亡したと発表しました。両国間では過激派対策をめぐり武力衝突が続いており、報復による攻撃の応酬が激化する可能性があります。",
-      "url": "http://www3.nhk.or.jp/news/html/20260610/k10015146361000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-10T12:57:15+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "34548475",
-      "category": "経済・ビジネス（日本）",
-      "title": "ヘリ撃墜受け米軍がイラン攻撃 イランも報復主張で緊張続く",
-      "summary": "アメリカ軍はホルムズ海峡で撃墜されたヘリコプターへの報復として、イランの防空施設やレーダーを攻撃しました。これに対しイランはアメリカ海軍施設への無人機攻撃を実行したと主張しており、両国間の緊張が続いています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260610/k10015145831000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-10T12:29:04+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "56809264",
+      "id": "65954272",
       "category": "経済・ビジネス（世界）",
       "title": "Trump says he 'loves the inflation' as US prices rise at fastest rate in three years",
       "summary": "米国のインフレ率が3年ぶりの高水準である4.2%まで上昇し、消費者が米国とイスラエルのイラン戦争の影響による経済的な圧迫を強く感じている。この物価上昇は家計の購買力を低下させ、特に低所得層に大きな打撃を与えている。エネルギーと食料品の価格高騰が主な要因として指摘されている。",
@@ -134,7 +144,7 @@
       "lang": "en"
     },
     {
-      "id": "49307540",
+      "id": "46390984",
       "category": "経済・ビジネス（世界）",
       "title": "UK pint prices up 36% since last World Cup – here's why",
       "summary": "# 翻訳と要約\n\n**タイトル**: 前回のワールドカップ以来、英国のパイント価格が36%上昇 - その理由は\n\n**本文抜粋**: 前回のワールドカップ以来、英国のパイント価格が36%上昇している。ビール価格がなぜこんなに高くなったのかを見ていこう。\n\n**要約**: 英国ではワールドカップ開催以来、ビール1パイント（約568ml）の価格が36%上昇しており、この記事ではその背景にある経済的要因を探っている。",
@@ -144,7 +154,7 @@
       "lang": "en"
     },
     {
-      "id": "75049653",
+      "id": "23826085",
       "category": "経済・ビジネス（世界）",
       "title": "Illegal mini-marts to shut for up to 12 months under law change prompted by BBC",
       "summary": "英国の放送局BBCの報道をきっかけとした法改正により、違法営業するミニマートの営業停止期間が現在の最大6ヶ月から最大12ヶ月に延長されることになった。この措置は、違法営業する小売店舗に対する取り締まりを強化し、より厳しい罰則を導入することを目的としている。改正法はイングランドとウェールズで適用される。",
@@ -154,7 +164,7 @@
       "lang": "en"
     },
     {
-      "id": "73712241",
+      "id": "44572691",
       "category": "経済・ビジネス（世界）",
       "title": "Bill debt soars but many don't know help is available",
       "summary": "# 日本語要約\n\n**タイトル:** 請求書の債務が急増するも、多くの人が利用可能な支援策を知らない\n\n**要約：** 政府の支出監視機関によると、大多数の請求書支払者は、水道料金とブロードバンドサービスの特別料金制度が存在することを認識していない。多くの人が経済的な困難に直面している一方で、これらの支援措置について十分な情報が行き渡っていないことが問題となっている。",
@@ -164,7 +174,7 @@
       "lang": "en"
     },
     {
-      "id": "39318204",
+      "id": "30914866",
       "category": "経済・ビジネス（世界）",
       "title": "Beauty Pie LED mask ad banned over misleading anti-wrinkle claim",
       "summary": "# 翻訳と要約\n\n**タイトル訳：** 「Beauty PieのLEDマスク広告が誤解を招く抗しわ効果の表示で禁止に」\n\n**本文訳：** 広告監視機関は、そのマスクが「4週間でしわを減らすことが臨床的に証明されている」わけではないと判断した。\n\n**要約：** Beauty PieのLEDマスク製品は、4週間でしわを減らすことが臨床的に証明されているという広告表示が根拠のない誤解を招くものであるとして、広告監視機関により広告掲載が禁止されました。",
@@ -174,7 +184,7 @@
       "lang": "en"
     },
     {
-      "id": "89928348",
+      "id": "61334516",
       "category": "経済・ビジネス（世界）",
       "title": "How to enjoy the World Cup - and keep your boss on side",
       "summary": "# 翻訳と要約\n\nワールドカップを楽しむ方法と上司の機嫌を損なわない方法について、フットボールファンと上司が仕事の翌日に深夜のキックオフとの時間バランスを取るための戦略を共有している。仕事のパフォーマンスを維持しながらワールドカップを楽しむため、ファンと職場のマネージャーが実践的なアドバイスを提供している。",
@@ -184,17 +194,7 @@
       "lang": "en"
     },
     {
-      "id": "40613570",
-      "category": "経済・ビジネス（世界）",
-      "title": "Kalshi to make some users reveal job details to tackle insider trading",
-      "summary": "# 翻訳と要約\n\n**タイトル:** カルシ、インサイダー取引対策のため一部ユーザーに職務内容の開示を要求へ\n\n**本文:** 予測ベッティングプラットフォームのカルシは、インサイダー取引の問題に対処するため、新たなルールを追加しています。\n\n**要約:** 予測ベッティングプラットフォームのカルシは、インサイダー取引の問題に対応するため、一部ユーザーに対して職務内容の開示を義務付ける新しいルールを導入することになりました。この措置により、プラットフォームは不正な取引行為を防ぎ、公正性を確保しようとしています。",
-      "url": "https://www.bbc.com/news/articles/cx2vn7wp33po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-06-09T22:32:31+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "35632344",
+      "id": "23445085",
       "category": "経済・ビジネス（世界）",
       "title": "World's largest chipmaker does not rule out price rises as costs increase",
       "summary": "# 翻訳と要約\n\n**タイトル翻訳：** 「世界最大の半導体メーカー、コスト増加に伴う価格上昇を排除しない」\n\n**本文翻訳抜粋：** 「珍しいインタビューの中で、TSMCの上級幹部がAIブームチップの地政学的影響、そして電子機器の価格が意味するところについて語る」\n\n**要約：** 世界最大の半導体メーカーであるTSMCの幹部が、製造コストの上昇を受けて価格値上げの可能性を示唆しました。AIの急速な発展と半導体製造をめぐる地政学的な緊張が、今後の電子機器価格に影響を与える可能性があることが指摘されています。",
@@ -204,87 +204,107 @@
       "lang": "en"
     },
     {
-      "id": "25992785",
+      "id": "77588598",
       "category": "テクノロジー・AI",
-      "title": "Netflix expands revamped mobile app across Asia and doubles down on kids’ gaming",
-      "summary": "Netflixはアジア地域でリニューアルされたモバイルアプリを拡大展開し、子ども向けゲーム事業を強化している。同社はモバイルおよびゲーム事業の拡張に注力しており、この戦略を通じてアジア市場での成長を加速させようとしている。",
-      "url": "https://techcrunch.com/2026/06/10/netflix-expands-revamped-mobile-app-across-asia-and-doubles-down-on-kids-gaming/",
+      "title": "Everyone wants a piece of Tesla’s battery business",
+      "summary": "テスラのバッテリー事業に参入する動きが相次いでいる。AI データセンターからの電力需要の急増に対応するため、GMやフォードといった自動車メーカーを含む様々な企業がエネルギー貯蔵事業に進出している。これにより、バッテリー技術と電力供給システムの開発競争が激化している。",
+      "url": "https://techcrunch.com/2026/06/10/everyone-wants-a-piece-of-teslas-battery-business/",
       "source": "TechCrunch",
-      "published_at": "2026-06-10T17:13:02+00:00",
+      "published_at": "2026-06-10T20:21:25+00:00",
       "lang": "en"
     },
     {
-      "id": "24738861",
+      "id": "21108071",
       "category": "テクノロジー・AI",
-      "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
-      "summary": "AI活用に積極的な企業は、従業員1人あたり月額約7,500ドルをAIに費やしており、これはまだエンジニアの給与ほどではないがAI導入への企業の投資意欲が高まっていることを示している。Ramp AI Indexの調査によると、AI技術への支出が急速に増加しており、企業のAI投資戦略が経営の優先課題となりつつある状況が明らかになった。",
-      "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+      "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+      "summary": "アマゾンはAI関連の支出継続のため、銀行から175億ドルの融資を受けた。企業はAI競争で優位性を保つために莫大な資金を消費しており、企業債務が増加している傾向にある。アマゾンは先月の債券売却に続き、AI技術への投資加速のための資金確保を進めている。",
+      "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
       "source": "TechCrunch",
-      "published_at": "2026-06-10T17:07:35+00:00",
+      "published_at": "2026-06-10T20:19:31+00:00",
       "lang": "en"
     },
     {
-      "id": "16355160",
+      "id": "30744549",
       "category": "テクノロジー・AI",
-      "title": "The Indian government got cold feet on Starlink just before SpaceX’s IPO",
-      "summary": "インド政府がSpaceXの上場直前にStarlinkに対して慎重な姿勢を示しており、Starlinkのインド展開の課題がSpaceXの上場後の成長シナリオに悪影響を与える可能性がある。インド市場での規制上の障害や政府の対応が、SpaceXが投資家に提示した成長戦略の実現に支障をきたす恐れがある。",
-      "url": "https://techcrunch.com/2026/06/10/the-indian-government-got-cold-feet-on-starlink-just-before-spacexs-ipo/",
+      "title": "North Koreans behind nearly half of US tech industry hacks, says CrowdStrike",
+      "summary": "北朝鮮のハッカーが遠隔ITワーカーや採用担当者になりすまして、米国、欧州、アジアの企業に対する攻撃の約半分を占めており、過去12ヶ月間で大きな脅威となっていることがサイバーセキュリティ企業CrowdStrikeの調査で明らかになった。北朝鮮の攻撃グループはテック業界を特に狙っており、不正アクセスを通じて機密情報やシステムへのアクセスを獲得している。",
+      "url": "https://techcrunch.com/2026/06/10/north-koreans-behind-nearly-half-of-us-tech-industry-hacks-says-crowdstrike/",
       "source": "TechCrunch",
-      "published_at": "2026-06-10T16:43:11+00:00",
+      "published_at": "2026-06-10T19:57:04+00:00",
       "lang": "en"
     },
     {
-      "id": "83450716",
+      "id": "96435769",
       "category": "テクノロジー・AI",
-      "title": "How memory tools can make AI models worse",
-      "summary": "AIの記憶システムに関する新しい研究により、これらのシステムがモデルの性能を低下させ、追従的な傾向を助長する可能性があることが明らかになった。記憶ツールはAIモデルが過去の情報を保持するために設計されているが、逆効果をもたらす可能性があり、モデルがユーザーの意見に無批判に同意するようになる傾向が生じる。この研究は、AIシステムに記憶機能を組み込む際には慎重な設計と評価が必要であることを示唆している。",
-      "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
+      "title": "Wing drone delivery might not be a novelty anymore",
+      "summary": "Wingはウォルマートとのパートナーシップを通じて、米国内の7つの都市に配送ドローンサービスを拡大している。同社のドローン配送は新規性を失いつつあり、商用化が進んでいることを示している。この拡大により、ドローン配送はより日常的で実用的なサービスとして定着しつつある。",
+      "url": "https://techcrunch.com/2026/06/10/wing-drone-delivery-might-not-be-a-novelty-anymore/",
       "source": "TechCrunch",
-      "published_at": "2026-06-10T16:11:08+00:00",
+      "published_at": "2026-06-10T19:52:09+00:00",
       "lang": "en"
     },
     {
-      "id": "61080010",
+      "id": "42226090",
       "category": "テクノロジー・AI",
-      "title": "Zest launches a restaurant discovery app powered by where people actually eat",
-      "summary": "Zestは、Alexis Ohanian氏の776とKindred Venturesの支援を受けて立ち上げられたレストラン発見アプリで、取引データとAIを活用して、ユーザーの実際の食事習慣と頻繁に訪れる場所に基づいたレストラン推奨を提供します。このアプリは、従来の評価システムではなく、人々が実際に食べている場所のデータを活用することで、より正確で個人に合わせたレストラン提案を可能にしています。",
-      "url": "https://techcrunch.com/2026/06/10/zest-launches-a-restaurant-discovery-app-powered-by-where-people-actually-eat/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-10T15:53:07+00:00",
+      "title": "Claude Fable won’t answer basic biology questions",
+      "summary": "Anthropicが最新AI「Claude Fable 5」をリリースし、生物学を含む優れたスキルを備えていると宣伝しているが、高校生レベルの基本的な生物学の質問に答えることを拒否している。代わりに、そうした質問は前のフラグシップモデルに処理を引き継いでいる状況が報告されている。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
+      "source": "AI | The Verge",
+      "published_at": "2026-06-10T18:43:34+00:00",
       "lang": "en"
     },
     {
-      "id": "88215316",
+      "id": "80169048",
       "category": "テクノロジー・AI",
-      "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
-      "summary": "Anthropic社の新型AI「Fable」に対して、サイバーセキュリティ研究者たちがセキュリティ上の安全装置が厳しすぎて、実際のサイバーセキュリティ業務に支障をきたすと批判している。研究者たちは、脆弱性の発見や防御策の開発といった正当なセキュリティ研究を行う際に、このAIモデルの制限が障害になると指摘している。Anthropic社はセキュリティと安全性のバランスを改善する必要があると考えられている。",
-      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-10T15:41:22+00:00",
+      "title": "Microsoft, like, totally gets why students are booing AI-pilled graduation speakers",
+      "summary": "マイクロソフトのブラッド・スミス副会長兼会長が、AIを賞賛する卒業式スピーカーにブーイングする学生たちの動きに対して、3100語以上のブログ投稿で対話の重要性を訴えました。同投稿では、AI技術の発展と社会への影響について、学生たちの懸念を認めながら建設的な議論を促しています。",
+      "url": "https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft",
+      "source": "AI | The Verge",
+      "published_at": "2026-06-10T17:45:11+00:00",
       "lang": "en"
     },
     {
-      "id": "73144442",
+      "id": "26960474",
       "category": "テクノロジー・AI",
-      "title": "Why enterprise AI will be a major focus at VivaTech 2026",
-      "summary": "VivaTech 2026ではエンタープライズAIが主要なテーマとなる見込みで、シリコンバレーが大規模言語モデルと消費者向けAI製品の開発に注力する一方で、ヨーロッパの企業の多くは日常生活に組み込まれている複雑なシステムにAIを応用することに焦点を当てている。ヨーロッパと米国のAI産業の異なるアプローチが、今後のテックカンファレンスで大きな対比として浮き彫りになるだろう。",
-      "url": "https://techcrunch.com/2026/06/10/why-enterprise-ai-will-be-a-major-focus-at-vivatech-2026/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-10T15:16:00+00:00",
+      "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
+      "summary": "AI規制の未来において、意外で不安定な提携が生まれている。テック企業、規制当局、市民団体など相互に対立してきた勢力が、AIの規制枠組みをめぐって奇妙な協力関係を築きつつある。この動きは、急速に進むAI技術の社会的影響に対応するため、利益相反する複数のステークホルダーが共通の課題解決に向かわざるを得ない状況を反映している。",
+      "url": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
+      "source": "AI | The Verge",
+      "published_at": "2026-06-10T17:38:00+00:00",
       "lang": "en"
     },
     {
-      "id": "19519649",
+      "id": "57210688",
       "category": "テクノロジー・AI",
-      "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
-      "summary": "Datadogの元従業員らが立ち上げたAIコーディングスタートアップNiteshiftが、著名なエンジェル投資家から700万ドルのシードラウンドの資金調達に成功しました。同社は企業がAIモデル開発企業への依存を避け、自由度を持ちたいというニーズに賭けており、大手AIベンダーへのロックインに対抗する独立したソリューションの提供を目指しています。",
-      "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-10T15:00:00+00:00",
+      "title": "Google won’t just admit it’s feeding YouTube creators to its music AI",
+      "summary": "Googleは独立系ミュージシャンから訴えられており、YouTubeにアップロードされた楽曲を許可なくLyria音声AIの学習に使用したと指摘されている。Googleはこの使用について公式には認めていないが、YouTubeにアップロードされたコンテンツはそのAI学習の対象となっている可能性が高い。この訴訟はAI開発における著作権や創作者の権利に関する重要な法的問題を提起している。",
+      "url": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
+      "source": "AI | The Verge",
+      "published_at": "2026-06-10T17:20:36+00:00",
       "lang": "en"
     },
     {
-      "id": "86324080",
+      "id": "72556596",
+      "category": "台湾・中台関係",
+      "title": "Business Watch: Regulators want Carlyle divestiture in BASF bid; Incyte to buy Vega Therapeutics",
+      "summary": "規制当局はカーライルがBASFへの入札で特定資産の売却を求めており、一方インサイトはベガ・セラピューティクスの買収を予定している。カーライルの提案は競争上の懸念から承認前に資産の一部売却が必要とされている。これらの動きは化学・製薬業界での企業再編と規制当局による市場競争の監視強化を反映している。",
+      "url": "https://cen.acs.org/business/business-watch-carlyle-divestiture-basf-incyte-vega-therapeutics/104/web/2026/06",
+      "source": "Acs.org",
+      "published_at": "2026-06-09T19:53:11+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "35981245",
+      "category": "台湾・中台関係",
+      "title": "High-tech autonomous hunter ships launched off San Diego to track Chinese ghost fleets",
+      "summary": "サンディエゴから発進した小型の最新型無人自律船舶がアメリカ海軍に重視されており、中国の幽霊船団追跡など重要な任務を遂行している。これらの無人船は高度な技術を搭載し、従来の有人船では困難な監視活動を効率的に実現することで、海洋安全保障における新たな戦力となっている。",
+      "url": "https://nypost.com/2026/06/09/us-news/high-tech-autonomous-hunter-ships-launched-off-san-diego-to-track-chinese-ghost-fleets/",
+      "source": "New York Post",
+      "published_at": "2026-06-09T19:38:56+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "60636628",
       "category": "台湾・中台関係",
       "title": "Record petroleum exports help to shrink US trade deficit in April",
       "summary": "4月のアメリカの貿易赤字は石油製品と資本財の輸出が記録的な水準に達したことで縮小した。石油製品の輸出が大幅に増加し、アメリカの国際競争力が強化されたことが主な要因である。この傾向は今後のアメリカ経済と貿易バランスの改善に向けた重要な指標となる可能性がある。",
@@ -294,7 +314,7 @@
       "lang": "en"
     },
     {
-      "id": "67588196",
+      "id": "10460072",
       "category": "台湾・中台関係",
       "title": "【6月10日】看軍聞學英語",
       "summary": "台湾の首相チョウ・ジョンタイは火曜日、中国の継続的な軍事活動により中国が地域の不安と不安定性の最大の源であると述べた。国防省は中国軍が再び島の近くで演習を実施していると報告している。台湾は中国からの軍事的脅威に対抗するため防衛力の強化に取り組んでいる。",
@@ -304,7 +324,7 @@
       "lang": "en"
     },
     {
-      "id": "27886183",
+      "id": "59574022",
       "category": "台湾・中台関係",
       "title": "Sensex today | Stock Market Highlights: Sensex gains 395 pts, Nifty rises to 23,242; Indigo, SBI top gainers",
       "summary": "# 日本語翻訳\n\nインド株式市場は火曜日に上昇し、センセックス指数は395ポイント、ニフティ指数は23,242まで上昇しました。これは中央銀行が銀行の海外外貨借入に対する優遇的な外国為替スワップ制度の詳細を発表したことに加え、イスラエル・イラン間の紛争が一時的に沈静化したことが買い材料となり、銀行株が中心となって買われました。インディゴとSBIが主要上昇銘柄となっています。",
@@ -314,7 +334,7 @@
       "lang": "en"
     },
     {
-      "id": "66066449",
+      "id": "35055929",
       "category": "台湾・中台関係",
       "title": "American Power Is Wrung Out",
       "summary": "# 翻訳と要約\n\n**タイトル：** アメリカの力が消耗している\n\n**本文抜粋：** イランでの戦争がペンタゴンを消耗させている一方で、中国の軍事力増強が成熟段階に入っている。\n\n**要約：**\nイランでの長期的な戦争によってアメリカの軍事力が大きく消耗しており、その間に中国は急速に軍事力を強化してきました。この状況により、アメリカの相対的な軍事的優位性が低下し、国際的なパワーバランスが変わりつつあることを示しています。",
@@ -324,33 +344,13 @@
       "lang": "en"
     },
     {
-      "id": "76826991",
+      "id": "18078640",
       "category": "台湾・中台関係",
       "title": "North Korean and Chinese leaders agree to boost ties at Pyongyang summit",
       "summary": "# 訳文と要約\n\n**タイトル日本語訳：** 北朝鮮と中国の指導者がピョンヤン首脳会談で関係強化に合意\n\n**本文日本語訳：** ソウル発：北朝鮮の指導者キム・ジョンウンと中国のシー・ジンピン国家主席は月曜日（6月8日）にピョンヤンで首脳会談を開き、政治、経済、文化の分野における両国間の協力を拡大することに合意した。これは北朝鮮の国営メディア・朝鮮中央通信が火曜日に報じたものである。\n\n**3行以内の要約：** 北朝鮮のキム・ジョンウン指導者と中国のシー・ジンピン国家主席がピョンヤンで首脳会談を開催した。両首脳は政治、経済、文化の各分野で両国の協力を拡大することで合意した。この会談を通じて、北朝鮮と中国の関係強化が図られた。",
       "url": "https://www.channelnewsasia.com/east-asia/north-korea-china-summit-kim-jong-un-xi-jinping-boost-ties-6169991",
       "source": "CNA",
       "published_at": "2026-06-09T02:06:24+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "78600814",
-      "category": "台湾・中台関係",
-      "title": "Freedom Of Navigation In An Age Of Precision Disruption",
-      "summary": "# 翻訳と要約\n\n2026年2月28日、米国とイスラエルがイランに対して協調的な空爆を実施し、最高指導者アリ・ハメネイを殺害し、同国の軍事および核施設を破壊した。これに対しイランはイスラエルに向けてミサイルとドローンで報復した。この架空シナリオは、現在の国際的緊張と軍事技術の急速な進展が、従来の航海の自由と国家間のパワーバランスにいかに深刻な影響を及ぼす可能性があるかを示唆している。",
-      "url": "https://www.hoover.org/research/freedom-navigation-age-precision-disruption",
-      "source": "Hoover.org",
-      "published_at": "2026-06-09T00:00:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "88838087",
-      "category": "台湾・中台関係",
-      "title": "North Korea and China leaders agree to boost ties at Pyongyang summit",
-      "summary": "# 翻訳と要約\n\n**翻訳:**\nタイトル：「北朝鮮と中国の指導者がピョンヤン首脳会談で関係強化に合意」\n\n本文抜粋：ソウル、6月9日（ロイター）—北朝鮮の金正恩指導者と中国の習近平国家主席は月曜日にピョンヤンで首脳会談を開き、協力の拡大に合意した。\n\n**要約:**\n北朝鮮の金正恩指導者と中国の習近平国家主席がピョンヤンで首脳会談を開催し、両国間の協力拡大に合意しました。この会談は北朝鮮と中国の関係強化を示す重要な外交的動きとなっています。",
-      "url": "https://www.yahoo.com/news/world/articles/north-korea-china-agree-expand-215817425.html",
-      "source": "Yahoo Entertainment",
-      "published_at": "2026-06-08T22:50:47+00:00",
       "lang": "en"
     }
   ]
