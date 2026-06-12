@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T14:18:17.132777+00:00",
+  "updated_at": "2026-06-12T17:44:37.677581+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -44,17 +44,17 @@
   ],
   "news": [
     {
-      "id": "40631583",
+      "id": "40467132",
       "category": "経済・ビジネス（日本）",
       "title": "「スペースX」が上場 調達資金 約12兆円は過去最大規模",
       "summary": "イーロン・マスク氏が率いるスペースXが米ナスダック市場に上場し、約750億ドル（約12兆円）の資金を調達しました。これは過去最大規模の調達となり、調達した資金は宇宙やAI関連のインフラ整備に活用される予定です。",
       "url": "http://www3.nhk.or.jp/news/html/20260612/k10015148891000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-06-12T14:06:03+00:00",
+      "published_at": "2026-06-12T15:19:26+00:00",
       "lang": "ja"
     },
     {
-      "id": "48566985",
+      "id": "75426305",
       "category": "経済・ビジネス（日本）",
       "title": "日中友好団体が代表団の訪中を延期に 会長の河野洋平氏死去で",
       "summary": "日本国際貿易促進協会は、先月亡くなった会長・河野洋平氏の死去に伴い、今月下旬に予定していた中国への代表団訪問を延期することを決めた。日中関係悪化後の友好団体による初めての訪中であり、要人との会談が注目されていた。",
@@ -64,7 +64,7 @@
       "lang": "ja"
     },
     {
-      "id": "67639833",
+      "id": "45851097",
       "category": "経済・ビジネス（日本）",
       "title": "茂木外相 タイ外相と会談 エネルギー分野など協力で一致",
       "summary": "茂木外務大臣がタイを訪問中のシーハサック外相と会談し、エネルギーや資源のサプライチェーン強化に向けた協力で合意した。",
@@ -74,7 +74,7 @@
       "lang": "ja"
     },
     {
-      "id": "11989148",
+      "id": "47704204",
       "category": "経済・ビジネス（日本）",
       "title": "米トランプ政権 Ｗ杯会場周辺に移民当局職員派遣へ 反発も",
       "summary": "アメリカで開幕したサッカーワールドカップ北中米大会について、トランプ政権が治安対策としてICE移民税関捜査局の職員をW杯会場周辺に派遣する方針を示している。ロサンゼルス郊外のスタジアムでは、この措置に反発する従業員らがストライキも辞さない構えを見せている。",
@@ -84,7 +84,7 @@
       "lang": "ja"
     },
     {
-      "id": "91301226",
+      "id": "86273827",
       "category": "経済・ビジネス（日本）",
       "title": "米メディアが覚書の内容伝える イラン“最終結論至らず”",
       "summary": "トランプ大統領はイラン指導部との協議が最高レベルで承認されたことを受けて、予定していたイランへの攻撃を中止したとSNSで発表しました。",
@@ -94,7 +94,7 @@
       "lang": "ja"
     },
     {
-      "id": "20175337",
+      "id": "88951384",
       "category": "経済・ビジネス（日本）",
       "title": "天皇皇后両陛下 13日からオランダ・ベルギーを公式訪問",
       "summary": "天皇皇后両陛下は国際親善を目的として13日からオランダとベルギーを公式訪問されます。",
@@ -104,7 +104,7 @@
       "lang": "ja"
     },
     {
-      "id": "51248223",
+      "id": "43107092",
       "category": "経済・ビジネス（日本）",
       "title": "インド旅客機墜落事故から1年 遺族「事故原因の早期究明を」",
       "summary": "インド西部で1年前に発生した旅客機墜落事故で260人が死亡しましたが、航空当局による原因究明がいまだに完了していません。遺族は事故原因の早期解明と再発防止策の実施を強く求めています。",
@@ -114,7 +114,7 @@
       "lang": "ja"
     },
     {
-      "id": "66513456",
+      "id": "18119719",
       "category": "経済・ビジネス（日本）",
       "title": "【随時更新】ロシア ウクライナに軍事侵攻（6月12日の動き）",
       "summary": "ロシアによるウクライナへの軍事侵攻が継続し、各地でロシア軍とウクライナ軍の戦闘が続いている中、多くの市民が国外への避難を余儀なくされている状況が報告されている。",
@@ -124,7 +124,7 @@
       "lang": "ja"
     },
     {
-      "id": "16899999",
+      "id": "77653105",
       "category": "経済・ビジネス（世界）",
       "title": "Elon Musk's SpaceX raises $75bn ahead of world's biggest stock market launch",
       "summary": "SpaceXが近日実施する過去最大規模の株式売却を控えて、同社の企業価値が約1.8兆ドルに評価されました。この株式売却によってイーロン・マスクは世界初の兆万長者となる見通しです。SpaceXの急速な成長と宇宙産業での重要性が評価額に反映されています。",
@@ -134,7 +134,7 @@
       "lang": "en"
     },
     {
-      "id": "71710649",
+      "id": "28886772",
       "category": "経済・ビジネス（世界）",
       "title": "UK signals it may block payout to British Steel owner",
       "summary": "英国政府は中国企業ジンイェが保有する英国鉄鋼企業の国有化を決定したため、同企業が求めている補償金の支払いをブロックする可能性を示唆している。ジンイェは国有化に対する損害賠償を求めており、英国政府はこの支払いに応じない方針を検討している。この決定は英国の鉄鋼産業の再生と国家安全保障のバランスをめぐる政策判断の一環となっている。",
@@ -144,7 +144,7 @@
       "lang": "en"
     },
     {
-      "id": "28829761",
+      "id": "40911456",
       "category": "経済・ビジネス（世界）",
       "title": "UK economy contracts as Iran war impact felt",
       "summary": "イランとの戦争の影響が企業活動に及び始めたため、4月の英国経済は微かに縮小した。公式データによると、この経済収縮はイラン情勢の緊迫化に伴う不確実性の増加が企業マインドに悪影響を与えたことが原因と考えられる。戦争リスクの高まりにより、ビジネス投資や消費活動が慎重になったことが経済成長の足を引っ張っている。",
@@ -154,7 +154,7 @@
       "lang": "en"
     },
     {
-      "id": "61723315",
+      "id": "90275011",
       "category": "経済・ビジネス（世界）",
       "title": "Watch: Three things to know about SpaceX's stock market debut",
       "summary": "SpaceXが上場する歴史的なIPOについて、BBC記者のサミラ・フセイン氏が解説する動画記事である。SpaceXは民間宇宙企業として初めて株式公開市場へ進出し、これは宇宙産業における重要なマイルストーンとなっている。IPOに関する重要な3つのポイントについて詳しく説明されており、投資家や宇宙産業の動向に関心のある視聴者に向けた情報提供となっている。",
@@ -164,7 +164,7 @@
       "lang": "en"
     },
     {
-      "id": "70257036",
+      "id": "84582021",
       "category": "経済・ビジネス（世界）",
       "title": "Why the economics make this the craziest World Cup ever",
       "summary": "2026年ワールドカップは、貿易戦争やチケット価格の高騰など、経済面で前例のないほど複雑な状況にある。この大会は、急速に変化するグローバル経済の実態を浮き彫りにしており、従来のワールドカップとは大きく異なる経済的課題に直面している。",
@@ -174,7 +174,7 @@
       "lang": "en"
     },
     {
-      "id": "84344371",
+      "id": "53489841",
       "category": "経済・ビジネス（世界）",
       "title": "India's 'blue gold' starts a new drinks industry",
       "summary": "インドに自生するアガベ植物を利用した新しい蒸留酒産業が始まっています。新興の蒸留業者たちがこの「青い金」と呼ばれるアガベを使って、スピリッツ飲料の製造を開始しており、インドの飲料業界に新たな動きをもたらしています。この取り組みはインド国内の農業資源を活用した産業創出の例となっています。",
@@ -184,7 +184,7 @@
       "lang": "en"
     },
     {
-      "id": "57235470",
+      "id": "55374082",
       "category": "経済・ビジネス（世界）",
       "title": "My friends always want to split the bill equally, how do I say no?",
       "summary": "飲食代を均等に割勘することを友人が提案してきた場合、それに異議を唱えるのは難しい状況についての記事である。記事では、自分が食べた分だけを払いたい場合や、経済状況が異なる友人との食事で均等割りに納得できない場合に、どのように丁寧に断るかについての対処法を扱っている。友人との関係を損なわずに、自分の希望を伝えるコミュニケーションスキルが重要であることが述べられている。",
@@ -194,7 +194,7 @@
       "lang": "en"
     },
     {
-      "id": "85084499",
+      "id": "71779405",
       "category": "経済・ビジネス（世界）",
       "title": "Ryanair investigated over charging parents to sit with children",
       "summary": "英国の競争規制当局がライアンエアに対して、親が子どもの隣に座るための料金徴収について調査を開始した。同航空会社は家族連れの乗客に対して追加料金を請求することで、不公正な商慣行を行っている可能性があるとして問題視されている。この調査は消費者保護と公正な競争環境の維持を目的としている。",
@@ -204,87 +204,117 @@
       "lang": "en"
     },
     {
-      "id": "86810944",
+      "id": "43426287",
       "category": "テクノロジー・AI",
       "title": "SpaceX IPO: Everything you need to know",
       "summary": "SpaceXは上場を目指しており、TechCrunchはその初期段階から現在の成功までの過程を追跡してきた。本記事では、IPOによって利益を得る可能性のある関係者、上場前の取引、およびS-1登録書に含まれる重要な情報についての包括的なカバレッジを提供する。",
       "url": "https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/",
       "source": "TechCrunch",
-      "published_at": "2026-06-12T14:08:54+00:00",
+      "published_at": "2026-06-12T17:41:21+00:00",
       "lang": "en"
     },
     {
-      "id": "10105697",
+      "id": "91404598",
       "category": "テクノロジー・AI",
-      "title": "Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’",
-      "summary": "ジェフ・ベゾス氏がアマゾン創業者として新設したAIスタートアップ「Prometheus」は、物理製品の設計を支援するAI駆動型エンジニアリングツールの開発を目指しており、最終的には「人工汎用エンジニア」の構築を目標としている。このプロジェクトは昨年11月に報道されたが、最近になって新たな進展が報告された。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
+      "title": "Mistral is rumored to be raising €3B at €20 valuation",
+      "summary": "フランスのAI企業Mistralが約30億ユーロの資金調達を計画しており、企業価値は約200億ユーロ（約231億5000万ドル）に達すると見られている。これは昨年のシリーズC資金調達時の117億ユーロからほぼ2倍の増加となり、同社の急速な成長を示している。",
+      "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-12T17:38:11+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "59327568",
+      "category": "テクノロジー・AI",
+      "title": "Google sues alleged Chinese cybercrime operation that used AI to send scam texts",
+      "summary": "グーグルが、AI技術を使用して詐欺的なテキストメッセージを送信していた「Outsider Enterprise」と呼ばれる中国系サイバー犯罪グループに対して訴訟を起こしました。このグループは2週間の間に250万件のテキストメッセージを送信し、数十万人の被害者を詐欺にかけていたとのことです。",
+      "url": "https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-12T17:26:08+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "10623590",
+      "category": "テクノロジー・AI",
+      "title": "Siri is good now??",
+      "summary": "Appleが新しいバージョンのSiriをリリースし、これまで十年以上にわたって「役に立つこともあるが不安定」という評価だったSiriが、ついに大きく改善されたことが話題になっている。これまでタイマー設定すら満足にできないほど評判の悪かったSiriだが、今回の更新で実用的なアシスタントへと進化したとされている。",
+      "url": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
       "source": "AI | The Verge",
-      "published_at": "2026-06-12T14:03:39+00:00",
+      "published_at": "2026-06-12T17:17:04+00:00",
       "lang": "en"
     },
     {
-      "id": "68234403",
+      "id": "32845508",
       "category": "テクノロジー・AI",
-      "title": "US surveillance law to expire for first time after lawmakers reject Trump’s controversial pick to lead spy agencies",
-      "summary": "米国の監視法「セクション702」は金曜日に初めて失効する見通しとなった。この法律はNSAとFBIに令状なしの監視を認めていた。トランプ前大統領の物議を醸す情報機関トップ候補人事を議員らが拒否したことで、法律の更新が阻止された。",
-      "url": "https://techcrunch.com/2026/06/12/us-spy-law-to-expire-for-first-time-after-lawmakers-reject-trumps-controversial-pick-to-lead-spy-agencies/",
+      "title": "Robinhood sees ‘record-breaking’ traffic after SpaceX stock debuts",
+      "summary": "ロビンフッドはスペースXの株式公開後に記録破りのアクセス数を経験し、一部の顧客が断続的な不具合を経験したが現在は解決したと発表した。取引プラットフォームは高い需要に対応できたものの、システムに一時的な負荷がかかったことが明らかになった。",
+      "url": "https://techcrunch.com/2026/06/12/robinhood-sees-record-breaking-traffic-after-spacex-stock-debuts/",
       "source": "TechCrunch",
-      "published_at": "2026-06-12T11:43:32+00:00",
+      "published_at": "2026-06-12T17:05:06+00:00",
       "lang": "en"
     },
     {
-      "id": "78006987",
+      "id": "29815926",
       "category": "テクノロジー・AI",
-      "title": "Siri won’t be your AI girlfriend",
-      "summary": "Appleの新しいSiriは、OpenAIやGoogleなどが開発したチャットボットのような過度にへつらう振る舞いをしないよう設計されている。Appleの幹部Craig Federighiは、Siriが適切なタイミングで沈黙することを意図的に組み込んだと述べ、ユーザーのAIガールフレンド化を避けることを強調した。",
-      "url": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+      "title": "Elon Musk is the world&#8217;s first trillionaire",
+      "summary": "イーロン・マスクがSpaceXのIPO後に純資産が1兆ドルを超え、世界初の兆万長者となった。SpaceX IPO前の約8000億ドルから増加した純資産には、SpaceXの48億株の価値とテスラなど他企業からの資産が含まれている。SpaceXの株式は150ドルで公開され、その後も高値を維持している。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo",
       "source": "AI | The Verge",
-      "published_at": "2026-06-12T07:00:31+00:00",
+      "published_at": "2026-06-12T16:24:39+00:00",
       "lang": "en"
     },
     {
-      "id": "68278050",
+      "id": "20626361",
       "category": "テクノロジー・AI",
-      "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
-      "summary": "インドのAvataar AIが開発したビデオAIモデルは、1秒あたり0.005ドルという低価格で提供され、インドの大規模市場向けに最適化されている。このモデルは従来のビデオ生成AIよりも高速かつ文化的に適応しており、インド市場での利用を想定した設計となっている。低コストと処理速度の向上により、インドを含む新興市場でのビデオコンテンツ生成の普及が加速する可能性がある。",
-      "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+      "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
+      "summary": "AI企業の急速な成長により、IPO市場は新たな段階を迎えており、かつてのFAANG銘柄に代わってMetaやMicrosoft、Anthropic、Nvidia、Google、OpenAI、SpaceXを指すMANGOSという新しい概念が台頭している。これらの企業の約半数が同時期に上場を予定しており、投資家の評価基準や企業価値評価に対して大きな試験となっている。",
+      "url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
       "source": "TechCrunch",
-      "published_at": "2026-06-12T04:30:00+00:00",
+      "published_at": "2026-06-12T16:23:25+00:00",
       "lang": "en"
     },
     {
-      "id": "15252112",
+      "id": "49031931",
       "category": "テクノロジー・AI",
-      "title": "Equal AI raises $30M to screen calls so Indians don’t have to",
-      "summary": "インドを拠点とするEqual AIは、ユーザーが受信電話をAIが自動スクリーニングするサービスに3000万ドルを調達し、月間アクティブユーザーが100万人を超えたと発表した。このAI通話アシスタントは、インド市場での迷惑電話問題に対応するため、ユーザーの代わりに電話を受けて対応することで、通話スクリーニングの手間を削減することを目的としている。",
-      "url": "https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/",
+      "title": "Elon Musk becomes the world’s first trillionaire after SpaceX’s historic IPO",
+      "summary": "イーロン・マスクがSpaceXの歴史的なIPOを経て、世界初の1兆ドル超の資産を持つ人物となった。今回のIPOによってマスクのペーパーウェルスは1兆ドルを超え、彼がこれまで以上に批判を受けながらも権力を強化している局面での達成となっている。",
+      "url": "https://techcrunch.com/2026/06/12/elon-musk-becomes-the-worlds-first-trillionaire-after-spacexs-historic-ipo/",
       "source": "TechCrunch",
-      "published_at": "2026-06-12T04:30:00+00:00",
+      "published_at": "2026-06-12T15:55:06+00:00",
       "lang": "en"
     },
     {
-      "id": "79759301",
-      "category": "テクノロジー・AI",
-      "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
-      "summary": "Theker社は8500万ドルの資金調達を完了し、特定の用途に特化しない汎用性の高い工場用ロボットの開発を進めている。ボストン・ダイナミクスのような固定形状のヒューマノイドロボットとは異なり、Thekerのロボットは様々な作業に対応できるよう再構成可能な設計になっている。この柔軟性により、製造業における多様な自動化ニーズに対応できるプラットフォームを実現しようとしている。",
-      "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-12T01:48:07+00:00",
+      "id": "42714486",
+      "category": "台湾・中台関係",
+      "title": "Taiwan opposition leader says Xi meeting avoided 'reunification' talk",
+      "summary": "台湾野党指導者は中国の習近平主席との会談で「統一」についての議論を避けたとコメントした。この発言は台湾が米国からの140億ドル規模の武器供与パッケージの承認を待つ中でなされたもので、米国の台湾防衛に対する長期的なコミットメントの不確実性が続いている。",
+      "url": "https://www.npr.org/2026/06/11/g-s1-127478/taiwan-opposition-leader-says-xi-meeting-avoided-reunification-talk",
+      "source": "NPR",
+      "published_at": "2026-06-11T16:53:25+00:00",
       "lang": "en"
     },
     {
-      "id": "32921667",
-      "category": "テクノロジー・AI",
-      "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
-      "summary": "ジェフ・ベゾスが出資するPrometheusが120億ドルの資金調達に成功し、企業評価額は410億ドルに達した。同社は物理世界向けの人工汎用エンジニアの開発を目指す物理AI企業で、重工学やドラッグデザインの自動化を目標としている。この資金調達は、物理的な業務を自動化する次世代AIの開発競争が加速していることを示している。",
-      "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-12T01:04:38+00:00",
+      "id": "24594577",
+      "category": "台湾・中台関係",
+      "title": "How Taiwan is balancing between American and Chinese visions of energy dominance",
+      "summary": "台湾はエネルギー供給の安定性とコスト効率のバランスを取るため、米国と中国の相対する戦略的利益の間で難しい判断を迫られている。ほとんどの国にとってのエネルギー戦略の目標は、手頃な価格で、外部からの遮断やたかり行為を受けない供給システムの確保である。台湾は地政学的な緊張の中で、自国のエネルギー安全保障と経済的ニーズの両立を目指している。",
+      "url": "https://theconversation.com/how-taiwan-is-balancing-between-american-and-chinese-visions-of-energy-dominance-284701",
+      "source": "The Conversation Africa",
+      "published_at": "2026-06-11T15:44:38+00:00",
       "lang": "en"
     },
     {
-      "id": "10056641",
+      "id": "53256453",
+      "category": "台湾・中台関係",
+      "title": "Washington’s Asian Allies Need a Backup Plan",
+      "summary": "米国の信頼性の低下に伴い、アジアの同盟国は米国への依存だけでなく、独立した防衛戦略の構築が必要となっている。従来は米国の安全保障傘に頼ってきたアジア太平洋地域の各国が、地域の安定と自国の利益を守るため、多角的な外交と防衛体制の強化を検討し始めている。米国の政治的変動や政策の予測不可能性が増す中で、アジア諸国は戦略的な再構築を迫られており、バックアッププランの準備が急務となっている。",
+      "url": "http://foreignpolicy.com/2026/06/11/trump-asia-strategy-rethink/",
+      "source": "Foreign Policy",
+      "published_at": "2026-06-11T14:57:44+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "78072582",
       "category": "台湾・中台関係",
       "title": "How Drone Warfare Is Rewiring Geopolitics and Rewriting the Age of Superpowers",
       "summary": "ドローン技術の急速な進化により、従来の軍事力による国際秩序が大きく変わりつつある。衛星やステルス爆撃機など高度な技術を保有する超大国が圧倒的優位を持つという1991年以来の戦争観は、より低コストで運用可能なドローン兵器の登場によって過去のものになりつつある。結果として、技術格差が縮小し、地政学的な力関係が再編成される新たな時代が到来している。",
@@ -294,7 +324,7 @@
       "lang": "en"
     },
     {
-      "id": "83804263",
+      "id": "38014572",
       "category": "台湾・中台関係",
       "title": "Links 6/11/2026",
       "summary": "イランでの戦争の再燃、モスクワでの自動車爆弾事件、台湾の中国方向へのHIMARS発射実験、米国のミサイル供給に対する懸念の高まりなど、世界的な緊張が深まっている。イランとの軍事衝突が激化し、ロシア国内ではテロ行為が相次ぎ、台湾は防衛能力の強化を進める一方で、米国からの兵器供給体制に対する不安が増加している。中東から東アジアにかけて地政学的リスクが急速に高まっている状況が報告されている。",
@@ -304,7 +334,7 @@
       "lang": "en"
     },
     {
-      "id": "39296092",
+      "id": "81671267",
       "category": "台湾・中台関係",
       "title": "The Chain of Peace: Do Supply Chain Chokepoints Deter War?",
       "summary": "オランダのASML社が製造する極紫外線リソグラフィシステムなど、現代の供給チェーンの重要な依存関係が、従来の軍事抑止力と同様に戦争を抑止する可能性があることを論じた記事である。台湾をめぐる紛争も、航空母艦や核兵器よりも、半導体製造に必要な特定の機器の供給不足によって抑止されるかもしれないという指摘は、グローバル化した経済システムが国家間紛争に新たな抑止メカニズムをもたらしていることを示唆している。このように経済的相互依存が地政学的緊張を緩和し得るという議論は、現代の国際関係における経済的要因の重要性を浮き彫りにしている。",
@@ -314,7 +344,7 @@
       "lang": "en"
     },
     {
-      "id": "65233190",
+      "id": "82579371",
       "category": "台湾・中台関係",
       "title": "North Korea, China claim wins from Xi visit, but limits remain",
       "summary": "中国の習近平国家主席が北朝鮮を訪問し、両国は重大な成果を主張しました。この訪問は金正恩北朝鮮指導者の国際的地位を高め、平壌と北京の関係をさらに深めましたが、具体的な協力の拡大には限界が見られています。両国は協力関係の強化について議論しましたが、経済支援や安全保障面での実質的な進展は限定的なものに止まっています。",
@@ -324,43 +354,13 @@
       "lang": "en"
     },
     {
-      "id": "19695425",
+      "id": "62482560",
       "category": "台湾・中台関係",
       "title": "World markets walk a tightrope between AI stocks and oil shocks",
       "summary": "世界の株式市場はAI関連株の好況とイラン情勢による石油ショックのリスクの間で綱渡りを続けており、投資家はテクノロジー、金利、石油間の相関関係による不確実性の中で注意深く対応している。市場の展開はアメリカの経済政策決定や地政学的な緊張の推移に大きく左右される状況にある。",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/world-markets-walk-a-tightrope-between-ai-stocks-and-oil-shocks/articleshow/131650053.cms",
       "source": "The Times of India",
       "published_at": "2026-06-11T05:25:26+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "71485445",
-      "category": "台湾・中台関係",
-      "title": "How could Taiwan change AI chip exports to China? #world",
-      "summary": "台湾はAIチップの対中国輸出規制を強化することを検討しており、先進的なハードウェアの密輸に対して刑事罰を含む可能性のある措置を導入しようとしている。台湾の政策立案者たちはこれらの規制ルールを検討中であり、対中国の技術流出防止をさらに厳しくする方針を進めている。",
-      "url": "https://alltoc.com/world/how-could-taiwan-change-ai-chip-exports-to-china",
-      "source": "Alltoc.com",
-      "published_at": "2026-06-11T00:04:21+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "74697771",
-      "category": "台湾・中台関係",
-      "title": "Taiwan deploys American-made Altius-600 drones against maritime targets during drills",
-      "summary": "台湾は米国製のAltius-600無人機を用いた軍事演習を実施し、海上目標に対する攻撃能力を実証した。この動きは、台湾が使い捨て可能な移動式防衛システムへの戦略的シフトを示すもので、地域の緊張の高まりと世界経済への潜在的な影響を反映している。",
-      "url": "https://cryptobriefing.com/taiwan-altius-600-drone-maritime-drills/",
-      "source": "Crypto Briefing",
-      "published_at": "2026-06-10T22:19:18+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "39785540",
-      "category": "台湾・中台関係",
-      "title": "Joint Statement from UK and Australia on the Australia-UK Ministerial Consultations: 10 June 2026",
-      "summary": "2026年6月10日、イギリスとオーストラリアの外交・防衛担当閣僚が会談を開催し、両国の安全保障協力と地域の安定強化について協議した。この会談ではインド太平洋地域での連携強化と防衛面での協力拡大が主要議題となった。両国は戦略的パートナーシップを深め、共通の課題に対応することを確認した。",
-      "url": "https://www.gov.uk/government/news/joint-statement-from-uk-and-australia-on-the-australia-uk-ministerial-consultations-10-june-2026",
-      "source": "Www.gov.uk",
-      "published_at": "2026-06-10T19:25:38+00:00",
       "lang": "en"
     }
   ]
