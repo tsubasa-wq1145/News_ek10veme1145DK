@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T20:57:30.750564+00:00",
+  "updated_at": "2026-06-13T09:47:18.656122+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -44,7 +44,77 @@
   ],
   "news": [
     {
-      "id": "32997789",
+      "id": "26862706",
+      "category": "経済・ビジネス（日本）",
+      "title": "アンソロピック 最新AIモデルの提供を停止 米政府の命令受け",
+      "summary": "AI企業アンソロピックが米政府の命令を受け、ソフトウェアの脆弱性発見能力に優れたAIモデル「クロード・ミュトス5」の提供をすべての顧客に対して停止することを発表しました。国家安全保障上の理由から、外国人によるこのモデルへのアクセスを禁止する措置です。",
+      "url": "http://www3.nhk.or.jp/news/html/20260613/k10015149041000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-13T09:00:08+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "34381245",
+      "category": "経済・ビジネス（日本）",
+      "title": "高市首相 G7サミットなどへ出発 “G7連携し課題対応を主導”",
+      "summary": "高市総理大臣がフランスで開催されるG7サミットに出席するため羽田空港を出発し、G7が連携して国際社会の課題対応を主導していく姿勢を示したいという考えを強調しました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260613/k10015149091000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-13T06:21:31+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "12822493",
+      "category": "経済・ビジネス（日本）",
+      "title": "パラマウントによるワーナー買収 アメリカ司法省が承認",
+      "summary": "アメリカ司法省がパラマウント・スカイダンスによるワーナー・ブラザース・ディスカバリー買収を承認しました。司法省は消費者に対する有害性が低いと判断した結果です。",
+      "url": "http://www3.nhk.or.jp/news/html/20260613/k10015149191000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-13T05:23:03+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "79855688",
+      "category": "経済・ビジネス（日本）",
+      "title": "「スペースX」が上場 調達資金 約12兆円は過去最大規模",
+      "summary": "イーロン・マスク氏が率いるスペースXが米ナスダック市場に上場し、約750億ドル（約12兆円）の資金を調達しました。これは過去最大規模の調達となり、調達した資金は宇宙やAI関連のインフラ整備に活用される予定です。",
+      "url": "http://www3.nhk.or.jp/news/html/20260612/k10015148891000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-13T04:39:02+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "86290243",
+      "category": "経済・ビジネス（日本）",
+      "title": "サッカーW杯 盛り上がりの陰で 厳しい入国管理措置の影響が",
+      "summary": "サッカーワールドカップがアメリカ、カナダ、メキシコの3か国で開幕し盛り上がっている一方で、アメリカが試合関係者の入国を拒否するという異例の事態が発生している。この厳しい入国管理措置は大会の運営に影響を与えており、国際的な課題となっている。",
+      "url": "http://www3.nhk.or.jp/news/html/20260613/k10015149061000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-13T03:03:25+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "63213099",
+      "category": "経済・ビジネス（日本）",
+      "title": "“FIFA公式ショップは高額” NY市独自のW杯記念シャツに行列",
+      "summary": "ニューヨークのマムダニ市長が地元業者に依頼したワールドカップ記念シャツが販売され、FIFA公式ショップの高額な商品よりも手頃な価格であることが人気を集めています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260613/k10015149001000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-13T00:24:51+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "78464660",
+      "category": "経済・ビジネス（日本）",
+      "title": "米・イラン覚書“数日中に署名の可能性”双方が言及",
+      "summary": "アメリカとイランの戦闘終結に向けた協議において、トランプ政権高官は今後数日中に覚書署名の見通しを示し、イラン外相も数日以内の実現の可能性を述べた。覚書の内容について最終調整が進展しており、両国の合意実現が焦点となっている。",
+      "url": "http://www3.nhk.or.jp/news/html/20260613/k10015148801000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-12T22:55:40+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "11345850",
       "category": "経済・ビジネス（日本）",
       "title": "“ロシア軍の兵士の死者数 22万人以上” BBCなどの調査報道",
       "summary": "BBCなどの調査報道によると、ロシアによるウクライナへの軍事侵攻でこれまでに確認されたロシア軍兵士の死者は22万人以上に達しており、実際の死者数はさらに多く50万人に上る可能性があると報じられています。",
@@ -54,87 +124,17 @@
       "lang": "ja"
     },
     {
-      "id": "62405939",
-      "category": "経済・ビジネス（日本）",
-      "title": "高市首相 重要鉱物「共同備蓄連携構想」提案へ G7サミット",
-      "summary": "高市総理大臣はG7サミットで、レアアースなどの重要鉱物について各国が備蓄する制度の導入を支援し、各国間の連携を図る「共同備蓄連携構想」を提案する予定である。",
-      "url": "http://www3.nhk.or.jp/news/html/20260613/k10015148781000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-12T20:32:13+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "48388531",
-      "category": "経済・ビジネス（日本）",
-      "title": "「スペースX」が上場 調達資金 約12兆円は過去最大規模",
-      "summary": "イーロン・マスク氏が率いるスペースXが米ナスダック市場に上場し、約750億ドル（約12兆円）の資金を調達しました。これは過去最大規模の調達となり、調達した資金は宇宙やAI関連のインフラ整備に活用される予定です。",
-      "url": "http://www3.nhk.or.jp/news/html/20260612/k10015148891000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-12T19:37:17+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "28051662",
-      "category": "経済・ビジネス（日本）",
-      "title": "日中友好団体が代表団の訪中を延期に 会長の河野洋平氏死去で",
-      "summary": "日本国際貿易促進協会は、先月亡くなった会長・河野洋平氏の死去に伴い、今月下旬に予定していた中国への代表団訪問を延期することを決めた。日中関係悪化後の友好団体による初めての訪中であり、要人との会談が注目されていた。",
-      "url": "http://www3.nhk.or.jp/news/html/20260612/k10015148871000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-12T11:45:21+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "48062311",
-      "category": "経済・ビジネス（日本）",
-      "title": "茂木外相 タイ外相と会談 エネルギー分野など協力で一致",
-      "summary": "茂木外務大臣がタイを訪問中のシーハサック外相と会談し、エネルギーや資源のサプライチェーン強化に向けた協力で合意した。",
-      "url": "http://www3.nhk.or.jp/news/html/20260612/k10015148831000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-12T11:29:06+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "12614453",
-      "category": "経済・ビジネス（日本）",
-      "title": "米トランプ政権 Ｗ杯会場周辺に移民当局職員派遣へ 反発も",
-      "summary": "アメリカで開幕したサッカーワールドカップ北中米大会について、トランプ政権が治安対策としてICE移民税関捜査局の職員をW杯会場周辺に派遣する方針を示している。ロサンゼルス郊外のスタジアムでは、この措置に反発する従業員らがストライキも辞さない構えを見せている。",
-      "url": "http://www3.nhk.or.jp/news/html/20260612/k10015148471000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-12T10:41:10+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "65916932",
-      "category": "経済・ビジネス（日本）",
-      "title": "米メディアが覚書の内容伝える イラン“最終結論至らず”",
-      "summary": "トランプ大統領はイラン指導部との協議が最高レベルで承認されたことを受けて、予定していたイランへの攻撃を中止したとSNSで発表しました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260612/k10015147941000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-12T10:21:34+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "13976274",
-      "category": "経済・ビジネス（日本）",
-      "title": "天皇皇后両陛下 13日からオランダ・ベルギーを公式訪問",
-      "summary": "天皇皇后両陛下は国際親善を目的として13日からオランダとベルギーを公式訪問されます。",
-      "url": "http://www3.nhk.or.jp/news/html/20260612/k10015147711000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-12T09:45:18+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "76034760",
+      "id": "26000955",
       "category": "経済・ビジネス（世界）",
       "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
       "summary": "イーロン・マスクがSpaceXのナスダック上場により、世界初の兆万長者となった。SpaceXはAIと再利用可能ロケット事業で時価総額2.2兆ドルで株式市場に上場し、マスクの総資産が1兆ドルを超えた。この上場はAI技術と宇宙産業の急速な成長を象徴する出来事となった。",
       "url": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published_at": "2026-06-12T20:46:32+00:00",
+      "published_at": "2026-06-12T22:00:52+00:00",
       "lang": "en"
     },
     {
-      "id": "88092151",
+      "id": "23105826",
       "category": "経済・ビジネス（世界）",
       "title": "UK vows to phase out Russian diesel and jet fuel imports by new year",
       "summary": "英国政府は、ウクライナでの戦争継続を受けてロシアへの制裁パッケージの一環として、ロシア産のディーゼルとジェット燃料の輸入を新年までに段階的に廃止することを誓約した。この措置はモスクワへの経済的圧力を強化し、ロシアのエネルギー部門に打撃を与えることを目指している。",
@@ -144,7 +144,7 @@
       "lang": "en"
     },
     {
-      "id": "66500299",
+      "id": "31950659",
       "category": "経済・ビジネス（世界）",
       "title": "UK economy contracts as Iran war impact felt",
       "summary": "イランとの戦争の影響が企業活動に及び始めたため、4月の英国経済は微かに縮小した。公式データによると、この経済収縮はイラン情勢の緊迫化に伴う不確実性の増加が企業マインドに悪影響を与えたことが原因と考えられる。戦争リスクの高まりにより、ビジネス投資や消費活動が慎重になったことが経済成長の足を引っ張っている。",
@@ -154,7 +154,7 @@
       "lang": "en"
     },
     {
-      "id": "27606651",
+      "id": "25828983",
       "category": "経済・ビジネス（世界）",
       "title": "Watch: Three things to know about SpaceX's stock market debut",
       "summary": "SpaceXが上場する歴史的なIPOについて、BBC記者のサミラ・フセイン氏が解説する動画記事である。SpaceXは民間宇宙企業として初めて株式公開市場へ進出し、これは宇宙産業における重要なマイルストーンとなっている。IPOに関する重要な3つのポイントについて詳しく説明されており、投資家や宇宙産業の動向に関心のある視聴者に向けた情報提供となっている。",
@@ -164,7 +164,7 @@
       "lang": "en"
     },
     {
-      "id": "22880831",
+      "id": "79997298",
       "category": "経済・ビジネス（世界）",
       "title": "'I was employee number one': SpaceX co-founder reacts to firm's market debut",
       "summary": "SpaceXの共同創業者トム・ミューラーは、同社がElon Muskと共に2002年に創業して以来、従業員番号1番として会社の成長を目撃してきた。BBCのインタビューでミューラーは、SpaceXの市場デビューに対する彼の反応とこれまでのキャリアについて語っている。",
@@ -174,7 +174,7 @@
       "lang": "en"
     },
     {
-      "id": "65085245",
+      "id": "88752472",
       "category": "経済・ビジネス（世界）",
       "title": "Why the economics make this the craziest World Cup ever",
       "summary": "2026年ワールドカップは、貿易戦争やチケット価格の高騰など、経済面で前例のないほど複雑な状況にある。この大会は、急速に変化するグローバル経済の実態を浮き彫りにしており、従来のワールドカップとは大きく異なる経済的課題に直面している。",
@@ -184,7 +184,7 @@
       "lang": "en"
     },
     {
-      "id": "64613789",
+      "id": "43630747",
       "category": "経済・ビジネス（世界）",
       "title": "India's 'blue gold' starts a new drinks industry",
       "summary": "インドに自生するアガベ植物を利用した新しい蒸留酒産業が始まっています。新興の蒸留業者たちがこの「青い金」と呼ばれるアガベを使って、スピリッツ飲料の製造を開始しており、インドの飲料業界に新たな動きをもたらしています。この取り組みはインド国内の農業資源を活用した産業創出の例となっています。",
@@ -194,7 +194,7 @@
       "lang": "en"
     },
     {
-      "id": "81747111",
+      "id": "82209157",
       "category": "経済・ビジネス（世界）",
       "title": "My friends always want to split the bill equally, how do I say no?",
       "summary": "飲食代を均等に割勘することを友人が提案してきた場合、それに異議を唱えるのは難しい状況についての記事である。記事では、自分が食べた分だけを払いたい場合や、経済状況が異なる友人との食事で均等割りに納得できない場合に、どのように丁寧に断るかについての対処法を扱っている。友人との関係を損なわずに、自分の希望を伝えるコミュニケーションスキルが重要であることが述べられている。",
@@ -204,7 +204,47 @@
       "lang": "en"
     },
     {
-      "id": "61447028",
+      "id": "30669768",
+      "category": "テクノロジー・AI",
+      "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+      "summary": "アンドリュー・ヤンは、アメリカ人が過剰に支払っている住宅、食料、通信費などあらゆる項目をリストアップし、これらの生活費を削減することが次のスタートアップの大きなビジネスチャンスだと考えている。ヤンは、生活コストの低下が次の起業ブームをもたらすと予想しており、この分野での新規企業の創出がビジネス機会となる可能性を指摘している。",
+      "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-13T04:14:19+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "84611498",
+      "category": "テクノロジー・AI",
+      "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+      "summary": "AnthropicのAIモデルが政府の指摘する狭い範囲のジェイルブレーク脆弱性を理由に回収されることになり、同社は「数億人のユーザーに展開している商用モデルを回収すべき理由にはならない」と反発している。Anthropicの安全性警告が逆効果となり、政府が最も強力なAIモデルの運用を中止させる結果となった。同社は規制当局との見解の相違について不満を表明している。",
+      "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-13T02:26:30+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "55938298",
+      "category": "テクノロジー・AI",
+      "title": "SpaceX IPO: Live updates on everything you need to know",
+      "summary": "SpaceXの新規株式公開（IPO）に関する包括的なカバレッジが提供されており、同社の初期段階から現在までの経過が追跡されている。このカバレッジには、IPOから利益を得る可能性のある関係者、IPO前の取引、およびS-1登録書類に記載された内容が含まれている。SpaceXの今後の展開と市場への影響について、詳細な情報が随時更新される予定である。",
+      "url": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-12T23:15:14+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "39842418",
+      "category": "テクノロジー・AI",
+      "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+      "summary": "メタの数ヶ月前に設立されたAI部門は、そこに配属されたエンジニアたちから「やりがいを失わせる強制労働所」と批判されており、約6500人が従事する当該部門は反乱寸前の状態にあるという報告がなされている。",
+      "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-12T23:00:54+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "33979757",
       "category": "テクノロジー・AI",
       "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
       "summary": "Googleが、AIを使って数十万人の被害者を詐欺にかけた「Outsider Enterprise」という集団を訴えたと発表した。この中国のサイバー犯罪グループは2週間にわたって250万件のテキストメッセージを送信し、大規模な詐欺キャンペーンを実行していた。GoogleはこのAI活用型詐欺の蔓延を防ぐため、法的措置に踏み切った。",
@@ -214,7 +254,7 @@
       "lang": "en"
     },
     {
-      "id": "28071860",
+      "id": "68694400",
       "category": "テクノロジー・AI",
       "title": "SpaceX IPO closes up 19% and delivers the world’s first trillionaire",
       "summary": "SpaceXが金曜日に待望の上場を果たし、公開買付価格の135ドルを上回る水準で取引され、初日は19%上昇して引けた。この上場により、世界初の1兆ドル企業誕生という歴史的な瞬間を迎えることになった。SpaceXの好調な初日の成績は、宇宙産業への投資家の強い関心と同社の成長への期待を示している。",
@@ -224,17 +264,7 @@
       "lang": "en"
     },
     {
-      "id": "23052579",
-      "category": "テクノロジー・AI",
-      "title": "SpaceX IPO: Live updates on everything you need to know",
-      "summary": "SpaceXの新規株式公開（IPO）に関する包括的なカバレッジが提供されており、同社の初期段階から現在までの経過が追跡されている。このカバレッジには、IPOから利益を得る可能性のある関係者、IPO前の取引、およびS-1登録書類に記載された内容が含まれている。SpaceXの今後の展開と市場への影響について、詳細な情報が随時更新される予定である。",
-      "url": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-12T20:04:38+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "25389996",
+      "id": "82921192",
       "category": "テクノロジー・AI",
       "title": "SpaceX president Gwynne Shotwell just gave another hint at a Tesla merger",
       "summary": "SpaceXのグウィン・ショットウェル社長がテスラとの経営統合の可能性をあらためて示唆した。SpaceXとテスラの合併は避けられないものとみられており、両社の創業者であるイーロン・マスク氏の経営下で、宇宙事業と電動車事業の統合による相乗効果が期待されている。",
@@ -244,7 +274,7 @@
       "lang": "en"
     },
     {
-      "id": "30970512",
+      "id": "71110123",
       "category": "テクノロジー・AI",
       "title": "Mistral is rumored to be raising €3B at €20B valuation",
       "summary": "フランスのAI企業Mistralが約30億ユーロの資金調達を計画しており、企業価値は約200億ユーロ（約231億5000万ドル）に達すると見られている。これは昨年のシリーズC資金調達時の117億ユーロからほぼ2倍の増加となり、同社の急速な成長を示している。",
@@ -254,37 +284,27 @@
       "lang": "en"
     },
     {
-      "id": "28549351",
-      "category": "テクノロジー・AI",
-      "title": "Siri is good now??",
-      "summary": "Appleが新しいバージョンのSiriをリリースし、これまで十年以上にわたって「役に立つこともあるが不安定」という評価だったSiriが、ついに大きく改善されたことが話題になっている。これまでタイマー設定すら満足にできないほど評判の悪かったSiriだが、今回の更新で実用的なアシスタントへと進化したとされている。",
-      "url": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
-      "source": "AI | The Verge",
-      "published_at": "2026-06-12T17:17:04+00:00",
+      "id": "48705348",
+      "category": "台湾・中台関係",
+      "title": "Taiwan fires dozens of U.S.-supplied rockets toward China in historic live-fire exercise",
+      "summary": "台湾が中国に向けて米国製HIMARS多連装ロケット砲32基を発射する史上初の実弾演習を実施し、上陸侵攻への対応能力をテストした。この演習は素早い射撃と移動戦術を検証するもので、北京への決意表明と自衛力強化への投資の実証となっている。",
+      "url": "https://www.naturalnews.com/2026-06-12-taiwan-fires-dozens-of-u-s-supplied-rockets-toward-china-in-historic-live-fire-exercise.html",
+      "source": "Naturalnews.com",
+      "published_at": "2026-06-12T06:00:00+00:00",
       "lang": "en"
     },
     {
-      "id": "54431320",
-      "category": "テクノロジー・AI",
-      "title": "Robinhood sees ‘record-breaking’ traffic after SpaceX stock debuts",
-      "summary": "ロビンフッドはスペースXの株式公開後に記録破りのアクセス数を経験し、一部の顧客が断続的な不具合を経験したが現在は解決したと発表した。取引プラットフォームは高い需要に対応できたものの、システムに一時的な負荷がかかったことが明らかになった。",
-      "url": "https://techcrunch.com/2026/06/12/robinhood-sees-record-breaking-traffic-after-spacex-stock-debuts/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-12T17:05:06+00:00",
+      "id": "16096708",
+      "category": "台湾・中台関係",
+      "title": "Taiwan Weighted Index surges nearly 1,630 points in a single session, gaining 3.78%",
+      "summary": "台湾加権指数が一日の取引で1,630ポイント近く上昇し、3.78%の上昇率を記録した。この急騰は台湾市場が単一セクターへの過度な依存による変動性の高さを露呈させており、市場全体の多角化の必要性を浮き彫りにしている。",
+      "url": "https://cryptobriefing.com/taiwan-weighted-index-surges-1630-points/",
+      "source": "Crypto Briefing",
+      "published_at": "2026-06-12T01:07:20+00:00",
       "lang": "en"
     },
     {
-      "id": "83339824",
-      "category": "テクノロジー・AI",
-      "title": "Elon Musk is the world&#8217;s first trillionaire",
-      "summary": "イーロン・マスクがSpaceXのIPO後に純資産が1兆ドルを超え、世界初の兆万長者となった。SpaceX IPO前の約8000億ドルから増加した純資産には、SpaceXの48億株の価値とテスラなど他企業からの資産が含まれている。SpaceXの株式は150ドルで公開され、その後も高値を維持している。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo",
-      "source": "AI | The Verge",
-      "published_at": "2026-06-12T16:24:39+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "17557428",
+      "id": "39931950",
       "category": "台湾・中台関係",
       "title": "Taiwan opposition leader says Xi meeting avoided 'reunification' talk",
       "summary": "台湾野党指導者は中国の習近平主席との会談で「統一」についての議論を避けたとコメントした。この発言は台湾が米国からの140億ドル規模の武器供与パッケージの承認を待つ中でなされたもので、米国の台湾防衛に対する長期的なコミットメントの不確実性が続いている。",
@@ -294,7 +314,7 @@
       "lang": "en"
     },
     {
-      "id": "39197616",
+      "id": "46000295",
       "category": "台湾・中台関係",
       "title": "How Taiwan is balancing between American and Chinese visions of energy dominance",
       "summary": "台湾はエネルギー供給の安定性とコスト効率のバランスを取るため、米国と中国の相対する戦略的利益の間で難しい判断を迫られている。ほとんどの国にとってのエネルギー戦略の目標は、手頃な価格で、外部からの遮断やたかり行為を受けない供給システムの確保である。台湾は地政学的な緊張の中で、自国のエネルギー安全保障と経済的ニーズの両立を目指している。",
@@ -304,7 +324,7 @@
       "lang": "en"
     },
     {
-      "id": "37606602",
+      "id": "74357205",
       "category": "台湾・中台関係",
       "title": "Washington’s Asian Allies Need a Backup Plan",
       "summary": "米国の信頼性の低下に伴い、アジアの同盟国は米国への依存だけでなく、独立した防衛戦略の構築が必要となっている。従来は米国の安全保障傘に頼ってきたアジア太平洋地域の各国が、地域の安定と自国の利益を守るため、多角的な外交と防衛体制の強化を検討し始めている。米国の政治的変動や政策の予測不可能性が増す中で、アジア諸国は戦略的な再構築を迫られており、バックアッププランの準備が急務となっている。",
@@ -314,7 +334,7 @@
       "lang": "en"
     },
     {
-      "id": "58517478",
+      "id": "64670864",
       "category": "台湾・中台関係",
       "title": "How Drone Warfare Is Rewiring Geopolitics and Rewriting the Age of Superpowers",
       "summary": "ドローン技術の急速な進化により、従来の軍事力による国際秩序が大きく変わりつつある。衛星やステルス爆撃機など高度な技術を保有する超大国が圧倒的優位を持つという1991年以来の戦争観は、より低コストで運用可能なドローン兵器の登場によって過去のものになりつつある。結果として、技術格差が縮小し、地政学的な力関係が再編成される新たな時代が到来している。",
@@ -324,7 +344,7 @@
       "lang": "en"
     },
     {
-      "id": "60629563",
+      "id": "69658097",
       "category": "台湾・中台関係",
       "title": "Links 6/11/2026",
       "summary": "イランでの戦争の再燃、モスクワでの自動車爆弾事件、台湾の中国方向へのHIMARS発射実験、米国のミサイル供給に対する懸念の高まりなど、世界的な緊張が深まっている。イランとの軍事衝突が激化し、ロシア国内ではテロ行為が相次ぎ、台湾は防衛能力の強化を進める一方で、米国からの兵器供給体制に対する不安が増加している。中東から東アジアにかけて地政学的リスクが急速に高まっている状況が報告されている。",
@@ -334,33 +354,13 @@
       "lang": "en"
     },
     {
-      "id": "32959987",
+      "id": "48138900",
       "category": "台湾・中台関係",
       "title": "The Chain of Peace: Do Supply Chain Chokepoints Deter War?",
       "summary": "オランダのASML社が製造する極紫外線リソグラフィシステムなど、現代の供給チェーンの重要な依存関係が、従来の軍事抑止力と同様に戦争を抑止する可能性があることを論じた記事である。台湾をめぐる紛争も、航空母艦や核兵器よりも、半導体製造に必要な特定の機器の供給不足によって抑止されるかもしれないという指摘は、グローバル化した経済システムが国家間紛争に新たな抑止メカニズムをもたらしていることを示唆している。このように経済的相互依存が地政学的緊張を緩和し得るという議論は、現代の国際関係における経済的要因の重要性を浮き彫りにしている。",
       "url": "https://warontherocks.com/the-chain-of-peace-do-supply-chain-chokepoints-deter-war/",
       "source": "War on the Rocks",
       "published_at": "2026-06-11T07:30:57+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "47985336",
-      "category": "台湾・中台関係",
-      "title": "North Korea, China claim wins from Xi visit, but limits remain",
-      "summary": "中国の習近平国家主席が北朝鮮を訪問し、両国は重大な成果を主張しました。この訪問は金正恩北朝鮮指導者の国際的地位を高め、平壌と北京の関係をさらに深めましたが、具体的な協力の拡大には限界が見られています。両国は協力関係の強化について議論しましたが、経済支援や安全保障面での実質的な進展は限定的なものに止まっています。",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/xi-jinpings-historic-visit-to-north-korea-kim-jong-un-strengthens-ties-with-china-amidst-global-tensions/articleshow/131651207.cms",
-      "source": "The Times of India",
-      "published_at": "2026-06-11T06:29:38+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "23582542",
-      "category": "台湾・中台関係",
-      "title": "World markets walk a tightrope between AI stocks and oil shocks",
-      "summary": "世界の株式市場はAI関連株の好況とイラン情勢による石油ショックのリスクの間で綱渡りを続けており、投資家はテクノロジー、金利、石油間の相関関係による不確実性の中で注意深く対応している。市場の展開はアメリカの経済政策決定や地政学的な緊張の推移に大きく左右される状況にある。",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/world-markets-walk-a-tightrope-between-ai-stocks-and-oil-shocks/articleshow/131650053.cms",
-      "source": "The Times of India",
-      "published_at": "2026-06-11T05:25:26+00:00",
       "lang": "en"
     }
   ]
