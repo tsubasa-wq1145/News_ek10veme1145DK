@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T17:55:03.288133+00:00",
+  "updated_at": "2026-06-14T10:34:41.216434+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -44,17 +44,77 @@
   ],
   "news": [
     {
-      "id": "77474469",
+      "id": "83083815",
       "category": "経済・ビジネス（日本）",
-      "title": "トランプ大統領“イランと14日署名予定 ホルムズ海峡開放”",
-      "summary": "トランプ大統領は13日、アメリカとイランの戦闘終結に向けた協議で合意が14日に署名されると発表しました。大統領は署名後、直ちにホルムズ海峡が開放されると主張しています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260614/k10015149471000.html",
+      "title": "ゼレンスキー大統領 G7サミット「無意味にしてはいけない」",
+      "summary": "ウクライナのゼレンスキー大統領は、G7サミット開催を前に、会合を無意味にすべきではないと述べ、ロシアへの制裁強化とウクライナへのさらなる軍事支援など、実効性のある具体的な取り組みが求められることを強調した。",
+      "url": "http://www3.nhk.or.jp/news/html/20260614/k10015149811000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-06-13T17:32:42+00:00",
+      "published_at": "2026-06-14T10:21:03+00:00",
       "lang": "ja"
     },
     {
-      "id": "95674516",
+      "id": "48589535",
+      "category": "経済・ビジネス（日本）",
+      "title": "アメリカ「14日に覚書に署名へ」イランの対応焦点に",
+      "summary": "トランプ大統領は13日、アメリカとイランの戦闘終結に向けた協議で合意が14日に署名されると発表しました。大統領は署名後、直ちにホルムズ海峡が開放されると主張しています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260614/k10015149471000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-14T09:51:50+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "24857448",
+      "category": "経済・ビジネス（日本）",
+      "title": "北朝鮮外務省 “米韓が北の非核化目標確認”を非難",
+      "summary": "北朝鮮外務省は、米国と韓国が北朝鮮の非核化を共同目標とする立場を確認したことに対し、談話で反発し、自国の核保有国としての地位には影響を与えられないと主張した。",
+      "url": "http://www3.nhk.or.jp/news/html/20260614/k10015149641000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-14T03:39:05+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "62969764",
+      "category": "経済・ビジネス（日本）",
+      "title": "文化施設からトランプ氏の名前取り外される 米地裁命令受け",
+      "summary": "ワシントンのケネディ・センターから、議会の承認なく追加されたトランプ大統領の名前表示が米地裁の命令により取り外されました。この決定は、名前の追加が違法だという裁判所の判断に基づいています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260614/k10015149601000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-14T02:06:32+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "83910090",
+      "category": "経済・ビジネス（日本）",
+      "title": "31年ぶりの大相撲パリ公演 会場は熱気と大歓声",
+      "summary": "フランスの首都パリで31年ぶりとなる大相撲の海外公演が開催され、力士たちの力強い取組に会場から大きな歓声と拍手が送られた。",
+      "url": "http://www3.nhk.or.jp/news/html/20260614/k10015149311000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-13T20:57:29+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "47665556",
+      "category": "経済・ビジネス（日本）",
+      "title": "ウクライナ ロシアのエネルギー施設への攻撃続ける",
+      "summary": "ウクライナがロシアのエネルギー施設への攻撃を継続しており、和平協議が停滞する中でロシアの戦闘継続能力を削ぐ戦略とみられています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260614/k10015149301000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-13T20:55:53+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "47548780",
+      "category": "経済・ビジネス（日本）",
+      "title": "サッカーW杯 日本初戦前にダラスへサポーターが到着",
+      "summary": "サッカーワールドカップ北中米大会で日本代表がアメリカ南部テキサス州で14日に初戦のオランダ戦を迎えるのを前に、日本のサポーターが現地のダラスに続々と到着している。",
+      "url": "http://www3.nhk.or.jp/news/html/20260614/k10015149511000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-13T20:48:16+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "63796536",
       "category": "経済・ビジネス（日本）",
       "title": "米・イラン覚書“数日中に署名の可能性”双方が言及",
       "summary": "アメリカとイランの戦闘終結に向けた協議において、トランプ政権高官は今後数日中に覚書署名の見通しを示し、イラン外相も数日以内の実現の可能性を述べた。覚書の内容について最終調整が進展しており、両国の合意実現が焦点となっている。",
@@ -64,67 +124,37 @@
       "lang": "ja"
     },
     {
-      "id": "79226204",
-      "category": "経済・ビジネス（日本）",
-      "title": "中国で台湾との交流拡大を目指すフォーラム開催",
-      "summary": "中国で台湾との交流拡大を目指すフォーラムが開催され、中国共産党の指導部は台湾独立と外部の干渉に反対する姿勢を示しながら、経済交流を通じた一体化を推進する考えを表明しました。これに対して台湾の民進党政権は警戒を強めています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260613/k10015149441000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-13T13:08:13+00:00",
-      "lang": "ja"
+      "id": "75440126",
+      "category": "経済・ビジネス（世界）",
+      "title": "Why the US economy keeps defying the odds",
+      "summary": "アメリカ経済は同じ世界的な経済ショックに直面しているにもかかわらず、多くの競争相手を上回る成績を上げ続けており、その理由はアメリカの柔軟な労働市場、強力な起業家精神、高度な技術革新能力、および堅牢な金融システムにあるとされている。特にテクノロジー産業での優位性と豊富な資本へのアクセスがアメリカ経済の他国に対する相対的な強さを支えている。",
+      "url": "https://www.bbc.com/news/articles/cwy031el03po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-06-14T05:14:17+00:00",
+      "lang": "en"
     },
     {
-      "id": "46248647",
-      "category": "経済・ビジネス（日本）",
-      "title": "北朝鮮外務省 “核保有国”認めぬ韓国とEUの共同声明へ反発",
-      "summary": "韓国大統領がEUとの共同声明で北朝鮮の核保有国としての認定を否定したことに対し、北朝鮮外務省は韓国を敵対国とする立場は変わらないと激しく反発した。",
-      "url": "http://www3.nhk.or.jp/news/html/20260613/k10015149421000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-13T12:57:37+00:00",
-      "lang": "ja"
+      "id": "28711864",
+      "category": "経済・ビジネス（世界）",
+      "title": "Anthropic suspends new AI tools over US government security concerns",
+      "summary": "AI企業のAnthropicが米国政府のセキュリティ上の懸念を理由に、新しいAIツールの展開を一時的に停止した。今週公開されたClaudeの新バージョンがサイバーセキュリティとハッキングに関する懸念を引き起こしたもので、同社は政府当局と協力してセキュリティ問題に対処する方針を示している。",
+      "url": "https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-06-13T16:28:38+00:00",
+      "lang": "en"
     },
     {
-      "id": "70120242",
-      "category": "経済・ビジネス（日本）",
-      "title": "サッカーW杯 香港では日本代表を応援する動き広がる",
-      "summary": "サッカーワールドカップ北中米大会の開幕に伴い、日本文化への関心が高い香港では、同じアジアの代表として日本代表を応援する動きが広がっています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260613/k10015149401000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-13T11:48:29+00:00",
-      "lang": "ja"
+      "id": "85507183",
+      "category": "経済・ビジネス（世界）",
+      "title": "Elon Musk's stratospheric rise to trillionaire status - in charts",
+      "summary": "テック界の大物イーロン・マスク氏の資産が急速に増加し、今後数年でトリリオネア（資産1兆ドル超)の地位に到達する可能性があるとBBCが分析している。マスク氏の財富増加はテスラとスペースXの株価上昇に支えられており、特にテスラの時価総額拡大が大きく寄与している。同氏の現在の資産額は数千億ドルに達しており、歴史上初のトリリオネアになる可能性が指摘されている。",
+      "url": "https://www.bbc.com/news/articles/c4gyp523ly8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-06-12T23:05:39+00:00",
+      "lang": "en"
     },
     {
-      "id": "85244760",
-      "category": "経済・ビジネス（日本）",
-      "title": "アンソロピック 最新AIモデルの提供を停止 米政府の命令受け",
-      "summary": "AI企業アンソロピックが米政府の命令を受け、ソフトウェアの脆弱性発見能力に優れたAIモデル「クロード・ミュトス5」の提供をすべての顧客に対して停止することを発表しました。国家安全保障上の理由から、外国人によるこのモデルへのアクセスを禁止する措置です。",
-      "url": "http://www3.nhk.or.jp/news/html/20260613/k10015149041000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-13T09:00:08+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "39003352",
-      "category": "経済・ビジネス（日本）",
-      "title": "高市首相 G7サミットなどへ出発 “G7連携し課題対応を主導”",
-      "summary": "高市総理大臣がフランスで開催されるG7サミットに出席するため羽田空港を出発し、G7が連携して国際社会の課題対応を主導していく姿勢を示したいという考えを強調しました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260613/k10015149091000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-13T06:21:31+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "27357504",
-      "category": "経済・ビジネス（日本）",
-      "title": "パラマウントによるワーナー買収 アメリカ司法省が承認",
-      "summary": "アメリカ司法省がパラマウント・スカイダンスによるワーナー・ブラザース・ディスカバリー買収を承認しました。司法省は消費者に対する有害性が低いと判断した結果です。",
-      "url": "http://www3.nhk.or.jp/news/html/20260613/k10015149191000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-13T05:23:03+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "89198183",
+      "id": "31116581",
       "category": "経済・ビジネス（世界）",
       "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
       "summary": "イーロン・マスクがSpaceXのナスダック上場により、世界初の兆万長者となった。SpaceXはAIと再利用可能ロケット事業で時価総額2.2兆ドルで株式市場に上場し、マスクの総資産が1兆ドルを超えた。この上場はAI技術と宇宙産業の急速な成長を象徴する出来事となった。",
@@ -134,7 +164,7 @@
       "lang": "en"
     },
     {
-      "id": "53363557",
+      "id": "65637491",
       "category": "経済・ビジネス（世界）",
       "title": "UK vows to phase out Russian diesel and jet fuel imports by new year",
       "summary": "英国政府は、ウクライナでの戦争継続を受けてロシアへの制裁パッケージの一環として、ロシア産のディーゼルとジェット燃料の輸入を新年までに段階的に廃止することを誓約した。この措置はモスクワへの経済的圧力を強化し、ロシアのエネルギー部門に打撃を与えることを目指している。",
@@ -144,7 +174,7 @@
       "lang": "en"
     },
     {
-      "id": "63402653",
+      "id": "15477237",
       "category": "経済・ビジネス（世界）",
       "title": "UK economy contracts as Iran war impact felt",
       "summary": "イランとの戦争の影響が企業活動に及び始めたため、4月の英国経済は微かに縮小した。公式データによると、この経済収縮はイラン情勢の緊迫化に伴う不確実性の増加が企業マインドに悪影響を与えたことが原因と考えられる。戦争リスクの高まりにより、ビジネス投資や消費活動が慎重になったことが経済成長の足を引っ張っている。",
@@ -154,17 +184,7 @@
       "lang": "en"
     },
     {
-      "id": "29957806",
-      "category": "経済・ビジネス（世界）",
-      "title": "Watch: Three things to know about SpaceX's stock market debut",
-      "summary": "SpaceXが上場する歴史的なIPOについて、BBC記者のサミラ・フセイン氏が解説する動画記事である。SpaceXは民間宇宙企業として初めて株式公開市場へ進出し、これは宇宙産業における重要なマイルストーンとなっている。IPOに関する重要な3つのポイントについて詳しく説明されており、投資家や宇宙産業の動向に関心のある視聴者に向けた情報提供となっている。",
-      "url": "https://www.bbc.com/news/videos/c4gyx0x1d5ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-06-12T08:39:37+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "14832762",
+      "id": "91455562",
       "category": "経済・ビジネス（世界）",
       "title": "'I was employee number one': SpaceX co-founder reacts to firm's market debut",
       "summary": "SpaceXの共同創業者トム・ミューラーは、同社がElon Muskと共に2002年に創業して以来、従業員番号1番として会社の成長を目撃してきた。BBCのインタビューでミューラーは、SpaceXの市場デビューに対する彼の反応とこれまでのキャリアについて語っている。",
@@ -174,7 +194,7 @@
       "lang": "en"
     },
     {
-      "id": "69304615",
+      "id": "68031315",
       "category": "経済・ビジネス（世界）",
       "title": "Why the economics make this the craziest World Cup ever",
       "summary": "2026年ワールドカップは、貿易戦争やチケット価格の高騰など、経済面で前例のないほど複雑な状況にある。この大会は、急速に変化するグローバル経済の実態を浮き彫りにしており、従来のワールドカップとは大きく異なる経済的課題に直面している。",
@@ -184,27 +204,57 @@
       "lang": "en"
     },
     {
-      "id": "36615742",
-      "category": "経済・ビジネス（世界）",
-      "title": "India's 'blue gold' starts a new drinks industry",
-      "summary": "インドに自生するアガベ植物を利用した新しい蒸留酒産業が始まっています。新興の蒸留業者たちがこの「青い金」と呼ばれるアガベを使って、スピリッツ飲料の製造を開始しており、インドの飲料業界に新たな動きをもたらしています。この取り組みはインド国内の農業資源を活用した産業創出の例となっています。",
-      "url": "https://www.bbc.com/news/articles/cdrpe4vly5mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-06-11T23:01:48+00:00",
+      "id": "19037655",
+      "category": "テクノロジー・AI",
+      "title": "As Anthropic suspends access to new models, India debates its AI future",
+      "summary": "Anthropicが新しいモデルへのアクセスを一時停止したことをきっかけに、インド国内ではAI産業の将来について議論が活発化している。このエピソードがインドのAI野心に対する警鐘となるべきかどうかについて、テック業界のリーダーたちが意見を交わしている。インドは海外の大型AI企業への依存を減らし、独自のAI開発能力を強化する必要があるという指摘が出ている。",
+      "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-14T03:00:00+00:00",
       "lang": "en"
     },
     {
-      "id": "37476665",
-      "category": "経済・ビジネス（世界）",
-      "title": "My friends always want to split the bill equally, how do I say no?",
-      "summary": "飲食代を均等に割勘することを友人が提案してきた場合、それに異議を唱えるのは難しい状況についての記事である。記事では、自分が食べた分だけを払いたい場合や、経済状況が異なる友人との食事で均等割りに納得できない場合に、どのように丁寧に断るかについての対処法を扱っている。友人との関係を損なわずに、自分の希望を伝えるコミュニケーションスキルが重要であることが述べられている。",
-      "url": "https://www.bbc.com/news/articles/czxqdznzy7ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-06-11T23:00:29+00:00",
+      "id": "19073293",
+      "category": "テクノロジー・AI",
+      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+      "summary": "Metaが中国政府の要求に応じて20億ドルのマヌス買収案件を解消し始めた。中国当局がこの取引の撤回を命じたことを受け、Metaは買収した事業の解体手続きを進めている。この措置は中国とアメリカの技術企業間の緊張がさらに高まっていることを示している。",
+      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-14T00:03:49+00:00",
       "lang": "en"
     },
     {
-      "id": "59601497",
+      "id": "72428059",
+      "category": "テクノロジー・AI",
+      "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+      "summary": "Amazon のサイバーセキュリティ研究とCEO アンディ・ジャシーのホワイトハウスとの対話がきっかけで、米国はAnthropicの大規模言語モデル「Fable 5」と「Mythos 5」への海外アクセスを禁止する輸出規制指令を発令した。Amazonの論文は特定の手段を通じて懸念される技術的リスクを指摘していたとみられている。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+      "source": "AI | The Verge",
+      "published_at": "2026-06-13T21:39:26+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "50487830",
+      "category": "テクノロジー・AI",
+      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+      "summary": "KPMGはAIの使用に関する報告書を、明らかな幻覚現象が原因で撤回した。報告書にはAIが生成した不正確な情報や架空のデータが含まれていた。このケースはAI技術の信頼性の問題を再び浮き彫りにしており、AIを情報源として使用する際の危険性を示唆している。",
+      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-13T20:42:31+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "14806225",
+      "category": "テクノロジー・AI",
+      "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+      "summary": "アマゾンのアンディ・ジャッシーCEOが、アンスロピック社に対して2つのAIモデルへの世界的なアクセス遮断を促した安全保障上の懸念を提起した可能性がある。ジャッシーは政府による取り締まりの前に、アンスロピックのモデルに関する懸念を政府当局に報告したと報じられている。この問題はAI業界における安全性と政府監督のバランスをめぐる議論を引き起こしている。",
+      "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-13T19:11:41+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "13335975",
       "category": "テクノロジー・AI",
       "title": "OpenAI faces investigation from state attorneys general",
       "summary": "OpenAIが複数の州の司法長官による調査に直面している。調査内容は広範であり、同社の広告ポリシーから健康データの取り扱いに至るまで、様々な側面が対象となっている。現在のところ、調査に関与している具体的な州は明らかになっていない。",
@@ -214,7 +264,7 @@
       "lang": "en"
     },
     {
-      "id": "91285525",
+      "id": "20671468",
       "category": "テクノロジー・AI",
       "title": "This thin under-pillow speaker helped me fall asleep without earbuds",
       "summary": "慢性的な不眠症に悩む著者が、耳栓の不快さと音声の外部出力の問題を解決するために、枕の下に装着する薄いスピーカーを試したところ、ポッドキャストや雨音などの音声コンテンツを快適に聞きながら眠りにつくことができるようになったという内容の記事である。",
@@ -224,7 +274,7 @@
       "lang": "en"
     },
     {
-      "id": "23165072",
+      "id": "88397812",
       "category": "テクノロジー・AI",
       "title": "My yard is dying, so I made an app for that",
       "summary": "庭が枯れていることに気づいた開発者がAIアシスタントのGeminiを使ってアプリを作成したところ、わずか5分で機能するアプリが完成しましたが、同時にバグのメッセージが表示されました。ただしAIが自動的にバグを修正するボタンも提供してくれたため、開発プロセスが非常に効率的に進みました。このエピソードはAIツールが実際の問題解決にいかに迅速に対応できるかを示す事例となっています。",
@@ -234,57 +284,57 @@
       "lang": "en"
     },
     {
-      "id": "73370963",
-      "category": "テクノロジー・AI",
-      "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
-      "summary": "政府からの命令により、Anthropicは国家安全保障上の懸念を理由に、Fable 5とMythos 5へのアクセスをすべての国（米国内外を問わず）およびAnthropicの従業員に対して遮断した。同社はこの要求に応じるため、すべての顧客に対してこれらのモデルへのアクセスを完全に遮断している。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
-      "source": "AI | The Verge",
-      "published_at": "2026-06-13T12:55:49+00:00",
+      "id": "60518426",
+      "category": "台湾・中台関係",
+      "title": "Taiwan opposition leader seeks to ease Washington's concerns over China stance during US trip",
+      "summary": "台湾野党・国民党の趙少康主席が、4月の習近平国家主席との会談後の米国2週間の訪問を通じて、中国に対するスタンスについてワシントンの懸念を緩和しようとしている。国民党は台湾の主要野党であり、同主席の外交活動は両岸関係と米国の政策バランスを巡る複雑な状況を反映している。この訪問は、台湾野党が米国との関係維持と中国との対話の継続を同時に進めようとする戦略的な動きと見られている。",
+      "url": "https://www.channelnewsasia.com/east-asia/kmt-leader-cheng-li-wun-visit-us-taiwan-6180316",
+      "source": "CNA",
+      "published_at": "2026-06-13T05:31:50+00:00",
       "lang": "en"
     },
     {
-      "id": "34079719",
-      "category": "テクノロジー・AI",
-      "title": "Apple’s new AI photo editing tools mostly work, for better and worse",
-      "summary": "iPhoneに搭載された新しいAI写真編集機能は、期待通りに機能する一方で課題も抱えている。iOS 27の新機能はGoogle Pixelなどと比べると控えめだが、世界で最も使用されるカメラに初めて本格的なAI編集ツールが搭載されたことは大きな転換点となる。この技術の普及により、写真編集の民主化が進む一方で、画像の真正性や利用者への影響について議論が生じている。",
-      "url": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
-      "source": "AI | The Verge",
-      "published_at": "2026-06-13T12:00:00+00:00",
+      "id": "23894524",
+      "category": "台湾・中台関係",
+      "title": "Peaccemeal cheers bulls as Dalal Street logs biggest gains in over 2 months",
+      "summary": "インド株式市場は金曜日に大きく反発し、主要指数が2%以上上昇して過去8週間で最高の上げ幅を記録した。この上昇は石油価格の大幅な下落と平和交渉への楽観的な見方が買い手を呼び戻したことが主な要因となっている。",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/peaccemeal-cheers-bulls-as-dalal-street-logs-biggest-gains-in-over-2-months/articleshow/131697473.cms",
+      "source": "The Times of India",
+      "published_at": "2026-06-13T04:17:59+00:00",
       "lang": "en"
     },
     {
-      "id": "17430561",
-      "category": "テクノロジー・AI",
-      "title": "The FBI built its own replica small town to simulate real-world cyberattacks",
-      "summary": "FBIはアラバマ州の建物内にサイバー攻撃のシミュレーション訓練用の小さな町のレプリカを建設しました。この施設は実際のサイバー攻撃に対応するための実践的な訓練環境として使用されています。FBIはこの複製町で様々なサイバー脅威に対する対応能力を向上させています。",
-      "url": "https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-13T11:00:00+00:00",
+      "id": "70056419",
+      "category": "台湾・中台関係",
+      "title": "The Pivot to Beijing: How Xi Jinping Became the World’s Indispensable Leader",
+      "summary": "3週間の間に世界最強の指導者たちが北京に電話をかけた。トランプ大統領はシリコンバレーの有力者たちに付き添われて最初に到着し、貿易の安定とアメリカの信用を失わせた中東紛争での足がかりを求めた。このように西側の主要指導者たちが相次いで中国のトップに接触する現象は、習近平がグローバルな紛争解決と経済的影響力において不可欠な指導者として台頭したことを示唆している。",
+      "url": "https://english.khabarhub.com/2026/13/553370/",
+      "source": "Khabarhub.com",
+      "published_at": "2026-06-13T00:15:19+00:00",
       "lang": "en"
     },
     {
-      "id": "99456363",
-      "category": "テクノロジー・AI",
-      "title": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models",
-      "summary": "ハリウッドの将来は単純な生成AIモデルにプロンプトを入力するだけでは成り立たないという主張である。生成AIが映画製作業界に革命をもたらすと言われているが、実際には人々が観たいと思えるようなエンターテインメント作品はまだ生成されていない。ほとんどのAI企業のビデオモデルは現在のところ短い映像の生成しかできず、本格的な映画製作への応用にはまだ課題が残っている。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
-      "source": "AI | The Verge",
-      "published_at": "2026-06-13T11:00:00+00:00",
+      "id": "87324820",
+      "category": "台湾・中台関係",
+      "title": "Taiwan's opposition leader touts talks with China as necessary for peace",
+      "summary": "台湾の親中派野党指導者は、中国が自国領と見なす民主的な台湾の防衛に党が全力で取り組む一方で、永続的な分離独立を議題から外すことで平和が実現可能だと述べた。この指導者は中国との対話が平和維持のために必要であると主張しており、防衛力の強化と中国との交渉のバランスを取ることが台湾の安全保障戦略の鍵となると考えている。",
+      "url": "https://abcnews.com/US/wireStory/taiwans-opposition-leader-touts-talks-china-peace-us-133830225",
+      "source": "Abcnews.com",
+      "published_at": "2026-06-12T23:24:31+00:00",
       "lang": "en"
     },
     {
-      "id": "39760643",
-      "category": "テクノロジー・AI",
-      "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
-      "summary": "アンドリュー・ヤンは、アメリカ人が過剰に支払っている住宅、食料、通信費などあらゆる項目をリストアップし、これらの生活費を削減することが次のスタートアップの大きなビジネスチャンスだと考えている。ヤンは、生活コストの低下が次の起業ブームをもたらすと予想しており、この分野での新規企業の創出がビジネス機会となる可能性を指摘している。",
-      "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-13T04:14:19+00:00",
+      "id": "59329119",
+      "category": "台湾・中台関係",
+      "title": "The mystery of how China is keeping down the world’s oil prices",
+      "summary": "中国が世界的な石油価格の上昇を抑制しているという謎について報道した記事です。米国ではガソリン価格が昨年比で平均1ドル以上高くなっていますが、ホルムズ海峡の閉鎖という深刻な供給途絶が起きているにもかかわらず、予想されたほど急騰していません。中国の石油備蓄放出や需要管理が国際的な価格安定化に大きな役割を果たしていると考えられています。",
+      "url": "https://www.vox.com/politics/491853/china-oil-imports-iran",
+      "source": "Vox",
+      "published_at": "2026-06-12T21:01:06+00:00",
       "lang": "en"
     },
     {
-      "id": "68003691",
+      "id": "55324522",
       "category": "台湾・中台関係",
       "title": "KMT chair exchanges views with U.S. lawmakers, experts on Taiwan security",
       "summary": "国民党の主席が米国の上院軍事委員会委員であるダン・サリバン共和党上院議員、下院軍事委員会委員のドン・ベーコン共和党下院議員、下院外交委員会小委員会委員長のヤング・キム共和党下院議員らと会談し、台湾の安全保障に関する見方を交換した。この会談を通じて、台湾の防衛体制強化と米台関係の重要性についての意見交換がなされた。",
@@ -294,7 +344,7 @@
       "lang": "en"
     },
     {
-      "id": "76184020",
+      "id": "69602619",
       "category": "台湾・中台関係",
       "title": "Taiwan fires dozens of U.S.-supplied rockets toward China in historic live-fire exercise",
       "summary": "台湾が中国に向けて米国製HIMARS多連装ロケット砲32基を発射する史上初の実弾演習を実施し、上陸侵攻への対応能力をテストした。この演習は素早い射撃と移動戦術を検証するもので、北京への決意表明と自衛力強化への投資の実証となっている。",
@@ -304,63 +354,13 @@
       "lang": "en"
     },
     {
-      "id": "25179216",
+      "id": "19085093",
       "category": "台湾・中台関係",
       "title": "Taiwan Weighted Index surges nearly 1,630 points in a single session, gaining 3.78%",
       "summary": "台湾加権指数が一日の取引で1,630ポイント近く上昇し、3.78%の上昇率を記録した。この急騰は台湾市場が単一セクターへの過度な依存による変動性の高さを露呈させており、市場全体の多角化の必要性を浮き彫りにしている。",
       "url": "https://cryptobriefing.com/taiwan-weighted-index-surges-1630-points/",
       "source": "Crypto Briefing",
       "published_at": "2026-06-12T01:07:20+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "30497830",
-      "category": "台湾・中台関係",
-      "title": "Taiwan opposition leader says Xi meeting avoided 'reunification' talk",
-      "summary": "台湾野党指導者は中国の習近平主席との会談で「統一」についての議論を避けたとコメントした。この発言は台湾が米国からの140億ドル規模の武器供与パッケージの承認を待つ中でなされたもので、米国の台湾防衛に対する長期的なコミットメントの不確実性が続いている。",
-      "url": "https://www.npr.org/2026/06/11/g-s1-127478/taiwan-opposition-leader-says-xi-meeting-avoided-reunification-talk",
-      "source": "NPR",
-      "published_at": "2026-06-11T16:53:25+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "68758271",
-      "category": "台湾・中台関係",
-      "title": "How Taiwan is balancing between American and Chinese visions of energy dominance",
-      "summary": "台湾はエネルギー供給の安定性とコスト効率のバランスを取るため、米国と中国の相対する戦略的利益の間で難しい判断を迫られている。ほとんどの国にとってのエネルギー戦略の目標は、手頃な価格で、外部からの遮断やたかり行為を受けない供給システムの確保である。台湾は地政学的な緊張の中で、自国のエネルギー安全保障と経済的ニーズの両立を目指している。",
-      "url": "https://theconversation.com/how-taiwan-is-balancing-between-american-and-chinese-visions-of-energy-dominance-284701",
-      "source": "The Conversation Africa",
-      "published_at": "2026-06-11T15:44:38+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "89625296",
-      "category": "台湾・中台関係",
-      "title": "Washington’s Asian Allies Need a Backup Plan",
-      "summary": "米国の信頼性の低下に伴い、アジアの同盟国は米国への依存だけでなく、独立した防衛戦略の構築が必要となっている。従来は米国の安全保障傘に頼ってきたアジア太平洋地域の各国が、地域の安定と自国の利益を守るため、多角的な外交と防衛体制の強化を検討し始めている。米国の政治的変動や政策の予測不可能性が増す中で、アジア諸国は戦略的な再構築を迫られており、バックアッププランの準備が急務となっている。",
-      "url": "http://foreignpolicy.com/2026/06/11/trump-asia-strategy-rethink/",
-      "source": "Foreign Policy",
-      "published_at": "2026-06-11T14:57:44+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "38687482",
-      "category": "台湾・中台関係",
-      "title": "How Drone Warfare Is Rewiring Geopolitics and Rewriting the Age of Superpowers",
-      "summary": "ドローン技術の急速な進化により、従来の軍事力による国際秩序が大きく変わりつつある。衛星やステルス爆撃機など高度な技術を保有する超大国が圧倒的優位を持つという1991年以来の戦争観は、より低コストで運用可能なドローン兵器の登場によって過去のものになりつつある。結果として、技術格差が縮小し、地政学的な力関係が再編成される新たな時代が到来している。",
-      "url": "https://www.fairobserver.com/more/science/how-drone-warfare-is-rewiring-geopolitics-and-rewriting-the-age-of-superpowers/",
-      "source": "Fair Observer",
-      "published_at": "2026-06-11T13:47:53+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "16896824",
-      "category": "台湾・中台関係",
-      "title": "Links 6/11/2026",
-      "summary": "イランでの戦争の再燃、モスクワでの自動車爆弾事件、台湾の中国方向へのHIMARS発射実験、米国のミサイル供給に対する懸念の高まりなど、世界的な緊張が深まっている。イランとの軍事衝突が激化し、ロシア国内ではテロ行為が相次ぎ、台湾は防衛能力の強化を進める一方で、米国からの兵器供給体制に対する不安が増加している。中東から東アジアにかけて地政学的リスクが急速に高まっている状況が報告されている。",
-      "url": "https://www.nakedcapitalism.com/2026/06/links-6-11-2026.html",
-      "source": "Nakedcapitalism.com",
-      "published_at": "2026-06-11T10:57:12+00:00",
       "lang": "en"
     }
   ]
