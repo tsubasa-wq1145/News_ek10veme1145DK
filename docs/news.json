@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T15:29:37.831300+00:00",
+  "updated_at": "2026-06-14T18:02:33.658160+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -44,7 +44,7 @@
   ],
   "news": [
     {
-      "id": "30168979",
+      "id": "70327353",
       "category": "経済・ビジネス（日本）",
       "title": "米FRBウォーシュ新議長のもと初会合へ 発言に関心集まる",
       "summary": "アメリカのFRB連邦準備制度理事会は16日からウォーシュ新議長のもとで初めての金融政策決定会合を開き、イラン情勢による物価上昇への対応方針が注目されています。金融市場では年内の利上げの可能性が指摘されており、会合後の新議長の記者会見での発言に関心が集まっています。",
@@ -54,7 +54,7 @@
       "lang": "ja"
     },
     {
-      "id": "39840537",
+      "id": "83234447",
       "category": "経済・ビジネス（日本）",
       "title": "アメリカ「14日に覚書に署名へ」イランの対応焦点に",
       "summary": "トランプ大統領は13日、アメリカとイランの戦闘終結に向けた協議で合意が14日に署名されると発表しました。大統領は署名後、直ちにホルムズ海峡が開放されると主張しています。",
@@ -64,7 +64,7 @@
       "lang": "ja"
     },
     {
-      "id": "19429430",
+      "id": "30551004",
       "category": "経済・ビジネス（日本）",
       "title": "【随時更新】ロシア ウクライナに軍事侵攻（6月14日の動き）",
       "summary": "ロシアによるウクライナへの軍事侵攻が継続しており、ウクライナ各地でロシア軍とウクライナ軍の戦闘が続いている一方で、多くの市民が国外へ避難している状況が報じられている。本記事では6月14日のウクライナ情勢に関する戦闘状況と各国の外交動向を随時更新で伝えている。",
@@ -74,7 +74,7 @@
       "lang": "ja"
     },
     {
-      "id": "41993483",
+      "id": "49392824",
       "category": "経済・ビジネス（日本）",
       "title": "15日からフランスでG7サミット 高市首相どう臨む 焦点や課題は",
       "summary": "フランスで開催されるG7サミットに初参加する高市総理大臣が、ウクライナ情勢やインド太平洋地域の安全保障など国際的な課題にどう対応するかが注目されます。サミットでは先進国首脳が経済や安保問題について議論し、日本の立場を示す重要な機会となります。",
@@ -84,7 +84,7 @@
       "lang": "ja"
     },
     {
-      "id": "33118679",
+      "id": "53769941",
       "category": "経済・ビジネス（日本）",
       "title": "ゼレンスキー大統領 G7サミット「無意味にしてはいけない」",
       "summary": "ウクライナのゼレンスキー大統領は、G7サミット開催を前に、会合を無意味にすべきではないと述べ、ロシアへの制裁強化とウクライナへのさらなる軍事支援など、実効性のある具体的な取り組みが求められることを強調した。",
@@ -94,7 +94,7 @@
       "lang": "ja"
     },
     {
-      "id": "53912637",
+      "id": "88623457",
       "category": "経済・ビジネス（日本）",
       "title": "北朝鮮外務省 “米韓が北の非核化目標確認”を非難",
       "summary": "北朝鮮外務省は、米国と韓国が北朝鮮の非核化を共同目標とする立場を確認したことに対し、談話で反発し、自国の核保有国としての地位には影響を与えられないと主張した。",
@@ -104,7 +104,7 @@
       "lang": "ja"
     },
     {
-      "id": "43481456",
+      "id": "76046330",
       "category": "経済・ビジネス（日本）",
       "title": "文化施設からトランプ氏の名前取り外される 米地裁命令受け",
       "summary": "ワシントンのケネディ・センターから、議会の承認なく追加されたトランプ大統領の名前表示が米地裁の命令により取り外されました。この決定は、名前の追加が違法だという裁判所の判断に基づいています。",
@@ -114,7 +114,7 @@
       "lang": "ja"
     },
     {
-      "id": "40885211",
+      "id": "86337635",
       "category": "経済・ビジネス（日本）",
       "title": "31年ぶりの大相撲パリ公演 会場は熱気と大歓声",
       "summary": "フランスの首都パリで31年ぶりとなる大相撲の海外公演が開催され、力士たちの力強い取組に会場から大きな歓声と拍手が送られた。",
@@ -124,7 +124,27 @@
       "lang": "ja"
     },
     {
-      "id": "38078038",
+      "id": "43791992",
+      "category": "経済・ビジネス（世界）",
+      "title": "UK electric car sales target to be weakened",
+      "summary": "英国政府は電気自動車の販売目標を弱める方針を示しており、具体的な新目標はまだ決定されていないが複数の案が検討されている。現在の目標は2030年までにガソリン車の新規販売を禁止することだが、自動車産業からの強い反発と消費者の購買意欲の鈍化を受けて、より現実的な数値への変更が進められている。",
+      "url": "https://www.bbc.com/news/articles/cx2dmwmj4dmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-06-14T17:56:07+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "56199975",
+      "category": "経済・ビジネス（世界）",
+      "title": "UK and Japan agree £18bn investment deal",
+      "summary": "英国と日本が180億ポンド（約3兆円）の投資協定に合意した。日本企業は英国のインフラストラクチャーと洋上風力発電に数十億ポンドを投資する予定だ。この協定により、両国間の経済的なつながりが大幅に強化される見込みである。",
+      "url": "https://www.bbc.com/news/articles/cx2kjwgwxwlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-06-14T15:25:33+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "68358083",
       "category": "経済・ビジネス（世界）",
       "title": "Why the US economy keeps defying the odds",
       "summary": "アメリカ経済は同じ世界的な経済ショックに直面しているにもかかわらず、多くの競争相手を上回る成績を上げ続けており、その理由はアメリカの柔軟な労働市場、強力な起業家精神、高度な技術革新能力、および堅牢な金融システムにあるとされている。特にテクノロジー産業での優位性と豊富な資本へのアクセスがアメリカ経済の他国に対する相対的な強さを支えている。",
@@ -134,7 +154,7 @@
       "lang": "en"
     },
     {
-      "id": "99233461",
+      "id": "20221393",
       "category": "経済・ビジネス（世界）",
       "title": "Anthropic suspends new AI tools over US government security concerns",
       "summary": "AI企業のAnthropicが米国政府のセキュリティ上の懸念を理由に、新しいAIツールの展開を一時的に停止した。今週公開されたClaudeの新バージョンがサイバーセキュリティとハッキングに関する懸念を引き起こしたもので、同社は政府当局と協力してセキュリティ問題に対処する方針を示している。",
@@ -144,7 +164,7 @@
       "lang": "en"
     },
     {
-      "id": "94762787",
+      "id": "42427785",
       "category": "経済・ビジネス（世界）",
       "title": "Elon Musk's stratospheric rise to trillionaire status - in charts",
       "summary": "テック界の大物イーロン・マスク氏の資産が急速に増加し、今後数年でトリリオネア（資産1兆ドル超)の地位に到達する可能性があるとBBCが分析している。マスク氏の財富増加はテスラとスペースXの株価上昇に支えられており、特にテスラの時価総額拡大が大きく寄与している。同氏の現在の資産額は数千億ドルに達しており、歴史上初のトリリオネアになる可能性が指摘されている。",
@@ -154,7 +174,7 @@
       "lang": "en"
     },
     {
-      "id": "71495333",
+      "id": "53839816",
       "category": "経済・ビジネス（世界）",
       "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
       "summary": "イーロン・マスクがSpaceXのナスダック上場により、世界初の兆万長者となった。SpaceXはAIと再利用可能ロケット事業で時価総額2.2兆ドルで株式市場に上場し、マスクの総資産が1兆ドルを超えた。この上場はAI技術と宇宙産業の急速な成長を象徴する出来事となった。",
@@ -164,7 +184,7 @@
       "lang": "en"
     },
     {
-      "id": "77086387",
+      "id": "85958321",
       "category": "経済・ビジネス（世界）",
       "title": "UK vows to phase out Russian diesel and jet fuel imports by new year",
       "summary": "英国政府は、ウクライナでの戦争継続を受けてロシアへの制裁パッケージの一環として、ロシア産のディーゼルとジェット燃料の輸入を新年までに段階的に廃止することを誓約した。この措置はモスクワへの経済的圧力を強化し、ロシアのエネルギー部門に打撃を与えることを目指している。",
@@ -174,17 +194,7 @@
       "lang": "en"
     },
     {
-      "id": "50424875",
-      "category": "経済・ビジネス（世界）",
-      "title": "UK economy contracts as Iran war impact felt",
-      "summary": "イランとの戦争の影響が企業活動に及び始めたため、4月の英国経済は微かに縮小した。公式データによると、この経済収縮はイラン情勢の緊迫化に伴う不確実性の増加が企業マインドに悪影響を与えたことが原因と考えられる。戦争リスクの高まりにより、ビジネス投資や消費活動が慎重になったことが経済成長の足を引っ張っている。",
-      "url": "https://www.bbc.com/news/articles/c77y47248k4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-06-12T10:01:11+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "51659469",
+      "id": "41407416",
       "category": "経済・ビジネス（世界）",
       "title": "'I was employee number one': SpaceX co-founder reacts to firm's market debut",
       "summary": "SpaceXの共同創業者トム・ミューラーは、同社がElon Muskと共に2002年に創業して以来、従業員番号1番として会社の成長を目撃してきた。BBCのインタビューでミューラーは、SpaceXの市場デビューに対する彼の反応とこれまでのキャリアについて語っている。",
@@ -194,17 +204,27 @@
       "lang": "en"
     },
     {
-      "id": "61952971",
-      "category": "経済・ビジネス（世界）",
-      "title": "Why the economics make this the craziest World Cup ever",
-      "summary": "2026年ワールドカップは、貿易戦争やチケット価格の高騰など、経済面で前例のないほど複雑な状況にある。この大会は、急速に変化するグローバル経済の実態を浮き彫りにしており、従来のワールドカップとは大きく異なる経済的課題に直面している。",
-      "url": "https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-06-11T23:07:52+00:00",
+      "id": "53986159",
+      "category": "テクノロジー・AI",
+      "title": "As AI companies race to go public, who else is along for the ride?",
+      "summary": "AI企業が相次いで上場を目指す中で、スペースXのIPO成功に乗じようとするスタートアップ企業も増加している。AI業界の急速な成長と投資家の関心の高まりにより、関連企業も株式公開を検討する動きが広がっている。この波に乗ることで、スタートアップは資金調達と企業価値の向上を目指している。",
+      "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-14T16:38:09+00:00",
       "lang": "en"
     },
     {
-      "id": "48289434",
+      "id": "16462864",
+      "category": "テクノロジー・AI",
+      "title": "TechCrunch Mobility: SpaceX rockets past Tesla",
+      "summary": "SpaceXがテスラを上回る成長を遂げ、モビリティ産業における重要なプレイヤーとして浮上している。TechCrunch Mobilityは輸送の未来と、その過程におけるAIの役割に焦点を当てた情報ハブとして機能している。宇宙旅行と地上輸送の融合により、モビリティセクターは新たな転換期を迎えようとしている。",
+      "url": "https://techcrunch.com/2026/06/14/techcrunch-mobility-spacex-rockets-past-tesla/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-14T16:05:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "76536343",
       "category": "テクノロジー・AI",
       "title": "The new Sonos Play has become my go-to desk and kitchen speaker",
       "summary": "ソノスの新製品「Sonos Play」は、家の中でも外でも持ち運べるポータブルスピーカーとして機能し、デスクやキッチンなど様々な場所で使用できる多機能なスピーカーである。この製品は利便性と音質の両面で優れており、ユーザーの日常生活における音声体験を大幅に向上させるデバイスとなっている。",
@@ -214,7 +234,7 @@
       "lang": "en"
     },
     {
-      "id": "28255169",
+      "id": "10785120",
       "category": "テクノロジー・AI",
       "title": "As Anthropic suspends access to new models, India debates its AI future",
       "summary": "Anthropicが新しいモデルへのアクセスを一時停止したことをきっかけに、インド国内ではAI産業の将来について議論が活発化している。このエピソードがインドのAI野心に対する警鐘となるべきかどうかについて、テック業界のリーダーたちが意見を交わしている。インドは海外の大型AI企業への依存を減らし、独自のAI開発能力を強化する必要があるという指摘が出ている。",
@@ -224,7 +244,7 @@
       "lang": "en"
     },
     {
-      "id": "76126794",
+      "id": "75580689",
       "category": "テクノロジー・AI",
       "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
       "summary": "Metaが中国政府の要求に応じて20億ドルのマヌス買収案件を解消し始めた。中国当局がこの取引の撤回を命じたことを受け、Metaは買収した事業の解体手続きを進めている。この措置は中国とアメリカの技術企業間の緊張がさらに高まっていることを示している。",
@@ -234,7 +254,7 @@
       "lang": "en"
     },
     {
-      "id": "90528078",
+      "id": "76627367",
       "category": "テクノロジー・AI",
       "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
       "summary": "Amazon のサイバーセキュリティ研究とCEO アンディ・ジャシーのホワイトハウスとの対話がきっかけで、米国はAnthropicの大規模言語モデル「Fable 5」と「Mythos 5」への海外アクセスを禁止する輸出規制指令を発令した。Amazonの論文は特定の手段を通じて懸念される技術的リスクを指摘していたとみられている。",
@@ -244,7 +264,7 @@
       "lang": "en"
     },
     {
-      "id": "15778078",
+      "id": "58265881",
       "category": "テクノロジー・AI",
       "title": "KPMG pulls report on AI usage due to apparent hallucinations",
       "summary": "KPMGはAIの使用に関する報告書を、明らかな幻覚現象が原因で撤回した。報告書にはAIが生成した不正確な情報や架空のデータが含まれていた。このケースはAI技術の信頼性の問題を再び浮き彫りにしており、AIを情報源として使用する際の危険性を示唆している。",
@@ -254,7 +274,7 @@
       "lang": "en"
     },
     {
-      "id": "23066606",
+      "id": "87548056",
       "category": "テクノロジー・AI",
       "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
       "summary": "アマゾンのアンディ・ジャッシーCEOが、アンスロピック社に対して2つのAIモデルへの世界的なアクセス遮断を促した安全保障上の懸念を提起した可能性がある。ジャッシーは政府による取り締まりの前に、アンスロピックのモデルに関する懸念を政府当局に報告したと報じられている。この問題はAI業界における安全性と政府監督のバランスをめぐる議論を引き起こしている。",
@@ -264,27 +284,7 @@
       "lang": "en"
     },
     {
-      "id": "89816612",
-      "category": "テクノロジー・AI",
-      "title": "OpenAI faces investigation from state attorneys general",
-      "summary": "OpenAIが複数の州の司法長官による調査に直面している。調査内容は広範であり、同社の広告ポリシーから健康データの取り扱いに至るまで、様々な側面が対象となっている。現在のところ、調査に関与している具体的な州は明らかになっていない。",
-      "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-13T16:47:18+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "40839815",
-      "category": "テクノロジー・AI",
-      "title": "This thin under-pillow speaker helped me fall asleep without earbuds",
-      "summary": "慢性的な不眠症に悩む著者が、耳栓の不快さと音声の外部出力の問題を解決するために、枕の下に装着する薄いスピーカーを試したところ、ポッドキャストや雨音などの音声コンテンツを快適に聞きながら眠りにつくことができるようになったという内容の記事である。",
-      "url": "https://techcrunch.com/2026/06/13/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-13T16:00:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "23369236",
+      "id": "27653471",
       "category": "台湾・中台関係",
       "title": "KMT chair seeks direct communication channel with U.S. on defense issues",
       "summary": "台湾の野党である国民党の鄭麗文主席は、防衛問題についてアメリカとの直接的なコミュニケーションチャネルの構築を望んでいると述べた。国民党はアメリカとの防衛関連の対話を強化することで、両国間のより良い理解と協力を実現することを目指している。",
@@ -294,7 +294,7 @@
       "lang": "en"
     },
     {
-      "id": "11536694",
+      "id": "80118347",
       "category": "台湾・中台関係",
       "title": "Taiwan opposition leader seeks to ease Washington's concerns over China stance during US trip",
       "summary": "台湾野党・国民党の趙少康主席が、4月の習近平国家主席との会談後の米国2週間の訪問を通じて、中国に対するスタンスについてワシントンの懸念を緩和しようとしている。国民党は台湾の主要野党であり、同主席の外交活動は両岸関係と米国の政策バランスを巡る複雑な状況を反映している。この訪問は、台湾野党が米国との関係維持と中国との対話の継続を同時に進めようとする戦略的な動きと見られている。",
@@ -304,7 +304,7 @@
       "lang": "en"
     },
     {
-      "id": "45038798",
+      "id": "31022131",
       "category": "台湾・中台関係",
       "title": "Peaccemeal cheers bulls as Dalal Street logs biggest gains in over 2 months",
       "summary": "インド株式市場は金曜日に大きく反発し、主要指数が2%以上上昇して過去8週間で最高の上げ幅を記録した。この上昇は石油価格の大幅な下落と平和交渉への楽観的な見方が買い手を呼び戻したことが主な要因となっている。",
@@ -314,7 +314,7 @@
       "lang": "en"
     },
     {
-      "id": "90469503",
+      "id": "85735832",
       "category": "台湾・中台関係",
       "title": "The Pivot to Beijing: How Xi Jinping Became the World’s Indispensable Leader",
       "summary": "3週間の間に世界最強の指導者たちが北京に電話をかけた。トランプ大統領はシリコンバレーの有力者たちに付き添われて最初に到着し、貿易の安定とアメリカの信用を失わせた中東紛争での足がかりを求めた。このように西側の主要指導者たちが相次いで中国のトップに接触する現象は、習近平がグローバルな紛争解決と経済的影響力において不可欠な指導者として台頭したことを示唆している。",
@@ -324,7 +324,7 @@
       "lang": "en"
     },
     {
-      "id": "25566688",
+      "id": "73897100",
       "category": "台湾・中台関係",
       "title": "Taiwan's opposition leader touts talks with China as necessary for peace",
       "summary": "台湾の親中派野党指導者は、中国が自国領と見なす民主的な台湾の防衛に党が全力で取り組む一方で、永続的な分離独立を議題から外すことで平和が実現可能だと述べた。この指導者は中国との対話が平和維持のために必要であると主張しており、防衛力の強化と中国との交渉のバランスを取ることが台湾の安全保障戦略の鍵となると考えている。",
@@ -334,7 +334,17 @@
       "lang": "en"
     },
     {
-      "id": "72261349",
+      "id": "24392409",
+      "category": "台湾・中台関係",
+      "title": "Taiwan opposition leader seeks to ease US concerns over China stance",
+      "summary": "台湾の野党指導者が米国訪問を通じて、中国政策に関する米国の懸念を緩和しようとしています。同野党指導者は、台湾と米国の関係強化と地域の安定維持が自党の優先事項であることを強調しています。この訪問は、台湾の政治的立場と米国の戦略的利益のバランスを取る試みを示しています。",
+      "url": "https://www.yahoo.com/news/articles/taiwan-opposition-leader-seeks-ease-211526034.html",
+      "source": "Yahoo Entertainment",
+      "published_at": "2026-06-12T21:15:26+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "72147939",
       "category": "台湾・中台関係",
       "title": "The mystery of how China is keeping down the world’s oil prices",
       "summary": "中国が世界的な石油価格の上昇を抑制しているという謎について報道した記事です。米国ではガソリン価格が昨年比で平均1ドル以上高くなっていますが、ホルムズ海峡の閉鎖という深刻な供給途絶が起きているにもかかわらず、予想されたほど急騰していません。中国の石油備蓄放出や需要管理が国際的な価格安定化に大きな役割を果たしていると考えられています。",
@@ -344,23 +354,13 @@
       "lang": "en"
     },
     {
-      "id": "71866542",
+      "id": "41829444",
       "category": "台湾・中台関係",
       "title": "KMT chair exchanges views with U.S. lawmakers, experts on Taiwan security",
       "summary": "国民党の主席が米国の上院軍事委員会委員であるダン・サリバン共和党上院議員、下院軍事委員会委員のドン・ベーコン共和党下院議員、下院外交委員会小委員会委員長のヤング・キム共和党下院議員らと会談し、台湾の安全保障に関する見方を交換した。この会談を通じて、台湾の防衛体制強化と米台関係の重要性についての意見交換がなされた。",
       "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260612-cna01.htm",
       "source": "Globalsecurity.org",
       "published_at": "2026-06-12T12:00:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "50033724",
-      "category": "台湾・中台関係",
-      "title": "Taiwan fires dozens of U.S.-supplied rockets toward China in historic live-fire exercise",
-      "summary": "台湾が中国に向けて米国製HIMARS多連装ロケット砲32基を発射する史上初の実弾演習を実施し、上陸侵攻への対応能力をテストした。この演習は素早い射撃と移動戦術を検証するもので、北京への決意表明と自衛力強化への投資の実証となっている。",
-      "url": "https://www.naturalnews.com/2026-06-12-taiwan-fires-dozens-of-u-s-supplied-rockets-toward-china-in-historic-live-fire-exercise.html",
-      "source": "Naturalnews.com",
-      "published_at": "2026-06-12T06:00:00+00:00",
       "lang": "en"
     }
   ]
