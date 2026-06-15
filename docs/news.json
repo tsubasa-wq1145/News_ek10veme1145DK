@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T17:38:13.899347+00:00",
+  "updated_at": "2026-06-15T18:58:06.426584+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -44,7 +44,7 @@
   ],
   "news": [
     {
-      "id": "78529961",
+      "id": "22550757",
       "category": "経済・ビジネス（日本）",
       "title": "高市首相 フランス エビアンに到着 G7サミット議論開始へ",
       "summary": "高市総理大臣がG7サミット開催地のフランス・エビアンに到着し、イラン情勢を含む国際的課題について夕食会で初めての議論を行う予定である。",
@@ -54,7 +54,7 @@
       "lang": "ja"
     },
     {
-      "id": "29643464",
+      "id": "39551141",
       "category": "経済・ビジネス（日本）",
       "title": "米政府高官 “両国はすでに戦闘終結に向けた覚書に署名”",
       "summary": "アメリカ政府高官は、米国とイランが戦闘終結に向けた覚書にすでに署名したと発表し、米国側はトランプ大統領とバンス副大統領が、イラン側はイラン議会のガリバフ議長が署名したと明かしました。",
@@ -64,7 +64,7 @@
       "lang": "ja"
     },
     {
-      "id": "70099334",
+      "id": "72005538",
       "category": "経済・ビジネス（日本）",
       "title": "米とイラン 戦闘終結に向けて 19日スイスで覚書署名へ",
       "summary": "アメリカとイランが戦闘終結に向けた覚書の署名に合意し、19日にスイスで正式に署名される予定です。ホルムズ海峡の開放を含む具体的な成果につながるかが注視されています。",
@@ -74,7 +74,7 @@
       "lang": "ja"
     },
     {
-      "id": "52089024",
+      "id": "85994060",
       "category": "経済・ビジネス（日本）",
       "title": "高市首相 メローニ首相と日伊首脳会談 米イランの合意歓迎",
       "summary": "高市首相がイタリアを訪問し、メローニ首相と首脳会談を行い、米国とイランの戦闘終結に向けた合意を歓迎するとともに、重要鉱物の安定確保など経済安全保障分野での協力強化で両国が一致した。",
@@ -84,7 +84,7 @@
       "lang": "ja"
     },
     {
-      "id": "43915266",
+      "id": "32295018",
       "category": "経済・ビジネス（日本）",
       "title": "NYダウ 一時600ドル超値上がり 原油供給再開に期待感",
       "summary": "ニューヨーク株式市場でダウ平均株価が15日の取り引き開始直後から買い注文が広がり、一時600ドル超値上がりして取り引き時間中の最高値を更新した。原油供給再開への期待感が背景にあるとみられている。",
@@ -94,7 +94,7 @@
       "lang": "ja"
     },
     {
-      "id": "65891464",
+      "id": "31921130",
       "category": "経済・ビジネス（日本）",
       "title": "イラン情勢 茂木外相 パキスタン外相と電話会談 連携で一致",
       "summary": "米国とイランが戦闘終結に向けた覚書の交わしで合意したことを受け、茂木外務大臣がパキスタン外相と電話会談を行いました。両国は両国の仲介役を務めるパキスタンと連携し、最終的な合意の早期実現を目指すことで一致しました。",
@@ -104,7 +104,7 @@
       "lang": "ja"
     },
     {
-      "id": "39606827",
+      "id": "91668287",
       "category": "経済・ビジネス（日本）",
       "title": "G7サミット開幕へ イラン情勢の具体的な議論が進むか注目",
       "summary": "フランスで開催されるG7サミットはアメリカとイランが戦闘終結に向けた覚書に合意した直後に行われることから、ホルムズ海峡の航行の自由を含むイラン情勢について具体的な議論が展開されるかが焦点となっている。",
@@ -114,7 +114,7 @@
       "lang": "ja"
     },
     {
-      "id": "53950048",
+      "id": "52383200",
       "category": "経済・ビジネス（日本）",
       "title": "高市首相「事態収束へ大きな一歩として歓迎」米イラン合意",
       "summary": "高市総理大臣は米イラン合意について、事態収束に向けた大きな一歩として歓迎し、当事国の外交的解決志向と仲介国の努力を評価した。同時に覚書の着実な実施とホルムズ海峡の自由で安全な航行の確保、そしてイランの核問題に関する最終合意の早期実現を強く期待する意向を示した。",
@@ -124,7 +124,17 @@
       "lang": "ja"
     },
     {
-      "id": "60342023",
+      "id": "25078345",
+      "category": "経済・ビジネス（世界）",
+      "title": "Anthropic to meet White House over AI tool suspension",
+      "summary": "Anthropicは新しくリリースされたAIモデルへのユーザーアクセスをブロックせざるを得なくなったことを受けて、ホワイトハウスとの急遽の会合を開くことになった。この会議ではAIツール停止の理由と今後の対応について協議される見込みである。",
+      "url": "https://www.bbc.com/news/articles/c9w2p7ykp8yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-06-15T18:44:26+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "56668046",
       "category": "経済・ビジネス（世界）",
       "title": "How could the US-Iran deal affect oil prices and the cost of food?",
       "summary": "米国とイランの間で核合意が成立する可能性について、専門家らは戦争の影響が今後数ヶ月間にわたって世界経済に継続的な悪影響を与える可能性があると警告している。米国とイランの関係改善は、原油価格の変動を通じて食料品などの生活必需品の価格に波及する可能性があり、世界経済の安定性に大きな影響を及ぼすと懸念されている。",
@@ -134,17 +144,7 @@
       "lang": "en"
     },
     {
-      "id": "75023095",
-      "category": "経済・ビジネス（世界）",
-      "title": "Fox to buy Roku streaming firm in $22bn deal",
-      "summary": "フォックスが約220億ドルでストリーミング企業ロクを買収し、ニュースとスポーツの提供とストリーミングを統合することで、テレビ視聴者がオンラインへシフトする中での競争力強化を目指している。この買収は、従来のテレビ放送事業をデジタル時代に適応させるための戦略的な投資と見なされている。",
-      "url": "https://www.bbc.com/news/articles/cql1yew3vezo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-06-15T14:28:12+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "58100925",
+      "id": "75429101",
       "category": "経済・ビジネス（世界）",
       "title": "Oil prices fall and shares jump after US-Iran deal announced",
       "summary": "米国とイランの合意が発表され、油価が下落して株価が上昇した。同合意により、ホルムズ海峡などの重要な海上通路が再開されるとトランプ大統領が述べた。この合意は世界的なエネルギー供給の改善をもたらし、市場に好影響を与えている。",
@@ -154,7 +154,7 @@
       "lang": "en"
     },
     {
-      "id": "52145634",
+      "id": "67885130",
       "category": "経済・ビジネス（世界）",
       "title": "What's happening to UK petrol and diesel prices now the US and Iran have a deal?",
       "summary": "ウクライナ戦争の勃発によって中東のエネルギー生産と輸送が混乱し、燃料価格が急騰した。米国とイランの合意により、石油供給の不確実性が軽減される可能性があり、これはイラン産石油の市場への復帰につながる見込みである。この合意がイギリスのガソリンとディーゼル価格の低下をもたらすかは、世界市場の需給バランスと地政学的な動向に左右されることになる。",
@@ -164,7 +164,7 @@
       "lang": "en"
     },
     {
-      "id": "60090882",
+      "id": "11992410",
       "category": "経済・ビジネス（世界）",
       "title": "Why I sold my business to my staff",
       "summary": "米国ではビジネスオーナーの高齢化に伴い、従業員への事業売却が増加している傾向にある。この動きは、企業の所有権を従業員に譲渡することで、スタッフのモチベーション向上や企業文化の継続を実現する利点がある。高齢経営者にとっても、事業の後継者問題を解決しながら従業員に報酬を与える有効な方法となっている。",
@@ -174,7 +174,7 @@
       "lang": "en"
     },
     {
-      "id": "64960936",
+      "id": "81876242",
       "category": "経済・ビジネス（世界）",
       "title": "Millions of people can get discounts on their bills - here's how",
       "summary": "社会保障給付を受けている人々を対象とした低い社会料金により、水道料金、ブロードバンド、電話サービスの割引を受けることができます。何百万人もの人々がこれらのサービスで割引を受ける対象となっており、割引を受ける方法についての情報が提供されています。",
@@ -184,7 +184,7 @@
       "lang": "en"
     },
     {
-      "id": "11630003",
+      "id": "84930735",
       "category": "経済・ビジネス（世界）",
       "title": "Financial losses from scams hit £1.3bn a year as criminals turn to AI",
       "summary": "イギリスでは詐欺による年間損失が13億ポンドに達し、犯罪者がAI技術を悪用するようになっている。平均して毎分8件近くの金銭詐欺事件がイギリスで報告されており、深刻な問題となっている。AI技術の進化により、詐欺の手口がより巧妙になり、被害額が急増しているという状況が明らかになった。",
@@ -194,7 +194,7 @@
       "lang": "en"
     },
     {
-      "id": "52575289",
+      "id": "38920687",
       "category": "経済・ビジネス（世界）",
       "title": "Is the convertible heading into the sunset?",
       "summary": "イギリスの自動車市場ではSUVが人気を集めているが、コンバーチブル車の衰退の流れが逆転する可能性があるのか検討されている。かつて人気だったコンバーチブル車の販売は減少しており、消費者の嗜好がより実用的なSUVへシフトしている傾向が見られている。ただし、プレミアム市場や特定のセグメントでは依然として需要があり、今後の市場動向に注目が集まっている。",
@@ -204,7 +204,57 @@
       "lang": "en"
     },
     {
-      "id": "53014690",
+      "id": "86137047",
+      "category": "テクノロジー・AI",
+      "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
+      "summary": "Metaは月曜日、Facebookで新しいAI機能を展開することを発表し、AI競争で追いつくとともにユーザーのプラットフォーム利用を増やす企業の取り組みを示している。新しい「AIモード」はMeta傘下のプラットフォーム全体から公開情報を活用して、ユーザーエンゲージメントの向上とAI分野での競争力強化を目指している。",
+      "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-15T18:30:58+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "46793811",
+      "category": "テクノロジー・AI",
+      "title": "SpaceX is public: Everything you need to know post-IPO",
+      "summary": "SpaceXが上場を果たし、TechCrunchはこの歴史的な瞬間の詳細な報道を提供している。この記事では、IPOによる恩恵を受ける企業や個人、上場前の取引内容、そして企業登録書類に含まれる重要な情報について解説している。TechCrunchは同社の創業初期から現在まで追い続けており、上場後の展開についても継続して報道していく予定である。",
+      "url": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-15T18:30:34+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "52680998",
+      "category": "テクノロジー・AI",
+      "title": "Trump’s Anthropic shutdown just made the case for non-American AI",
+      "summary": "トランプ政権の要求により、米国企業のAnthropicは最新の強力なAIモデルをオフラインにしました。ホワイトハウスが外国籍従業員を含む全外国人のアクセス遮断を命じたためです。この事件は米国が最先端AI技術を支配するだけでなく、その利用を政治的に制御できることを示し、海外ではアメリカ非依存なAI開発の必要性を痛感させることになりました。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
+      "source": "AI | The Verge",
+      "published_at": "2026-06-15T18:10:27+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "57609323",
+      "category": "テクノロジー・AI",
+      "title": "Big Tech’s desperate last push at AI regulation",
+      "summary": "ビッグテックの業界団体がワシントンで、AIに関する統一的な連邦法制定を求めるロビー活動に注力している。州ごとのばらばらな規制を統一し、包括的な連邦レベルのAI規制を全米に適用することで、企業の規制負担を軽減したいという狙いだ。",
+      "url": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress",
+      "source": "AI | The Verge",
+      "published_at": "2026-06-15T17:44:10+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "77016403",
+      "category": "テクノロジー・AI",
+      "title": "These are the countries moving to ban social media for children",
+      "summary": "オーストラリアは2025年後半に子どもによるソーシャルメディア利用を禁止する法律を最初に導入し、いじめや依存症、捕食者への露出など若年ユーザーが直面する危険やプレッシャーを軽減することを目指している。複数の国がこのオーストラリアの取り組みに続く動きを見せており、子どもを保護するための同様の規制が世界的に広がりつつある。",
+      "url": "https://techcrunch.com/2026/06/15/social-media-ban-children-countries-list/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-15T17:41:02+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "38532582",
       "category": "テクノロジー・AI",
       "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
       "summary": "サイバーセキュリティ専門家の団体が、米政府によるAnthropicの最先端モデル「Fable」と「Mythos」の輸出規制に反対し、ホワイトハウスに規制の解除を求めている。専門家らは、この措置がサイバーセキュリティの防御担当者がソフトウェアやプロダクトを保護する能力を制限する危険があると主張している。",
@@ -214,7 +264,7 @@
       "lang": "en"
     },
     {
-      "id": "39119528",
+      "id": "58637184",
       "category": "テクノロジー・AI",
       "title": "SpaceX’s biggest-ever IPO just grew to $85.7 billion raised",
       "summary": "SpaceXの過去最大規模となったIPOで、引受会社が株式購入権を最大限に行使したことにより、調達額は857億ドルに拡大した。このIPOは同社の歴史的な資金調達となり、引受会社らによる積極的な購入姿勢が反映されている。SpaceXはこの巨額資金により、宇宙事業の拡大と技術開発を加速させることが期待されている。",
@@ -224,7 +274,7 @@
       "lang": "en"
     },
     {
-      "id": "35253907",
+      "id": "86627506",
       "category": "テクノロジー・AI",
       "title": "UK unveils sweeping social media ban for users under 16",
       "summary": "英国は16歳未満のユーザーを対象とした包括的なソーシャルメディア禁止令を発表した。この規制はSnapchat、TikTok、YouTube、Instagram、Facebook、Xを含む様々なソーシャルメディアプラットフォームに適用される。この措置は若年層のオンライン安全性と心身の健康保護を目的としている。",
@@ -234,57 +284,7 @@
       "lang": "en"
     },
     {
-      "id": "25810149",
-      "category": "テクノロジー・AI",
-      "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
-      "summary": "Salesforceが顧客サービスAIプラットフォームのFinを36億ドルで買収しました。Salesforceはこの買収によりFinのチームと技術を獲得し、企業がAIエージェントを構築してタスク自動化ができる既存プラットフォーム「Agentforce」の機能向上に活用する予定です。",
-      "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-15T14:34:45+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "36968665",
-      "category": "テクノロジー・AI",
-      "title": "Skydio CEO Adam Bry on why Silicon Valley shouldn’t draw red lines for drone use",
-      "summary": "ドローンメーカーのSkydio CEO アダム・ブライ氏は、シリコンバレーがドローンの利用方法に対して厳しい制限を設けるべきではないと主張している。ブライ氏はドローン技術が様々な産業や社会的課題の解決に貢献できる可能性があると考えており、過度な規制よりも責任ある利用を促進することが重要だと述べている。取材前に、ニューヨークのポッドキャストスタジオからベイエリアのドローンを遠隔操作するデモンストレーションが行われた。",
-      "url": "https://www.theverge.com/podcast/949195/skydio-ceo-adam-bry-autonmous-drones-china-red-lines-military",
-      "source": "AI | The Verge",
-      "published_at": "2026-06-15T14:00:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "84177412",
-      "category": "テクノロジー・AI",
-      "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
-      "summary": "インドのAIスタートアップ企業Sarvamが2億3400万ドルの資金調達ラウンドでユニコーン企業となり、IT企業HCLTechが1億5000万ドルを投資して主導した。この投資によりSarvamはインド最新のユニコーン企業となり、AIテクノロジー分野での急速な成長と投資家からの信頼を示すものである。",
-      "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-15T13:46:08+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "85311718",
-      "category": "テクノロジー・AI",
-      "title": "Fox to acquire Roku in $22B deal",
-      "summary": "フォックスは220億ドルでロクを買収し、米国第3位のテレビ企業を創出すると発表した。この買収により、フォックスはストリーミングプラットフォーム事業を強化し、デジタル時代での競争力を高めることができる。両社の統合により、より大規模なメディアグループが誕生することになる。",
-      "url": "https://techcrunch.com/2026/06/15/fox-to-acquire-roku-in-22-billion-deal/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-15T13:43:05+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "49304831",
-      "category": "テクノロジー・AI",
-      "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
-      "summary": "AI技術の進展により、企業内でAIエージェントが従業員のような役割を担うようになる中、NewCoreが6600万ドルの資金調達を実施し、AIエージェントに身元認証機能を提供するサービスを立ち上げた。NewCoreは、企業セキュリティの次の課題は人間ではなくAIエージェントの管理になると主張している。",
-      "url": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-15T13:00:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "29940404",
+      "id": "72567528",
       "category": "台湾・中台関係",
       "title": "Peeling back Beijing’s grey-zone playbook",
       "summary": "中国の灰色地帯戦略と挑発的な政治戦術に関する著作が、インドにとって重要な教訓を提供している。この書籍は、中国が国際関係において採用する強制的な戦略と挑発行為のパターンを詳細に分析し、特にインドのような隣国がいかにこれらの戦術に対抗すべきかについての洞察を示している。中国の灰色地帯戦略を理解することは、地域の安定と国家安全保障を守る上で各国にとって不可欠である。",
@@ -294,7 +294,7 @@
       "lang": "en"
     },
     {
-      "id": "66368070",
+      "id": "42081875",
       "category": "台湾・中台関係",
       "title": "Why strongmen are wrong to loathe Europe",
       "summary": "ヨーロッパを軽視する独裁的指導者たちの判断は誤りである。アメリカ、中国、ロシアの指導者たちは合意に基づく政治を軽蔑しているが、ヨーロッパの民主的で協調的なアプローチは、長期的な安定と繁栄をもたらす点で優れている。各国の独裁的リーダーシップは短期的な力を示すかもしれないが、合意形成を重視するヨーロッパの政治体制こそが、より持続可能で効果的な統治モデルであることを示唆している。",
@@ -304,7 +304,7 @@
       "lang": "en"
     },
     {
-      "id": "57023640",
+      "id": "33081123",
       "category": "台湾・中台関係",
       "title": "Taiwan cites China market risks after procurement pledges",
       "summary": "台湾の農業委員会は、中国が農業・漁業製品の購入計画を発表した翌日に、中国は安定した信頼できる輸出市場ではないと警告した。中国厦門での両岸フォーラムで中国側が台湾製品の購入を約束したものの、台湾当局は市場リスクの懸念を表明している。台湾は過去に中国による農産物輸入制限の経験があるため、こうした約束の実行性に対して慎重な姿勢を示している。",
@@ -314,7 +314,7 @@
       "lang": "en"
     },
     {
-      "id": "59929676",
+      "id": "84594884",
       "category": "台湾・中台関係",
       "title": "Taiwan's spy agency launches webpage for Chinese nationals to report tips",
       "summary": "台湾の情報機関が、中国における経済的・政治的圧力による国民の不満の増加を背景に、中国国民が情報提供できるセキュアなオンラインチャネルを開設した。この取り組みは西側情報機関の慣例に倣ったもので、中国内の不安定化につけ込む台湾の戦略的な動きと言える。",
@@ -324,7 +324,7 @@
       "lang": "en"
     },
     {
-      "id": "43324082",
+      "id": "15043830",
       "category": "台湾・中台関係",
       "title": "KMT chair seeks direct communication channel with U.S. on defense issues",
       "summary": "台湾の野党である国民党の鄭麗文主席は、防衛問題についてアメリカとの直接的なコミュニケーションチャネルの構築を望んでいると述べた。国民党はアメリカとの防衛関連の対話を強化することで、両国間のより良い理解と協力を実現することを目指している。",
@@ -334,7 +334,7 @@
       "lang": "en"
     },
     {
-      "id": "78057695",
+      "id": "61868085",
       "category": "台湾・中台関係",
       "title": "Taiwan opposition leader seeks to ease Washington's concerns over China stance during US trip",
       "summary": "台湾野党・国民党の趙少康主席が、4月の習近平国家主席との会談後の米国2週間の訪問を通じて、中国に対するスタンスについてワシントンの懸念を緩和しようとしている。国民党は台湾の主要野党であり、同主席の外交活動は両岸関係と米国の政策バランスを巡る複雑な状況を反映している。この訪問は、台湾野党が米国との関係維持と中国との対話の継続を同時に進めようとする戦略的な動きと見られている。",
@@ -344,7 +344,7 @@
       "lang": "en"
     },
     {
-      "id": "48116099",
+      "id": "77480250",
       "category": "台湾・中台関係",
       "title": "Peaccemeal cheers bulls as Dalal Street logs biggest gains in over 2 months",
       "summary": "インド株式市場は金曜日に大きく反発し、主要指数が2%以上上昇して過去8週間で最高の上げ幅を記録した。この上昇は石油価格の大幅な下落と平和交渉への楽観的な見方が買い手を呼び戻したことが主な要因となっている。",
@@ -354,7 +354,7 @@
       "lang": "en"
     },
     {
-      "id": "23760888",
+      "id": "70902126",
       "category": "台湾・中台関係",
       "title": "The Pivot to Beijing: How Xi Jinping Became the World’s Indispensable Leader",
       "summary": "3週間の間に世界最強の指導者たちが北京に電話をかけた。トランプ大統領はシリコンバレーの有力者たちに付き添われて最初に到着し、貿易の安定とアメリカの信用を失わせた中東紛争での足がかりを求めた。このように西側の主要指導者たちが相次いで中国のトップに接触する現象は、習近平がグローバルな紛争解決と経済的影響力において不可欠な指導者として台頭したことを示唆している。",
