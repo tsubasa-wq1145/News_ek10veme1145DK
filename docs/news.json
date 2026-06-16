@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T18:47:47.705620+00:00",
+  "updated_at": "2026-06-16T20:22:29.268127+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -44,7 +44,7 @@
   ],
   "news": [
     {
-      "id": "21760380",
+      "id": "83920594",
       "category": "経済・ビジネス（日本）",
       "title": "南米とのEPA交渉開始で合意 原油・重要鉱物の確保目指す",
       "summary": "日本政府がメルコスール（南米関税同盟）とのEPA交渉開始で合意し、自動車輸出の拡大とともに、原油や重要鉱物などの戦略的な資源確保を目指しています。",
@@ -54,7 +54,7 @@
       "lang": "ja"
     },
     {
-      "id": "68373544",
+      "id": "78190935",
       "category": "経済・ビジネス（日本）",
       "title": "G7サミット２日目 ウクライナやイランめぐる情勢を議論",
       "summary": "フランスで開かれているG7サミット2日目では、ウクライナ情勢について議論が行われ、その後中東の首脳も参加してイラン情勢をめぐる協議が実施されました。G7として実質的な議論を進め、具体的な成果を示すことが課題となっています。",
@@ -64,7 +64,7 @@
       "lang": "ja"
     },
     {
-      "id": "77493200",
+      "id": "20959760",
       "category": "経済・ビジネス（日本）",
       "title": "中国 習主席とミャンマー軍影響力強い政権トップが会談",
       "summary": "習近平主席はミャンマーの軍政権トップ、ミン・アウン・フライン大統領と北京で会談し、両国の連携強化の意向を示しました。",
@@ -74,7 +74,7 @@
       "lang": "ja"
     },
     {
-      "id": "59577760",
+      "id": "45018932",
       "category": "経済・ビジネス（日本）",
       "title": "高市首相 トランプ氏と懇談 中東情勢で意見交わす 仏G7会場で",
       "summary": "高市総理大臣がフランスのG7サミット会場でトランプ米大統領と短時間懇談し、アメリカとイランの戦闘終結に向けた覚書署名を受けて中東情勢について意見を交わした。",
@@ -84,7 +84,7 @@
       "lang": "ja"
     },
     {
-      "id": "25151519",
+      "id": "42417492",
       "category": "経済・ビジネス（日本）",
       "title": "茂木外相 イスラエル外相と電話会談 米イラン合意へ適切対応を",
       "summary": "茂木外務大臣はイスラエルのサール外相と電話会談し、米イラン間の戦闘終結に向けた覚書の実施と最終合意の早期実現が重要であると述べ、イスラエルに適切な対応を強く求めました。",
@@ -94,7 +94,7 @@
       "lang": "ja"
     },
     {
-      "id": "65686736",
+      "id": "21952797",
       "category": "経済・ビジネス（日本）",
       "title": "米とイランの戦闘終結に向けた覚書 19日に署名式 新たな協議へ",
       "summary": "アメリカのバンス副大統領とイランが19日に戦闘終結に向けた覚書に署名し、実務的な協議を開始する。イラン側は核問題を含む最終合意に向けて60日間の協議継続を表明している。",
@@ -104,7 +104,7 @@
       "lang": "ja"
     },
     {
-      "id": "32507910",
+      "id": "75958258",
       "category": "経済・ビジネス（日本）",
       "title": "【随時更新】ロシア ウクライナに軍事侵攻（6月16日の動き）",
       "summary": "ロシアによるウクライナへの軍事侵攻が続いており、ウクライナ全土でロシア軍とウクライナ軍が戦闘を繰り広げている中、多くの市民が国外への避難を余儀なくされている。6月16日の戦闘状況と関係各国の外交動向を随時更新で報道する。",
@@ -114,7 +114,7 @@
       "lang": "ja"
     },
     {
-      "id": "14364054",
+      "id": "62477840",
       "category": "経済・ビジネス（日本）",
       "title": "北朝鮮 キム総書記 中国 習主席の誕生日に祝賀メッセージ",
       "summary": "北朝鮮のキム・ジョンウン総書記が中国の習近平主席の73歳の誕生日に祝賀メッセージを送り、両国の友好関係を強調しました。",
@@ -124,7 +124,7 @@
       "lang": "ja"
     },
     {
-      "id": "25460863",
+      "id": "91838705",
       "category": "経済・ビジネス（世界）",
       "title": "Struggling Pizza Hut chain to be sold for $2.7bn",
       "summary": "ピザハットは経営難により27億ドルで売却されることが決定した。同チェーンは多くのライバル企業との競争激化により、長期間にわたって経営困難に直面していた。",
@@ -134,7 +134,7 @@
       "lang": "en"
     },
     {
-      "id": "22850721",
+      "id": "65841559",
       "category": "経済・ビジネス（世界）",
       "title": "Musk's SpaceX overtakes Amazon to become world's fifth most valuable firm",
       "summary": "イーロン・マスク率いるスペースXは、IPO後数日でAIコーディング新興企業のCursorを買収することで合意し、スペースXの株価急騰により時価総額でアマゾンを抜いて世界で5番目に価値の高い企業となった。",
@@ -144,7 +144,7 @@
       "lang": "en"
     },
     {
-      "id": "42822094",
+      "id": "84596511",
       "category": "経済・ビジネス（世界）",
       "title": "Thames Water moves step closer to nationalisation after government objects to rescue deal",
       "summary": "テムズウォーターは政府が救済案に異議を唱えたため、国有化に一歩近づいた。環境大臣は、この案が消費者と環境に対して十分な対応をしていないと述べており、英国の大手水道会社が経営難から脱するための民間救済案が政府に認められず、国有化の可能性が高まっている。",
@@ -154,7 +154,7 @@
       "lang": "en"
     },
     {
-      "id": "19573474",
+      "id": "38395293",
       "category": "経済・ビジネス（世界）",
       "title": "How the Iran war affects your money and bills",
       "summary": "イランの紛争は中東地域での対立を深刻化させ、ガソリン価格、家庭用エネルギー料金、さらには食料品の価格上昇につながっている。これらの価格上昇は消費者の日常生活費に直接的な影響を与えており、特に家計管理に大きな負担をもたらしている。中東での地政学的な不安定性が世界経済に波及し、市民レベルでの経済負担が増加している。",
@@ -164,7 +164,7 @@
       "lang": "en"
     },
     {
-      "id": "31796365",
+      "id": "48861640",
       "category": "経済・ビジネス（世界）",
       "title": "Why is Thames Water in so much trouble?",
       "summary": "テムズ・ウォーター社は配管老朽化と環境規制強化に伴う膨大な投資負担、加えて経営陣の不適切な給与決定が重なり、深刻な財政危機に直面している。同社の債権者らが企業救済計画を提出したが、この状況に至るまでには長年の経営課題と業界全体の構造的問題が関わっており、英国の水道事業の抜本的改革が急務となっている。",
@@ -174,7 +174,7 @@
       "lang": "en"
     },
     {
-      "id": "30497720",
+      "id": "20485399",
       "category": "経済・ビジネス（世界）",
       "title": "Japan raises interest rate to highest for 31 years",
       "summary": "日本銀行が金利を31年ぶりの高水準に引き上げた。2024年から金利をゼロ近辺から段階的に引き上げてきた日本銀行は、継続的な金融引き締めを進めており、長期にわたるデフレ脱却と物価安定を目指した金融政策の転換を実施している。",
@@ -184,7 +184,7 @@
       "lang": "en"
     },
     {
-      "id": "48643617",
+      "id": "69557676",
       "category": "経済・ビジネス（世界）",
       "title": "What is Helium-3 and could we get it from the moon?",
       "summary": "ヘリウム-3は現在高価であり、今後需要が急増すると予想されているため、月からの採掘を計画する企業や研究機関が出現している。ヘリウム-3は核融合発電や医療用途など複数の産業で重要な資源として注目されており、月の土壌に豊富に存在することが知られている。月からのヘリウム-3採掘は将来のエネルギー供給と経済発展の可能性を秘めた野心的なプロジェクトとして検討されている。",
@@ -194,7 +194,7 @@
       "lang": "en"
     },
     {
-      "id": "69523535",
+      "id": "37966994",
       "category": "経済・ビジネス（世界）",
       "title": "How could the US-Iran deal affect oil prices and the cost of food?",
       "summary": "米国とイランの間で核合意が成立する可能性について、専門家らは戦争の影響が今後数ヶ月間にわたって世界経済に継続的な悪影響を与える可能性があると警告している。米国とイランの関係改善は、原油価格の変動を通じて食料品などの生活必需品の価格に波及する可能性があり、世界経済の安定性に大きな影響を及ぼすと懸念されている。",
@@ -204,7 +204,17 @@
       "lang": "en"
     },
     {
-      "id": "47167073",
+      "id": "37097613",
+      "category": "テクノロジー・AI",
+      "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
+      "summary": "SpaceXの企業価値が2.6兆ドルに膨らみ、一時的にAmazonを上回りました。同社の株式が金曜日から取引開始された以来、企業価値は1兆ドル増加しています。",
+      "url": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-16T20:11:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "36996470",
       "category": "テクノロジー・AI",
       "title": "Qualcomm wants to be the chip inside whatever replaces your smartphone, and it just announced two products toward that end",
       "summary": "クアルコムは、スマートフォンに代わるデバイスの中核チップとなることを目指しており、CEOは同社が40以上の新しいAIハードウェア設計に取り組んでいることを発表した。クアルコムはスマートフォンの後継となる可能性のある様々なデバイスに対応するため、複数の新製品を発表することで、次世代の主要チップメーカーとしての地位を確立しようとしている。",
@@ -214,7 +224,7 @@
       "lang": "en"
     },
     {
-      "id": "17024337",
+      "id": "47391895",
       "category": "テクノロジー・AI",
       "title": "Bug in FIFA World Cup internal system gave anyone ability to modify TV stream",
       "summary": "FIFAのオンラインプラットフォームに存在するセキュリティ上の欠陥により、研究者がワールドカップの全試合のテレビ放映をコントロール可能なシステムを含む複数の内部システムへのアクセスに成功した。この脆弱性は、認証なしに誰でもTV配信を改ざんできる危険な状態にあり、FIFAの重要なインフラストラクチャが深刻なリスクにさらされていたことが明らかになった。",
@@ -224,7 +234,7 @@
       "lang": "en"
     },
     {
-      "id": "53072531",
+      "id": "45470463",
       "category": "テクノロジー・AI",
       "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
       "summary": "Googleが新OS「Android 17」と「Wear OS 7」をリリースし、マルチタスキング機能、ペアレンタルコントロール、セキュリティツール、スマートウォッチの機能強化を導入した。同時にPixel Dropも提供され、Googleの最新AIモデルがデバイスに搭載される。",
@@ -234,7 +244,7 @@
       "lang": "en"
     },
     {
-      "id": "62636796",
+      "id": "73037341",
       "category": "テクノロジー・AI",
       "title": "Mobileye’s US robotaxi launch will put it on both sides of the AV business",
       "summary": "モービルアイは自社の自動運転システムを供給する企業と直接競争することになっても、ロボタクシー市場の一部を手中に収めたいと考えているようだ。モービルアイがアメリカでロボタクシーサービスを立ち上げることで、自動運転業界の両側に位置することになり、サプライヤーとしての立場と実際のロボタクシーオペレーターとしての立場の両方を担うことになる。この戦略により、モービルアイは市場全体における影響力を強化しようとしている。",
@@ -244,7 +254,7 @@
       "lang": "en"
     },
     {
-      "id": "76410491",
+      "id": "25287850",
       "category": "テクノロジー・AI",
       "title": "Rivian cuts hundreds of workers after R2 deliveries start",
       "summary": "リビアンは廉価モデルR2の納車開始後、数百人の従業員を削減することを発表した。同社は構造改革により採算性を重視した経営へのシフトを目指しており、自動運転技術への投資のため収益化の目標時期を後ろ倒しにしている。",
@@ -254,17 +264,7 @@
       "lang": "en"
     },
     {
-      "id": "30550173",
-      "category": "テクノロジー・AI",
-      "title": "Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone",
-      "summary": "Appleは2027年後半に、AIとの連携を目的としたカメラ搭載AirPodsの発売を予定しており、このほかにも新しいハードウェアの開発が進められている。ブルームバーグのマーク・ガーマン記者によると、これらのデバイスはWWDCで発表されたAI機能と統合される見込みである。また、2番目の折りたたみiPhoneの開発も進行中とされている。",
-      "url": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
-      "source": "AI | The Verge",
-      "published_at": "2026-06-16T17:04:05+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "54917063",
+      "id": "54733596",
       "category": "テクノロジー・AI",
       "title": "Snap finally debuts its long-awaited AR glasses, Specs, and, oof, they aren’t cheap",
       "summary": "Snapはついに10年以上の開発期間を経てAR眼鏡「Specs」をついに発表した。この製品は長年待ち望まれていたが、価格は相当高額となっている。初見での印象としては、Snapの長期開発プロジェクトがついに実現したということが最大の特徴である。",
@@ -274,17 +274,27 @@
       "lang": "en"
     },
     {
-      "id": "80263300",
+      "id": "54377602",
       "category": "テクノロジー・AI",
-      "title": "Qualcomm’s latest chip hints that more powerful smart glasses could be on the way",
-      "summary": "クアルコムが新型チップ「Snapdragon Reality Elite」を発表しており、このチップはAR/VRデバイス向けの処理能力を大幅に向上させるものである。スマートグラスはまだ発展途上のカテゴリーだが、このチップにより次世代のXRデバイスがより強力になることが期待されている。クアルコムは本チップを業界展示会で発表予定だが、すでに実機での体験が行われているという。",
-      "url": "https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables",
-      "source": "AI | The Verge",
-      "published_at": "2026-06-16T17:00:00+00:00",
+      "title": "Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
+      "summary": "米国の消費者調査によると、ブランドメッセージに「AI」という表記がある場合、60%の消費者がそれを敬遠していることが明らかになった。企業がAI検索を重要なリファレルチャネルと考える傾向が高まる一方で、消費者はAI生成の回答に対して慎重な姿勢を示している。この調査はWordPress VIPが実施したもので、企業のAI活用と消費者の認識との間にギャップが存在することを示唆している。",
+      "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-16T16:49:44+00:00",
       "lang": "en"
     },
     {
-      "id": "52151331",
+      "id": "28083709",
+      "category": "台湾・中台関係",
+      "title": "Asian stocks surge on tentative US-Iran agreement, easing energy fears and lifting Bitcoin",
+      "summary": "米国とイランの暫定合意により、アジア株が上昇し、エネルギー価格への懸念が緩和されて、ビットコインも上伸している。この合意は世界市場の安定化、エネルギーコスト低下、リスク資産の上昇につながる可能性があり、投資戦略に大きな影響を与えると見られている。",
+      "url": "https://cryptobriefing.com/asian-stocks-surge-us-iran-agreement-bitcoin/",
+      "source": "Crypto Briefing",
+      "published_at": "2026-06-15T19:02:44+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "82819379",
       "category": "台湾・中台関係",
       "title": "How Taiwan Is Balancing Between US and Chinese Visions of Energy Dominance",
       "summary": "台湾は米国と中国という両大国のエネルギー支配戦略の狭間で、手頃な価格でありながら外部からの支配を受けない独立したエネルギーシステムの構築を目指している。台湾にとってはエネルギー自給能力が経済的安定と国家安全保障に直結するため、この戦略的バランスは特に重要な課題となっている。",
@@ -294,7 +304,7 @@
       "lang": "en"
     },
     {
-      "id": "41770263",
+      "id": "34270446",
       "category": "台湾・中台関係",
       "title": "Fear of Being Left Behind: Taiwanese Concerns After the Trump–Xi Summit",
       "summary": "トランプ米大統領と習近平中国主席の首脳会談後、台湾国民の間でワシントンと北京が関係安定化を図る過程で台湾の利益が軽視または犠牲にされるのではないかという懸念が広がっている。最近の世論調査では、台湾人の多くが米中両国による二国間関係の改善交渉の中で台湾が蚊帳の外に置かれることへの不安を抱いていることが明らかになった。これは台湾が米中関係の変化に対して脆弱な立場にあることへの国民の危機感を反映している。",
@@ -304,7 +314,7 @@
       "lang": "en"
     },
     {
-      "id": "17551654",
+      "id": "63421607",
       "category": "台湾・中台関係",
       "title": "The 18th Straits Forum continues to expand people-to-people exchanges and deepen integrated development",
       "summary": "2026年6月13日に中国福建省厦門市で開催された第18回海峡フォーラムは、両岸間の人的交流の拡大と統合発展の深化を継続している。このフォーラムは、中国と台湾地域の間の交流プラットフォームとして機能し、経済・文化・社会など多角的な連携を推進している。参加者らは相互理解と協力の強化を通じ、地域の安定と繁栄の実現を目指している。",
@@ -314,7 +324,7 @@
       "lang": "en"
     },
     {
-      "id": "51412982",
+      "id": "86553249",
       "category": "台湾・中台関係",
       "title": "The 7th Cross-Strait Financial Forum and Taiwan-Funded Enterprise Development Forum Held in Xiamen",
       "summary": "2026年6月12日、厦門で第7回海峡両岸金融フォーラムおよび台湾系企業発展フォーラムが開催された。このフォーラムは福建省金融規制当局と関連機関により共同で主催され、海峡両岸の金融協力と台湾系企業の発展促進を目的としている。両岸の金融機関や企業の代表者が参加し、経済的連携強化について協議した。",
@@ -324,7 +334,7 @@
       "lang": "en"
     },
     {
-      "id": "71645399",
+      "id": "23024082",
       "category": "台湾・中台関係",
       "title": "Iran and US Reach a Tentative Deal to End War as Israel Rules Out Withdrawing from Seized Land",
       "summary": "イランとアメリカが不安定な停戦を延長し、ホルムズ海峡の再開につながる初期合意に達した。一方、イスラエルは占領地からの撤退を拒否する姿勢を示している。この合意は地域の緊張緩和に向けた重要な一歩となるが、イスラエルの強硬姿勢により中東和平交渉は複雑な状況が続いている。",
@@ -334,7 +344,7 @@
       "lang": "en"
     },
     {
-      "id": "54049041",
+      "id": "10231079",
       "category": "台湾・中台関係",
       "title": "Xinhua Silk Road: Thematic cultural week held in SE China county to deepen cross-Strait exchanges",
       "summary": "2026年6月10日から12日にかけて、福建省古田県で開催された陳靖姑文化活動週は、第18回海峡フォーラムのサブイベントとして、地元の人々と遠方からの訪問者を集めた。このイベントは中国東南部での文化交流を深め、両岸間の連携を強化することを目的としている。古田県ではこの文化活動週を通じて、地域の伝統文化と観光交流の振興に力を入れている。",
@@ -344,23 +354,13 @@
       "lang": "en"
     },
     {
-      "id": "91666183",
+      "id": "11975325",
       "category": "台湾・中台関係",
       "title": "Electronics makers face component shortages as Gulf shipping crisis hits production",
       "summary": "インド電子機器メーカーは、紅海での海運危機による船舶不足のため、マイクロプロセッサーやバッテリーなどの重要部品の深刻な不足に直面している。海運遅延により生産スケジュールが大きく乱れており、各企業は対応を余儀なくされている。",
       "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/electronics-makers-face-component-shortages-as-gulf-shipping-crisis-hits-production/articleshow/131728490.cms",
       "source": "The Times of India",
       "published_at": "2026-06-15T00:30:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "81886741",
-      "category": "台湾・中台関係",
-      "title": "Peeling back Beijing’s grey-zone playbook",
-      "summary": "中国の灰色地帯戦略と挑発的な政治戦術に関する著作が、インドにとって重要な教訓を提供している。この書籍は、中国が国際関係において採用する強制的な戦略と挑発行為のパターンを詳細に分析し、特にインドのような隣国がいかにこれらの戦術に対抗すべきかについての洞察を示している。中国の灰色地帯戦略を理解することは、地域の安定と国家安全保障を守る上で各国にとって不可欠である。",
-      "url": "https://www.thehindubusinessline.com/books/peeling-back-beijings-grey-zone-playbook/article71094621.ece",
-      "source": "BusinessLine",
-      "published_at": "2026-06-14T13:48:48+00:00",
       "lang": "en"
     }
   ]
