@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T12:58:21.338681+00:00",
+  "updated_at": "2026-06-17T14:39:32.781583+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -44,7 +44,27 @@
   ],
   "news": [
     {
-      "id": "85239704",
+      "id": "28527768",
+      "category": "経済・ビジネス（日本）",
+      "title": "【ライブ配信】高市首相会見 トランプ大統領会見へ G7日程終え",
+      "summary": "フランスで開かれているG7サミットは最終日となる17日に経済とAIに関する議論を行い、議長国フランスのマクロン大統領による総括記者会見を経て閉幕する予定です。",
+      "url": "http://www3.nhk.or.jp/news/html/20260617/k10015152391000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-17T14:23:21+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "11105653",
+      "category": "経済・ビジネス（日本）",
+      "title": "日オマーン外相電話会談 ホルムズ海峡の安全航行向け意思疎通",
+      "summary": "茂木外務大臣とオマーンのバドル外相が電話会談を行い、ホルムズ海峡の自由で安全な航行確保を含めた地域の平和と安定の実現に向けて、緊密に意思疎通していくことで一致した。",
+      "url": "http://www3.nhk.or.jp/news/html/20260617/k10015152721000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-17T13:45:10+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "84187070",
       "category": "経済・ビジネス（日本）",
       "title": "台湾最大野党 国民党 鄭主席 米訪問も政権要人と会えずか",
       "summary": "台湾の野党国民党の鄭麗文主席がアメリカを訪問し、台湾海峡の平和を目指す立場について米国の理解が得られたと主張したが、一部メディアはトランプ政権要人との面会が取り消されたと報じており、訪問の成果に疑問を呈している。",
@@ -54,7 +74,7 @@
       "lang": "ja"
     },
     {
-      "id": "40970051",
+      "id": "54460395",
       "category": "経済・ビジネス（日本）",
       "title": "米イラン覚書草案報道 ホルムズ海峡通航再開へ合意履行なるか",
       "summary": "アメリカとイランが戦闘終結に向けた覚書の署名式をスイス中部ビュルゲンシュトックで19日に開催する予定とスイス外務省が発表しました。一方、イスラエルがレバノン南部への攻撃を継続しており、今後の協議に悪影響を与える可能性が懸念されています。",
@@ -64,17 +84,7 @@
       "lang": "ja"
     },
     {
-      "id": "34706512",
-      "category": "経済・ビジネス（日本）",
-      "title": "G7サミット最終日 経済・AIなど議論し閉幕へ",
-      "summary": "フランスで開かれているG7サミットは最終日となる17日に経済とAIに関する議論を行い、議長国フランスのマクロン大統領による総括記者会見を経て閉幕する予定です。",
-      "url": "http://www3.nhk.or.jp/news/html/20260617/k10015152391000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-17T10:30:17+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "50911827",
+      "id": "73470173",
       "category": "経済・ビジネス（日本）",
       "title": "「太平洋・島サミット」2027年夏ごろ横浜市で開催へ 政府",
       "summary": "政府は日本と南太平洋の島しょ国などが参加する「太平洋・島サミット」の11回目の会合を2027年夏ごろ横浜市で開催することを発表しました。",
@@ -84,7 +94,7 @@
       "lang": "ja"
     },
     {
-      "id": "86279440",
+      "id": "46644046",
       "category": "経済・ビジネス（日本）",
       "title": "米FRBウォーシュ新議長 初会合の結果発表へ 発言が焦点",
       "summary": "アメリカの連邦準備制度理事会はトランプ大統領に指名されたウォーシュ新議長のもとで初めての金融政策決定会合を開いており、日本時間18日午前3時に結果を発表する予定です。新議長の発言が市場の焦点となっています。",
@@ -94,7 +104,7 @@
       "lang": "ja"
     },
     {
-      "id": "80254787",
+      "id": "26370205",
       "category": "経済・ビジネス（日本）",
       "title": "【随時更新】ロシア ウクライナに軍事侵攻（6月17日の動き）",
       "summary": "ロシアによるウクライナへの軍事侵攻が継続しており、ウクライナ全土でロシア軍とウクライナ軍の戦闘が続いている一方、多くの市民が国外への避難を余儀なくされている状況が報じられている。",
@@ -104,7 +114,7 @@
       "lang": "ja"
     },
     {
-      "id": "25748351",
+      "id": "57079891",
       "category": "経済・ビジネス（日本）",
       "title": "プーチン氏に批判的なロシア人芸術家 ポーランドで殺害",
       "summary": "プーチン大統領を風刺する作品で知られるロシア人芸術家がポーランドで銃撃され殺害されました。地元当局はベラルーシ人2人を拘束し、事件の捜査を進めています。",
@@ -114,17 +124,7 @@
       "lang": "ja"
     },
     {
-      "id": "28140671",
-      "category": "経済・ビジネス（日本）",
-      "title": "【1分解説】アメリカでAIへの期待が急落 なぜ？",
-      "summary": "アメリカでAIに対する期待が急速に低下している主な要因は、初期段階での過度な期待と現実のギャップが明らかになったこと、および実際の商用化での成果が予想より限定的であることにある。企業や消費者がAI技術の実用性と投資対効果について懐疑的になり、市場の熱狂が冷め込んできた状況が生じている。",
-      "url": "http://www3.nhk.or.jp/news/html/20260617/k10015150201000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-17T05:16:19+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "63531740",
+      "id": "46975645",
       "category": "経済・ビジネス（世界）",
       "title": "Inflation unexpectedly steady as food price rises slow",
       "summary": "食料品の価格上昇が鈍化したため、インフレ率が予想に反して安定を保ったことが明らかになった。英国国家統計局によると、ガソリン価格の上昇は肉、乳製品、野菜の価格上昇の鈍化によって相殺された。全体的には物価上昇圧力が緩和される兆しが見られている。",
@@ -134,7 +134,7 @@
       "lang": "en"
     },
     {
-      "id": "20693075",
+      "id": "82125510",
       "category": "経済・ビジネス（世界）",
       "title": "Japan raids ice cream giants over price-fixing allegations",
       "summary": "日本の当局は記録的な猛暑に直面する中、アイスクリーム大手企業に対して価格カルテル疑惑の関連で家宅捜索を実施した。調査は複数の企業が不正に価格を固定していた可能性を対象としており、消費者の負担増加が問題となっている。異例の高温下での需要増加時に、企業間の価格操作がなかったかを調べている。",
@@ -144,7 +144,7 @@
       "lang": "en"
     },
     {
-      "id": "70895049",
+      "id": "73081403",
       "category": "経済・ビジネス（世界）",
       "title": "'It's a unique scenario' - Inside Lidl's first ever pub",
       "summary": "リドル（ドイツの大手スーパーマーケットチェーン）がアイルランドにパブ「ザ・ミドル・エール」をオープンさせ、これは同ブランド初となる試みである。このユニークなプロジェクトにより、リドルは食品小売業から飲食業界へと事業を拡大している。スーパーマーケットチェーンがパブを直営する異例のビジネスモデルとなっている。",
@@ -154,7 +154,7 @@
       "lang": "en"
     },
     {
-      "id": "89843373",
+      "id": "28263719",
       "category": "経済・ビジネス（世界）",
       "title": "Musk's SpaceX overtakes Amazon to become world's fifth most valuable firm",
       "summary": "イーロン・マスク率いるスペースXは、IPO後数日でAIコーディング新興企業のCursorを買収することで合意し、スペースXの株価急騰により時価総額でアマゾンを抜いて世界で5番目に価値の高い企業となった。",
@@ -164,7 +164,7 @@
       "lang": "en"
     },
     {
-      "id": "24442018",
+      "id": "12177029",
       "category": "経済・ビジネス（世界）",
       "title": "Cadbury chocolate-owner Mondelez defends staying in Russia",
       "summary": "モンデリーズ・インターナショナルの最高経営責任者ディルク・ヴァン・デ・プット氏は、ウクライナとの戦争後もロシアに留まることは「正しい決断」だと主張している。キャドバリーチョコレートの所有企業であるモンデリーズは、多くの西側企業がロシアから撤退する中で、ロシア市場での事業継続を正当化している。同社はロシア国内での雇用と事業維持の重要性を強調し、その判断を擁護している。",
@@ -174,7 +174,7 @@
       "lang": "en"
     },
     {
-      "id": "39109967",
+      "id": "64641085",
       "category": "経済・ビジネス（世界）",
       "title": "Struggling Pizza Hut chain to be sold for $2.7bn",
       "summary": "ピザハットは経営難により27億ドルで売却されることが決定した。同チェーンは多くのライバル企業との競争激化により、長期間にわたって経営困難に直面していた。",
@@ -184,7 +184,7 @@
       "lang": "en"
     },
     {
-      "id": "24151692",
+      "id": "40622190",
       "category": "経済・ビジネス（世界）",
       "title": "Thames Water moves step closer to nationalisation after government objects to rescue deal",
       "summary": "テムズウォーターは政府が救済案に異議を唱えたため、国有化に一歩近づいた。環境大臣は、この案が消費者と環境に対して十分な対応をしていないと述べており、英国の大手水道会社が経営難から脱するための民間救済案が政府に認められず、国有化の可能性が高まっている。",
@@ -194,7 +194,7 @@
       "lang": "en"
     },
     {
-      "id": "33713834",
+      "id": "57932742",
       "category": "経済・ビジネス（世界）",
       "title": "What is Helium-3 and could we get it from the moon?",
       "summary": "ヘリウム-3は現在高価であり、今後需要が急増すると予想されているため、月からの採掘を計画する企業や研究機関が出現している。ヘリウム-3は核融合発電や医療用途など複数の産業で重要な資源として注目されており、月の土壌に豊富に存在することが知られている。月からのヘリウム-3採掘は将来のエネルギー供給と経済発展の可能性を秘めた野心的なプロジェクトとして検討されている。",
@@ -204,7 +204,47 @@
       "lang": "en"
     },
     {
-      "id": "54623920",
+      "id": "45059318",
+      "category": "テクノロジー・AI",
+      "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
+      "summary": "Pramaana Labsはクローサ・ベンチャーズから2,700万ドルのシード資金を調達し、AI向けの形式検証技術の開発を進めます。同社は法律、創薬、税務申告など、エラーが重大な結果をもたらす高リスク分野に焦点を当て、AIの信頼性と安全性を確保することを目指しています。",
+      "url": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-17T14:15:22+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "12026238",
+      "category": "テクノロジー・AI",
+      "title": "SpaceX alum nabs $22M to turn rocket engines into geothermal power plants",
+      "summary": "SpaceXの元従業員が創設したCritical Energyは、ロケットエンジンを地熱発電所に転用するという革新的な事業に2200万ドルの資金調達に成功しました。同社は2045年までに年間300ギガワットの発電能力を構築することを目指しており、宇宙産業の技術を再生可能エネルギー分野に応用する新しいアプローチとなっています。",
+      "url": "https://techcrunch.com/2026/06/17/spacex-alum-nabs-22m-to-turn-rocket-engines-into-geothermal-power-plants/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-17T13:30:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "24656786",
+      "category": "テクノロジー・AI",
+      "title": "AI search grounded in Facebook posts? What could go wrong?",
+      "summary": "Metaが新たに推出するAI検索機能は、ユーザーの週末の過ごし方など日常の質問に答える手助けができる可能性がある一方で、Facebook投稿を情報源とするため、不正確な情報を提供するリスクがある。AIはカレンダー機能では信頼できるようになったが、複雑な質問への回答精度はまだ課題として残っており、Metaのこの新機能が実用化されるには改善が必要である。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/951099/meta-ai-mode-search-hands-on",
+      "source": "AI | The Verge",
+      "published_at": "2026-06-17T13:30:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "27758616",
+      "category": "テクノロジー・AI",
+      "title": "Google’s first smart speaker in six years arrives next week",
+      "summary": "Googleが6年ぶりに開発した新型スマートスピーカーが6月25日に出荷開始となり、春の発売予定をわずかに逃した。99ドルのGoogle Home Speakerは6月17日からプリオーダーが開始され、9ヶ月前の発表から変更されていないため、同じ少し潰れた円形デザインとタッチ式ボタンを備えている。",
+      "url": "https://www.theverge.com/tech/951147/google-home-speaker-gemini-launch-date-price-specs-features",
+      "source": "AI | The Verge",
+      "published_at": "2026-06-17T13:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "47813418",
       "category": "テクノロジー・AI",
       "title": "Canadian pension giant joins race to fund India’s AI-fueled data center boom",
       "summary": "カナダの大手年金基金がインドのAI関連データセンター需要の急速な拡大に乗じた投資競争に参入し、インド国内で15以上のデータセンターを運営するテック企業CtrlSの8.2%の株式を取得する。このような大型投資はインドのデジタルインフラストラクチャー整備とAI産業の急速な成長を反映している。カナダの年金基金によるこの戦略的投資は、アジア太平洋地域における高成長AI市場への関心の高まりを示している。",
@@ -214,7 +254,7 @@
       "lang": "en"
     },
     {
-      "id": "80469310",
+      "id": "13878690",
       "category": "テクノロジー・AI",
       "title": "DeepL acquires Mixhalo for live-event audio streaming and translation",
       "summary": "DeepLが音声ストリーミング・翻訳企業Mixhaloを買収し、ライブイベント向けの音声ストリーミングと翻訳機能の提供を強化する。この買収に伴い、DeepLはサンフランシスコにオフィスを開設し、米国でのビジネス展開を拡大する。",
@@ -224,7 +264,7 @@
       "lang": "en"
     },
     {
-      "id": "65883046",
+      "id": "20853444",
       "category": "テクノロジー・AI",
       "title": "Uber will bring its premium robotaxi service to Houston in 2027",
       "summary": "Uberは2027年にヒューストンでプレミアム自動運転タクシーサービスを開始する予定であり、これはNuroの自動運転システムを搭載したLucidの電気自動車を使用する2番目の市場となる。同社は自動運転技術の拡大を続けており、高級電気自動車との組み合わせで利用者に新たなサービス体験を提供しようとしている。",
@@ -234,7 +274,7 @@
       "lang": "en"
     },
     {
-      "id": "84003147",
+      "id": "28355192",
       "category": "テクノロジー・AI",
       "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
       "summary": "Pinterestが「Ask Pinterest」という実験的なAIショッピングアプリを立ち上げました。このアプリはユーザーが会話形式のインターフェースを通じて推奨商品や購入インスピレーションを求めることができるAI駆動型のサービスです。Pinterestはこの新しい対話型アプリにより、ユーザーのショッピング体験をより個人化し、商品発見を容易にしようとしています。",
@@ -244,47 +284,27 @@
       "lang": "en"
     },
     {
-      "id": "63221004",
-      "category": "テクノロジー・AI",
-      "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
-      "summary": "Anthropicの人気が急速に高まっており、Rampのデータによるとトランプ政権との対立が実は企業利用者の間での需要を増加させる可能性があると示唆されている。政府との紛争がAnthropicのブランド価値や市場での認識をさらに高める結果につながる可能性もあるという見方が出ている。",
-      "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-16T22:34:17+00:00",
+      "id": "28211149",
+      "category": "台湾・中台関係",
+      "title": "China, North Korea Draw Closer Amid a Weakening US",
+      "summary": "習近平国家主席が7年ぶりにピョンヤンを訪問し、中国と北朝鮮の関係が強化されている。この訪問は米国の国際的影響力が減少する中で行われており、戦略的な意味合いが大きい。記事では両国の接近が米国の弱体化と密接に関連していることが示唆されている。",
+      "url": "https://www.globalresearch.ca/china-north-korea-draw-closer-weakening-us/5930008",
+      "source": "Globalresearch.ca",
+      "published_at": "2026-06-16T14:12:54+00:00",
       "lang": "en"
     },
     {
-      "id": "27599232",
-      "category": "テクノロジー・AI",
-      "title": "Apple plans to change its Hide My Email privacy feature that could make it less effective",
-      "summary": "Appleは今後数週間以内に、プライバシー機能「Hide My Email」で生成される匿名メールアドレスを別のドメインに移行する予定である。この変更により、ユーザーのプライバシー保護機能の効果が低下する可能性があると指摘されている。新しいドメイン構造によって、匿名メールアドレスが以前より識別されやすくなるリスクが懸念されている。",
-      "url": "https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-16T22:09:32+00:00",
+      "id": "54691716",
+      "category": "台湾・中台関係",
+      "title": "TSMC and Amkor sign 10-year deal to expand semiconductor packaging in Arizona",
+      "summary": "TSMCとAmkorが10年間の契約を締結し、アリゾナ州での半導体パッケージング事業を拡大します。この提携によって米国の半導体サプライチェーンが強化され、アジアへの依存が減少し、地政学的リスクが軽減されることが期待されています。",
+      "url": "https://cryptobriefing.com/tsmc-amkor-arizona-packaging-deal/",
+      "source": "Crypto Briefing",
+      "published_at": "2026-06-16T13:26:40+00:00",
       "lang": "en"
     },
     {
-      "id": "42712577",
-      "category": "テクノロジー・AI",
-      "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
-      "summary": "SpaceXの企業価値が2.6兆ドルに膨らみ、一時的にAmazonを上回りました。同社の株式が金曜日から取引開始された以来、企業価値は1兆ドル増加しています。",
-      "url": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-16T20:11:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "14843866",
-      "category": "テクノロジー・AI",
-      "title": "Qualcomm wants to be the chip inside whatever replaces your smartphone, and it just announced two products toward that end",
-      "summary": "クアルコムは、スマートフォンに代わるデバイスの中核チップとなることを目指しており、CEOは同社が40以上の新しいAIハードウェア設計に取り組んでいることを発表した。クアルコムはスマートフォンの後継となる可能性のある様々なデバイスに対応するため、複数の新製品を発表することで、次世代の主要チップメーカーとしての地位を確立しようとしている。",
-      "url": "https://techcrunch.com/2026/06/16/qualcomm-wants-to-be-the-chip-inside-whatever-replaces-your-smartphone-and-it-just-announced-two-products-toward-that-end/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-16T18:22:24+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "57354469",
+      "id": "27702020",
       "category": "台湾・中台関係",
       "title": "Transcript: Jean Eric Salata, Chair of EQT group",
       "summary": "EQTグループの会長ジャン・エリック・サラタへのインタビュー記事であり、同氏との対談内容がApple PodcastsやSpotify、YouTubeなど複数のプラットフォームで配信されていることを示すお知らせとなっている。記事は対談の詳細なトランスクリプトを提供しているもので、聴取者は複数のメディアチャネルを通じて全対談内容と追加コンテンツにアクセスできることが示されている。",
@@ -294,7 +314,7 @@
       "lang": "en"
     },
     {
-      "id": "81904542",
+      "id": "69903385",
       "category": "台湾・中台関係",
       "title": "German president says Europe is worried over tensions in the disputed South China Sea",
       "summary": "ドイツのフランク=ヴァルター・シュタインマイアー大統領は、南シナ海の紛争海域における緊張がヨーロッパの懸念事項であり、ホルムズ海峡で起きたような航行の自由が脅かされる可能性があると述べた。ドイツは地政学的リスクの増加と国際的な海上貿易への悪影響を危惧している。シュタインマイアー大統領の発言は、この地域における多国間協力と平和的解決の重要性を強調するものである。",
@@ -304,7 +324,7 @@
       "lang": "en"
     },
     {
-      "id": "85802946",
+      "id": "40507938",
       "category": "台湾・中台関係",
       "title": "Has America Lost The Strategic Game In The South China Sea?",
       "summary": "南シナ海における中国の支配拡大は新しい現実となっているのか、それとも米国とその同盟国の協調努力で中国の地域的覇権に対抗できるのかという問題が提起されている。この地域はイラン紛争やホルムズ海峡での石油輸送の制御と並んで、世界的に極めて重要な戦略的要衝となっている。米国はこうした地政学的課題に直面しながら、同盟国との連携強化を通じて南シナ海での影響力維持を図ろうとしている。",
@@ -314,43 +334,23 @@
       "lang": "en"
     },
     {
-      "id": "82738180",
+      "id": "15975347",
+      "category": "台湾・中台関係",
+      "title": "German president says Europe is worried over tensions in the disputed South China Sea",
+      "summary": "ドイツのシュタインマイヤー大統領がフィリピンで、南シナ海の領土紛争に伴う緊張情勢についてヨーロッパが懸念を抱いていると述べた。同海域は主要な商業航路であり、複数の国が領有権を主張している。ドイツはこの地域の安定と国際法の遵守を重視している。",
+      "url": "https://www.yahoo.com/news/world/articles/german-president-says-europe-worried-114319318.html",
+      "source": "Yahoo Entertainment",
+      "published_at": "2026-06-16T11:43:19+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "69385073",
       "category": "台湾・中台関係",
       "title": "Cross-Strait Crossroads",
       "summary": "ブルッキングス研究所とRAND研究所が超党派的に実施したプロジェクトから、5つの政策提言と分析結果がまとめられた報告書である。台湾海峡の緊張管理の方法と、戦略環境の変化に対応する米国の台湾政策の適応方法を探るものとなっている。",
       "url": "https://www.rand.org/pubs/external_publications/EP71372.html",
       "source": "Rand.org",
       "published_at": "2026-06-16T08:15:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "41462963",
-      "category": "台湾・中台関係",
-      "title": "Has America Lost The Strategic Game In The South China Sea?",
-      "summary": "南シナ海における米国の戦略的優位性が低下する中、中国の影響力拡大に対抗するため、米国と同盟国の協調努力が重要な課題となっている。記事は、現在の中国による支配が新たな現実なのか、それとも米国と同盟国の連携によってこの地域での中国の覇権に挑戦できるのかという問いを提示している。南シナ海での地政学的バランスの転換と、今後の地域安定性をめぐる国際的対立の焦点を浮き彫りにしている。",
-      "url": "https://www.americanthinker.com/articles/2026/06/has_america_lost_the_strategic_game_in_the_south_china_sea.html",
-      "source": "Americanthinker.com",
-      "published_at": "2026-06-16T04:00:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "31243059",
-      "category": "台湾・中台関係",
-      "title": "The Kentucky Colonel Who Drives Australian Foreign Policy",
-      "summary": "オーストラリアの外交政策が軍事化された思考とアメリカの力に対する過度な信頼によって歪められている状況について論じた記事である。ケンタッキー州のコロネル（名誉称号）と呼ばれる人物がオーストラリアの外交政策に影響を与えており、この影響がオーストラリアの独立した外交判断を損なわせているという指摘がなされている。記事は、オーストラリアがアメリカとの同盟関係に過度に依存することで、地域の安定や自国の利益を見失っているという批判的な視点を提示している。",
-      "url": "https://thediplomat.com/2026/06/the-kentucky-colonel-who-drives-australian-foreign-policy/",
-      "source": "The Diplomat",
-      "published_at": "2026-06-16T03:54:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "80912904",
-      "category": "台湾・中台関係",
-      "title": "After Iran, China has a powerful new oil price weapon",
-      "summary": "中国は世界初の石油「調整輸入国」として台頭し、イラン紛争の影響を受けて輸入量を3分の1削減し8年ぶりの低水準に落ち込ませた。この戦略的な輸入削減は世界的な石油価格の安定化と価格変動の緩和における北京の能力を示すとともに、今後のエネルギー市場における中国の影響力がさらに強まることを示唆している。",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/after-iran-china-has-a-powerful-new-oil-price-weapon/articleshow/131758532.cms",
-      "source": "The Times of India",
-      "published_at": "2026-06-16T03:49:35+00:00",
       "lang": "en"
     }
   ]
