@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T18:18:43.556521+00:00",
+  "updated_at": "2026-06-18T21:31:44.816291+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -44,17 +44,47 @@
   ],
   "news": [
     {
-      "id": "44355898",
+      "id": "39413259",
       "category": "経済・ビジネス（日本）",
-      "title": "円相場 一時1ドル＝161円台まで値下がり",
-      "summary": "18日のニューヨーク外国為替市場でFRBが年内に利上げを行うとの観測から、円売りドル買いが進み、円相場は1ドル＝161円台まで値下がりしました。これは2024年7月以来、約1年11か月ぶりの円安ドル高水準となっています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260619/k10015153951000.html",
+      "title": "NATO国防相会合 欧州国防力強化の方針を確認",
+      "summary": "NATO国防相会合でルッテ事務総長は、米国がヨーロッパ防衛への関与を減らす中で、NATO加盟国が国防力を強化する必要があると述べ、同機構が歴史上最大級の変革期にあることを確認しました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260619/k10015153991000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-06-18T15:51:36+00:00",
+      "published_at": "2026-06-18T20:37:30+00:00",
       "lang": "ja"
     },
     {
-      "id": "86253682",
+      "id": "17273866",
+      "category": "経済・ビジネス（日本）",
+      "title": "日鉄 USスチール買収1年 森副会長 “成長は海外にしかない”",
+      "summary": "日本製鉄がアメリカのUSスチールを買収してから1年が経過し、森副会長は地政学リスクが高まる中、日本国内ではなく海外での成長が必要だと述べました。同社はUSスチール買収を通じて、アメリカ市場での生産能力の拡大を進める方針を示しています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260619/k10015153821000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-18T20:26:47+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "29876839",
+      "category": "経済・ビジネス（日本）",
+      "title": "中国外務省 高市首相のG7での発言を批判",
+      "summary": "中国外務省の報道官は、G7サミットで高市首相が中国の対日措置に懸念を示したことに対し、日本が派閥を形成して対立をあおろうとする意図を反映していると批判した。",
+      "url": "http://www3.nhk.or.jp/news/html/20260619/k10015153911000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-18T20:21:24+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "22605000",
+      "category": "経済・ビジネス（日本）",
+      "title": "円相場 一時1ドル＝161円台に FRB利上げ観測で 1年11か月ぶり",
+      "summary": "18日のニューヨーク外国為替市場でFRBが年内に利上げを行うとの観測から、円売りドル買いが進み、円相場は1ドル＝161円台まで値下がりしました。これは2024年7月以来、約1年11か月ぶりの円安ドル高水準となっています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260619/k10015153951000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-18T20:17:51+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "73749184",
       "category": "経済・ビジネス（日本）",
       "title": "天皇陛下 美術館でオランダ首相主催の昼食会に",
       "summary": "天皇陛下はオランダの公式訪問中、ハーグの美術館でイェッテン首相が主催した昼食会に出席された。",
@@ -64,7 +94,7 @@
       "lang": "ja"
     },
     {
-      "id": "75622107",
+      "id": "12089992",
       "category": "経済・ビジネス（日本）",
       "title": "英中銀 政策金利を4会合連続で据え置き 物価 経済の動向見極め",
       "summary": "イングランド銀行は政策金利を4会合連続で据え置くことを発表し、ユーロ圏の利上げとは異なり物価や経済動向の推移を注視する方針を示した。",
@@ -74,7 +104,7 @@
       "lang": "ja"
     },
     {
-      "id": "77518145",
+      "id": "55706703",
       "category": "経済・ビジネス（日本）",
       "title": "中国が台湾東海域で活動活発化 環境調査で「管轄海域」と主張",
       "summary": "中国政府が台湾東部の海域で環境調査を実施し、同海域での管轄権を主張しています。6月以降、中国による同海域での活動が活発化しており、台湾の民進党政権はこれを違法行為として非難しています。",
@@ -84,7 +114,7 @@
       "lang": "ja"
     },
     {
-      "id": "76801847",
+      "id": "69559055",
       "category": "経済・ビジネス（日本）",
       "title": "北朝鮮 キム・ヨジョン氏 非核化確認のG7声明を非難",
       "summary": "北朝鮮のキム・ヨジョン氏がG7サミットの声明を非難し、北朝鮮の完全な非核化に関与する決意を確認したことに強く反発しました。",
@@ -94,37 +124,7 @@
       "lang": "ja"
     },
     {
-      "id": "28902393",
-      "category": "経済・ビジネス（日本）",
-      "title": "NATO国防相会合始まる 米関与減る中での欧州強化を議論へ",
-      "summary": "NATO国防相会合が開催され、アメリカのヨーロッパ防衛への関与減少に対応するため、加盟国が国防力の強化を加速させる方法について協議される予定である。",
-      "url": "http://www3.nhk.or.jp/news/html/20260618/k10015153831000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-18T11:38:56+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "32767278",
-      "category": "経済・ビジネス（日本）",
-      "title": "日本経済はどうなる？ 米・イランが覚書署名で【詳しく】",
-      "summary": "アメリカとイランが戦闘終結に向けた覚書に署名したことで、原油供給の安定化が期待され、日本経済への影響が注視されている。原油価格の安定やエネルギー供給の改善により、日本のインフレ圧力が緩和される可能性がある。専門家は今後の中東情勢の推移と原油市場の動向が日本経済回復の重要な要因になると見ている。",
-      "url": "http://www3.nhk.or.jp/news/html/20260618/k10015153671000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-18T10:42:06+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "91835568",
-      "category": "経済・ビジネス（日本）",
-      "title": "米とイランの大統領が覚書署名も 米国内から批判の声",
-      "summary": "アメリカのトランプ大統領とイランのペゼシュキアン大統領が戦闘終結に向けた14項目の覚書に署名しましたが、ホルムズ海峡の通航管理をめぐってイランが通航料を徴収する可能性が残されています。この合意に対してアメリカ国内の共和党議員からも「数十年で最悪の外交上の失策」などと批判の声が上がっています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260618/k10015153101000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-18T10:36:30+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "30065698",
+      "id": "78928194",
       "category": "経済・ビジネス（世界）",
       "title": "'Do not travel' advice for Dubai dropped",
       "summary": "英国外交省がアラブ首長国連邦への「渡航禁止」勧告を取り下げた。2026年初頭に米国とイランの戦争が勃発した際、中東には数千人のイギリス人が足止めされていたが、情勢の改善により渡航制限が緩和されることになった。",
@@ -134,7 +134,7 @@
       "lang": "en"
     },
     {
-      "id": "59446441",
+      "id": "46890022",
       "category": "経済・ビジネス（世界）",
       "title": "CrossCountry ranked Britain's worst train operator",
       "summary": "交通利用者団体「トランスポート・フォーカス」は、クロスカントリー鉄道をイギリス最悪の鉄道事業者と評価し、遅延の削減と運行中断時の情報提供改善を求めている。同社は顧客満足度調査で最下位となり、サービス品質の大幅な向上が課題となっている。",
@@ -144,7 +144,17 @@
       "lang": "en"
     },
     {
-      "id": "69941572",
+      "id": "28189412",
+      "category": "経済・ビジネス（世界）",
+      "title": "Heathrow's 'critical' expansion blueprint released",
+      "summary": "ロンドンのヒースロー空港の拡張計画に関する協議が開始され、プロジェクト実現のための条件が示されました。この拡張は英国にとって重要なインフラプロジェクトとされており、関係機関や利害関係者からの意見募集が進められています。",
+      "url": "https://www.bbc.com/news/articles/cx2dem7y78no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-06-18T15:07:21+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "29126236",
       "category": "経済・ビジネス（世界）",
       "title": "Apple to raise prices as AI boom pushes up chip costs",
       "summary": "AppleのティムクックCEOは、AI需要の高まりがチップコストを押し上げていることを受けて、製品価格の引き上げを検討していると述べた。ただし、具体的な値上げ時期や対象製品については明かされていない。AI技術の急速な進展に伴うチップ製造コストの増加が、主要テック企業の価格戦略に影響を与え始めている。",
@@ -154,7 +164,7 @@
       "lang": "en"
     },
     {
-      "id": "22438929",
+      "id": "49195812",
       "category": "経済・ビジネス（世界）",
       "title": "Interest rates held as Bank warns of impact of high energy prices",
       "summary": "中央銀行は政策金利を3.75%で据え置くことを決定した。同行は12月に利下げを実施したが、中東情勢の混乱により今後のさらなる利下げは保留されている状況だ。",
@@ -164,7 +174,7 @@
       "lang": "en"
     },
     {
-      "id": "26169073",
+      "id": "25379138",
       "category": "経済・ビジネス（世界）",
       "title": "Number of job vacancies hits five year-low",
       "summary": "企業の求人数が5年ぶりの低水準に落ち込んだ。最新の統計データから、企業が新規採用に対して慎重な姿勢を強めていることが明らかになった。経済の不確実性により、採用活動が抑制される傾向が続いている。",
@@ -174,7 +184,7 @@
       "lang": "en"
     },
     {
-      "id": "71414685",
+      "id": "33542310",
       "category": "経済・ビジネス（世界）",
       "title": "Why has Texas set its sights on London?",
       "summary": "テキサス州は、かつてロンドンに大使館を設置していた歴史があり、現在新たな貿易事務所を開設することでロンドンとの関係を強化している。テキサス州はこの事務所を通じて、英国との経済的なつながりを深め、貿易や投資の機会を拡大することを目指している。テキサス州とロンドンの関係強化は、両地域の経済発展と相互利益の増進に向けた重要な一歩となるものである。",
@@ -184,7 +194,7 @@
       "lang": "en"
     },
     {
-      "id": "89555389",
+      "id": "10594262",
       "category": "経済・ビジネス（世界）",
       "title": "'We had to get out of the way': The backlash over delivery robots",
       "summary": "米国の街路で配送ロボットの導入が拡大する中、これらのロボットに対する規制強化や抗議活動が相次いでいる。住民たちは歩行者の安全や生活の質の低下を懸念し、配送ロボットの通行を制限する地域も出始めている。テクノロジー企業の急速な事業拡大と地域住民のニーズのバランスをめぐる議論が高まっている。",
@@ -194,27 +204,77 @@
       "lang": "en"
     },
     {
-      "id": "62139117",
-      "category": "経済・ビジネス（世界）",
-      "title": "Warsh to review how Fed works after holding US interest rates at first meeting",
-      "summary": "連邦準備制度理事会（FRB）は政策金利を3.5～3.75%に据え置きました。ケビン・ウォルシュが議長として初めて開いた会合での決定となります。トランプ氏のイラン核合意に関する不確実性が残る中での判断です。",
-      "url": "https://www.bbc.com/news/articles/cdjkl78vd7lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-06-17T18:41:12+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "80308215",
+      "id": "71321223",
       "category": "テクノロジー・AI",
-      "title": "Rivian owners sue over false promises on self-driving features",
-      "summary": "リヴィアンの所有者らが、第1世代R1車への自動運転機能搭載に関する虚偽の約束をめぐり集団訴訟を起こした。訴状によると、同社は数年間にわたってハンズフリー運転機能を提供するとの約束を繰り返していたが、これが実現されなかったと主張している。同訴訟は消費者保護と企業の約束履行に関する重要な問題を提起している。",
-      "url": "https://techcrunch.com/2026/06/18/rivian-owners-sue-over-false-promises-on-self-driving-features/",
+      "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega round",
+      "summary": "AI推論スタートアップのBasettenが、前回のメガラウンドからわずか数ヶ月後に15億ドルの資金調達に近づいており、評価額は130億ドルに達しているとのことです。このニュースは、AI推論分野への投資熱が継続していることを示しており、同社が市場での競争力を強化しようとしていることを反映しています。",
+      "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
       "source": "TechCrunch",
-      "published_at": "2026-06-18T18:00:33+00:00",
+      "published_at": "2026-06-18T21:20:13+00:00",
       "lang": "en"
     },
     {
-      "id": "66616591",
+      "id": "62440622",
+      "category": "テクノロジー・AI",
+      "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
+      "summary": "Snapchatの親会社であるSnapが、AI動画開発チームをDotmoという新会社として分社化した。この決定はコスト削減を目的としており、Snap傘下のAI動画開発チームの従業員がSnapを離れ、新しい企業でAI動画の開発に専念することになる。",
+      "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-18T20:30:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "10744688",
+      "category": "テクノロジー・AI",
+      "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+      "summary": "OpenAIがIPO前に経営陣を強化し、GoogleDeepMindのTransformer共同発明者であるNoam Shazeerと、トランプ前政権のAI政策担当官Dean Ballを同じ週に採用した。これらの人事異動は、IPOに向けた企業価値向上と政策面での影響力強化を狙った戦略的な採用と考えられる。",
+      "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-18T19:59:22+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "39289546",
+      "category": "テクノロジー・AI",
+      "title": "The 11 standout startups from YC’s Demo Day, according to VCs",
+      "summary": "Yコンビネータのデモデイから、複数のベンチャーキャピタリストが注目する11社のスタートアップが選出された。2026年春のYCバッチに参加する企業の中には、1億7500万ドルを超える評価額を獲得したものもあり、投資家から高い期待が寄せられている。",
+      "url": "https://techcrunch.com/2026/06/18/the-11-standout-startups-from-ycs-demo-day-according-to-vcs/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-18T19:52:19+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "74780933",
+      "category": "テクノロジー・AI",
+      "title": "Rivian owners file lawsuit alleging false promises on self-driving features",
+      "summary": "リヴィアンの車オーナーらが、同社が第1世代のR1車に対してハンズフリー運転機能をもたらすと虚偽の約束をしたとして集団訴訟を提起している。原告らは、リヴィアンが数年間にわたって自動運転機能に関する虚偽の約束をしたと主張しており、この訴訟は約束された機能が実現されなかったことを背景としている。",
+      "url": "https://techcrunch.com/2026/06/18/rivian-owners-file-lawsuit-alleging-false-promises-on-self-driving-features/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-18T19:31:45+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "68831792",
+      "category": "テクノロジー・AI",
+      "title": "Almost half of U.S. singles feel negatively about AI in dating, Match says",
+      "summary": "マッチング・ドットコムの調査によると、米国の独身者の約47%が恋愛でのAI利用に対して否定的な見方をしている。一方で、多くのマッチングアプリユーザーはプロフィールの改善や会話の開始支援にAIを活用することには前向きである。",
+      "url": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-18T18:51:46+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "27461298",
+      "category": "テクノロジー・AI",
+      "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+      "summary": "アマゾンのAWS部門は、自社開発のAIチップを他のデータセンターに販売する交渉を進めており、CEOのアンディ・ジャシー氏はこれが同社にとって500億ドル規模のビジネス機会になると述べています。この動きはNvidiaのAIチップ市場での支配力に対抗する戦略です。",
+      "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-18T18:22:13+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "91548354",
       "category": "テクノロジー・AI",
       "title": "Mivo’s new app takes a mindful approach to managing screen time",
       "summary": "Mivo Scrollingというスクリーンタイム管理アプリが先月ローンチされ、SNSの過度な利用という一般的な問題に対して厳格な制限ではなくマインドフルなアプローチで対処している。このアプリは時間管理の新しい方法を提案することで、ユーザーがスクロール習慣をより意識的にコントロールできるよう支援している。",
@@ -224,67 +284,7 @@
       "lang": "en"
     },
     {
-      "id": "25317063",
-      "category": "テクノロジー・AI",
-      "title": "AI data centers just got a government-mandated fast lane to the grid",
-      "summary": "米国の連邦エネルギー規制委員会（FERC）は、電力網への接続手続きにおいてAIデータセンターを優先する方針を指示しました。しかし、この決定は電力供給不足という根本的な問題には対応していません。データセンターの急速な拡大に伴う電力需要の増加に対して、送電網の容量不足が深刻化しており、接続手続きの迅速化だけでは長期的なエネルギー危機の解決につながらない可能性があります。",
-      "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-18T17:49:23+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "67836512",
-      "category": "テクノロジー・AI",
-      "title": "The smartphone era created an attention crisis. Slowtech is fixing it",
-      "summary": "スマートフォン時代がもたらした注意散漫の危機に対抗するため、スローテック（低機能・シンプル設計の技術製品）が注目を集めている。スローテックは人々に自分の時間、生活、注意力をコントロールする手段を取り戻させ、消費者は自分たちの生活を改善できるなら何でも受け入れる姿勢を見せている。スマートフォンの過度な使用による弊害から脱却しようとする動きが広がっている。",
-      "url": "https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-18T17:16:30+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "26551600",
-      "category": "テクノロジー・AI",
-      "title": "Texas government data breach allowed hackers to steal 3 million driver’s licenses and passports",
-      "summary": "テキサス州の政府データ侵害により、ハッカーが300万件以上の運転免許証とパスポートを盗むことができた。この事件は、政府が発行する身分証明書に関わる大規模なセキュリティ侵害であり、テキサス州の住民300万人以上に影響を与えている。当局は現在、侵害の詳細な調査と被害者への対応を進めているとみられる。",
-      "url": "https://techcrunch.com/2026/06/18/texas-government-data-breach-allowed-hackers-to-steal-3-million-drivers-licenses-and-passports/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-18T17:12:53+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "25664898",
-      "category": "テクノロジー・AI",
-      "title": "‘Queer Eye’s’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
-      "summary": "「クィア・アイ」のライフコーチであるカラモ・ブラウンが、自身のAIデジタルクローンを搭載したウェルネスアプリ「Kē」をローンチした。ブラウンは1年半にわたって自身のフィットネス、栄養、瞑想、禁欲、人間関係、個人的な成長に焦点を当てた経験を経て、同様に他者をサポートしたいという目標を掲げている。Kēアプリはユーザーが自分たちの成長の旅を歩むのを支援する機能を提供している。",
-      "url": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-18T16:55:04+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "10815191",
-      "category": "テクノロジー・AI",
-      "title": "Amazon employees say they’re facing termination for backing data center limits",
-      "summary": "アマゾンのソフトウェアエンジニア3人が、シアトル市議会でデータセンターの制限に関する証言を行い、政治的言論に関する雇用差別を禁止する市法を引用して証言を開始した。その1週間後の6月10日、彼らはこの証言に対する報復として解雇予告を受けたとして、アマゾンが市法に違反していると主張している。従業員たちは、政治的言論への報復として違法に扱われていると考えている。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
-      "source": "AI | The Verge",
-      "published_at": "2026-06-18T16:00:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "73729202",
-      "category": "テクノロジー・AI",
-      "title": "Apple opens up App Store to new competition in Brazil",
-      "summary": "ブラジルで規制当局の圧力を受けたAppleは、iPhoneのアプリ配布における独占的地位を緩和し、App Storeの競争相手となる代替アプリストアの開設を認めることになった。この決定はブラジルの競争法に対応するもので、ユーザーは複数のアプリストアから選択できるようになり、Appleの手数料体系や配布ルールに対する市場の競争圧力が増加する見込みである。同様の規制動向はEUなど他の地域でも進行中であり、グローバルなテクノロジー企業への規制強化の一環として位置づけられている。",
-      "url": "https://techcrunch.com/2026/06/18/apple-opens-up-app-store-to-new-competition-in-brazil/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-18T15:48:08+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "61386617",
+      "id": "20193589",
       "category": "台湾・中台関係",
       "title": "China Is Indispensable, But Not Dominant",
       "summary": "中国は世界経済において不可欠な存在だが、他国の戦略的選択を完全にコントロールするほどの支配力は持っていない。北京は大国들を自らの軌道に引き込むことに成功したが、各国は依然として独立した戦略的判断の自由を保持している。中国の影響力は強大だが、世界的なパワーバランスにおいては複数の大国が均衡を保つ状態が続いている。",
@@ -294,7 +294,7 @@
       "lang": "en"
     },
     {
-      "id": "85196453",
+      "id": "89619206",
       "category": "台湾・中台関係",
       "title": "The Pentagon Might Win the Lottery",
       "summary": "ペンタゴン（米国防総省）は莫大な予算を獲得する可能性があるが、1兆5000億ドルという金額でさえ、同省が直面する根本的な問題を解決することはできない。防衛支出の増加だけでは、組織的な非効率性、老朽化したインフラ、人員不足などの構造的な課題に対処するには不十分であることを示唆している。",
@@ -304,7 +304,7 @@
       "lang": "en"
     },
     {
-      "id": "39401705",
+      "id": "50375468",
       "category": "台湾・中台関係",
       "title": "When Neutrality Fails: ASEAN in a Malacca Disruption Scenario",
       "summary": "マラッカ海峡の混乱シナリオにおいて、ASEAN諸国の伝統的な中立政策では十分な対応ができない可能性があり、地域安全保障の脅威に直面している。Looi Teck Kheong氏の分析によると、海上輸送の遮断は加盟国の経済に深刻な影響を与えるため、ASEAN全体での協調的な防衛戦略の構築が急務である。中立を貫く姿勢だけでなく、実際的な安全保障体制の強化とそれぞれの地政学的利益のバランスが今後の地域安定に必須となる。",
@@ -314,7 +314,7 @@
       "lang": "en"
     },
     {
-      "id": "72174372",
+      "id": "91729830",
       "category": "台湾・中台関係",
       "title": "G7 leaders' statement on geopolitical issues: 17 June 2026",
       "summary": "G7首脳は2026年6月17日に地政学的問題に関する声明を発表しました。この声明では、国際情勢の不安定化に対する懸念が示され、G7加盟国が民主的価値観と国際法の維持に向けて協力することが強調されています。また、声明ではエネルギー安全保障やサプライチェーン強化など、共通の課題への対応方針が示されました。",
@@ -324,7 +324,7 @@
       "lang": "en"
     },
     {
-      "id": "52263253",
+      "id": "10188620",
       "category": "台湾・中台関係",
       "title": "Trump's War In Iran Is A Staggering Failure On Nearly Every Level",
       "summary": "トランプ前大統領のイラン政策は、ほぼすべての面で壊滅的な失敗に終わったと指摘されている。核合意からの一方的な離脱やイラン最高指導者への暗殺未遂など、強硬策を取ったにもかかわらず、イランの核開発プログラムはむしろ加速し、中東の地政学的安定性も損なわれた。結果として、目標達成どころか、対立関係を深刻化させるだけに終わったという批判が出ている。",
@@ -334,7 +334,7 @@
       "lang": "en"
     },
     {
-      "id": "59832605",
+      "id": "61632401",
       "category": "台湾・中台関係",
       "title": "Xinhua Silk Road: Thematic cultural week held in SE China county to deepen cross-Strait exchanges",
       "summary": "中国東部の県で開催された陳靖姑文化活動週間は、海峡フォーラムの関連イベントとして6月10日から12日にかけて行われ、地元の住民と遠方からの訪問者が多数集まりました。このイベントは台湾海峡両岸の文化交流と相互理解を深めることを目的としており、伝統文化を通じた両地域の結びつきを強化する重要な役割を果たしています。",
@@ -344,7 +344,7 @@
       "lang": "en"
     },
     {
-      "id": "87138066",
+      "id": "87353759",
       "category": "台湾・中台関係",
       "title": "Beijing accuses Japan of militarism while rapidly expanding its own military",
       "summary": "中国は日本を軍国主義だと非難する一方で、自らの核兵器とハイパーソニック兵器を急速に拡張している。日本は防衛力強化は中国の強圧に対する適切な対応であり軍国主義ではないと主張しており、台湾情勢が緊迫化する中、日本は中国による台湾封鎖の脅威について警告を発している。",
@@ -354,7 +354,7 @@
       "lang": "en"
     },
     {
-      "id": "42437945",
+      "id": "56706589",
       "category": "台湾・中台関係",
       "title": "G7 nations reaffirm opposition to unilateral changes in Taiwan Strait",
       "summary": "G7諸国は台湾海峡における一方的な変更に反対する姿勢を改めて確認した。台湾海峡の安定性は世界的なテクノロジー市場と地政学的均衡にとって極めて重要であり、G7の立場はこの安定性の重要性を強調している。",
