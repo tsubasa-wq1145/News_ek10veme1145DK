@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T12:05:08.288658+00:00",
+  "updated_at": "2026-06-18T14:30:46.745571+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -44,7 +44,37 @@
   ],
   "news": [
     {
-      "id": "45235295",
+      "id": "68449357",
+      "category": "経済・ビジネス（日本）",
+      "title": "天皇陛下 美術館でオランダ首相主催の昼食会に",
+      "summary": "天皇陛下はオランダの公式訪問中、ハーグの美術館でイェッテン首相が主催した昼食会に出席された。",
+      "url": "http://www3.nhk.or.jp/news/html/20260618/k10015153901000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-18T14:28:31+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "40147671",
+      "category": "経済・ビジネス（日本）",
+      "title": "英中銀 政策金利を4会合連続で据え置き 物価 経済の動向見極め",
+      "summary": "イングランド銀行は政策金利を4会合連続で据え置くことを発表し、ユーロ圏の利上げとは異なり物価や経済動向の推移を注視する方針を示した。",
+      "url": "http://www3.nhk.or.jp/news/html/20260618/k10015153891000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-18T13:12:21+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "51464515",
+      "category": "経済・ビジネス（日本）",
+      "title": "中国が台湾東海域で活動活発化 環境調査で「管轄海域」と主張",
+      "summary": "中国政府が台湾東部の海域で環境調査を実施し、同海域での管轄権を主張しています。6月以降、中国による同海域での活動が活発化しており、台湾の民進党政権はこれを違法行為として非難しています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260618/k10015153881000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-18T12:39:22+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "71514038",
       "category": "経済・ビジネス（日本）",
       "title": "北朝鮮 キム・ヨジョン氏 非核化確認のG7声明を非難",
       "summary": "北朝鮮のキム・ヨジョン氏がG7サミットの声明を非難し、北朝鮮の完全な非核化に関与する決意を確認したことに強く反発しました。",
@@ -54,7 +84,7 @@
       "lang": "ja"
     },
     {
-      "id": "16794000",
+      "id": "51036831",
       "category": "経済・ビジネス（日本）",
       "title": "NATO国防相会合始まる 米関与減る中での欧州強化を議論へ",
       "summary": "NATO国防相会合が開催され、アメリカのヨーロッパ防衛への関与減少に対応するため、加盟国が国防力の強化を加速させる方法について協議される予定である。",
@@ -64,7 +94,7 @@
       "lang": "ja"
     },
     {
-      "id": "85956024",
+      "id": "66006043",
       "category": "経済・ビジネス（日本）",
       "title": "日本経済はどうなる？ 米・イランが覚書署名で【詳しく】",
       "summary": "アメリカとイランが戦闘終結に向けた覚書に署名したことで、原油供給の安定化が期待され、日本経済への影響が注視されている。原油価格の安定やエネルギー供給の改善により、日本のインフレ圧力が緩和される可能性がある。専門家は今後の中東情勢の推移と原油市場の動向が日本経済回復の重要な要因になると見ている。",
@@ -74,7 +104,7 @@
       "lang": "ja"
     },
     {
-      "id": "73126461",
+      "id": "76987694",
       "category": "経済・ビジネス（日本）",
       "title": "米とイランの大統領が覚書署名も 米国内から批判の声",
       "summary": "アメリカのトランプ大統領とイランのペゼシュキアン大統領が戦闘終結に向けた14項目の覚書に署名しましたが、ホルムズ海峡の通航管理をめぐってイランが通航料を徴収する可能性が残されています。この合意に対してアメリカ国内の共和党議員からも「数十年で最悪の外交上の失策」などと批判の声が上がっています。",
@@ -84,7 +114,7 @@
       "lang": "ja"
     },
     {
-      "id": "87498732",
+      "id": "39827792",
       "category": "経済・ビジネス（日本）",
       "title": "【随時更新】ロシア ウクライナに軍事侵攻（6月18日の動き）",
       "summary": "ロシアがウクライナへの軍事侵攻を継続しており、各地でロシア軍とウクライナ軍の戦闘が続いている。多くの市民が国外への避難を余儀なくされており、本記事では6月18日の戦闘状況と関係各国の外交動向を随時更新で伝えている。",
@@ -94,37 +124,47 @@
       "lang": "ja"
     },
     {
-      "id": "51744439",
-      "category": "経済・ビジネス（日本）",
-      "title": "アルゼンチンサポーターが自転車で来た",
-      "summary": "サッカーワールドカップ北中米大会に出場する王者アルゼンチンが初戦のアルジェリア戦でメッシのハットトリックにより勝利を収めました。試合観戦のためにアメリカに入国した多くのサポーターの中には、自転車でアルゼンチンから駆けつけた熱烈なファンがいました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260618/k10015153241000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-18T08:07:23+00:00",
-      "lang": "ja"
+      "id": "71044294",
+      "category": "経済・ビジネス（世界）",
+      "title": "Foreign Office drops 'do not travel' advice for UAE",
+      "summary": "英国外交省がアラブ首長国連邦への「渡航禁止」勧告を取り下げた。2026年初頭に米国とイランの戦争が勃発した際、中東には数千人のイギリス人が足止めされていたが、情勢の改善により渡航制限が緩和されることになった。",
+      "url": "https://www.bbc.com/news/articles/cddl29lg5gro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-06-18T14:25:59+00:00",
+      "lang": "en"
     },
     {
-      "id": "35457310",
-      "category": "経済・ビジネス（日本）",
-      "title": "台湾 頼清徳総統 アメリカによる武器売却の速やかな承認に期待",
-      "summary": "台湾の頼清徳総統は、米国による台湾への武器売却が国際社会への重要な戦略的メッセージになるとして速やかな承認を期待していると述べた。同時に日本など民主主義国家との協力を深めていく方針を強調した。",
-      "url": "http://www3.nhk.or.jp/news/html/20260618/k10015153581000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-18T08:04:55+00:00",
-      "lang": "ja"
+      "id": "30761965",
+      "category": "経済・ビジネス（世界）",
+      "title": "Apple to raise prices as AI boom pushes up chip costs",
+      "summary": "AppleのティムクックCEOは、AI需要の高まりがチップコストを押し上げていることを受けて、製品価格の引き上げを検討していると述べた。ただし、具体的な値上げ時期や対象製品については明かされていない。AI技術の急速な進展に伴うチップ製造コストの増加が、主要テック企業の価格戦略に影響を与え始めている。",
+      "url": "https://www.bbc.com/news/articles/c3wyxvqdx1zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-06-18T14:03:27+00:00",
+      "lang": "en"
     },
     {
-      "id": "81844631",
-      "category": "経済・ビジネス（日本）",
-      "title": "米インド太平洋軍 「太平洋軍」に名称を変更",
-      "summary": "アメリカのインド太平洋軍は名称を「太平洋軍」に変更すると発表しました。在日米軍を指揮下に置き、アジア太平洋地域を管轄する当軍の担当区域や任務に変わりはないということです。",
-      "url": "http://www3.nhk.or.jp/news/html/20260618/k10015153471000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-18T05:46:34+00:00",
-      "lang": "ja"
+      "id": "61301927",
+      "category": "経済・ビジネス（世界）",
+      "title": "CrossCountry ranked Britain's worst train operator",
+      "summary": "交通利用者団体「トランスポート・フォーカス」は、クロスカントリー鉄道をイギリス最悪の鉄道事業者と評価し、遅延の削減と運行中断時の情報提供改善を求めている。同社は顧客満足度調査で最下位となり、サービス品質の大幅な向上が課題となっている。",
+      "url": "https://www.bbc.com/news/articles/c36y5ezr0k7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-06-18T13:14:45+00:00",
+      "lang": "en"
     },
     {
-      "id": "87326333",
+      "id": "53226024",
+      "category": "経済・ビジネス（世界）",
+      "title": "Interest rates held as Bank warns of impact of high energy prices",
+      "summary": "中央銀行は政策金利を3.75%で据え置くことを決定した。同行は12月に利下げを実施したが、中東情勢の混乱により今後のさらなる利下げは保留されている状況だ。",
+      "url": "https://www.bbc.com/news/articles/c33yzm5mdjpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-06-18T12:50:33+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "90811398",
       "category": "経済・ビジネス（世界）",
       "title": "Number of job vacancies hits five year-low",
       "summary": "企業の求人数が5年ぶりの低水準に落ち込んだ。最新の統計データから、企業が新規採用に対して慎重な姿勢を強めていることが明らかになった。経済の不確実性により、採用活動が抑制される傾向が続いている。",
@@ -134,27 +174,7 @@
       "lang": "en"
     },
     {
-      "id": "38586339",
-      "category": "経済・ビジネス（世界）",
-      "title": "Interest rates kept on hold at 3.75%",
-      "summary": "中央銀行は政策金利を3.75%で据え置くことを決定した。同行は12月に利下げを実施したが、中東情勢の混乱により今後のさらなる利下げは保留されている状況だ。",
-      "url": "https://www.bbc.com/news/articles/c33yzm5mdjpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-06-18T11:09:25+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "42398220",
-      "category": "経済・ビジネス（世界）",
-      "title": "Apple to raise prices as AI boom pushes up chip costs",
-      "summary": "AppleのティムクックCEOは、AI需要の高まりがチップコストを押し上げていることを受けて、製品価格の引き上げを検討していると述べた。ただし、具体的な値上げ時期や対象製品については明かされていない。AI技術の急速な進展に伴うチップ製造コストの増加が、主要テック企業の価格戦略に影響を与え始めている。",
-      "url": "https://www.bbc.com/news/articles/c3wyxvqdx1zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-06-18T07:27:21+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "37160189",
+      "id": "90466339",
       "category": "経済・ビジネス（世界）",
       "title": "Why has Texas set its sights on London?",
       "summary": "テキサス州は、かつてロンドンに大使館を設置していた歴史があり、現在新たな貿易事務所を開設することでロンドンとの関係を強化している。テキサス州はこの事務所を通じて、英国との経済的なつながりを深め、貿易や投資の機会を拡大することを目指している。テキサス州とロンドンの関係強化は、両地域の経済発展と相互利益の増進に向けた重要な一歩となるものである。",
@@ -164,7 +184,7 @@
       "lang": "en"
     },
     {
-      "id": "25379023",
+      "id": "54187982",
       "category": "経済・ビジネス（世界）",
       "title": "'We had to get out of the way': The backlash over delivery robots",
       "summary": "米国の街路で配送ロボットの導入が拡大する中、これらのロボットに対する規制強化や抗議活動が相次いでいる。住民たちは歩行者の安全や生活の質の低下を懸念し、配送ロボットの通行を制限する地域も出始めている。テクノロジー企業の急速な事業拡大と地域住民のニーズのバランスをめぐる議論が高まっている。",
@@ -174,7 +194,7 @@
       "lang": "en"
     },
     {
-      "id": "31468337",
+      "id": "77222878",
       "category": "経済・ビジネス（世界）",
       "title": "Warsh to review how Fed works after holding US interest rates at first meeting",
       "summary": "連邦準備制度理事会（FRB）は政策金利を3.5～3.75%に据え置きました。ケビン・ウォルシュが議長として初めて開いた会合での決定となります。トランプ氏のイラン核合意に関する不確実性が残る中での判断です。",
@@ -184,27 +204,57 @@
       "lang": "en"
     },
     {
-      "id": "32279346",
-      "category": "経済・ビジネス（世界）",
-      "title": "Driving test wait time target will not be met until autumn next year",
-      "summary": "運転免許試験の待機時間は当初の目標より遅れており、運輸長官が目指していた秋までの7週間待機への短縮は達成できず、来年秋まで実現しないと予想されている。試験の予約待機期間の短縮は運輸部門の重要な課題となっており、現在のバックログ解消には更なる対策が必要とされている。",
-      "url": "https://www.bbc.com/news/articles/cd7wv0xqvryo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-06-17T15:37:05+00:00",
+      "id": "65659735",
+      "category": "テクノロジー・AI",
+      "title": "Spotify’s reserved ticket sales to music superfans are now going live",
+      "summary": "Spotifyが新しいチケット販売システム「Reserved」をスタートさせ、アーティストの熱烈なファンのために2枚のコンサートチケットを一般販売前に確保する機会を提供することになった。このシステムにより、ストリーミングサービスの優良ユーザーが公開販売開始前に購入できるようになる。Spotifyはアーティストと音楽ファンの関係をより深めるための新たな取り組みとして位置付けている。",
+      "url": "https://techcrunch.com/2026/06/18/spotifys-reserved-ticket-sales-to-musics-superfans-are-now-going-live/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-18T14:00:00+00:00",
       "lang": "en"
     },
     {
-      "id": "17961957",
-      "category": "経済・ビジネス（世界）",
-      "title": "Inflation unexpectedly steady as food price rises slow",
-      "summary": "食料品の価格上昇が鈍化したため、インフレ率が予想に反して安定を保ったことが明らかになった。英国国家統計局によると、ガソリン価格の上昇は肉、乳製品、野菜の価格上昇の鈍化によって相殺された。全体的には物価上昇圧力が緩和される兆しが見られている。",
-      "url": "https://www.bbc.com/news/articles/cyv0qpn9zvjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-06-17T09:52:43+00:00",
+      "id": "41563620",
+      "category": "テクノロジー・AI",
+      "title": "Who decides when AI is too dangerous?",
+      "summary": "Anthropic社とトランプ政権、そして同社の新型AIモデル「Fable 5」をめぐる先週末の出来事について、Vergeのシニア記者Hayden Fieldが番組に出演し、AIの危険性を誰が判断するのかという問題について議論している。AIの安全性と規制をめぐる政策決定の権限と責任が焦点となっている。",
+      "url": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
+      "source": "AI | The Verge",
+      "published_at": "2026-06-18T14:00:00+00:00",
       "lang": "en"
     },
     {
-      "id": "70561399",
+      "id": "59362122",
+      "category": "テクノロジー・AI",
+      "title": "Adobe adds its AI assistant to Premiere, Illustrator and InDesign",
+      "summary": "Adobeは生成AI「Firefly」を強化し、動画編集ソフト「Premiere」、グラフィックデザインソフト「Illustrator」と「InDesign」、そして動画コラボレーションプラットフォーム「Frame.io」に統合した。この拡張により、ユーザーはこれらのアプリケーション内で直接AI機能を活用して、制作作業をより効率的に行うことが可能になった。これはAdobeがクリエイティブワークフロー全体へのAI統合を進める戦略の一部である。",
+      "url": "https://techcrunch.com/2026/06/18/adobe-adds-its-ai-assistant-to-premiere-illustrator-and-indesign/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-18T13:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "11425831",
+      "category": "テクノロジー・AI",
+      "title": "Photoshop and Premiere now have AI assistants",
+      "summary": "Adobeは、Creative Cloudスイート全体にAIアシスタントを統合する計画を進めており、本日からPhotoshop、Premiere、Illustrator、InDesign、およびFrame.ioに専用のAIアシスタント機能をパブリックベータとしてロールアウトしました。これらのAIアシスタントは各アプリケーションに最適化されており、ユーザーは編集やデザイン作業をより効率的に行うことができるようになります。",
+      "url": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
+      "source": "AI | The Verge",
+      "published_at": "2026-06-18T13:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "61688753",
+      "category": "テクノロジー・AI",
+      "title": "Adobe’s redesigned AI studio remembers what your creations look like",
+      "summary": "アドビが再設計したAIスタジオでは、ユーザーの過去の作品の特徴を記憶し、単一のインターフェースから設計の編集と生成ができるようになった。新しいFirefly体験は本日からプライベートベータで提供開始され、プロジェクト全体で永続的なコンテキスト、再利用可能なアセット、整理されたワークフローを提供するように設計されている。",
+      "url": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
+      "source": "AI | The Verge",
+      "published_at": "2026-06-18T13:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "36948951",
       "category": "テクノロジー・AI",
       "title": "Pixi’s new iOS app turns text messages into interactive AR experiences",
       "summary": "Pixiが新しいiOSアプリを発表し、テキストメッセージをインタラクティブなAR体験に変換する機能を提供する。同社はステッカーやGIF、絵文字リアクションの次の進化として、メッセージングにインタラクティブ拡張現実を組み込むことに賭けている。このアプリにより、ユーザーはメッセージ内で直接AR体験を利用できるようになる。",
@@ -214,7 +264,7 @@
       "lang": "en"
     },
     {
-      "id": "75203770",
+      "id": "31412916",
       "category": "テクノロジー・AI",
       "title": "Waymo recalls nearly 4,000 robotaxis to stop them driving into highway construction zones",
       "summary": "Waymoは約4,000台のロボタクシーをリコールし、高速道路の工事区間への進入を防ぐための修正を行う。同社は少なくとも13件の事例で、ロボタクシーが工事のために閉鎖された高速道路区間に進入したことを確認しており、この問題に対応するための措置である。",
@@ -224,7 +274,7 @@
       "lang": "en"
     },
     {
-      "id": "53160716",
+      "id": "72336428",
       "category": "テクノロジー・AI",
       "title": "NASA picks Eric Schmidt’s rocket company for Mars mission, setting up a race with SpaceX",
       "summary": "NASAはエリック・シュミット前Google会長のロケット企業Relativity Spaceを火星ミッションに選定し、SpaceXとの競争が本格化することになった。軌道到達に苦戦していたRelativity Spaceはシュミットによる買収後、火星探査でSpaceXを上回る可能性が出てきた。",
@@ -234,57 +284,17 @@
       "lang": "en"
     },
     {
-      "id": "14721724",
-      "category": "テクノロジー・AI",
-      "title": "Midjourney goes from generating cat images to full-body ultrasound scans",
-      "summary": "MidjourneyのCEO、デビッド・ホルツが同社初のハードウェア製品「ザ・ミッドジャーニー・スキャナー」を発表しました。このデバイスはセンサーのリングを使用して全身の超音波スキャンを行うもので、AIの画像生成から医療機器への事業転換を示しています。同社はサンフランシスコにスパ施設を建設する計画も明かし、これまでの「猫の画像」生成から大きく事業領域を拡大させています。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
-      "source": "AI | The Verge",
-      "published_at": "2026-06-18T03:12:31+00:00",
+      "id": "56831175",
+      "category": "台湾・中台関係",
+      "title": "Trump's War In Iran Is A Staggering Failure On Nearly Every Level",
+      "summary": "トランプ前大統領のイラン政策は、ほぼすべての面で壊滅的な失敗に終わったと指摘されている。核合意からの一方的な離脱やイラン最高指導者への暗殺未遂など、強硬策を取ったにもかかわらず、イランの核開発プログラムはむしろ加速し、中東の地政学的安定性も損なわれた。結果として、目標達成どころか、対立関係を深刻化させるだけに終わったという批判が出ている。",
+      "url": "https://www.huffpost.com/entry/trump-war-iran-big-failure_n_6a3044dae4b07679090ec9e6",
+      "source": "HuffPost",
+      "published_at": "2026-06-17T13:25:20+00:00",
       "lang": "en"
     },
     {
-      "id": "99167925",
-      "category": "テクノロジー・AI",
-      "title": "How to turn off AI in your Google Docs",
-      "summary": "Googleドキュメントに表示される「Geminiで作成」というポップアップを消すための方法が説明されている。このAI機能を無効化するには、設定メニューからAI機能をオフにすることで、煩わしいポップアップの表示を止めることができる。ユーザーがAI機能を不要と判断した場合、簡単な手順で機能を無効化できるようになっている。",
-      "url": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-18T01:23:51+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "19823213",
-      "category": "テクノロジー・AI",
-      "title": "AI is hurting Apple in more ways than one: it may force iPhone price increases",
-      "summary": "アップルはAI開発の遅れにより複数の課題に直面しており、CEO ティム・クックは現在の状況が「持続不可能である」とコメントしている。AI機能の開発投資が経営を圧迫し、iPhoneの価格引き上げを余儀なくされる可能性があるという。アップルは競合他社のAI展開に対応するため、製品価格の値上げも検討しているとされている。",
-      "url": "https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-17T23:28:21+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "34979827",
-      "category": "テクノロジー・AI",
-      "title": "Chi-Hua Chien saw Facebook coming — now he says the real AI winners won’t be selling AI",
-      "summary": "20年以上ベンチャーキャピタリストとして活動してきたチー・ホア・チェンは、AIの真の勝者はAI技術そのものを販売する企業ではなく、AI技術を活用して独自の価値を生み出す企業になると主張している。彼は文化人類学者のような視点からテクノロジートレンドを分析し、過去にはフェイスブックの台頭を予見した実績を持つ。チェンは現在、AIテクノロジー産業の将来展開について、従来の予測とは異なる独自の見解を提示している。",
-      "url": "https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-17T21:30:50+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "43512674",
-      "category": "テクノロジー・AI",
-      "title": "Roelof Botha joins SpaceX’s board of directors",
-      "summary": "シーケンシア・キャピタルの元指導者ロエロフ・ボータがスペースXの取締役会に加わった。同社が過去最大規模のIPOで上場してから数日後の就任となり、取締役会の既存の空席を埋めることになる。",
-      "url": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-17T20:32:52+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "89031415",
+      "id": "42652375",
       "category": "台湾・中台関係",
       "title": "Xinhua Silk Road: Thematic cultural week held in SE China county to deepen cross-Strait exchanges",
       "summary": "中国東部の県で開催された陳靖姑文化活動週間は、海峡フォーラムの関連イベントとして6月10日から12日にかけて行われ、地元の住民と遠方からの訪問者が多数集まりました。このイベントは台湾海峡両岸の文化交流と相互理解を深めることを目的としており、伝統文化を通じた両地域の結びつきを強化する重要な役割を果たしています。",
@@ -294,7 +304,7 @@
       "lang": "en"
     },
     {
-      "id": "20160561",
+      "id": "67571330",
       "category": "台湾・中台関係",
       "title": "Beijing accuses Japan of militarism while rapidly expanding its own military",
       "summary": "中国は日本を軍国主義だと非難する一方で、自らの核兵器とハイパーソニック兵器を急速に拡張している。日本は防衛力強化は中国の強圧に対する適切な対応であり軍国主義ではないと主張しており、台湾情勢が緊迫化する中、日本は中国による台湾封鎖の脅威について警告を発している。",
@@ -304,7 +314,7 @@
       "lang": "en"
     },
     {
-      "id": "24063478",
+      "id": "91659736",
       "category": "台湾・中台関係",
       "title": "G7 nations reaffirm opposition to unilateral changes in Taiwan Strait",
       "summary": "G7諸国は台湾海峡における一方的な変更に反対する姿勢を改めて確認した。台湾海峡の安定性は世界的なテクノロジー市場と地政学的均衡にとって極めて重要であり、G7の立場はこの安定性の重要性を強調している。",
@@ -314,7 +324,7 @@
       "lang": "en"
     },
     {
-      "id": "75416434",
+      "id": "92206039",
       "category": "台湾・中台関係",
       "title": "China says it will take countermeasures to new Taiwan intelligence gathering site",
       "summary": "中国政府は、台湾が中国国民向けに新設した情報収集ウェブサイトに対抗措置を講じると発表した。台湾はこのサイトを通じて中国国民からの情報提供を募集しており、中国はこれを主権侵害と見なして強く反発している。両国間の緊張がさらに高まる可能性がある。",
@@ -324,7 +334,7 @@
       "lang": "en"
     },
     {
-      "id": "62172982",
+      "id": "20783355",
       "category": "台湾・中台関係",
       "title": "The President is winning the geopolitical battle with China",
       "summary": "トランプ大統領の対中国地政学戦略は、メディアの批判にもかかわらず実際には成功を収めているという主張である。イランやウクライナでの課題やNATO同盟国との関係悪化など表面的な問題がある一方で、米国は中国との経済的・軍事的競争において優位性を確保しつつあるということが論じられている。この記事は主流メディアの評価が大統領の外交政策の実質的な成果を過小評価している可能性を示唆している。",
@@ -334,7 +344,7 @@
       "lang": "en"
     },
     {
-      "id": "22497853",
+      "id": "35507921",
       "category": "台湾・中台関係",
       "title": "Taiwan Bet Too Big on Washington",
       "summary": "トランプ前大統領の同盟国を裏切る姿勢を見ると、台湾は米国への過度な依存を見直す必要があります。台湾は長年、米国の支持が自国の安全保障を保証してくれると信じてきましたが、米国の政策転換のリスクに対してより慎重になるべきです。台湾は米国以外の外交的・経済的選択肢の多角化を進め、自国の防衛力強化にも注力する必要があります。",
@@ -344,23 +354,13 @@
       "lang": "en"
     },
     {
-      "id": "53962971",
+      "id": "68572989",
       "category": "台湾・中台関係",
       "title": "Senate Armed Services Committee authorizes $2B for Taiwan, Philippines security aid",
       "summary": "米国上院軍事委員会は台湾とフィリピンの安全保障支援として20億ドルの予算を承認した。この措置は西太平洋地域における米国の戦略的関心を示すものであり、地域の緊張を高める可能性があるとともに、世界市場に影響を与える可能性がある。",
       "url": "https://cryptobriefing.com/senate-taiwan-philippines-security-aid-2b/",
       "source": "Crypto Briefing",
       "published_at": "2026-06-16T18:52:07+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "80672054",
-      "category": "台湾・中台関係",
-      "title": "KMT Chair Returns From Her US Tour",
-      "summary": "国民党主席の鄭麗文が2週間のアメリカ訪問から帰国したが、望んでいたホワイトハウスでの高官会談は実現しなかった。しかし今回の訪問は、彼女の政治的野心を示す信号として機能した。",
-      "url": "https://thediplomat.com/2026/06/kmt-chair-returns-from-her-us-tour/",
-      "source": "The Diplomat",
-      "published_at": "2026-06-16T16:09:00+00:00",
       "lang": "en"
     }
   ]
