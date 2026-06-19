@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T14:24:50.419946+00:00",
+  "updated_at": "2026-06-19T17:26:36.919279+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -44,7 +44,7 @@
   ],
   "news": [
     {
-      "id": "15467334",
+      "id": "75408978",
       "category": "経済・ビジネス（日本）",
       "title": "“イスラエルとヒズボラ 停戦で合意” 米政府当局者",
       "summary": "アメリカ政府当局者によると、イスラエルとイスラム教シーア派組織ヒズボラが現地時間19日午後4時からの停戦で合意したと発表されました。",
@@ -54,7 +54,7 @@
       "lang": "ja"
     },
     {
-      "id": "17577193",
+      "id": "77116762",
       "category": "経済・ビジネス（日本）",
       "title": "イギリス国境警備隊元隊員ら香港活動家へのスパイ活動で禁錮刑",
       "summary": "イギリスの裁判所が、香港の民主活動家を監視するスパイ活動を行っていた国境警備隊の元隊員ら2人に禁錮8年と10年の判決を言い渡しました。イギリスメディアは、容疑者らが中国のためにスパイ活動を行っていたと報じています。",
@@ -64,7 +64,7 @@
       "lang": "ja"
     },
     {
-      "id": "42423933",
+      "id": "76112111",
       "category": "経済・ビジネス（日本）",
       "title": "英 首相交代につながる可能性も？ 有力候補 下院補欠選で当選",
       "summary": "イギリス下院の補欠選挙で労働党の中部マンチェスター市長が当選し、党員の間で現首相のスターマー氏より市長を支持する声が多いため、市長が党首選挙に立候補する意向を示していることから、首相交代につながる可能性も指摘されています。",
@@ -74,7 +74,7 @@
       "lang": "ja"
     },
     {
-      "id": "45951098",
+      "id": "46107867",
       "category": "経済・ビジネス（日本）",
       "title": "天皇皇后両陛下 オランダ国王夫妻と小児がんセンターを訪問",
       "summary": "天皇皇后両陛下がオランダを公式訪問中にオランダ国王夫妻とともにマキシマ王妃名義の小児がんセンターを訪問し、患者の子どもたちと交流されました。",
@@ -84,7 +84,7 @@
       "lang": "ja"
     },
     {
-      "id": "65672553",
+      "id": "50491039",
       "category": "経済・ビジネス（日本）",
       "title": "日本人乗組員を乗せた日本関係船舶 残る1隻がペルシャ湾外に",
       "summary": "日本人乗組員3人が乗船していたペルシャ湾内の日本関係船舶が19日にホルムズ海峡を通過し、ペルシャ湾の外に退避したと茂木外務大臣が発表しました。これにより、日本人乗組員を乗せた日本関係船舶すべてが湾外に退避したことになります。",
@@ -94,7 +94,7 @@
       "lang": "ja"
     },
     {
-      "id": "43238276",
+      "id": "39396470",
       "category": "経済・ビジネス（日本）",
       "title": "外国人向けビザ手数料 7月から5倍に引き上げを決定 政府",
       "summary": "政府は外国人向けビザの発給手数料を7月から現在の5倍に引き上げることを決定した。この値上げにより、外国人の入国手続きにかかる費用が大幅に増加することになる。",
@@ -104,7 +104,7 @@
       "lang": "ja"
     },
     {
-      "id": "53737294",
+      "id": "54141495",
       "category": "経済・ビジネス（日本）",
       "title": "ミャンマー民主派指導者のスー・チー氏 81歳に",
       "summary": "ミャンマーの民主派指導者アウン・サン・スー・チー氏が19日に81歳の誕生日を迎えました。現在も拘束が続いており、4月に軟禁措置に移行したとされていますが、健康状態への懸念が高まっており、次男が改めて早期解放を求めています。",
@@ -114,7 +114,7 @@
       "lang": "ja"
     },
     {
-      "id": "17109852",
+      "id": "66629217",
       "category": "経済・ビジネス（日本）",
       "title": "米・イラン 19日予定の協議“延期” レバノンでは戦闘続く",
       "summary": "スイスで19日に予定されていたアメリカとイラン協議が延期されることがスイス外務省から発表されました。明確な理由は不明ですが、両国が戦闘終結に合意したレバノンで戦闘が続いており、協議に影響を与える可能性が懸念されています。",
@@ -124,7 +124,17 @@
       "lang": "ja"
     },
     {
-      "id": "48903208",
+      "id": "12038504",
+      "category": "経済・ビジネス（世界）",
+      "title": "O'Leary extends Ryanair contract in deal that could net him over £130m",
+      "summary": "ライアンエアーのオレアリーCEOが2032年までの契約延長に合意し、この契約には1億5000万ユーロ（1億3000万ポンド）以上のボーナス制度が含まれている。この好条件の契約延長により、同CEOは大きな経済的利益を得る可能性がある。",
+      "url": "https://www.bbc.com/news/articles/c4gyejpy221o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-06-19T15:27:27+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "59882537",
       "category": "経済・ビジネス（世界）",
       "title": "Plans to end gazumping with binding agreements in house sales shake-up",
       "summary": "英国の不動産売買制度の改革により、売却契約がより早期に法的拘束力を持つようになり、売主は物件情報をより詳細に事前提供することが義務付けられる。これらの変更は「ガザンピング」と呼ばれる売買成立直前の価格つり上げ慣行を終わらせることを目的としている。買い手の権利強化と取引の透明性向上につながる改革である。",
@@ -134,7 +144,7 @@
       "lang": "en"
     },
     {
-      "id": "64462755",
+      "id": "71577449",
       "category": "経済・ビジネス（世界）",
       "title": "Five ways the Iran peace deal could affect you and your money",
       "summary": "イランとの核合意により、原油とガソリン価格が低下する可能性があります。この記事は、イランとの平和合意があなたの家計にどのような影響を与えるかを5つのグラフで示しています。特に燃料やガス価格の変動、そして経済全体への波及効果について詳しく解説しています。",
@@ -144,7 +154,7 @@
       "lang": "en"
     },
     {
-      "id": "78436962",
+      "id": "88030097",
       "category": "経済・ビジネス（世界）",
       "title": "Warning over 'fragile' public finances as borrowing rises",
       "summary": "イギリスの5月の借入金が233億ポンドに達し、前年同月比で約3分の1増加した。公式統計によると、公的財政が脆弱な状態にあるとして警告が発せられている。借入の増加は政府の支出増加と税収の減少を反映しており、財政の持続可能性に懸念が生じている。",
@@ -154,7 +164,7 @@
       "lang": "en"
     },
     {
-      "id": "17189996",
+      "id": "20229211",
       "category": "経済・ビジネス（世界）",
       "title": "'I'd be put off if he asked to split it': Who should pay on a first date?",
       "summary": "初デートの支払いについて、割り勘派と招待した側が払うべき派、男性が払うのはロマンティックという伝統派など、様々な意見がある。調査によれば、デート代の負担に関する期待値は個人差が大きく、世代や文化背景によって見方が大きく異なることが明らかになった。支払い方法についての事前のコミュニケーションや相互理解が、デートを円滑に進めるために重要であると指摘されている。",
@@ -164,7 +174,7 @@
       "lang": "en"
     },
     {
-      "id": "28307586",
+      "id": "38501764",
       "category": "経済・ビジネス（世界）",
       "title": "The artificial ice pyramids saving India's mountain villages",
       "summary": "インドの山岳村落では、春先の農作物用水を確保するために人工氷ピラミッドを製造しており、この革新的な方法はヒマラヤ地域の水不足問題に対する実践的な解決策となっている。冬の冷たい山の水を利用して人工的に氷を層状に積み上げることで、春の融雪期に必要な水を蓄積することができ、地域の農業を支える重要な役割を果たしている。",
@@ -174,7 +184,7 @@
       "lang": "en"
     },
     {
-      "id": "79351094",
+      "id": "21015850",
       "category": "経済・ビジネス（世界）",
       "title": "Brexit cost 6% of UK economy, Bank of England company data suggests",
       "summary": "イングランド銀行の企業データ分析によると、ブレグジットはイギリス経済に約6パーセントの成長率低下をもたらしたとされている。この分析は、もしイギリスが欧州連合から離脱していなかった場合にどの程度成長していたであろうかを示すものである。ブレグジットによる経済的な影響が数値化されたことで、イギリス経済への長期的な打撃が明確になった。",
@@ -184,17 +194,7 @@
       "lang": "en"
     },
     {
-      "id": "22109866",
-      "category": "経済・ビジネス（世界）",
-      "title": "'Do not travel' advice for Dubai dropped",
-      "summary": "英国外交省がアラブ首長国連邦への「渡航禁止」勧告を取り下げた。2026年初頭に米国とイランの戦争が勃発した際、中東には数千人のイギリス人が足止めされていたが、情勢の改善により渡航制限が緩和されることになった。",
-      "url": "https://www.bbc.com/news/articles/cddl29lg5gro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-06-18T15:36:42+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "71886247",
+      "id": "32425345",
       "category": "経済・ビジネス（世界）",
       "title": "Interest rates held as Bank warns of impact of high energy prices",
       "summary": "中央銀行は政策金利を3.75%で据え置くことを決定した。同行は12月に利下げを実施したが、中東情勢の混乱により今後のさらなる利下げは保留されている状況だ。",
@@ -204,7 +204,37 @@
       "lang": "en"
     },
     {
-      "id": "96181641",
+      "id": "13222403",
+      "category": "テクノロジー・AI",
+      "title": "Every fusion startup that has raised over $100M",
+      "summary": "核融合スタートアップ企業は現在までに71億ドルを調達しており、その大部分が少数の企業に集中している。記事は100百万ドル以上の資金調達に成功した核融合関連のスタートアップ企業について取り上げており、業界全体の資金集約の傾向を示している。このセクターでは大型の資金調達が行われている一方で、多くの新興企業が競争に直面している。",
+      "url": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-19T16:50:58+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "81451538",
+      "category": "テクノロジー・AI",
+      "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
+      "summary": "米国政府がAnthropicの最新モデル「Fable 5」と「Mythos 5」を国家安全保障上の懸念を理由に撤去させたが、セキュリティ研究者らはこの措置が危険だと反発し、同様の脆弱性は他のモデルにも存在すると指摘している。この規制がAnthropicのブランド認知度を高める逆説的な効果をもたらす可能性がある。",
+      "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-19T16:08:17+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "55566855",
+      "category": "テクノロジー・AI",
+      "title": "Billionaire Ambani wants AI in every call, app, and home",
+      "summary": "インドの大手企業リライアンスのムケシュ・アンバニ会長は、5億人以上が利用する通信サービスにAIを統合する計画を発表した。同社は通話、アプリ、家庭内のあらゆるサービスにAI技術を組み込むことで、顧客体験の向上と新たなビジネス機会の創出を目指している。この取り組みは、インドの電気通信業界におけるAI活用の最前線となる可能性がある。",
+      "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-19T15:23:28+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "85762164",
       "category": "テクノロジー・AI",
       "title": "The film about Sam Altman has been dropped by Amazon MGM",
       "summary": "OpenAIのCEOサム・アルトマンを題材にしたルカ・グアダニーノ監督の映画「Artificial」がアマゾンMGMから企画を降ろされた。アンドリュー・ガーフィールド主演のこの作品は、2023年のアルトマン氏がCEOを解任されて復職するまでの5日間を描いており、約1年間製作されていた。",
@@ -214,7 +244,7 @@
       "lang": "en"
     },
     {
-      "id": "47440142",
+      "id": "56437734",
       "category": "テクノロジー・AI",
       "title": "The CEO of Allbirds’ new AI biz has a plan, but no employees",
       "summary": "Allbirds傘下の新たなAIビジネスのCEOが事業計画を持っているものの、従業員がいない状態で始まった。この企業は創業者1人と非常に大きな資金調達を備えたスタートアップだが、その先の展開は不透明である。Allbirdsがこの新規事業にどのようなリソースを投入し、いつ本格的な組織体制を整えるかは明らかになっていない。",
@@ -224,7 +254,7 @@
       "lang": "en"
     },
     {
-      "id": "26642272",
+      "id": "77415312",
       "category": "テクノロジー・AI",
       "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t",
       "summary": "米国はオランダの半導体製造装置メーカーASMLの最先端チップツールが中国にある可能性があると主張しているが、ASMLはそれを否定している。ASMLが中国顧客に装置を供給して輸出許可を失うというリスクを冒す商業的な理由はないというのが、ASMLの立場である。米国と中国の技術覇権争いの中で、半導体製造装置の流出をめぐる疑惑が浮上している。",
@@ -234,7 +264,7 @@
       "lang": "en"
     },
     {
-      "id": "47574856",
+      "id": "33094415",
       "category": "テクノロジー・AI",
       "title": "Barret Zoph is out at OpenAI again after just five months",
       "summary": "OpenAIのエンタープライズAI営業責任者であるBarret Zophが、1月の復帰からわずか5ヶ月後に再び退職した。Zophは前OpenAI CTOのMira Muratiが創立した競合企業Thinking Machines Labの共同創立者兼CTOを務めた後、今年1月にOpenAIに復帰していた。",
@@ -244,7 +274,7 @@
       "lang": "en"
     },
     {
-      "id": "34018122",
+      "id": "33031182",
       "category": "テクノロジー・AI",
       "title": "Telegram ban in India sparks a rush to VPNs, rival apps",
       "summary": "インドのテレグラム禁止措置を受けて、ユーザーがVPNや競合アプリへの移行を急いでいる。テレグラムは、数百万人が利用するプラットフォーム全体をブロックするのではなく、インド政府は特定のコンテンツのみをブロックすべきだと主張している。この禁止措置はインドでの通信環境に大きな変化をもたらし、ユーザーのプライバシーと言論の自由に関する議論を再燃させている。",
@@ -254,37 +284,27 @@
       "lang": "en"
     },
     {
-      "id": "72945816",
-      "category": "テクノロジー・AI",
-      "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
-      "summary": "Elastic（エラスティック）は、AIを使ってソフトウェアのバグを検出・解決するスタートアップのDeductiveAIを最大8,500万ドルで買収することに合意した。DeductiveAIは3年前に設立された企業で、その技術がElasticのプラットフォームに統合されることで、ソフトウェア開発の効率化が期待されている。",
-      "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-19T00:51:11+00:00",
+      "id": "91790121",
+      "category": "台湾・中台関係",
+      "title": "The Iran War Damaged U.S.-India Ties",
+      "summary": "イラン紛争により、戦略的パートナーである米国とインドの間に外交的な亀裂が生じており、この関係悪化は紛争終結後も長く残る可能性がある。米国とインドの利益が中東地域で相反したことで、両国の協力関係に深刻な影響をもたらしている。この対立はインド太平洋地域における米国の戦略にも悪影響を及ぼす恐れがある。",
+      "url": "http://foreignpolicy.com/2026/06/18/iran-war-us-india-ties-damage-economy-modi-rubio-trump/",
+      "source": "Foreign Policy",
+      "published_at": "2026-06-18T15:04:07+00:00",
       "lang": "en"
     },
     {
-      "id": "37043760",
-      "category": "テクノロジー・AI",
-      "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
-      "summary": "AI推論スタートアップのBasettenが、前回のメガラウンドからわずか数ヶ月後に15億ドルの資金調達に近づいており、評価額は130億ドルに達しているとのことです。このニュースは、AI推論分野への投資熱が継続していることを示しており、同社が市場での競争力を強化しようとしていることを反映しています。",
-      "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-18T21:20:13+00:00",
+      "id": "47956048",
+      "category": "台湾・中台関係",
+      "title": "The Iran Deal Drives Oil Prices Down, But Uncertainty Looms",
+      "summary": "イランとアメリカの合意によってイランの石油輸出が再開される見通しから、国際石油市場では価格下落が見られている。ホルムズ海峡などの重要な海上輸送路が再開される可能性がある一方で、制裁解除の具体的な条件や実行時期など、依然として多くの不確定要素が残されている。合意の実現性と市場への影響については、今後の交渉進展を注視する必要がある。",
+      "url": "https://www.forbes.com/sites/arielcohen/2026/06/18/the-iran-deal-drives-oil-prices-down-but-uncertainty-looms/",
+      "source": "Forbes",
+      "published_at": "2026-06-18T14:36:19+00:00",
       "lang": "en"
     },
     {
-      "id": "74292372",
-      "category": "テクノロジー・AI",
-      "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
-      "summary": "Snapchatの親会社であるSnapが、AI動画開発チームをDotmoという新会社として分社化した。この決定はコスト削減を目的としており、Snap傘下のAI動画開発チームの従業員がSnapを離れ、新しい企業でAI動画の開発に専念することになる。",
-      "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-18T20:30:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "63903988",
+      "id": "35004852",
       "category": "台湾・中台関係",
       "title": "Taiwan president says hopes for $14 billion arms sale ‘as soon as possible’",
       "summary": "台湾の総統は、米国が140億ドル規模の武器売却を「できるだけ早く」承認することを望んでいると述べた。この武器売却は台湾の防衛力強化を目指すもので、米国とのセキュリティ協力の継続を示すものである。台湾は中国の軍事的脅威に直面しており、防衛装備の充実が急務となっている。",
@@ -294,7 +314,7 @@
       "lang": "en"
     },
     {
-      "id": "66757076",
+      "id": "78437524",
       "category": "台湾・中台関係",
       "title": "Taiwan needs US weapons for self-defense as threat from China grows: Report",
       "summary": "台湾の駐米代表は、中国からの脅威の増大に対抗するため、台湾がアメリカの防衛兵器を購入する必要があると述べた。同代表は、台湾に対するワシントンの政策に変化は見られないと指摘し、中国が統一を目指す中でも米国の支持姿勢は変わっていないことを強調した。台湾の自衛能力強化には継続的な米国の軍事支援が不可欠だという立場を示している。",
@@ -304,7 +324,7 @@
       "lang": "en"
     },
     {
-      "id": "16832012",
+      "id": "22588343",
       "category": "台湾・中台関係",
       "title": "Taiwan not 'provoking' China; hopes new U.S. arms sale package can be approved soon, president says",
       "summary": "台湾のライ・チンテ総統は、中国共産党による統治を拒否して自国の安全保障を守ることは挑発ではないと述べるとともに、米国による新たな武器売却パッケージの早期承認を望んでいると述べた。民主的に統治される台湾は、自らの防衛能力強化を通じて地域の平和と安定の維持を目指しており、これは正当な権利であると主張している。",
@@ -314,7 +334,7 @@
       "lang": "en"
     },
     {
-      "id": "42224782",
+      "id": "76747605",
       "category": "台湾・中台関係",
       "title": "Taiwan's Lai says defending democracy is not a provocation against China",
       "summary": "台湾の頼清徳総統は、中国共産党の支配から島の安全と自由を守ることは中国への挑発ではないと主張しており、米国からの新たな防衛装備品の売却パッケージの迅速な承認を求めている。頼総統は台湾の自決権を強調し、民主主義を守ることが地域の安定につながると述べている。台湾は引き続き米国との防衛協力を強化し、中国の軍事的圧力に対抗する姿勢を示している。",
@@ -324,33 +344,13 @@
       "lang": "en"
     },
     {
-      "id": "12998185",
+      "id": "11909135",
       "category": "台湾・中台関係",
       "title": "India's m-cap tops $5 trillion, climbs back into global top six",
       "summary": "インドの株式市場時価総額が5兆ドルを超え、世界6位に返り咲いた。この上昇はアメリカとイランの和平合意に続くもので、投資家心理の改善が市場を押し上げている。インドは世界的な投資対象国としての地位を再び確立した。",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/indias-m-cap-tops-5-trillion-climbs-back-into-global-top-six/articleshow/131814860.cms",
       "source": "The Times of India",
       "published_at": "2026-06-18T00:03:18+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "52076875",
-      "category": "台湾・中台関係",
-      "title": "Takaichi touts G7 unity on energy security, critical minerals",
-      "summary": "日本の高市早苗首相は、G7サミットの成果について、エネルギー安全保障と重要鉱物サプライチェーンに関して、各国首脳が強力で統一されたメッセージを発信したことを高く評価した。3日間のサミット終了後の記者会見で述べた同首相の発言は、G7各国がこれらの戦略的課題で結束していることを強調している。",
-      "url": "https://japantoday.com/category/politics/update2-japan-pm-takaichi-touts-g7-unity-on-energy-security-critical-minerals",
-      "source": "Japan Today",
-      "published_at": "2026-06-17T21:43:40+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "11606740",
-      "category": "台湾・中台関係",
-      "title": "China Is Indispensable, But Not Dominant",
-      "summary": "中国は世界経済において不可欠な存在だが、他国の戦略的選択を完全にコントロールするほどの支配力は持っていない。北京は大国들を自らの軌道に引き込むことに成功したが、各国は依然として独立した戦略的判断の自由を保持している。中国の影響力は強大だが、世界的なパワーバランスにおいては複数の大国が均衡を保つ状態が続いている。",
-      "url": "https://thediplomat.com/2026/06/china-is-indispensable-but-not-dominant/",
-      "source": "The Diplomat",
-      "published_at": "2026-06-17T18:01:00+00:00",
       "lang": "en"
     }
   ]
