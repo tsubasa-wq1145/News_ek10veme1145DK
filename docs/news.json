@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T19:17:22.047553+00:00",
+  "updated_at": "2026-06-20T08:36:36.109429+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -44,87 +44,87 @@
   ],
   "news": [
     {
-      "id": "10077825",
+      "id": "59733503",
       "category": "経済・ビジネス（日本）",
-      "title": "“イスラエルとヒズボラ 停戦で合意” 米政府当局者",
-      "summary": "アメリカ政府当局者によると、イスラエルとイスラム教シーア派組織ヒズボラが現地時間19日午後4時からの停戦で合意したと発表されました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260619/k10015155001000.html",
+      "title": "“米特使スイスへ”報道 米イラン協議近く開催か注目",
+      "summary": "アメリカのウィトコフ特使がスイスに向かい、仲介役のカタール首相も到着したことが明らかになり、延期されていたアメリカとイランの協議が近く開催される可能性が高まっている。",
+      "url": "http://www3.nhk.or.jp/news/html/20260620/k10015154941000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-06-19T14:21:42+00:00",
+      "published_at": "2026-06-20T08:10:18+00:00",
       "lang": "ja"
     },
     {
-      "id": "24839074",
+      "id": "42554547",
       "category": "経済・ビジネス（日本）",
-      "title": "イギリス国境警備隊元隊員ら香港活動家へのスパイ活動で禁錮刑",
-      "summary": "イギリスの裁判所が、香港の民主活動家を監視するスパイ活動を行っていた国境警備隊の元隊員ら2人に禁錮8年と10年の判決を言い渡しました。イギリスメディアは、容疑者らが中国のためにスパイ活動を行っていたと報じています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260619/k10015154831000.html",
+      "title": "ドイツ南部で貨物列車どうしが衝突し橋から落下 1人重傷",
+      "summary": "ドイツ南部のミュンヘンで貨物列車同士が衝突し、一部の車両が脱線して橋から落下する事故が発生しました。この事故により1人が重傷を負いました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260620/k10015155341000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-06-19T13:13:24+00:00",
+      "published_at": "2026-06-20T07:22:20+00:00",
       "lang": "ja"
     },
     {
-      "id": "59996301",
+      "id": "60176447",
       "category": "経済・ビジネス（日本）",
-      "title": "英 首相交代につながる可能性も？ 有力候補 下院補欠選で当選",
-      "summary": "イギリス下院の補欠選挙で労働党の中部マンチェスター市長が当選し、党員の間で現首相のスターマー氏より市長を支持する声が多いため、市長が党首選挙に立候補する意向を示していることから、首相交代につながる可能性も指摘されています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260619/k10015154721000.html",
+      "title": "あのサッカー選手もかつて“難民”だった 国連本部で作品展示",
+      "summary": "ニューヨークの国連本部で、紛争の影響を受けて難民経験を持つサッカーのトッププレーヤーたちを紹介する絵が展示されています。これは6月20日の「世界難民の日」とサッカーワールドカップ北中米大会にあわせた企画です。",
+      "url": "http://www3.nhk.or.jp/news/html/20260620/k10015155131000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-06-19T13:07:00+00:00",
+      "published_at": "2026-06-20T00:39:46+00:00",
       "lang": "ja"
     },
     {
-      "id": "13845273",
+      "id": "14288721",
       "category": "経済・ビジネス（日本）",
-      "title": "天皇皇后両陛下 オランダ国王夫妻と小児がんセンターを訪問",
-      "summary": "天皇皇后両陛下がオランダを公式訪問中にオランダ国王夫妻とともにマキシマ王妃名義の小児がんセンターを訪問し、患者の子どもたちと交流されました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260619/k10015154851000.html",
+      "title": "新たなアメリカ大統領専用機を公開 塗装を一変",
+      "summary": "アメリカの新たな大統領専用機がワシントン近郊の軍基地で公開されました。この機体はカタールから贈られたもので、塗装を含む改修工事を経て新しい姿となっています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260620/k10015155121000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-06-19T12:57:00+00:00",
+      "published_at": "2026-06-20T00:03:17+00:00",
       "lang": "ja"
     },
     {
-      "id": "63809344",
+      "id": "18883223",
       "category": "経済・ビジネス（日本）",
-      "title": "日本人乗組員を乗せた日本関係船舶 残る1隻がペルシャ湾外に",
-      "summary": "日本人乗組員3人が乗船していたペルシャ湾内の日本関係船舶が19日にホルムズ海峡を通過し、ペルシャ湾の外に退避したと茂木外務大臣が発表しました。これにより、日本人乗組員を乗せた日本関係船舶すべてが湾外に退避したことになります。",
-      "url": "http://www3.nhk.or.jp/news/html/20260619/k10015154561000.html",
+      "title": "【解説動画】“期限は60日” どうなるホルムズ海峡の安全航行",
+      "summary": "ホルムズ海峡の航行安全について、国際部の徳田亮祐デスクが解説動画で、60日という期限の意味と今後の見通しを説明している。動画は3分23秒で、ホルムズ海峡の封鎖がいつ解除され安全な航行が可能になるかについての詳細な情報を提供している。",
+      "url": "http://www3.nhk.or.jp/news/html/20260620/k10015155111000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-06-19T12:18:52+00:00",
+      "published_at": "2026-06-19T23:28:41+00:00",
       "lang": "ja"
     },
     {
-      "id": "89975509",
+      "id": "37716346",
       "category": "経済・ビジネス（日本）",
-      "title": "外国人向けビザ手数料 7月から5倍に引き上げを決定 政府",
-      "summary": "政府は外国人向けビザの発給手数料を7月から現在の5倍に引き上げることを決定した。この値上げにより、外国人の入国手続きにかかる費用が大幅に増加することになる。",
-      "url": "http://www3.nhk.or.jp/news/html/20260619/k10015154841000.html",
+      "title": "イギリス南東部で列車どうしが衝突 1人死亡 約90人けが",
+      "summary": "イギリス南東部で19日に列車同士が衝突する事故が発生し、1人が死亡、約90人がけがをした。警察が事故の詳しい状況を調査中である。",
+      "url": "http://www3.nhk.or.jp/news/html/20260620/k10015155071000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-06-19T11:55:38+00:00",
+      "published_at": "2026-06-19T22:57:00+00:00",
       "lang": "ja"
     },
     {
-      "id": "15188455",
+      "id": "39783717",
       "category": "経済・ビジネス（日本）",
-      "title": "ミャンマー民主派指導者のスー・チー氏 81歳に",
-      "summary": "ミャンマーの民主派指導者アウン・サン・スー・チー氏が19日に81歳の誕生日を迎えました。現在も拘束が続いており、4月に軟禁措置に移行したとされていますが、健康状態への懸念が高まっており、次男が改めて早期解放を求めています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260619/k10015154791000.html",
+      "title": "【随時更新】ロシア ウクライナに軍事侵攻（6月20日の動き）",
+      "summary": "ロシアによるウクライナ軍事侵攻が継続しており、ウクライナ全土でロシア軍とウクライナ軍の戦闘が展開されています。多くの市民が国外への避難を強いられている中、6月20日の戦闘状況や国際的な外交動向について随時更新で報道されています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260620/k10015132891000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-06-19T11:11:02+00:00",
+      "published_at": "2026-06-19T22:38:34+00:00",
       "lang": "ja"
     },
     {
-      "id": "13932421",
+      "id": "70190396",
       "category": "経済・ビジネス（日本）",
-      "title": "米・イラン 19日予定の協議“延期” レバノンでは戦闘続く",
-      "summary": "スイスで19日に予定されていたアメリカとイラン協議が延期されることがスイス外務省から発表されました。明確な理由は不明ですが、両国が戦闘終結に合意したレバノンで戦闘が続いており、協議に影響を与える可能性が懸念されています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260619/k10015153851000.html",
+      "title": "ウクライナ軍参謀本部 “モスクワの製油所は無期限操業停止”",
+      "summary": "ウクライナ軍参謀本部はモスクワの製油所への攻撃で4基のタンクを破壊し、製油所が無期限に操業停止したと発表した。これに対しロシア大統領府はウクライナにとって前線の状況が近く完全に壊滅的になると警告した。",
+      "url": "http://www3.nhk.or.jp/news/html/20260620/k10015154951000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-06-19T10:59:04+00:00",
+      "published_at": "2026-06-19T22:19:56+00:00",
       "lang": "ja"
     },
     {
-      "id": "36091724",
+      "id": "17570855",
       "category": "経済・ビジネス（世界）",
       "title": "O'Leary extends Ryanair contract in deal that could net him over £130m",
       "summary": "ライアンエアーのオレアリーCEOが2032年までの契約延長に合意し、この契約には1億5000万ユーロ（1億3000万ポンド）以上のボーナス制度が含まれている。この好条件の契約延長により、同CEOは大きな経済的利益を得る可能性がある。",
@@ -134,7 +134,7 @@
       "lang": "en"
     },
     {
-      "id": "61011963",
+      "id": "45460406",
       "category": "経済・ビジネス（世界）",
       "title": "Plans to end gazumping with binding agreements in house sales shake-up",
       "summary": "英国の不動産売買制度の改革により、売却契約がより早期に法的拘束力を持つようになり、売主は物件情報をより詳細に事前提供することが義務付けられる。これらの変更は「ガザンピング」と呼ばれる売買成立直前の価格つり上げ慣行を終わらせることを目的としている。買い手の権利強化と取引の透明性向上につながる改革である。",
@@ -144,7 +144,7 @@
       "lang": "en"
     },
     {
-      "id": "80190969",
+      "id": "66649026",
       "category": "経済・ビジネス（世界）",
       "title": "Five ways the Iran peace deal could affect you and your money",
       "summary": "イランとの核合意により、原油とガソリン価格が低下する可能性があります。この記事は、イランとの平和合意があなたの家計にどのような影響を与えるかを5つのグラフで示しています。特に燃料やガス価格の変動、そして経済全体への波及効果について詳しく解説しています。",
@@ -154,7 +154,7 @@
       "lang": "en"
     },
     {
-      "id": "89248788",
+      "id": "83081843",
       "category": "経済・ビジネス（世界）",
       "title": "Warning over 'fragile' public finances as borrowing rises",
       "summary": "イギリスの5月の借入金が233億ポンドに達し、前年同月比で約3分の1増加した。公式統計によると、公的財政が脆弱な状態にあるとして警告が発せられている。借入の増加は政府の支出増加と税収の減少を反映しており、財政の持続可能性に懸念が生じている。",
@@ -164,7 +164,7 @@
       "lang": "en"
     },
     {
-      "id": "76719290",
+      "id": "10570503",
       "category": "経済・ビジネス（世界）",
       "title": "'I'd be put off if he asked to split it': Who should pay on a first date?",
       "summary": "初デートの支払いについて、割り勘派と招待した側が払うべき派、男性が払うのはロマンティックという伝統派など、様々な意見がある。調査によれば、デート代の負担に関する期待値は個人差が大きく、世代や文化背景によって見方が大きく異なることが明らかになった。支払い方法についての事前のコミュニケーションや相互理解が、デートを円滑に進めるために重要であると指摘されている。",
@@ -174,7 +174,7 @@
       "lang": "en"
     },
     {
-      "id": "71578007",
+      "id": "10553558",
       "category": "経済・ビジネス（世界）",
       "title": "The artificial ice pyramids saving India's mountain villages",
       "summary": "インドの山岳村落では、春先の農作物用水を確保するために人工氷ピラミッドを製造しており、この革新的な方法はヒマラヤ地域の水不足問題に対する実践的な解決策となっている。冬の冷たい山の水を利用して人工的に氷を層状に積み上げることで、春の融雪期に必要な水を蓄積することができ、地域の農業を支える重要な役割を果たしている。",
@@ -184,7 +184,7 @@
       "lang": "en"
     },
     {
-      "id": "67181896",
+      "id": "52028432",
       "category": "経済・ビジネス（世界）",
       "title": "Brexit cost 6% of UK economy, Bank of England company data suggests",
       "summary": "イングランド銀行の企業データ分析によると、ブレグジットはイギリス経済に約6パーセントの成長率低下をもたらしたとされている。この分析は、もしイギリスが欧州連合から離脱していなかった場合にどの程度成長していたであろうかを示すものである。ブレグジットによる経済的な影響が数値化されたことで、イギリス経済への長期的な打撃が明確になった。",
@@ -194,7 +194,7 @@
       "lang": "en"
     },
     {
-      "id": "10011478",
+      "id": "26488507",
       "category": "経済・ビジネス（世界）",
       "title": "Interest rates held as Bank warns of impact of high energy prices",
       "summary": "中央銀行は政策金利を3.75%で据え置くことを決定した。同行は12月に利下げを実施したが、中東情勢の混乱により今後のさらなる利下げは保留されている状況だ。",
@@ -204,7 +204,47 @@
       "lang": "en"
     },
     {
-      "id": "27264500",
+      "id": "16764556",
+      "category": "テクノロジー・AI",
+      "title": "He made your free video player run smoothly. Now he’s doing that for robots.",
+      "summary": "フランスの連続起業家でオープンソース界の伝説的人物であるジャン＝バティスト・ケンプフは、リモートデバイスをリアルタイムで制御するインフラストラクチャレイヤー「Kyber」を構築している。彼は以前、動画プレイヤーの開発で知られており、現在はロボットなどの遠隔操作技術の開発に取り組んでいる。このプロジェクトは、ロボティクスやIoT分野における制御システムの基盤となることを目指している。",
+      "url": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-20T00:47:44+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "41365897",
+      "category": "テクノロジー・AI",
+      "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
+      "summary": "過去30年間、サイバーセキュリティ関連ソフトウェアの流出を防ぐ輸出規制は効果的でなかったが、現在Anthropicのサイバーセキュリティモデル「Mythos」に対しても同様の規制が機能するかどうかは不確実である。歴史的には暗号化技術やセキュリティソフトの輸出制限は目的を達成できず、新たなAIモデルに対する規制も同じ課題に直面する可能性が高い。",
+      "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-19T22:40:14+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "23500148",
+      "category": "テクノロジー・AI",
+      "title": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters",
+      "summary": "日本最大手のタクシー配車アプリGoが2026年の日本最大規模のIPOを実現し、ロボタクシー開発と買収に注力する。Goは火曜日に上場し、調達した886億円を日本の深刻なドライバー不足という経営課題の解決に充てる計画である。このIPOは日本の低迷する新規上場市場に活気をもたらすとともに、同社に必要な資本を提供している。",
+      "url": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-19T21:45:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "20165943",
+      "category": "テクノロジー・AI",
+      "title": "Aura’s impressive e-ink photo frame doesn’t even look digital",
+      "summary": "Auraが発表した新型フォトフレーム「Aura Ink」は、電子インク技術を採用することで、デジタル表示であることが全く分からないほど自然な外観を実現しており、従来のデジタルフォトフレームという退屈な贈り物の概念を一新させている。この製品は家族写真をスライドショーで表示する従来のデジタルフレームの市場に新たな選択肢をもたらしている。",
+      "url": "https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-19T21:00:34+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "51007324",
       "category": "テクノロジー・AI",
       "title": "Every fusion startup that has raised over $100M",
       "summary": "核融合スタートアップ企業は現在までに71億ドルを調達しており、その大部分が少数の企業に集中している。記事は100百万ドル以上の資金調達に成功した核融合関連のスタートアップ企業について取り上げており、業界全体の資金集約の傾向を示している。このセクターでは大型の資金調達が行われている一方で、多くの新興企業が競争に直面している。",
@@ -214,7 +254,7 @@
       "lang": "en"
     },
     {
-      "id": "43407373",
+      "id": "29430183",
       "category": "テクノロジー・AI",
       "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
       "summary": "米国政府がAnthropicの最新モデル「Fable 5」と「Mythos 5」を国家安全保障上の懸念を理由に撤去させたが、セキュリティ研究者らはこの措置が危険だと反発し、同様の脆弱性は他のモデルにも存在すると指摘している。この規制がAnthropicのブランド認知度を高める逆説的な効果をもたらす可能性がある。",
@@ -224,7 +264,7 @@
       "lang": "en"
     },
     {
-      "id": "36480890",
+      "id": "11090172",
       "category": "テクノロジー・AI",
       "title": "Billionaire Ambani wants AI in every call, app, and home",
       "summary": "インドの大手企業リライアンスのムケシュ・アンバニ会長は、5億人以上が利用する通信サービスにAIを統合する計画を発表した。同社は通話、アプリ、家庭内のあらゆるサービスにAI技術を組み込むことで、顧客体験の向上と新たなビジネス機会の創出を目指している。この取り組みは、インドの電気通信業界におけるAI活用の最前線となる可能性がある。",
@@ -234,7 +274,7 @@
       "lang": "en"
     },
     {
-      "id": "59603495",
+      "id": "20664821",
       "category": "テクノロジー・AI",
       "title": "The film about Sam Altman has been dropped by Amazon MGM",
       "summary": "OpenAIのCEOサム・アルトマンを題材にしたルカ・グアダニーノ監督の映画「Artificial」がアマゾンMGMから企画を降ろされた。アンドリュー・ガーフィールド主演のこの作品は、2023年のアルトマン氏がCEOを解任されて復職するまでの5日間を描いており、約1年間製作されていた。",
@@ -244,47 +284,47 @@
       "lang": "en"
     },
     {
-      "id": "64260903",
-      "category": "テクノロジー・AI",
-      "title": "The CEO of Allbirds’ new AI biz has a plan, but no employees",
-      "summary": "Allbirds傘下の新たなAIビジネスのCEOが事業計画を持っているものの、従業員がいない状態で始まった。この企業は創業者1人と非常に大きな資金調達を備えたスタートアップだが、その先の展開は不透明である。Allbirdsがこの新規事業にどのようなリソースを投入し、いつ本格的な組織体制を整えるかは明らかになっていない。",
-      "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-19T13:00:00+00:00",
+      "id": "89852808",
+      "category": "台湾・中台関係",
+      "title": "Asian shares retreat in thin holiday trading after a tech-led rally on Wall St",
+      "summary": "アメリカの技術関連株が主導する相場上昇に続き、アジア市場の株価は薄商いの中で後退した。米国株が前日の下落分の大部分を取り戻した後、アジア地域での株価下落が見られた。年末年始を含む休場期間の限定的な取引量の中で、市場は調整局面を迎えている。",
+      "url": "https://abcnews.com/Business/wireStory/asian-shares-retreat-thin-holiday-trading-after-tech-134022982",
+      "source": "Abcnews.com",
+      "published_at": "2026-06-19T06:15:25+00:00",
       "lang": "en"
     },
     {
-      "id": "12852303",
-      "category": "テクノロジー・AI",
-      "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t.",
-      "summary": "米国はオランダの半導体製造装置メーカーASMLの最先端チップツールが中国にある可能性があると主張しているが、ASMLはそれを否定している。ASMLが中国顧客に装置を供給して輸出許可を失うというリスクを冒す商業的な理由はないというのが、ASMLの立場である。米国と中国の技術覇権争いの中で、半導体製造装置の流出をめぐる疑惑が浮上している。",
-      "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-19T07:59:12+00:00",
+      "id": "93931901",
+      "category": "台湾・中台関係",
+      "title": "Sensex, Nifty fall 1% as Accenture-triggered IT rout snaps 5-day rally",
+      "summary": "インドの主要株価指数であるセンセックスとニフティ50は金曜日に5営業日連続の上昇トレンドを終わらせ、アクセンチュアの決算不振をきっかけとしたIT株の急落により、センセックスは830ポイント以上、ニフティ50はほぼ230ポイント下落した。IT企業の業績悪化懸念がインド株式市場全体に悪影響を与える形となった。",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty-fall-1-as-accenture-triggered-it-rout-snaps-5-day-rally/article71120738.ece",
+      "source": "BusinessLine",
+      "published_at": "2026-06-19T04:32:43+00:00",
       "lang": "en"
     },
     {
-      "id": "77471057",
-      "category": "テクノロジー・AI",
-      "title": "Barret Zoph is out at OpenAI again after just five months",
-      "summary": "OpenAIのエンタープライズAI営業責任者であるBarret Zophが、1月の復帰からわずか5ヶ月後に再び退職した。Zophは前OpenAI CTOのMira Muratiが創立した競合企業Thinking Machines Labの共同創立者兼CTOを務めた後、今年1月にOpenAIに復帰していた。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
-      "source": "AI | The Verge",
-      "published_at": "2026-06-19T04:49:33+00:00",
+      "id": "43502451",
+      "category": "台湾・中台関係",
+      "title": "Stock markets rise to record highs in Japan, South Korea on West Asia truce; dollar strengthens",
+      "summary": "日本と韓国の株式市場は中東での休戦合意を受けて史上最高値を更新し、ドルは地政学的な展開と米国の利上げ期待の中で強化された。両国の市場上昇はリスク回避姿勢の緩和と経済見通しの改善を反映している。ドル高は国際的な金利差と米国経済の相対的な強さが背景にある。",
+      "url": "https://www.thehindubusinessline.com/markets/stock-markets-rise-to-record-highs-in-japan-south-korea-on-west-asia-truce-dollar-strengthens/article71120692.ece",
+      "source": "BusinessLine",
+      "published_at": "2026-06-19T04:28:28+00:00",
       "lang": "en"
     },
     {
-      "id": "60273009",
-      "category": "テクノロジー・AI",
-      "title": "Telegram ban in India sparks a rush to VPNs, rival apps",
-      "summary": "インドのテレグラム禁止措置を受けて、ユーザーがVPNや競合アプリへの移行を急いでいる。テレグラムは、数百万人が利用するプラットフォーム全体をブロックするのではなく、インド政府は特定のコンテンツのみをブロックすべきだと主張している。この禁止措置はインドでの通信環境に大きな変化をもたらし、ユーザーのプライバシーと言論の自由に関する議論を再燃させている。",
-      "url": "https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-19T01:01:00+00:00",
+      "id": "44616947",
+      "category": "台湾・中台関係",
+      "title": "Global Market Today: Asian stocks hit record highs, oil heads for weekly loss",
+      "summary": "アジア株が過去最高を記録し、ホルムズ海峡の再開によって石油供給が正常化しインフレが緩和されるという楽観的見通しと、半導体関連の好材料によって投資家心理が改善されました。エネルギーコスト低下を背景に、週間ベースでは石油相場は下落する見通しとなっています。",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-hit-record-highs-oil-heads-for-weekly-loss/articleshow/131844291.cms",
+      "source": "The Times of India",
+      "published_at": "2026-06-19T01:13:31+00:00",
       "lang": "en"
     },
     {
-      "id": "64107697",
+      "id": "44603140",
       "category": "台湾・中台関係",
       "title": "How the Iran War Reshaped the Global Landscape of Power",
       "summary": "イランとの紛争は世界の力関係を大きく再構成し、米国とイスラエルは今後数年間にわたって弱体化することが予想されている。この地政学的な変化は中東地域の安定性に影響を与え、国際的なパワーバランスの転換をもたらす可能性がある。",
@@ -294,7 +334,7 @@
       "lang": "en"
     },
     {
-      "id": "44960459",
+      "id": "39462969",
       "category": "台湾・中台関係",
       "title": "Military Leaders From 25 Countries Gather in Waikiki to Talk Coastal Warfare",
       "summary": "25カ国の軍事指導者約300名がハワイのワイキキのアジア太平洋安全保障研究センターに集まり、第12回太平洋水陸両用指導者シンポジウムを開催している。このシンポジウムでは沿岸部での戦争戦術についての議論と情報交換が行われている。太平洋地域の各国の軍指導部が協力体制を強化し、海洋安全保障の課題に対応するための重要な会合となっている。",
@@ -304,53 +344,13 @@
       "lang": "en"
     },
     {
-      "id": "32260902",
+      "id": "21783997",
       "category": "台湾・中台関係",
       "title": "The Iran War Damaged U.S.-India Ties",
       "summary": "イラン紛争により、戦略的パートナーである米国とインドの間に外交的な亀裂が生じており、この関係悪化は紛争終結後も長く残る可能性がある。米国とインドの利益が中東地域で相反したことで、両国の協力関係に深刻な影響をもたらしている。この対立はインド太平洋地域における米国の戦略にも悪影響を及ぼす恐れがある。",
       "url": "http://foreignpolicy.com/2026/06/18/iran-war-us-india-ties-damage-economy-modi-rubio-trump/",
       "source": "Foreign Policy",
       "published_at": "2026-06-18T15:04:07+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "63453941",
-      "category": "台湾・中台関係",
-      "title": "The Iran Deal Drives Oil Prices Down, But Uncertainty Looms",
-      "summary": "イランとアメリカの合意によってイランの石油輸出が再開される見通しから、国際石油市場では価格下落が見られている。ホルムズ海峡などの重要な海上輸送路が再開される可能性がある一方で、制裁解除の具体的な条件や実行時期など、依然として多くの不確定要素が残されている。合意の実現性と市場への影響については、今後の交渉進展を注視する必要がある。",
-      "url": "https://www.forbes.com/sites/arielcohen/2026/06/18/the-iran-deal-drives-oil-prices-down-but-uncertainty-looms/",
-      "source": "Forbes",
-      "published_at": "2026-06-18T14:36:19+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "55588650",
-      "category": "台湾・中台関係",
-      "title": "Taiwan president says hopes for $14 billion arms sale ‘as soon as possible’",
-      "summary": "台湾の総統は、米国が140億ドル規模の武器売却を「できるだけ早く」承認することを望んでいると述べた。この武器売却は台湾の防衛力強化を目指すもので、米国とのセキュリティ協力の継続を示すものである。台湾は中国の軍事的脅威に直面しており、防衛装備の充実が急務となっている。",
-      "url": "https://www.digitaljournal.com/article/taiwan-president-says-hopes-for-14-billion-arms-sale-as-soon-as-possible/",
-      "source": "Digital Journal",
-      "published_at": "2026-06-18T06:35:11+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "70885284",
-      "category": "台湾・中台関係",
-      "title": "Taiwan needs US weapons for self-defense as threat from China grows: Report",
-      "summary": "台湾の駐米代表は、中国からの脅威の増大に対抗するため、台湾がアメリカの防衛兵器を購入する必要があると述べた。同代表は、台湾に対するワシントンの政策に変化は見られないと指摘し、中国が統一を目指す中でも米国の支持姿勢は変わっていないことを強調した。台湾の自衛能力強化には継続的な米国の軍事支援が不可欠だという立場を示している。",
-      "url": "https://nypost.com/2026/06/18/world-news/taiwan-needs-us-weapons-for-self-defense-as-threat-from-china-grows-diplomat-tells-ap/",
-      "source": "New York Post",
-      "published_at": "2026-06-18T06:05:57+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "21671389",
-      "category": "台湾・中台関係",
-      "title": "Taiwan not 'provoking' China; hopes new U.S. arms sale package can be approved soon, president says",
-      "summary": "台湾のライ・チンテ総統は、中国共産党による統治を拒否して自国の安全保障を守ることは挑発ではないと述べるとともに、米国による新たな武器売却パッケージの早期承認を望んでいると述べた。民主的に統治される台湾は、自らの防衛能力強化を通じて地域の平和と安定の維持を目指しており、これは正当な権利であると主張している。",
-      "url": "https://japantoday.com/category/world/taiwan-not-%27provoking%27-china-hopes-new-us-arms-sale-package-can-be-approved-soon-president-says",
-      "source": "Japan Today",
-      "published_at": "2026-06-18T05:41:11+00:00",
       "lang": "en"
     }
   ]
