@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T11:26:04.154875+00:00",
+  "updated_at": "2026-06-20T15:25:24.187508+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -44,7 +44,27 @@
   ],
   "news": [
     {
-      "id": "18502671",
+      "id": "52808729",
+      "category": "経済・ビジネス（日本）",
+      "title": "イラン中央司令部「ホルムズ海峡は封鎖される」声明発表",
+      "summary": "イランの中央司令部が20日夜、ホルムズ海峡を封鎖するとの声明を発表しました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260620/k10015155531000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-20T15:16:59+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "17933203",
+      "category": "経済・ビジネス（日本）",
+      "title": "天皇皇后両陛下 オランダ訪問終え ベルギーに到着",
+      "summary": "天皇皇后両陛下はオランダでの訪問日程を終了し、ベルギーに到着されました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260620/k10015155491000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-20T13:03:28+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "16110788",
       "category": "経済・ビジネス（日本）",
       "title": "“米特使とイラン外相がスイスへ”報道 協議の実現が焦点",
       "summary": "アメリカのウィトコフ特使がスイスに向かい、仲介役のカタール首相も到着したことが明らかになり、延期されていたアメリカとイランの協議が近く開催される可能性が高まっている。",
@@ -54,9 +74,9 @@
       "lang": "ja"
     },
     {
-      "id": "18372350",
+      "id": "72410576",
       "category": "経済・ビジネス（日本）",
-      "title": "【随時更新】ロシア ウクライナに軍事侵攻（6月20日の動き）",
+      "title": "【詳細】ロシア ウクライナに軍事侵攻（6月20日の動き）",
       "summary": "ロシアによるウクライナ軍事侵攻が継続しており、ウクライナ全土でロシア軍とウクライナ軍の戦闘が展開されています。多くの市民が国外への避難を強いられている中、6月20日の戦闘状況や国際的な外交動向について随時更新で報道されています。",
       "url": "http://www3.nhk.or.jp/news/html/20260620/k10015132891000.html",
       "source": "NHKニュース|国際",
@@ -64,7 +84,7 @@
       "lang": "ja"
     },
     {
-      "id": "72453015",
+      "id": "20563728",
       "category": "経済・ビジネス（日本）",
       "title": "ホルムズ海峡 船舶通過の動きも 戦闘開始前に比べると低調",
       "summary": "アメリカとイランが戦闘終結の覚書に署名したことを受けて、ホルムズ海峡を通過する船舶の動きが出始めた。しかし戦闘開始前と比べると、船舶通過は依然として低調な状況が続いている。",
@@ -74,7 +94,7 @@
       "lang": "ja"
     },
     {
-      "id": "34937233",
+      "id": "71581598",
       "category": "経済・ビジネス（日本）",
       "title": "イギリスで列車衝突事故 1人死亡 約90人けが 原因の調査続く",
       "summary": "イギリス南東部で19日に列車同士が衝突する事故が発生し、1人が死亡、約90人がけがをしました。現場では専門家による原因調査が進められています。",
@@ -84,7 +104,7 @@
       "lang": "ja"
     },
     {
-      "id": "37440512",
+      "id": "14259737",
       "category": "経済・ビジネス（日本）",
       "title": "ポーランドがゼレンスキー大統領への勲章剥奪 関係悪化の懸念",
       "summary": "ポーランドはウクライナがポーランド人虐殺に関与した民族組織の名称を軍部隊の呼称に使用したことを批判し、ゼレンスキー大統領から最高位の勲章を剥奪すると発表した。ウクライナ側は反発しており、両国間の関係悪化が懸念されている。",
@@ -94,7 +114,7 @@
       "lang": "ja"
     },
     {
-      "id": "70481074",
+      "id": "37761143",
       "category": "経済・ビジネス（日本）",
       "title": "ドイツ南部で貨物列車どうしが衝突し橋から落下 1人重傷",
       "summary": "ドイツ南部のミュンヘンで貨物列車同士が衝突し、一部の車両が脱線して橋から落下する事故が発生しました。この事故により1人が重傷を負いました。",
@@ -104,27 +124,7 @@
       "lang": "ja"
     },
     {
-      "id": "63754287",
-      "category": "経済・ビジネス（日本）",
-      "title": "あのサッカー選手もかつて“難民”だった 国連本部で作品展示",
-      "summary": "ニューヨークの国連本部で、紛争の影響を受けて難民経験を持つサッカーのトッププレーヤーたちを紹介する絵が展示されています。これは6月20日の「世界難民の日」とサッカーワールドカップ北中米大会にあわせた企画です。",
-      "url": "http://www3.nhk.or.jp/news/html/20260620/k10015155131000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-20T00:39:46+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "91779447",
-      "category": "経済・ビジネス（日本）",
-      "title": "新たなアメリカ大統領専用機を公開 塗装を一変",
-      "summary": "アメリカの新たな大統領専用機がワシントン近郊の軍基地で公開されました。この機体はカタールから贈られたもので、塗装を含む改修工事を経て新しい姿となっています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260620/k10015155121000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-20T00:03:17+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "21484729",
+      "id": "38920867",
       "category": "経済・ビジネス（世界）",
       "title": "O'Leary extends Ryanair contract in deal that could net him over £130m",
       "summary": "ライアンエアーのオレアリーCEOが2032年までの契約延長に合意し、この契約には1億5000万ユーロ（1億3000万ポンド）以上のボーナス制度が含まれている。この好条件の契約延長により、同CEOは大きな経済的利益を得る可能性がある。",
@@ -134,7 +134,7 @@
       "lang": "en"
     },
     {
-      "id": "21275853",
+      "id": "43319659",
       "category": "経済・ビジネス（世界）",
       "title": "Plans to end gazumping with binding agreements in house sales shake-up",
       "summary": "英国の不動産売買制度の改革により、売却契約がより早期に法的拘束力を持つようになり、売主は物件情報をより詳細に事前提供することが義務付けられる。これらの変更は「ガザンピング」と呼ばれる売買成立直前の価格つり上げ慣行を終わらせることを目的としている。買い手の権利強化と取引の透明性向上につながる改革である。",
@@ -144,7 +144,7 @@
       "lang": "en"
     },
     {
-      "id": "67431068",
+      "id": "56034692",
       "category": "経済・ビジネス（世界）",
       "title": "Five ways the Iran peace deal could affect you and your money",
       "summary": "イランとの核合意により、原油とガソリン価格が低下する可能性があります。この記事は、イランとの平和合意があなたの家計にどのような影響を与えるかを5つのグラフで示しています。特に燃料やガス価格の変動、そして経済全体への波及効果について詳しく解説しています。",
@@ -154,7 +154,7 @@
       "lang": "en"
     },
     {
-      "id": "48866950",
+      "id": "64693141",
       "category": "経済・ビジネス（世界）",
       "title": "Warning over 'fragile' public finances as borrowing rises",
       "summary": "イギリスの5月の借入金が233億ポンドに達し、前年同月比で約3分の1増加した。公式統計によると、公的財政が脆弱な状態にあるとして警告が発せられている。借入の増加は政府の支出増加と税収の減少を反映しており、財政の持続可能性に懸念が生じている。",
@@ -164,7 +164,7 @@
       "lang": "en"
     },
     {
-      "id": "50319800",
+      "id": "57657078",
       "category": "経済・ビジネス（世界）",
       "title": "'I'd be put off if he asked to split it': Who should pay on a first date?",
       "summary": "初デートの支払いについて、割り勘派と招待した側が払うべき派、男性が払うのはロマンティックという伝統派など、様々な意見がある。調査によれば、デート代の負担に関する期待値は個人差が大きく、世代や文化背景によって見方が大きく異なることが明らかになった。支払い方法についての事前のコミュニケーションや相互理解が、デートを円滑に進めるために重要であると指摘されている。",
@@ -174,7 +174,7 @@
       "lang": "en"
     },
     {
-      "id": "73640474",
+      "id": "15878567",
       "category": "経済・ビジネス（世界）",
       "title": "The artificial ice pyramids saving India's mountain villages",
       "summary": "インドの山岳村落では、春先の農作物用水を確保するために人工氷ピラミッドを製造しており、この革新的な方法はヒマラヤ地域の水不足問題に対する実践的な解決策となっている。冬の冷たい山の水を利用して人工的に氷を層状に積み上げることで、春の融雪期に必要な水を蓄積することができ、地域の農業を支える重要な役割を果たしている。",
@@ -184,7 +184,7 @@
       "lang": "en"
     },
     {
-      "id": "78291997",
+      "id": "52568983",
       "category": "経済・ビジネス（世界）",
       "title": "Brexit cost 6% of UK economy, Bank of England company data suggests",
       "summary": "イングランド銀行の企業データ分析によると、ブレグジットはイギリス経済に約6パーセントの成長率低下をもたらしたとされている。この分析は、もしイギリスが欧州連合から離脱していなかった場合にどの程度成長していたであろうかを示すものである。ブレグジットによる経済的な影響が数値化されたことで、イギリス経済への長期的な打撃が明確になった。",
@@ -194,7 +194,7 @@
       "lang": "en"
     },
     {
-      "id": "28086688",
+      "id": "58592193",
       "category": "経済・ビジネス（世界）",
       "title": "Interest rates held as Bank warns of impact of high energy prices",
       "summary": "中央銀行は政策金利を3.75%で据え置くことを決定した。同行は12月に利下げを実施したが、中東情勢の混乱により今後のさらなる利下げは保留されている状況だ。",
@@ -204,7 +204,17 @@
       "lang": "en"
     },
     {
-      "id": "19691260",
+      "id": "10832375",
+      "category": "テクノロジー・AI",
+      "title": "Every new iOS 27 feature that’s worth knowing about",
+      "summary": "iOS 27には派手さはありませんが、AppleのSiri AIやApple Intelligenceのアップグレード以外にも注目する価値のある機能が複数追加されています。この記事ではiOS 27の新機能の中から、ユーザーが知っておくべき実用的なアップデートについて紹介しています。",
+      "url": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-20T15:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "20583275",
       "category": "テクノロジー・AI",
       "title": "He made your free video player run smoothly. Now he’s doing that for robots.",
       "summary": "フランスの連続起業家でオープンソース界の伝説的人物であるジャン＝バティスト・ケンプフは、リモートデバイスをリアルタイムで制御するインフラストラクチャレイヤー「Kyber」を構築している。彼は以前、動画プレイヤーの開発で知られており、現在はロボットなどの遠隔操作技術の開発に取り組んでいる。このプロジェクトは、ロボティクスやIoT分野における制御システムの基盤となることを目指している。",
@@ -214,7 +224,7 @@
       "lang": "en"
     },
     {
-      "id": "32003510",
+      "id": "50720011",
       "category": "テクノロジー・AI",
       "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
       "summary": "過去30年間、サイバーセキュリティ関連ソフトウェアの流出を防ぐ輸出規制は効果的でなかったが、現在Anthropicのサイバーセキュリティモデル「Mythos」に対しても同様の規制が機能するかどうかは不確実である。歴史的には暗号化技術やセキュリティソフトの輸出制限は目的を達成できず、新たなAIモデルに対する規制も同じ課題に直面する可能性が高い。",
@@ -224,7 +234,7 @@
       "lang": "en"
     },
     {
-      "id": "80008499",
+      "id": "76436910",
       "category": "テクノロジー・AI",
       "title": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters",
       "summary": "日本最大手のタクシー配車アプリGoが2026年の日本最大規模のIPOを実現し、ロボタクシー開発と買収に注力する。Goは火曜日に上場し、調達した886億円を日本の深刻なドライバー不足という経営課題の解決に充てる計画である。このIPOは日本の低迷する新規上場市場に活気をもたらすとともに、同社に必要な資本を提供している。",
@@ -234,7 +244,7 @@
       "lang": "en"
     },
     {
-      "id": "59333467",
+      "id": "67858090",
       "category": "テクノロジー・AI",
       "title": "Aura’s impressive e-ink photo frame doesn’t even look digital",
       "summary": "Auraが発表した新型フォトフレーム「Aura Ink」は、電子インク技術を採用することで、デジタル表示であることが全く分からないほど自然な外観を実現しており、従来のデジタルフォトフレームという退屈な贈り物の概念を一新させている。この製品は家族写真をスライドショーで表示する従来のデジタルフレームの市場に新たな選択肢をもたらしている。",
@@ -244,7 +254,7 @@
       "lang": "en"
     },
     {
-      "id": "90921712",
+      "id": "27891119",
       "category": "テクノロジー・AI",
       "title": "Every fusion startup that has raised over $100M",
       "summary": "核融合スタートアップ企業は現在までに71億ドルを調達しており、その大部分が少数の企業に集中している。記事は100百万ドル以上の資金調達に成功した核融合関連のスタートアップ企業について取り上げており、業界全体の資金集約の傾向を示している。このセクターでは大型の資金調達が行われている一方で、多くの新興企業が競争に直面している。",
@@ -254,7 +264,7 @@
       "lang": "en"
     },
     {
-      "id": "71613914",
+      "id": "70140532",
       "category": "テクノロジー・AI",
       "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
       "summary": "米国政府がAnthropicの最新モデル「Fable 5」と「Mythos 5」を国家安全保障上の懸念を理由に撤去させたが、セキュリティ研究者らはこの措置が危険だと反発し、同様の脆弱性は他のモデルにも存在すると指摘している。この規制がAnthropicのブランド認知度を高める逆説的な効果をもたらす可能性がある。",
@@ -264,7 +274,7 @@
       "lang": "en"
     },
     {
-      "id": "39516838",
+      "id": "64341707",
       "category": "テクノロジー・AI",
       "title": "Billionaire Ambani wants AI in every call, app, and home",
       "summary": "インドの大手企業リライアンスのムケシュ・アンバニ会長は、5億人以上が利用する通信サービスにAIを統合する計画を発表した。同社は通話、アプリ、家庭内のあらゆるサービスにAI技術を組み込むことで、顧客体験の向上と新たなビジネス機会の創出を目指している。この取り組みは、インドの電気通信業界におけるAI活用の最前線となる可能性がある。",
@@ -274,17 +284,47 @@
       "lang": "en"
     },
     {
-      "id": "71324865",
-      "category": "テクノロジー・AI",
-      "title": "The film about Sam Altman has been dropped by Amazon MGM",
-      "summary": "OpenAIのCEOサム・アルトマンを題材にしたルカ・グアダニーノ監督の映画「Artificial」がアマゾンMGMから企画を降ろされた。アンドリュー・ガーフィールド主演のこの作品は、2023年のアルトマン氏がCEOを解任されて復職するまでの5日間を描いており、約1年間製作されていた。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
-      "source": "AI | The Verge",
-      "published_at": "2026-06-19T14:15:29+00:00",
+      "id": "13240254",
+      "category": "台湾・中台関係",
+      "title": "When the Davidson Window Meets the ‘Xi Window’",
+      "summary": "中国の台湾侵攻能力を測定するダビッドソン・ウインドウと、習近平国家主席の軍事力に対する信頼度を示す「習ウインドウ」という二つの指標があり、後者が中国の実際の行動判断に与える影響がより重要であると指摘している。中国の軍事的脅威は単なる能力だけでなく、指導者がその力をどの程度信頼し活用する意思があるかによって決まるという論点である。",
+      "url": "https://thediplomat.com/2026/06/when-the-davidson-window-meets-the-xi-window/",
+      "source": "The Diplomat",
+      "published_at": "2026-06-19T13:33:00+00:00",
       "lang": "en"
     },
     {
-      "id": "29801749",
+      "id": "27079311",
+      "category": "台湾・中台関係",
+      "title": "KMT chair says Taiwan would fight back against China attack",
+      "summary": "国民党のチェン・リーウェン主席は、同党は平和を求める一方で、台湾の自衛権を放棄せず、中国が攻撃した場合は反撃すると述べた。台湾は正式に独立を宣言していないにもかかわらず、武力攻撃に対しては防衛力を行使する方針を示している。これは平和追求と防衛体制の両立を求める台湾野党の立場を反映している。",
+      "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260619-cna03.htm",
+      "source": "Globalsecurity.org",
+      "published_at": "2026-06-19T12:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "23833163",
+      "category": "台湾・中台関係",
+      "title": "Sensex, Nifty snap 5-day rally amid IT sell-off, global uncertainties",
+      "summary": "インド主要株価指数のSensexとNiftyが5日間の上昇トレンドを終わらせ、IT関連銘柄の売却と世界的な不確実性により大幅に下落した。グローバルな経済懸念とIT部門の弱気な見方が市場全体に圧力をかけ、主要指数に有意な下げをもたらしている。",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty-snap-5-day-rally-amid-it-sell-off-global-uncertainties/article71121888.ece",
+      "source": "BusinessLine",
+      "published_at": "2026-06-19T11:35:55+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "71637919",
+      "category": "台湾・中台関係",
+      "title": "Oil Flows Resume Through Hormuz as Insurers Remain Wary",
+      "summary": "ホルムズ海峡を通じた石油輸送が再開されたが、保険業者は依然として警戒心を持っている。米国がイラン核合意を維持することを期待されているものの、この海峡は商業的信頼ではなく政治的信頼に基づいて運営されている状況が続いており、米国は海軍封鎖を解除し、米国とイランが14項目の覚書に署名したにもかかわらず、保険業界の懸念が解消されていない。",
+      "url": "https://oilprice.com/Energy/Energy-General/Oil-Flows-Resume-Through-Hormuz-as-Insurers-Remain-Wary.html",
+      "source": "OilPrice.com",
+      "published_at": "2026-06-19T11:30:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "32091202",
       "category": "台湾・中台関係",
       "title": "US export ban on Anthropic’s AI models further strains alliances",
       "summary": "トランプ政権がAnthropicの高度なAIモデルへの同盟国のアクセスを遮断する輸出禁止措置を実施したことで、同盟国との関係が一層悪化している。この動きは米国の先進的なAI技術を独占する戦略だが、同盟国からは技術的自立の必要性を求める声が高まっている。米国中心のAI覇権構造に対する不満が、各国のAI開発独立推進を加速させることになりそうだ。",
@@ -294,7 +334,7 @@
       "lang": "en"
     },
     {
-      "id": "78812138",
+      "id": "27150517",
       "category": "台湾・中台関係",
       "title": "Asian shares retreat in thin holiday trading after a tech-led rally on Wall St",
       "summary": "アメリカの技術関連株が主導する相場上昇に続き、アジア市場の株価は薄商いの中で後退した。米国株が前日の下落分の大部分を取り戻した後、アジア地域での株価下落が見られた。年末年始を含む休場期間の限定的な取引量の中で、市場は調整局面を迎えている。",
@@ -304,53 +344,13 @@
       "lang": "en"
     },
     {
-      "id": "27317839",
+      "id": "84006052",
       "category": "台湾・中台関係",
       "title": "Sensex, Nifty fall 1% as Accenture-triggered IT rout snaps 5-day rally",
       "summary": "インドの主要株価指数であるセンセックスとニフティ50は金曜日に5営業日連続の上昇トレンドを終わらせ、アクセンチュアの決算不振をきっかけとしたIT株の急落により、センセックスは830ポイント以上、ニフティ50はほぼ230ポイント下落した。IT企業の業績悪化懸念がインド株式市場全体に悪影響を与える形となった。",
       "url": "https://www.thehindubusinessline.com/markets/sensex-nifty-fall-1-as-accenture-triggered-it-rout-snaps-5-day-rally/article71120738.ece",
       "source": "BusinessLine",
       "published_at": "2026-06-19T04:32:43+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "33274096",
-      "category": "台湾・中台関係",
-      "title": "Stock markets rise to record highs in Japan, South Korea on West Asia truce; dollar strengthens",
-      "summary": "日本と韓国の株式市場は中東での休戦合意を受けて史上最高値を更新し、ドルは地政学的な展開と米国の利上げ期待の中で強化された。両国の市場上昇はリスク回避姿勢の緩和と経済見通しの改善を反映している。ドル高は国際的な金利差と米国経済の相対的な強さが背景にある。",
-      "url": "https://www.thehindubusinessline.com/markets/stock-markets-rise-to-record-highs-in-japan-south-korea-on-west-asia-truce-dollar-strengthens/article71120692.ece",
-      "source": "BusinessLine",
-      "published_at": "2026-06-19T04:28:28+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "61536806",
-      "category": "台湾・中台関係",
-      "title": "Global Market Today: Asian stocks hit record highs, oil heads for weekly loss",
-      "summary": "アジア株が過去最高を記録し、ホルムズ海峡の再開によって石油供給が正常化しインフレが緩和されるという楽観的見通しと、半導体関連の好材料によって投資家心理が改善されました。エネルギーコスト低下を背景に、週間ベースでは石油相場は下落する見通しとなっています。",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-hit-record-highs-oil-heads-for-weekly-loss/articleshow/131844291.cms",
-      "source": "The Times of India",
-      "published_at": "2026-06-19T01:13:31+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "56666422",
-      "category": "台湾・中台関係",
-      "title": "How the Iran War Reshaped the Global Landscape of Power",
-      "summary": "イランとの紛争は世界の力関係を大きく再構成し、米国とイスラエルは今後数年間にわたって弱体化することが予想されている。この地政学的な変化は中東地域の安定性に影響を与え、国際的なパワーバランスの転換をもたらす可能性がある。",
-      "url": "http://foreignpolicy.com/2026/06/18/iran-war-ceasefire-deal-israel-united-states/",
-      "source": "Foreign Policy",
-      "published_at": "2026-06-18T19:09:07+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "52232973",
-      "category": "台湾・中台関係",
-      "title": "Military Leaders From 25 Countries Gather in Waikiki to Talk Coastal Warfare",
-      "summary": "25カ国の軍事指導者約300名がハワイのワイキキのアジア太平洋安全保障研究センターに集まり、第12回太平洋水陸両用指導者シンポジウムを開催している。このシンポジウムでは沿岸部での戦争戦術についての議論と情報交換が行われている。太平洋地域の各国の軍指導部が協力体制を強化し、海洋安全保障の課題に対応するための重要な会合となっている。",
-      "url": "https://military.com/military-leaders-from-25-countries-gather-in-waikiki-to-talk-coastal-warfare",
-      "source": "Military.com",
-      "published_at": "2026-06-18T17:33:39+00:00",
       "lang": "en"
     }
   ]
