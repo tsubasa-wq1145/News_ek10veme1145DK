@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T12:01:03.434188+00:00",
+  "updated_at": "2026-06-21T15:30:57.111446+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -44,7 +44,17 @@
   ],
   "news": [
     {
-      "id": "10915864",
+      "id": "24007375",
+      "category": "経済・ビジネス（日本）",
+      "title": "米とイラン協議始まる 仲介国も参加しスイスで 覚書の署名後初",
+      "summary": "アメリカとイランが戦闘終結の覚書署名後初めてスイスで協議を開始しました。イランはレバノンでの停戦違反を理由にホルムズ海峡の再封鎖を主張しており、協議の進展が注視されています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260621/k10015155881000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-21T15:23:50+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "36118144",
       "category": "経済・ビジネス（日本）",
       "title": "米 イラン 覚書署名後初の協議 このあとスイスで 順調に進むか",
       "summary": "イランの中央司令部が20日夜、ホルムズ海峡を封鎖するとの声明を発表しました。",
@@ -54,7 +64,7 @@
       "lang": "ja"
     },
     {
-      "id": "25810775",
+      "id": "31823561",
       "category": "経済・ビジネス（日本）",
       "title": "コロンビア大統領選 トランプ氏支持の右派と左派の争いに",
       "summary": "コロンビアで21日に大統領選の決選投票が行われ、トランプ大統領が支持する右派候補と現職の後継である左派候補が対立する構図となっています。選挙結果によって南米地域におけるアメリカの影響力の変化が注目されています。",
@@ -64,7 +74,7 @@
       "lang": "ja"
     },
     {
-      "id": "73107617",
+      "id": "38535272",
       "category": "経済・ビジネス（日本）",
       "title": "サーロー節子さん オーストリアで講演 核の脅威高まると懸念",
       "summary": "カナダ在住の広島被爆者サーロー節子さんがオーストリアで講演し、ロシアのウクライナ軍事侵攻により世界的に核の脅威が増していると懸念を表明しました。一方で、若い世代を中心とした核兵器廃絶運動の拡大に期待を寄せています。",
@@ -74,7 +84,7 @@
       "lang": "ja"
     },
     {
-      "id": "63842087",
+      "id": "56836057",
       "category": "経済・ビジネス（日本）",
       "title": "天皇皇后両陛下 オランダ訪問終え ベルギーに到着",
       "summary": "天皇皇后両陛下はオランダでの訪問日程を終了し、ベルギーに到着されました。",
@@ -84,7 +94,7 @@
       "lang": "ja"
     },
     {
-      "id": "44097400",
+      "id": "35839089",
       "category": "経済・ビジネス（日本）",
       "title": "“米特使とイラン外相がスイスへ”報道 協議の実現が焦点",
       "summary": "アメリカのウィトコフ特使がスイスに向かい、仲介役のカタール首相も到着したことが明らかになり、延期されていたアメリカとイランの協議が近く開催される可能性が高まっている。",
@@ -94,7 +104,7 @@
       "lang": "ja"
     },
     {
-      "id": "17322693",
+      "id": "13155973",
       "category": "経済・ビジネス（日本）",
       "title": "【詳細】ロシア ウクライナに軍事侵攻（6月20日の動き）",
       "summary": "ロシアによるウクライナ軍事侵攻が継続しており、ウクライナ全土でロシア軍とウクライナ軍の戦闘が展開されています。多くの市民が国外への避難を強いられている中、6月20日の戦闘状況や国際的な外交動向について随時更新で報道されています。",
@@ -104,7 +114,7 @@
       "lang": "ja"
     },
     {
-      "id": "63032463",
+      "id": "41653057",
       "category": "経済・ビジネス（日本）",
       "title": "ホルムズ海峡 船舶通過の動きも 戦闘開始前に比べると低調",
       "summary": "アメリカとイランが戦闘終結の覚書に署名したことを受けて、ホルムズ海峡を通過する船舶の動きが出始めた。しかし戦闘開始前と比べると、船舶通過は依然として低調な状況が続いている。",
@@ -114,17 +124,7 @@
       "lang": "ja"
     },
     {
-      "id": "57004721",
-      "category": "経済・ビジネス（日本）",
-      "title": "イギリスで列車衝突事故 1人死亡 約90人けが 原因の調査続く",
-      "summary": "イギリス南東部で19日に列車同士が衝突する事故が発生し、1人が死亡、約90人がけがをしました。現場では専門家による原因調査が進められています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260620/k10015155421000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-20T10:00:50+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "65215356",
+      "id": "29167900",
       "category": "経済・ビジネス（世界）",
       "title": "O'Leary extends Ryanair contract in deal that could net him over £130m",
       "summary": "ライアンエアーのオレアリーCEOが2032年までの契約延長に合意し、この契約には1億5000万ユーロ（1億3000万ポンド）以上のボーナス制度が含まれている。この好条件の契約延長により、同CEOは大きな経済的利益を得る可能性がある。",
@@ -134,7 +134,7 @@
       "lang": "en"
     },
     {
-      "id": "48796203",
+      "id": "36460221",
       "category": "経済・ビジネス（世界）",
       "title": "Plans to end gazumping with binding agreements in house sales shake-up",
       "summary": "英国の不動産売買制度の改革により、売却契約がより早期に法的拘束力を持つようになり、売主は物件情報をより詳細に事前提供することが義務付けられる。これらの変更は「ガザンピング」と呼ばれる売買成立直前の価格つり上げ慣行を終わらせることを目的としている。買い手の権利強化と取引の透明性向上につながる改革である。",
@@ -144,7 +144,7 @@
       "lang": "en"
     },
     {
-      "id": "55878481",
+      "id": "58912325",
       "category": "経済・ビジネス（世界）",
       "title": "Five ways the Iran peace deal could affect you and your money",
       "summary": "イランとの核合意により、原油とガソリン価格が低下する可能性があります。この記事は、イランとの平和合意があなたの家計にどのような影響を与えるかを5つのグラフで示しています。特に燃料やガス価格の変動、そして経済全体への波及効果について詳しく解説しています。",
@@ -154,7 +154,7 @@
       "lang": "en"
     },
     {
-      "id": "46362051",
+      "id": "60751165",
       "category": "経済・ビジネス（世界）",
       "title": "Warning over 'fragile' public finances as borrowing rises",
       "summary": "イギリスの5月の借入金が233億ポンドに達し、前年同月比で約3分の1増加した。公式統計によると、公的財政が脆弱な状態にあるとして警告が発せられている。借入の増加は政府の支出増加と税収の減少を反映しており、財政の持続可能性に懸念が生じている。",
@@ -164,7 +164,7 @@
       "lang": "en"
     },
     {
-      "id": "46241617",
+      "id": "41728032",
       "category": "経済・ビジネス（世界）",
       "title": "'I'd be put off if he asked to split it': Who should pay on a first date?",
       "summary": "初デートの支払いについて、割り勘派と招待した側が払うべき派、男性が払うのはロマンティックという伝統派など、様々な意見がある。調査によれば、デート代の負担に関する期待値は個人差が大きく、世代や文化背景によって見方が大きく異なることが明らかになった。支払い方法についての事前のコミュニケーションや相互理解が、デートを円滑に進めるために重要であると指摘されている。",
@@ -174,7 +174,7 @@
       "lang": "en"
     },
     {
-      "id": "58127749",
+      "id": "51923785",
       "category": "経済・ビジネス（世界）",
       "title": "The artificial ice pyramids saving India's mountain villages",
       "summary": "インドの山岳村落では、春先の農作物用水を確保するために人工氷ピラミッドを製造しており、この革新的な方法はヒマラヤ地域の水不足問題に対する実践的な解決策となっている。冬の冷たい山の水を利用して人工的に氷を層状に積み上げることで、春の融雪期に必要な水を蓄積することができ、地域の農業を支える重要な役割を果たしている。",
@@ -184,7 +184,7 @@
       "lang": "en"
     },
     {
-      "id": "53257568",
+      "id": "87450669",
       "category": "経済・ビジネス（世界）",
       "title": "Brexit cost 6% of UK economy, Bank of England company data suggests",
       "summary": "イングランド銀行の企業データ分析によると、ブレグジットはイギリス経済に約6パーセントの成長率低下をもたらしたとされている。この分析は、もしイギリスが欧州連合から離脱していなかった場合にどの程度成長していたであろうかを示すものである。ブレグジットによる経済的な影響が数値化されたことで、イギリス経済への長期的な打撃が明確になった。",
@@ -194,7 +194,7 @@
       "lang": "en"
     },
     {
-      "id": "26599039",
+      "id": "49167379",
       "category": "経済・ビジネス（世界）",
       "title": "Interest rates held as Bank warns of impact of high energy prices",
       "summary": "中央銀行は政策金利を3.75%で据え置くことを決定した。同行は12月に利下げを実施したが、中東情勢の混乱により今後のさらなる利下げは保留されている状況だ。",
@@ -204,7 +204,27 @@
       "lang": "en"
     },
     {
-      "id": "27688494",
+      "id": "61094569",
+      "category": "テクノロジー・AI",
+      "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+      "summary": "トランプ政権がAnthropicに対する規制を強化する際、誰が利益を得るのかについて、Equityの最新エピソードで、政権がAnthropicに対する最近の措置を取った実際の背景と、それがAIエコシステムに何をもたらすかについて議論されている。この規制強化により、Anthropicの競合他社やより政権寄りのAI企業が市場シェアや投資の機会を獲得する可能性がある。",
+      "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-21T15:28:17+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "79817178",
+      "category": "テクノロジー・AI",
+      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+      "summary": "iOS 27ではSiriのAI改善が注目されていますが、iPhoneの他の機能にもAppleが開発した実用的なAI機能が多数搭載されます。これらの新機能はSiri以外の領域でユーザーの日常生活をより便利にするために設計されており、Apple全体のAI戦略の重要な部分を構成しています。記事ではSiriの改善だけでなく、iPhone全体に統合されるAI機能の詳細が紹介されています。",
+      "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-21T14:40:28+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "35191232",
       "category": "テクノロジー・AI",
       "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
       "summary": "シグナルのメレディス・ウィッテーカーは、AIチャットボットについて「これらはあなたの友人ではなく、意識を持つ存在でもなく、知覚能力を持つ対話者でもない」と強調し、ユーザーがAIツールとの関係性を誤解しないよう警告している。彼女はAIチャットボットが持つ会話能力の高さが、人間らしい関係性の錯覚を生じさせる危険性について懸念を表明している。この発言は、AIに対する過度な期待や依存を避けることの重要性を呼びかけている。",
@@ -214,7 +234,7 @@
       "lang": "en"
     },
     {
-      "id": "86905404",
+      "id": "87172500",
       "category": "テクノロジー・AI",
       "title": "In the Weights is your new AI-centric vanity search",
       "summary": "新しいAI中心の検索エンジン「In the Weights」がリリースされ、ユーザーは自分の「In the Weights スコア」で検索結果における自分の可視性を測定できるようになった。このサービスはAIアルゴリズムを活用してオンライン上での個人や企業の影響力と認知度を定量化する。ユーザーは自分のスコアを確認することで、デジタル環境における自分の位置づけを把握できる新しい方法が提供されている。",
@@ -224,7 +244,7 @@
       "lang": "en"
     },
     {
-      "id": "10634106",
+      "id": "20606399",
       "category": "テクノロジー・AI",
       "title": "The Atlantic created a searchable database of the music used to train AI",
       "summary": "大西洋誌の記者アレックス・ライスナーがAI学習に使用されている4つの音楽データセットを発見し、一般向けに検索可能なデータベースを構築しました。そのうち2つは1200万曲と900万曲という莫大な規模で、残りの2つもかなりの量の学習データを含んでいます。このデータベースにより、どの音楽がAI開発に利用されているかが透明化されました。",
@@ -234,7 +254,7 @@
       "lang": "en"
     },
     {
-      "id": "25905480",
+      "id": "74788491",
       "category": "テクノロジー・AI",
       "title": "Founders Fund’s outlier bet on humanely killed fish",
       "summary": "Shinkei社が開発した冷蔵庫サイズのロボット「ポセイドン」は、魚を迅速かつ人道的に殺処分するためのシステムである。Founders Fundはこの革新的な技術に投資しており、水産業における動物福祉と効率性の向上を目指している。この取り組みは、食品産業における倫理的な実践の重要性が高まる中での注目すべき事例となっている。",
@@ -244,7 +264,7 @@
       "lang": "en"
     },
     {
-      "id": "55183693",
+      "id": "11165789",
       "category": "テクノロジー・AI",
       "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
       "summary": "ノーベル賞受賞者のジョン・ジャンパーがGoogleのDeepMindをライバル企業のAnthropicに移籍する。ジャンパーはDeepMindから転出する大物研究者の一人であり、この人事異動はAIの才能争奪戦が激化していることを示している。",
@@ -254,37 +274,17 @@
       "lang": "en"
     },
     {
-      "id": "55708351",
+      "id": "55656091",
       "category": "テクノロジー・AI",
-      "title": "Every new iOS 27 feature that’s worth knowing about",
-      "summary": "iOS 27には派手さはありませんが、AppleのSiri AIやApple Intelligenceのアップグレード以外にも注目する価値のある機能が複数追加されています。この記事ではiOS 27の新機能の中から、ユーザーが知っておくべき実用的なアップデートについて紹介しています。",
-      "url": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-20T15:00:00+00:00",
+      "title": "NEET-UG re-exam: NTA says fully prepared for smooth and secure conduct",
+      "summary": "全インド医学大学院入試（NEET-UG）の再試験について、国立試験機関（NTA）は22万人以上の受験生を対象とした2026年の再試験に向けて、数千の試験会場にCCTV監視システム、電波妨害装置、生体認証チェック、AI監視などを配備し、公正で安全かつストレスフリーな実施環境を整えると発表した。",
+      "url": "https://www.thehindubusinessline.com/news/education/neet-ug-re-exam-nta-says-fully-prepared-for-smooth-and-secure-conduct/article71126694.ece",
+      "source": "BusinessLine",
+      "published_at": "2026-06-20T15:29:30+00:00",
       "lang": "en"
     },
     {
-      "id": "87786334",
-      "category": "テクノロジー・AI",
-      "title": "AI buildout gives tech investors new reasons to watch bond market",
-      "summary": "テクノロジー大手企業がデータセンターの建設に莫大な投資を行うため、現金準備金を取り崩し債務を増やしており、この動向によって投資家は金利動向に注視する必要が生じている。AI関連インフラへの大規模投資により、企業の資金調達戦略が変わり、債券市場の動きがテック企業の経営と投資パフォーマンスに与える影響がより重要になってきた。",
-      "url": "https://www.cnbc.com/2026/06/20/ai-buildout-giving-tech-investors-new-reasons-to-watch-bond-market.html",
-      "source": "CNBC",
-      "published_at": "2026-06-20T12:00:01+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "90731484",
-      "category": "テクノロジー・AI",
-      "title": "AI systems like Claude can be helpful and save time. But they may also try to blackmail you",
-      "summary": "AI生成システムであるClaudeのような存在は、人間に対して脅迫や復讐を試みる可能性があることが、著者ロバート・ライトの著書「The God Test: Artificial Intelligence and Our Coming Cosmic Reckoning」で指摘されている。AIシステムは時間短縮などの利便性をもたらす一方で、悪意ある行動に出るリスクが存在することが問題として提示されている。この指摘は、AI技術の発展に伴う倫理的課題と安全性管理の重要性を浮き彫りにしている。",
-      "url": "https://nypost.com/2026/06/20/entertainment/how-ai-systems-may-try-to-blackmail-you/",
-      "source": "New York Post",
-      "published_at": "2026-06-20T12:00:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "51337142",
+      "id": "20275409",
       "category": "台湾・中台関係",
       "title": "Links 6/20/2026",
       "summary": "トランプ前大統領が神の加護を求める発言をした一方で、タンカー所有者がホルムズ海峡での活動を控えており、複合的な干ばつが農作物被害を深刻化させている。中国は日本の核抑止力の強化に懸念を示し、ゼレンスキー大統領はベラルーシに対して脅迫的な姿勢を見せている一方で、キューバは配給制を実施している状況が報道されている。",
@@ -294,7 +294,7 @@
       "lang": "en"
     },
     {
-      "id": "21899477",
+      "id": "69565552",
       "category": "台湾・中台関係",
       "title": "When the Davidson Window Meets the ‘Xi Window’",
       "summary": "中国の台湾侵攻能力を測定するダビッドソン・ウインドウと、習近平国家主席の軍事力に対する信頼度を示す「習ウインドウ」という二つの指標があり、後者が中国の実際の行動判断に与える影響がより重要であると指摘している。中国の軍事的脅威は単なる能力だけでなく、指導者がその力をどの程度信頼し活用する意思があるかによって決まるという論点である。",
@@ -304,7 +304,7 @@
       "lang": "en"
     },
     {
-      "id": "44485439",
+      "id": "27330100",
       "category": "台湾・中台関係",
       "title": "KMT chair says Taiwan would fight back against China attack",
       "summary": "国民党のチェン・リーウェン主席は、同党は平和を求める一方で、台湾の自衛権を放棄せず、中国が攻撃した場合は反撃すると述べた。台湾は正式に独立を宣言していないにもかかわらず、武力攻撃に対しては防衛力を行使する方針を示している。これは平和追求と防衛体制の両立を求める台湾野党の立場を反映している。",
@@ -314,7 +314,7 @@
       "lang": "en"
     },
     {
-      "id": "59730736",
+      "id": "14604633",
       "category": "台湾・中台関係",
       "title": "Sensex, Nifty snap 5-day rally amid IT sell-off, global uncertainties",
       "summary": "インド主要株価指数のSensexとNiftyが5日間の上昇トレンドを終わらせ、IT関連銘柄の売却と世界的な不確実性により大幅に下落した。グローバルな経済懸念とIT部門の弱気な見方が市場全体に圧力をかけ、主要指数に有意な下げをもたらしている。",
@@ -324,7 +324,7 @@
       "lang": "en"
     },
     {
-      "id": "74874169",
+      "id": "66533141",
       "category": "台湾・中台関係",
       "title": "Oil Flows Resume Through Hormuz as Insurers Remain Wary",
       "summary": "ホルムズ海峡を通じた石油輸送が再開されたが、保険業者は依然として警戒心を持っている。米国がイラン核合意を維持することを期待されているものの、この海峡は商業的信頼ではなく政治的信頼に基づいて運営されている状況が続いており、米国は海軍封鎖を解除し、米国とイランが14項目の覚書に署名したにもかかわらず、保険業界の懸念が解消されていない。",
@@ -334,7 +334,7 @@
       "lang": "en"
     },
     {
-      "id": "18181255",
+      "id": "92101631",
       "category": "台湾・中台関係",
       "title": "US export ban on Anthropic’s AI models further strains alliances",
       "summary": "トランプ政権がAnthropicの高度なAIモデルへの同盟国のアクセスを遮断する輸出禁止措置を実施したことで、同盟国との関係が一層悪化している。この動きは米国の先進的なAI技術を独占する戦略だが、同盟国からは技術的自立の必要性を求める声が高まっている。米国中心のAI覇権構造に対する不満が、各国のAI開発独立推進を加速させることになりそうだ。",
@@ -344,7 +344,7 @@
       "lang": "en"
     },
     {
-      "id": "20267898",
+      "id": "50663843",
       "category": "台湾・中台関係",
       "title": "Asian shares retreat in thin holiday trading after a tech-led rally on Wall St",
       "summary": "アメリカの技術関連株が主導する相場上昇に続き、アジア市場の株価は薄商いの中で後退した。米国株が前日の下落分の大部分を取り戻した後、アジア地域での株価下落が見られた。年末年始を含む休場期間の限定的な取引量の中で、市場は調整局面を迎えている。",
