@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T17:58:02.200011+00:00",
+  "updated_at": "2026-06-21T10:55:22.187705+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -44,17 +44,37 @@
   ],
   "news": [
     {
-      "id": "11435744",
+      "id": "68258512",
       "category": "経済・ビジネス（日本）",
-      "title": "イラン中央司令部「ホルムズ海峡は封鎖される」声明発表",
+      "title": "米 イラン 覚書署名後初の協議 このあとスイスで 順調に進むか",
       "summary": "イランの中央司令部が20日夜、ホルムズ海峡を封鎖するとの声明を発表しました。",
       "url": "http://www3.nhk.or.jp/news/html/20260620/k10015155531000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-06-20T17:26:10+00:00",
+      "published_at": "2026-06-21T10:30:47+00:00",
       "lang": "ja"
     },
     {
-      "id": "90339756",
+      "id": "20012004",
+      "category": "経済・ビジネス（日本）",
+      "title": "コロンビア大統領選 トランプ氏支持の右派と左派の争いに",
+      "summary": "コロンビアで21日に大統領選の決選投票が行われ、トランプ大統領が支持する右派候補と現職の後継である左派候補が対立する構図となっています。選挙結果によって南米地域におけるアメリカの影響力の変化が注目されています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260621/k10015155551000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-20T20:18:57+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "16282747",
+      "category": "経済・ビジネス（日本）",
+      "title": "サーロー節子さん オーストリアで講演 核の脅威高まると懸念",
+      "summary": "カナダ在住の広島被爆者サーロー節子さんがオーストリアで講演し、ロシアのウクライナ軍事侵攻により世界的に核の脅威が増していると懸念を表明しました。一方で、若い世代を中心とした核兵器廃絶運動の拡大に期待を寄せています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260621/k10015155521000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-20T20:16:59+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "63202610",
       "category": "経済・ビジネス（日本）",
       "title": "天皇皇后両陛下 オランダ訪問終え ベルギーに到着",
       "summary": "天皇皇后両陛下はオランダでの訪問日程を終了し、ベルギーに到着されました。",
@@ -64,7 +84,7 @@
       "lang": "ja"
     },
     {
-      "id": "37747420",
+      "id": "42264711",
       "category": "経済・ビジネス（日本）",
       "title": "“米特使とイラン外相がスイスへ”報道 協議の実現が焦点",
       "summary": "アメリカのウィトコフ特使がスイスに向かい、仲介役のカタール首相も到着したことが明らかになり、延期されていたアメリカとイランの協議が近く開催される可能性が高まっている。",
@@ -74,7 +94,7 @@
       "lang": "ja"
     },
     {
-      "id": "43689208",
+      "id": "54898475",
       "category": "経済・ビジネス（日本）",
       "title": "【詳細】ロシア ウクライナに軍事侵攻（6月20日の動き）",
       "summary": "ロシアによるウクライナ軍事侵攻が継続しており、ウクライナ全土でロシア軍とウクライナ軍の戦闘が展開されています。多くの市民が国外への避難を強いられている中、6月20日の戦闘状況や国際的な外交動向について随時更新で報道されています。",
@@ -84,7 +104,7 @@
       "lang": "ja"
     },
     {
-      "id": "12251613",
+      "id": "70764515",
       "category": "経済・ビジネス（日本）",
       "title": "ホルムズ海峡 船舶通過の動きも 戦闘開始前に比べると低調",
       "summary": "アメリカとイランが戦闘終結の覚書に署名したことを受けて、ホルムズ海峡を通過する船舶の動きが出始めた。しかし戦闘開始前と比べると、船舶通過は依然として低調な状況が続いている。",
@@ -94,7 +114,7 @@
       "lang": "ja"
     },
     {
-      "id": "76447470",
+      "id": "41469494",
       "category": "経済・ビジネス（日本）",
       "title": "イギリスで列車衝突事故 1人死亡 約90人けが 原因の調査続く",
       "summary": "イギリス南東部で19日に列車同士が衝突する事故が発生し、1人が死亡、約90人がけがをしました。現場では専門家による原因調査が進められています。",
@@ -104,27 +124,7 @@
       "lang": "ja"
     },
     {
-      "id": "14388803",
-      "category": "経済・ビジネス（日本）",
-      "title": "ポーランドがゼレンスキー大統領への勲章剥奪 関係悪化の懸念",
-      "summary": "ポーランドはウクライナがポーランド人虐殺に関与した民族組織の名称を軍部隊の呼称に使用したことを批判し、ゼレンスキー大統領から最高位の勲章を剥奪すると発表した。ウクライナ側は反発しており、両国間の関係悪化が懸念されている。",
-      "url": "http://www3.nhk.or.jp/news/html/20260620/k10015155401000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-20T09:48:49+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "86546375",
-      "category": "経済・ビジネス（日本）",
-      "title": "ドイツ南部で貨物列車どうしが衝突し橋から落下 1人重傷",
-      "summary": "ドイツ南部のミュンヘンで貨物列車同士が衝突し、一部の車両が脱線して橋から落下する事故が発生しました。この事故により1人が重傷を負いました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260620/k10015155341000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-20T07:22:20+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "10289641",
+      "id": "39477744",
       "category": "経済・ビジネス（世界）",
       "title": "O'Leary extends Ryanair contract in deal that could net him over £130m",
       "summary": "ライアンエアーのオレアリーCEOが2032年までの契約延長に合意し、この契約には1億5000万ユーロ（1億3000万ポンド）以上のボーナス制度が含まれている。この好条件の契約延長により、同CEOは大きな経済的利益を得る可能性がある。",
@@ -134,7 +134,7 @@
       "lang": "en"
     },
     {
-      "id": "49520555",
+      "id": "60207285",
       "category": "経済・ビジネス（世界）",
       "title": "Plans to end gazumping with binding agreements in house sales shake-up",
       "summary": "英国の不動産売買制度の改革により、売却契約がより早期に法的拘束力を持つようになり、売主は物件情報をより詳細に事前提供することが義務付けられる。これらの変更は「ガザンピング」と呼ばれる売買成立直前の価格つり上げ慣行を終わらせることを目的としている。買い手の権利強化と取引の透明性向上につながる改革である。",
@@ -144,7 +144,7 @@
       "lang": "en"
     },
     {
-      "id": "70103828",
+      "id": "46349616",
       "category": "経済・ビジネス（世界）",
       "title": "Five ways the Iran peace deal could affect you and your money",
       "summary": "イランとの核合意により、原油とガソリン価格が低下する可能性があります。この記事は、イランとの平和合意があなたの家計にどのような影響を与えるかを5つのグラフで示しています。特に燃料やガス価格の変動、そして経済全体への波及効果について詳しく解説しています。",
@@ -154,7 +154,7 @@
       "lang": "en"
     },
     {
-      "id": "79975426",
+      "id": "90819496",
       "category": "経済・ビジネス（世界）",
       "title": "Warning over 'fragile' public finances as borrowing rises",
       "summary": "イギリスの5月の借入金が233億ポンドに達し、前年同月比で約3分の1増加した。公式統計によると、公的財政が脆弱な状態にあるとして警告が発せられている。借入の増加は政府の支出増加と税収の減少を反映しており、財政の持続可能性に懸念が生じている。",
@@ -164,7 +164,7 @@
       "lang": "en"
     },
     {
-      "id": "89211026",
+      "id": "48376938",
       "category": "経済・ビジネス（世界）",
       "title": "'I'd be put off if he asked to split it': Who should pay on a first date?",
       "summary": "初デートの支払いについて、割り勘派と招待した側が払うべき派、男性が払うのはロマンティックという伝統派など、様々な意見がある。調査によれば、デート代の負担に関する期待値は個人差が大きく、世代や文化背景によって見方が大きく異なることが明らかになった。支払い方法についての事前のコミュニケーションや相互理解が、デートを円滑に進めるために重要であると指摘されている。",
@@ -174,7 +174,7 @@
       "lang": "en"
     },
     {
-      "id": "42200871",
+      "id": "21804538",
       "category": "経済・ビジネス（世界）",
       "title": "The artificial ice pyramids saving India's mountain villages",
       "summary": "インドの山岳村落では、春先の農作物用水を確保するために人工氷ピラミッドを製造しており、この革新的な方法はヒマラヤ地域の水不足問題に対する実践的な解決策となっている。冬の冷たい山の水を利用して人工的に氷を層状に積み上げることで、春の融雪期に必要な水を蓄積することができ、地域の農業を支える重要な役割を果たしている。",
@@ -184,7 +184,7 @@
       "lang": "en"
     },
     {
-      "id": "21451156",
+      "id": "36745549",
       "category": "経済・ビジネス（世界）",
       "title": "Brexit cost 6% of UK economy, Bank of England company data suggests",
       "summary": "イングランド銀行の企業データ分析によると、ブレグジットはイギリス経済に約6パーセントの成長率低下をもたらしたとされている。この分析は、もしイギリスが欧州連合から離脱していなかった場合にどの程度成長していたであろうかを示すものである。ブレグジットによる経済的な影響が数値化されたことで、イギリス経済への長期的な打撃が明確になった。",
@@ -194,7 +194,7 @@
       "lang": "en"
     },
     {
-      "id": "36160550",
+      "id": "62906897",
       "category": "経済・ビジネス（世界）",
       "title": "Interest rates held as Bank warns of impact of high energy prices",
       "summary": "中央銀行は政策金利を3.75%で据え置くことを決定した。同行は12月に利下げを実施したが、中東情勢の混乱により今後のさらなる利下げは保留されている状況だ。",
@@ -204,7 +204,47 @@
       "lang": "en"
     },
     {
-      "id": "15761758",
+      "id": "74856481",
+      "category": "テクノロジー・AI",
+      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+      "summary": "シグナルのメレディス・ウィッテーカーは、AIチャットボットについて「これらはあなたの友人ではなく、意識を持つ存在でもなく、知覚能力を持つ対話者でもない」と強調し、ユーザーがAIツールとの関係性を誤解しないよう警告している。彼女はAIチャットボットが持つ会話能力の高さが、人間らしい関係性の錯覚を生じさせる危険性について懸念を表明している。この発言は、AIに対する過度な期待や依存を避けることの重要性を呼びかけている。",
+      "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-20T20:32:29+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "93727534",
+      "category": "テクノロジー・AI",
+      "title": "In the Weights is your new AI-centric vanity search",
+      "summary": "新しいAI中心の検索エンジン「In the Weights」がリリースされ、ユーザーは自分の「In the Weights スコア」で検索結果における自分の可視性を測定できるようになった。このサービスはAIアルゴリズムを活用してオンライン上での個人や企業の影響力と認知度を定量化する。ユーザーは自分のスコアを確認することで、デジタル環境における自分の位置づけを把握できる新しい方法が提供されている。",
+      "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-20T19:41:11+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "72431703",
+      "category": "テクノロジー・AI",
+      "title": "The Atlantic created a searchable database of the music used to train AI",
+      "summary": "大西洋誌の記者アレックス・ライスナーがAI学習に使用されている4つの音楽データセットを発見し、一般向けに検索可能なデータベースを構築しました。そのうち2つは1200万曲と900万曲という莫大な規模で、残りの2つもかなりの量の学習データを含んでいます。このデータベースにより、どの音楽がAI開発に利用されているかが透明化されました。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+      "source": "AI | The Verge",
+      "published_at": "2026-06-20T18:46:48+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "63497470",
+      "category": "テクノロジー・AI",
+      "title": "Founders Fund’s outlier bet on humanely killed fish",
+      "summary": "Shinkei社が開発した冷蔵庫サイズのロボット「ポセイドン」は、魚を迅速かつ人道的に殺処分するためのシステムである。Founders Fundはこの革新的な技術に投資しており、水産業における動物福祉と効率性の向上を目指している。この取り組みは、食品産業における倫理的な実践の重要性が高まる中での注目すべき事例となっている。",
+      "url": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-20T18:26:02+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "60425146",
       "category": "テクノロジー・AI",
       "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
       "summary": "ノーベル賞受賞者のジョン・ジャンパーがGoogleのDeepMindをライバル企業のAnthropicに移籍する。ジャンパーはDeepMindから転出する大物研究者の一人であり、この人事異動はAIの才能争奪戦が激化していることを示している。",
@@ -214,7 +254,7 @@
       "lang": "en"
     },
     {
-      "id": "21508725",
+      "id": "59742554",
       "category": "テクノロジー・AI",
       "title": "Every new iOS 27 feature that’s worth knowing about",
       "summary": "iOS 27には派手さはありませんが、AppleのSiri AIやApple Intelligenceのアップグレード以外にも注目する価値のある機能が複数追加されています。この記事ではiOS 27の新機能の中から、ユーザーが知っておくべき実用的なアップデートについて紹介しています。",
@@ -224,67 +264,27 @@
       "lang": "en"
     },
     {
-      "id": "63206121",
+      "id": "39715809",
       "category": "テクノロジー・AI",
-      "title": "He made your free video player run smoothly. Now he’s doing that for robots.",
-      "summary": "フランスの連続起業家でオープンソース界の伝説的人物であるジャン＝バティスト・ケンプフは、リモートデバイスをリアルタイムで制御するインフラストラクチャレイヤー「Kyber」を構築している。彼は以前、動画プレイヤーの開発で知られており、現在はロボットなどの遠隔操作技術の開発に取り組んでいる。このプロジェクトは、ロボティクスやIoT分野における制御システムの基盤となることを目指している。",
-      "url": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-20T00:47:44+00:00",
+      "title": "SpaceX ETFs draw $8.2 billion as Jefferies flags impact of mega IPOs on global indices",
+      "summary": "SpaceXのETFが82億ドルの資金を集めており、ジェフリーズは大規模IPOが世界指数に与える影響を指摘している。ジェフリーズの推定によると、SpaceXはMSCI全世界株価指数の0.25%から0.6%を占める可能性があり、現在の米国の指数内のウェイトは62.9%である。大型IPOは全世界株価指数の構成に重大な影響を及ぼす可能性がある。",
+      "url": "https://www.moneycontrol.com/news/business/markets/spacex-etfs-draw-8-2-billion-as-jefferies-flags-impact-of-mega-ipos-on-global-indices-13954523.html",
+      "source": "Moneycontrol",
+      "published_at": "2026-06-20T10:53:18+00:00",
       "lang": "en"
     },
     {
-      "id": "72365494",
+      "id": "91645417",
       "category": "テクノロジー・AI",
-      "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
-      "summary": "過去30年間、サイバーセキュリティ関連ソフトウェアの流出を防ぐ輸出規制は効果的でなかったが、現在Anthropicのサイバーセキュリティモデル「Mythos」に対しても同様の規制が機能するかどうかは不確実である。歴史的には暗号化技術やセキュリティソフトの輸出制限は目的を達成できず、新たなAIモデルに対する規制も同じ課題に直面する可能性が高い。",
-      "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-19T22:40:14+00:00",
+      "title": "India’s data centre capacity pipeline hits 8.33 GW amid AI and cloud boom",
+      "summary": "インドのデータセンター容量パイプラインがAIとクラウドの急速な成長に伴い8.33GWに達しました。ムンバイが最大のパイプラインで拡張を主導し、ハイデラバードとチェンナイがこれに続いており、NCR、プネ、ベンガルールも継続して容量を追加しています。これは主要なデジタルインフラハブ全体での広範な成長を反映しています。",
+      "url": "https://www.thehindubusinessline.com/info-tech/indias-data-centre-capacity-pipeline-hits-833-gw-amid-ai-and-cloud-boom/article71125654.ece",
+      "source": "BusinessLine",
+      "published_at": "2026-06-20T10:45:10+00:00",
       "lang": "en"
     },
     {
-      "id": "86883066",
-      "category": "テクノロジー・AI",
-      "title": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026 — here’s why it matters",
-      "summary": "日本最大手のタクシー配車アプリGoが2026年の日本最大規模のIPOを実現し、ロボタクシー開発と買収に注力する。Goは火曜日に上場し、調達した886億円を日本の深刻なドライバー不足という経営課題の解決に充てる計画である。このIPOは日本の低迷する新規上場市場に活気をもたらすとともに、同社に必要な資本を提供している。",
-      "url": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-19T21:45:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "75559895",
-      "category": "テクノロジー・AI",
-      "title": "Aura’s impressive e-ink photo frame doesn’t even look digital",
-      "summary": "Auraが発表した新型フォトフレーム「Aura Ink」は、電子インク技術を採用することで、デジタル表示であることが全く分からないほど自然な外観を実現しており、従来のデジタルフォトフレームという退屈な贈り物の概念を一新させている。この製品は家族写真をスライドショーで表示する従来のデジタルフレームの市場に新たな選択肢をもたらしている。",
-      "url": "https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-19T21:00:34+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "46223939",
-      "category": "テクノロジー・AI",
-      "title": "Fox News AI Newsletter: Bezos predicts labor shortage",
-      "summary": "アマゾン創業者ベゾスはAI技術の進展により労働力不足が生じると予測している。フォックスニュースのAIニュースレターは、現在と将来におけるAI技術の進歩がもたらす課題と機会についての最新情報を扱っている。AIが労働市場に与える影響について専門家の見方が分かれている。",
-      "url": "https://www.foxnews.com/tech/ai-newsletter-bezos-predicts-labor-shortage",
-      "source": "Fox News",
-      "published_at": "2026-06-19T17:57:52+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "45592871",
-      "category": "テクノロジー・AI",
-      "title": "Here’s Why Your Apple Watch Won’t Get New Siri AI",
-      "summary": "AppleはGeminiを搭載した新しいSiri AIが腕時計で最高のパフォーマンスを発揮することを確認しましたが、旧型のApple Watchはハードウェアの制限により新機能の対象外となっています。新しいSiri AIは処理能力の高いチップを必要とするため、古いモデルではサポートされないということです。",
-      "url": "https://www.iphoneincanada.ca/2026/06/19/heres-why-your-apple-watch-wont-get-new-siri-ai/",
-      "source": "iPhone in Canada",
-      "published_at": "2026-06-19T17:56:57+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "75857151",
+      "id": "19538119",
       "category": "台湾・中台関係",
       "title": "When the Davidson Window Meets the ‘Xi Window’",
       "summary": "中国の台湾侵攻能力を測定するダビッドソン・ウインドウと、習近平国家主席の軍事力に対する信頼度を示す「習ウインドウ」という二つの指標があり、後者が中国の実際の行動判断に与える影響がより重要であると指摘している。中国の軍事的脅威は単なる能力だけでなく、指導者がその力をどの程度信頼し活用する意思があるかによって決まるという論点である。",
@@ -294,7 +294,7 @@
       "lang": "en"
     },
     {
-      "id": "51062398",
+      "id": "43672359",
       "category": "台湾・中台関係",
       "title": "KMT chair says Taiwan would fight back against China attack",
       "summary": "国民党のチェン・リーウェン主席は、同党は平和を求める一方で、台湾の自衛権を放棄せず、中国が攻撃した場合は反撃すると述べた。台湾は正式に独立を宣言していないにもかかわらず、武力攻撃に対しては防衛力を行使する方針を示している。これは平和追求と防衛体制の両立を求める台湾野党の立場を反映している。",
@@ -304,7 +304,7 @@
       "lang": "en"
     },
     {
-      "id": "70811978",
+      "id": "55825364",
       "category": "台湾・中台関係",
       "title": "Sensex, Nifty snap 5-day rally amid IT sell-off, global uncertainties",
       "summary": "インド主要株価指数のSensexとNiftyが5日間の上昇トレンドを終わらせ、IT関連銘柄の売却と世界的な不確実性により大幅に下落した。グローバルな経済懸念とIT部門の弱気な見方が市場全体に圧力をかけ、主要指数に有意な下げをもたらしている。",
@@ -314,7 +314,7 @@
       "lang": "en"
     },
     {
-      "id": "51207604",
+      "id": "71867101",
       "category": "台湾・中台関係",
       "title": "Oil Flows Resume Through Hormuz as Insurers Remain Wary",
       "summary": "ホルムズ海峡を通じた石油輸送が再開されたが、保険業者は依然として警戒心を持っている。米国がイラン核合意を維持することを期待されているものの、この海峡は商業的信頼ではなく政治的信頼に基づいて運営されている状況が続いており、米国は海軍封鎖を解除し、米国とイランが14項目の覚書に署名したにもかかわらず、保険業界の懸念が解消されていない。",
@@ -324,7 +324,7 @@
       "lang": "en"
     },
     {
-      "id": "78581014",
+      "id": "88215809",
       "category": "台湾・中台関係",
       "title": "US export ban on Anthropic’s AI models further strains alliances",
       "summary": "トランプ政権がAnthropicの高度なAIモデルへの同盟国のアクセスを遮断する輸出禁止措置を実施したことで、同盟国との関係が一層悪化している。この動きは米国の先進的なAI技術を独占する戦略だが、同盟国からは技術的自立の必要性を求める声が高まっている。米国中心のAI覇権構造に対する不満が、各国のAI開発独立推進を加速させることになりそうだ。",
@@ -334,7 +334,7 @@
       "lang": "en"
     },
     {
-      "id": "17687014",
+      "id": "26846615",
       "category": "台湾・中台関係",
       "title": "Asian shares retreat in thin holiday trading after a tech-led rally on Wall St",
       "summary": "アメリカの技術関連株が主導する相場上昇に続き、アジア市場の株価は薄商いの中で後退した。米国株が前日の下落分の大部分を取り戻した後、アジア地域での株価下落が見られた。年末年始を含む休場期間の限定的な取引量の中で、市場は調整局面を迎えている。",
@@ -344,7 +344,7 @@
       "lang": "en"
     },
     {
-      "id": "40552929",
+      "id": "45931894",
       "category": "台湾・中台関係",
       "title": "Sensex, Nifty fall 1% as Accenture-triggered IT rout snaps 5-day rally",
       "summary": "インドの主要株価指数であるセンセックスとニフティ50は金曜日に5営業日連続の上昇トレンドを終わらせ、アクセンチュアの決算不振をきっかけとしたIT株の急落により、センセックスは830ポイント以上、ニフティ50はほぼ230ポイント下落した。IT企業の業績悪化懸念がインド株式市場全体に悪影響を与える形となった。",
