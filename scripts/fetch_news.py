@@ -39,7 +39,7 @@ RSS_FEEDS = {
 NEWS_API_QUERIES = [
     {
         "category": "台湾・中台関係",
-        "q": "Taiwan China relations OR Taiwan strait",
+        "q": "Taiwan AND (China OR military OR strait OR Taipei OR cross-strait)",
         "language": "en",
     },
     {
