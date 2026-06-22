@@ -21,10 +21,12 @@ RSS_FEEDS = {
         "https://feeds.reuters.com/reuters/businessNews",
         "https://feeds.bbci.co.uk/news/business/rss.xml",
     ],
-    "台湾・中台関係": [
+   "台湾・中台関係": [
         "https://focustaiwan.tw/rss/cross-strait.xml",
         "https://focustaiwan.tw/rss/politics.xml",
         "https://www.rfa.org/english/news/china/rss",
+        "https://feeds.reuters.com/reuters/topNews",
+        "https://thediplomat.com/feed/",
     ],
     "テクノロジー・AI": [
         "https://techcrunch.com/feed/",
