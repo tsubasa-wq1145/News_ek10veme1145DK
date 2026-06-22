@@ -22,9 +22,19 @@ def build_prompt(article):
     title = article.get("title", "")
     description = article.get("description", "")
     lang = article.get("lang", "en")
-    content = f"タイトル: {title}\n本文抜粋: {description}"
+
+    # descriptionが空またはHTMLタグのみの場合はタイトルだけで要約
+    clean_desc = re.sub(r"<[^>]+>", "", description).strip()
+    if len(clean_desc) < 30:
+        content = f"タイトル: {title}"
+        note = "（本文が取得できないため、タイトルのみから推測して要約してください）\n"
+    else:
+        content = f"タイトル: {title}\n本文抜粋: {clean_desc}"
+        note = ""
+
     if lang == "ja":
         instruction = (
+            f"{note}"
             "以下のニュース記事を日本語で3行以内に要約してください。\n"
             "出力ルール:\n"
             "- 要約本文のみを出力する（前置き・見出し・ラベルは一切不要）\n"
@@ -33,6 +43,7 @@ def build_prompt(article):
         )
     else:
         instruction = (
+            f"{note}"
             "以下の英語ニュース記事を日本語に翻訳し、3行以内に要約してください。\n"
             "出力ルール:\n"
             "- 要約本文のみを出力する（前置き・見出し・ラベルは一切不要）\n"
