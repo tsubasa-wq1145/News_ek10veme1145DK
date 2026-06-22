@@ -25,9 +25,8 @@ RSS_FEEDS = {
         "https://focustaiwan.tw/rss/cross-strait.xml",
         "https://focustaiwan.tw/rss/politics.xml",
         "https://focustaiwan.tw/rss/business.xml",
-        "https://www.taipeitimes.com/xml/index.rss",
-        "https://www.rfa.org/english/news/china/rss",
         "https://www.rfa.org/english/news/taiwan/rss",
+        "https://www.rfa.org/english/news/china/rss",
     ],
     "テクノロジー・AI": [
         "https://techcrunch.com/feed/",
