@@ -24,9 +24,10 @@ RSS_FEEDS = {
    "台湾・中台関係": [
         "https://focustaiwan.tw/rss/cross-strait.xml",
         "https://focustaiwan.tw/rss/politics.xml",
+        "https://focustaiwan.tw/rss/business.xml",
+        "https://www.taipeitimes.com/xml/index.rss",
         "https://www.rfa.org/english/news/china/rss",
-        "https://feeds.reuters.com/reuters/topNews",
-        "https://thediplomat.com/feed/",
+        "https://www.rfa.org/english/news/taiwan/rss",
     ],
     "テクノロジー・AI": [
         "https://techcrunch.com/feed/",
