@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T10:48:43.773068+00:00",
+  "updated_at": "2026-06-23T12:48:07.344500+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -45,7 +45,17 @@
   "digest": [],
   "news": [
     {
-      "id": "17021440",
+      "id": "80112166",
+      "category": "経済・ビジネス（日本）",
+      "title": "イスラエル軍 ガザ地区で支配拡大 避難を強いられる住民相次ぐ",
+      "summary": "イスラエル軍がガザ地区で支配地域を拡大させており、市街地にも進出することで多くの住民が家を失っている状況が続いている。住民らは人道状況の悪化に対応するため、国際社会の積極的な関与を求めている。",
+      "url": "http://www3.nhk.or.jp/news/html/20260623/k10015156651000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-23T11:28:20+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "48198158",
       "category": "経済・ビジネス（日本）",
       "title": "天皇皇后両陛下 ベルギーで歓迎式典に",
       "summary": "天皇皇后両陛下がベルギーの首都ブリュッセルで国賓として歓迎式典に臨まれました。両陛下は現在ベルギーを公式訪問中です。",
@@ -55,7 +65,7 @@
       "lang": "ja"
     },
     {
-      "id": "12840300",
+      "id": "14132901",
       "category": "経済・ビジネス（日本）",
       "title": "トランプ政権「イランがＩＡＥＡ査察に合意」イランは否定",
       "summary": "アメリカとイランの戦闘終結に向けた高官協議が行われ、ホルムズ海峡の安全な航行確保に向けた連絡体制構築で合意しました。アメリカはイランのIAEA査察官受け入れ合意を主張して制裁の一部緩和を発表しましたが、イラン側は明確に確認していないため、実務レベルでの協議の展開が今後の焦点となります。",
@@ -65,7 +75,7 @@
       "lang": "ja"
     },
     {
-      "id": "34309623",
+      "id": "25306116",
       "category": "経済・ビジネス（日本）",
       "title": "詐欺深刻化で警察庁がカンボジア当局と現地協議 連携強化へ",
       "summary": "警察庁の幹部がカンボジアを訪問し、カンボジア国家警察と協議を行い、東南アジアで増加している詐欺拠点の摘発や日本人が関わる事件への対応に向けて連携強化することで合意した。",
@@ -75,7 +85,7 @@
       "lang": "ja"
     },
     {
-      "id": "46006966",
+      "id": "74948809",
       "category": "経済・ビジネス（日本）",
       "title": "赤澤経産相がIAEA事務局長と会談 “積極的な情報発信を”",
       "summary": "赤澤経済産業大臣がIAEA事務局長と会談し、福島第一原子力発電所の処理水放出などについて、国際機関からの積極的な情報発信を要請しました。",
@@ -85,7 +95,7 @@
       "lang": "ja"
     },
     {
-      "id": "54549005",
+      "id": "63150399",
       "category": "経済・ビジネス（日本）",
       "title": "ラオス 警察当局 日本人9人を拘束と発表 特殊詐欺に関与か",
       "summary": "ラオスの警察当局が特殊詐欺に関わった疑いで、日本人男女9人を拘束したと発表しました。",
@@ -95,7 +105,7 @@
       "lang": "ja"
     },
     {
-      "id": "46789140",
+      "id": "37940042",
       "category": "経済・ビジネス（日本）",
       "title": "北朝鮮 キム総書記 “日本は戦争国家へ変貌しつつある”と主張",
       "summary": "北朝鮮の金正恩総書記は朝鮮労働党の会議で演説し、日本が戦争国家へ変貌しつつあると主張した。金総書記は巡洋艦の建造推進や海軍基地の建設などを例に挙げて、日本の軍事化を非難している。",
@@ -105,7 +115,7 @@
       "lang": "ja"
     },
     {
-      "id": "79665907",
+      "id": "59191324",
       "category": "経済・ビジネス（日本）",
       "title": "【随時更新】ロシア ウクライナに軍事侵攻（6月23日の動き）",
       "summary": "ロシアによるウクライナへの軍事侵攻が継続しており、ウクライナ全土でロシア軍とウクライナ軍の戦闘が展開している。多くの市民が国外への避難を余儀なくされており、戦闘状況と関係各国の外交動向について6月23日の最新情報を随時更新している。",
@@ -115,17 +125,27 @@
       "lang": "ja"
     },
     {
-      "id": "32951127",
-      "category": "経済・ビジネス（日本）",
-      "title": "IAEA グロッシ事務局長「イランへの査察行われる」",
-      "summary": "IAEA のグロッシ事務局長は、イランの核施設に対する査察が実施されると述べ、イラン側と近く協議して査察の進め方や日程を調整する方針を示しました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260623/k10015157161000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-23T07:47:15+00:00",
-      "lang": "ja"
+      "id": "52032474",
+      "category": "経済・ビジネス（世界）",
+      "title": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
+      "summary": "イランの外務省は、スイスでの会談後、核査察に関して「新たな約束を行わなかった」と述べた。米国のヴァンス氏がIAEA査察官の復帰招待を発表した直後のこの発言により、核査察問題をめぐるイランと国際社会の立場の相違が明らかになった。イランは核査察の拡大に慎重な姿勢を続けており、今後の交渉の難しさが予想される。",
+      "url": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-06-23T12:14:58+00:00",
+      "lang": "en"
     },
     {
-      "id": "31940416",
+      "id": "56692916",
+      "category": "経済・ビジネス（世界）",
+      "title": "Who could be the UK's next chancellor?",
+      "summary": "イギリスの首相辞任に伴い、次期財務大臣（チャンセラー）を選出するための競争がスタートした。この重要なポストを目指す複数の有力候補者たちが、イギリスの財政を担当する権限を求めて動き始めている。次期財務大臣は、インフレーション対策や経済成長戦略など、重大な経済課題への対応が急務となる。",
+      "url": "https://www.bbc.co.uk/news/articles/c36yj4pn7jdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-06-23T12:05:11+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "62873320",
       "category": "経済・ビジネス（世界）",
       "title": "Tech giant Oracle cuts 21,000 jobs as it embraces AI",
       "summary": "オラクルが2万1000人の従業員削減を発表し、人工知能の推進に経営資源をシフトさせている。この削減はテック企業全体がAI開発に数千億ドルを投じる中での広がるトレンドの一部であり、業界全体で経営効率化とAI関連事業への投資優先の動きが加速している。",
@@ -135,7 +155,7 @@
       "lang": "en"
     },
     {
-      "id": "25126411",
+      "id": "26347287",
       "category": "経済・ビジネス（世界）",
       "title": "Can you keep your kids off school or refuse to work during a heatwave?",
       "summary": "気温が今後数日間で大幅に上昇する中、親は子どもを学校に行かせないことや、仕事を休むことができるかについて、法的権利が定められている。英国では極端な気象条件下での労働者の権利と親の選択肢に関する具体的なガイドラインが存在し、熱波時の対応について法的保護が用意されている。",
@@ -145,7 +165,7 @@
       "lang": "en"
     },
     {
-      "id": "44077725",
+      "id": "66802743",
       "category": "経済・ビジネス（世界）",
       "title": "Ticket reseller StubHub UK customers to get refunds over illegal hidden fees",
       "summary": "ストリーミング・チケット再販業者StubHubの英国顧客約5万人は、違法な隠れ手数料に対する払い戻しを受け取ることになった。英国競争・市場庁（CMA）はStubHubに対し、顧客への返金と罰金支払いを命じた。チケット購入時に消費者に十分に開示されていなかった追加費用が問題となっていた。",
@@ -155,27 +175,7 @@
       "lang": "en"
     },
     {
-      "id": "45295505",
-      "category": "経済・ビジネス（世界）",
-      "title": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
-      "summary": "イランの外務省は、スイスでの会談後、核査察に関して「新たな約束を行わなかった」と述べた。米国のヴァンス氏がIAEA査察官の復帰招待を発表した直後のこの発言により、核査察問題をめぐるイランと国際社会の立場の相違が明らかになった。イランは核査察の拡大に慎重な姿勢を続けており、今後の交渉の難しさが予想される。",
-      "url": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-06-23T05:39:17+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "54468454",
-      "category": "経済・ビジネス（世界）",
-      "title": "Australia's coal and gas exports violate our human rights, group says in new UN case",
-      "summary": "オーストラリアの石炭・ガス輸出は人権侵害であるとして、国連に新たな訴訟が提起された。団体は、オーストラリアが国民を保護せずに化石燃料輸出の承認を続けることは違法であると主張している。オーストラリア政府に対し、気候変動の影響から市民の人権を守るための措置を講じるよう求めている。",
-      "url": "https://www.bbc.co.uk/news/articles/cn8q5nx6jw6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-06-23T03:55:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "61834855",
+      "id": "35049182",
       "category": "経済・ビジネス（世界）",
       "title": "Millions in UK could claim share of £3bn after Apple case given green light",
       "summary": "英国でAppleの反競争的慣行に関する訴訟が承認され、数百万人の消費者が30億ポンド相当の損害賠償請求に参加できる可能性が生じた。Appleは自社の慣行が反競争的ではなく、多くの顧客が第三者の代替サービスを利用していると主張して異議を唱えている。この判決により、英国の消費者がAppleの市場支配的地位による不当な行為で被った損害について補償を受ける道が開かれた。",
@@ -185,7 +185,7 @@
       "lang": "en"
     },
     {
-      "id": "16203241",
+      "id": "27310819",
       "category": "経済・ビジネス（世界）",
       "title": "Do you know your 'sweat score'? The rise of hydration tech",
       "summary": "汗をかく量を数値化する「汗スコア」測定技術が急速に普及しており、市場に多くの水分補給追跡デバイスが登場している一方で、こうした過剰な情報が本当に必要なのかという疑問が生じている。これらのウェアラブルやアプリは運動時の水分補給を最適化することを目的としているが、消費者や専門家の間では、これだけ詳細なデータが実際の健康管理にどこまで役立つのかについて議論が続いている。",
@@ -195,7 +195,7 @@
       "lang": "en"
     },
     {
-      "id": "90507775",
+      "id": "71864869",
       "category": "経済・ビジネス（世界）",
       "title": "Tesla crash that killed a woman under US federal investigation",
       "summary": "テスラの自動運転機能を使用中に車がテキサスの住宅に突入し、女性が死亡した事故が米国の連邦当局による調査の対象となっている。ドライバーは金曜日、自動運転技術を使用していたと述べており、この事故は自動運転システムの安全性について新たな懸念を生じさせている。テスラの自動運転機能に関わる事故は複数報告されており、今回の調査はその安全性と責任を明確にするための重要なステップとなる見込みだ。",
@@ -205,7 +205,7 @@
       "lang": "en"
     },
     {
-      "id": "80564977",
+      "id": "79699738",
       "category": "テクノロジー・AI",
       "title": "The running list: major tech layoffs in 2026 where employers cited AI",
       "summary": "2026年に人工知能を理由として発表された主要テック企業の大規模なリストラについて、時系列の逆順で記載されている。テック業界ではAI導入を背景に、複数の大企業がこれまでに著しい人員削減を実施しており、その動向を追跡するものである。",
@@ -215,7 +215,7 @@
       "lang": "en"
     },
     {
-      "id": "71160140",
+      "id": "96088487",
       "category": "テクノロジー・AI",
       "title": "OpenAI launches new initiative to help find and patch open source bugs",
       "summary": "OpenAIがAIを活用してオープンソースコミュニティの脆弱性発見と修正を支援する新しい取り組みを開始しました。この取り組みはAIの力を用いてオープンソースプロジェクトに潜む未発見のバグを特定し、セキュリティの向上を促進することを目的としています。OpenAIはこの initiative を通じてオープンソースコミュニティの自己防衛能力の強化に貢献する方針です。",
@@ -225,7 +225,7 @@
       "lang": "en"
     },
     {
-      "id": "83650750",
+      "id": "87922725",
       "category": "テクノロジー・AI",
       "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
       "summary": "Nvidiaは、新型データセンター設計のRubin世代が完全液冷システムにより電力使用量を大幅に削減し、ほぼすべての水使用量を排除したと主張している。データセンターの水とエネルギー消費に対する社会的反発が高まる中、同社はこの技術によってAIインフラストラクチャの環境負荷を軽減できると考えているが、AI関連の懸念事項の全てに対応するわけではない。",
@@ -235,7 +235,7 @@
       "lang": "en"
     },
     {
-      "id": "11317924",
+      "id": "54530008",
       "category": "テクノロジー・AI",
       "title": "Tesla pushes back on Autopilot narrative after fatal Texas crash",
       "summary": "テスラはテキサス州での致命的な衝突事故後、オートパイロット機能に関する報道に異議を唱えている。オートパイロットシステムが実際に作動していたのか、無効化されていたのか、または誤作動していたのかは、調査官が車両のデータログの分析を完了するまで明らかにならない見通しである。",
@@ -245,7 +245,7 @@
       "lang": "en"
     },
     {
-      "id": "73548267",
+      "id": "60540032",
       "category": "テクノロジー・AI",
       "title": "Shareholders sue Uber’s board over sexual assaults, other incidents",
       "summary": "ウーバーの取締役会は性的暴行を含む多くの事件に対する対応が不十分であるとして、デトロイト年金基金が主導する株主訴訟が提起されました。訴訟では、取締役会と経営陣がコンプライアンス体制を軽視してきた結果、数千件の訴訟が発生したと主張しています。ウーバーの法的リスク管理体制の問題が問われる事態となっています。",
@@ -255,7 +255,7 @@
       "lang": "en"
     },
     {
-      "id": "78431604",
+      "id": "12782575",
       "category": "テクノロジー・AI",
       "title": "The AI world is getting ‘loopy’",
       "summary": "AI分野で「ループ」と呼ばれる技術が注目を集めている。これは複数の自律型AI（エージェント）がバックグラウンドで継続的に、果てしなく動作することを可能にするもので、従来のエージェント型AIをさらに発展させた形態である。このアプローチにより、AI群は自動的かつ無制限に作業を実行し続けることができるようになる。",
@@ -265,7 +265,7 @@
       "lang": "en"
     },
     {
-      "id": "67906580",
+      "id": "14842879",
       "category": "テクノロジー・AI",
       "title": "Microsoft and Chevron plan one of the largest gas-powered data center projects in US",
       "summary": "マイクロソフトとシェブロンが米国最大級のガス火力データセンタープロジェクトを計画しており、マイクロソフトはシェブロンと20年間の電力購入契約を締結し、新しい天然ガス発電所からの数十年分のカーボン排出を固定化することになった。このプロジェクトはAI需要の急増に対応するためのエネルギー確保戦略だが、同時に長期的な炭素排出増加をもたらす契約となっている。",
@@ -275,7 +275,7 @@
       "lang": "en"
     },
     {
-      "id": "44743790",
+      "id": "55537318",
       "category": "テクノロジー・AI",
       "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
       "summary": "AI チップメーカーの Groq は6億5000万ドルの資金調達を確認し、Nvidia の200億ドル規模の買収的人材獲得取引の後、経営陣の人員補強を行った。Groq は資金調達後、ネオクラウド事業に注力し、新しい経営幹部を採用している。この動きは、Nvidia との関係構築後の同社の事業戦略転換を示唆している。",
@@ -285,7 +285,37 @@
       "lang": "en"
     },
     {
-      "id": "20454375",
+      "id": "19049088",
+      "category": "台湾・中台関係",
+      "title": "Taiwan begins 5-day military drill with tanks patrolling streets",
+      "summary": "台湾が中国からの潜在的な攻撃に対する戦闘態勢の強化を目的とした5日間の軍事演習を開始し、戦車が街中をパトロールしている。この演習は台湾の防衛能力を高め、有事に備えるための準備訓練として実施されている。",
+      "url": "https://abcnews.com/International/wireStory/taiwan-begins-5-day-military-drill-tanks-patrolling-134087603",
+      "source": "Abcnews.com",
+      "published_at": "2026-06-22T11:51:01+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "12600985",
+      "category": "台湾・中台関係",
+      "title": "Urbanisation, megaprojects and dispossession in Asia",
+      "summary": "アジアにおける都市化、メガプロジェクト、そして資産剥奪をめぐる学術的な批評書「アジアのメガプロジェクトの政治経済」が発表された。本書はシン・ヒュンバンとギム・ドンワンの編集により、アジア全域で支配的な都市開発モデルとなっているメガプロジェクトを批判的に検討し、学際的なアプローチから地域の実態を分析している。",
+      "url": "https://blogs.lse.ac.uk/lsereviewofbooks/2026/06/22/book-review-the-political-economy-of-megaprojects-in-asia-state-power-land-control-financial-flows-and-dispossession-hyun-bang-shin-dong-wan-gimm/",
+      "source": "Lse.ac.uk",
+      "published_at": "2026-06-22T11:22:34+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "53064040",
+      "category": "台湾・中台関係",
+      "title": "DFI Debuts at Automate 2026 with Industrial Edge AI Platforms for Physical AI Deployment",
+      "summary": "組み込みマザーボードと産業用コンピュータの大手メーカーであるDFIが、2026年6月にシカゴで開催されるAutomate 2026に初出展し、Intel技術を搭載した最新の産業用エッジAIプラットフォームを展示している。DFIは物理的なAIの展開に対応した耐久性のあるエッジシステムを提供することで、産業分野でのAI活用を推進している。",
+      "url": "https://www.prnewswire.com/news-releases/dfi-debuts-at-automate-2026-with-industrial-edge-ai-platforms-for-physical-ai-deployment-302805962.html",
+      "source": "PRNewswire",
+      "published_at": "2026-06-22T11:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "76772119",
       "category": "台湾・中台関係",
       "title": "Monday Miscellany, 6/22/23",
       "summary": "カナダが聖書をヘイトスピーチと見なす可能性があり、政府と企業から人間の役割を除外することで平和を実現しようとする動きが進んでいる。これは現代社会における宗教の自由と自動化の進展に関わる複雑な問題を浮き彫りにしている。",
@@ -295,7 +325,7 @@
       "lang": "en"
     },
     {
-      "id": "75312669",
+      "id": "21919207",
       "category": "台湾・中台関係",
       "title": "Micron earnings, PCE data, gas prices: What to watch this week",
       "summary": "マイクロン・テクノロジーの決算発表とPCE（個人消費支出）データが、今週の投資家にとって重要な注目点となります。これらの経済指標とメモリ半導体大手の業績は、市場全体のトレンドを左右する可能性があり、同時にガソリン価格の動向も経済状況を反映する指標として注視される予定です。",
@@ -305,7 +335,7 @@
       "lang": "en"
     },
     {
-      "id": "47615135",
+      "id": "12939609",
       "category": "台湾・中台関係",
       "title": "MediThinQ and Synovis Micro Companies Alliance, Inc. Announce Strategic Global Distribution Agreement",
       "summary": "MediThinQ（韓国の手術可視化技術企業）とSynovis Micro Companies Alliance, Inc.が戦略的グローバル流通契約を締結しました。この複数年の専売契約により、MediThinQの外科用可視化技術がSynovisのネットワークを通じてより広い市場へ展開されることになります。両社の提携は、革新的な医療技術のグローバル普及を加速させる戦略的協力です。",
@@ -315,7 +345,7 @@
       "lang": "en"
     },
     {
-      "id": "73024861",
+      "id": "74354820",
       "category": "台湾・中台関係",
       "title": "India, Taiwan ETFs see record outflows before Asia stock rebound",
       "summary": "インドと台湾を追跡するUS上場ETFは、通貨弱化、利回り上昇、エネルギー懸念の中で3月に過去最高の資金流出を経験したが、地政学的緊張の緩和への期待からアジア株式は急速に回復した。アナリストらは市場センチメントが依然として脆弱であると警告している。",
@@ -325,43 +355,13 @@
       "lang": "en"
     },
     {
-      "id": "27212093",
+      "id": "17345963",
       "category": "台湾・中台関係",
       "title": "Taiwan auto parts makers forecast 2H26 recovery as tariff and geopolitical risks ease",
       "summary": "台湾の自動車部品大手メーカーは、2026年下半期に関税と地政学的リスクの不確実性が緩和され、市場環境が改善すると予想していると株主総会で発表した。これらの企業は前年同期と比べて市場の見通しがより明確になったと報告しており、今後の事業環境の正常化に期待を示している。",
       "url": "https://www.digitimes.com/news/a20260622PD201/taiwan-recovery-2026-market-revenue.html",
       "source": "Digitimes",
       "published_at": "2026-06-22T06:35:50+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "30690695",
-      "category": "台湾・中台関係",
-      "title": "Full-service flights from Frankfurt & Munich to Taiwan from €536",
-      "summary": "フランクフルトとミュンヘンからの台湾便が片道536ユーロからの料金で利用可能です。エアチャイナのこのフライトディールを利用すれば、アジアで最も魅力的な目的地の一つである台北への往復旅行を手頃な価格で快適に楽しむことができます。",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-germany-to-taiwan-e536/",
-      "source": "Fly4free.com",
-      "published_at": "2026-06-22T06:19:18+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "38557533",
-      "category": "台湾・中台関係",
-      "title": "Translational Research Results of Sacituzumab Tirumotecan (sac-TMT) in Combination with Osimertinib as First-Line Treatment for EGFR-Mutant NSCLC Published in Cancer Cell",
-      "summary": "EGFR遺伝子変異を有する非小細胞肺がん患者を対象に、サシチューズマブ ティルモテカンとオシメルチニブの併用療法を第一選択治療として検討する臨床試験の結果が「Cancer Cell」に掲載され、EGFR阻害薬がDTP細胞におけるTROP2の発現を増加させることが判明し、これが両剤の併用治療の科学的根拠となることが示された。現在同社は第III相登録試験を進行中である。",
-      "url": "https://www.prnewswire.com/news-releases/translational-research-results-of-sacituzumab-tirumotecan-sac-tmt-in-combination-with-osimertinib-as-first-line-treatment-for-egfr-mutant-nsclc-published-in-cancer-cell-302806104.html",
-      "source": "PRNewswire",
-      "published_at": "2026-06-22T05:45:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "56501983",
-      "category": "台湾・中台関係",
-      "title": "China's import of custard apples is sparking fears in Taiwan",
-      "summary": "中国が行っているカスタードアップル（アテモヤ）の輸入拡大計画に対して、台湾は農家に警告を発しており、この果実をめぐって両国間の緊張が高まっている。台湾で栽培されているこのクリーミーな白い果肉を持つ心臓型の果実は、中国による輸入増加により台湾の農業に影響を及ぼす可能性があるため、当局は対抗措置を検討している。",
-      "url": "https://biztoc.com/x/ff0b7e4638f9690d",
-      "source": "Biztoc.com",
-      "published_at": "2026-06-22T05:05:42+00:00",
       "lang": "en"
     }
   ]
