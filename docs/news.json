@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T12:48:07.344500+00:00",
+  "updated_at": "2026-06-23T17:22:48.231720+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -45,7 +45,17 @@
   "digest": [],
   "news": [
     {
-      "id": "80112166",
+      "id": "19586760",
+      "category": "経済・ビジネス（日本）",
+      "title": "天皇皇后両陛下 ベルギーで歓迎式典に",
+      "summary": "天皇皇后両陛下がベルギーの首都ブリュッセルで国賓として歓迎式典に臨まれました。両陛下は現在ベルギーを公式訪問中です。",
+      "url": "http://www3.nhk.or.jp/news/html/20260623/k10015157381000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-23T14:13:03+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "50557539",
       "category": "経済・ビジネス（日本）",
       "title": "イスラエル軍 ガザ地区で支配拡大 避難を強いられる住民相次ぐ",
       "summary": "イスラエル軍がガザ地区で支配地域を拡大させており、市街地にも進出することで多くの住民が家を失っている状況が続いている。住民らは人道状況の悪化に対応するため、国際社会の積極的な関与を求めている。",
@@ -55,17 +65,7 @@
       "lang": "ja"
     },
     {
-      "id": "48198158",
-      "category": "経済・ビジネス（日本）",
-      "title": "天皇皇后両陛下 ベルギーで歓迎式典に",
-      "summary": "天皇皇后両陛下がベルギーの首都ブリュッセルで国賓として歓迎式典に臨まれました。両陛下は現在ベルギーを公式訪問中です。",
-      "url": "http://www3.nhk.or.jp/news/html/20260623/k10015157381000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-23T10:12:29+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "14132901",
+      "id": "39553510",
       "category": "経済・ビジネス（日本）",
       "title": "トランプ政権「イランがＩＡＥＡ査察に合意」イランは否定",
       "summary": "アメリカとイランの戦闘終結に向けた高官協議が行われ、ホルムズ海峡の安全な航行確保に向けた連絡体制構築で合意しました。アメリカはイランのIAEA査察官受け入れ合意を主張して制裁の一部緩和を発表しましたが、イラン側は明確に確認していないため、実務レベルでの協議の展開が今後の焦点となります。",
@@ -75,7 +75,7 @@
       "lang": "ja"
     },
     {
-      "id": "25306116",
+      "id": "75135077",
       "category": "経済・ビジネス（日本）",
       "title": "詐欺深刻化で警察庁がカンボジア当局と現地協議 連携強化へ",
       "summary": "警察庁の幹部がカンボジアを訪問し、カンボジア国家警察と協議を行い、東南アジアで増加している詐欺拠点の摘発や日本人が関わる事件への対応に向けて連携強化することで合意した。",
@@ -85,7 +85,7 @@
       "lang": "ja"
     },
     {
-      "id": "74948809",
+      "id": "49945663",
       "category": "経済・ビジネス（日本）",
       "title": "赤澤経産相がIAEA事務局長と会談 “積極的な情報発信を”",
       "summary": "赤澤経済産業大臣がIAEA事務局長と会談し、福島第一原子力発電所の処理水放出などについて、国際機関からの積極的な情報発信を要請しました。",
@@ -95,7 +95,7 @@
       "lang": "ja"
     },
     {
-      "id": "63150399",
+      "id": "50491288",
       "category": "経済・ビジネス（日本）",
       "title": "ラオス 警察当局 日本人9人を拘束と発表 特殊詐欺に関与か",
       "summary": "ラオスの警察当局が特殊詐欺に関わった疑いで、日本人男女9人を拘束したと発表しました。",
@@ -105,7 +105,7 @@
       "lang": "ja"
     },
     {
-      "id": "37940042",
+      "id": "38418746",
       "category": "経済・ビジネス（日本）",
       "title": "北朝鮮 キム総書記 “日本は戦争国家へ変貌しつつある”と主張",
       "summary": "北朝鮮の金正恩総書記は朝鮮労働党の会議で演説し、日本が戦争国家へ変貌しつつあると主張した。金総書記は巡洋艦の建造推進や海軍基地の建設などを例に挙げて、日本の軍事化を非難している。",
@@ -115,7 +115,7 @@
       "lang": "ja"
     },
     {
-      "id": "59191324",
+      "id": "26608518",
       "category": "経済・ビジネス（日本）",
       "title": "【随時更新】ロシア ウクライナに軍事侵攻（6月23日の動き）",
       "summary": "ロシアによるウクライナへの軍事侵攻が継続しており、ウクライナ全土でロシア軍とウクライナ軍の戦闘が展開している。多くの市民が国外への避難を余儀なくされており、戦闘状況と関係各国の外交動向について6月23日の最新情報を随時更新している。",
@@ -125,17 +125,27 @@
       "lang": "ja"
     },
     {
-      "id": "52032474",
+      "id": "22983609",
       "category": "経済・ビジネス（世界）",
-      "title": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
-      "summary": "イランの外務省は、スイスでの会談後、核査察に関して「新たな約束を行わなかった」と述べた。米国のヴァンス氏がIAEA査察官の復帰招待を発表した直後のこの発言により、核査察問題をめぐるイランと国際社会の立場の相違が明らかになった。イランは核査察の拡大に慎重な姿勢を続けており、今後の交渉の難しさが予想される。",
-      "url": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
+      "title": "Millions in UK could claim share of £3bn after Apple case given green light",
+      "summary": "英国でAppleの反競争的慣行に関する訴訟が承認され、数百万人の消費者が30億ポンド相当の損害賠償請求に参加できる可能性が生じた。Appleは自社の慣行が反競争的ではなく、多くの顧客が第三者の代替サービスを利用していると主張して異議を唱えている。この判決により、英国の消費者がAppleの市場支配的地位による不当な行為で被った損害について補償を受ける道が開かれた。",
+      "url": "https://www.bbc.co.uk/news/articles/c932d1r0p96o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published_at": "2026-06-23T12:14:58+00:00",
+      "published_at": "2026-06-23T15:01:40+00:00",
       "lang": "en"
     },
     {
-      "id": "56692916",
+      "id": "16918060",
+      "category": "経済・ビジネス（世界）",
+      "title": "Stop pretending EU's new border system is working, says airports chief",
+      "summary": "欧州の空港業界団体の責任者は、新しい欧州国境管理システム（EES）への懸念が彼を悩ませており、夏場に空港がどのように対応できるのか分からないと述べている。同氏はEESが正常に機能しているというふりをやめるべきだと主張しており、入国手続きの遅延と混雑が増加する可能性が懸念されている。このシステムの準備不足と実装上の課題が、欧州の主要空港での運営に深刻な影響を与える可能性があるという。",
+      "url": "https://www.bbc.co.uk/news/articles/cn4rlzrdj14o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-06-23T13:39:36+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "69513863",
       "category": "経済・ビジネス（世界）",
       "title": "Who could be the UK's next chancellor?",
       "summary": "イギリスの首相辞任に伴い、次期財務大臣（チャンセラー）を選出するための競争がスタートした。この重要なポストを目指す複数の有力候補者たちが、イギリスの財政を担当する権限を求めて動き始めている。次期財務大臣は、インフレーション対策や経済成長戦略など、重大な経済課題への対応が急務となる。",
@@ -145,7 +155,7 @@
       "lang": "en"
     },
     {
-      "id": "62873320",
+      "id": "70188176",
       "category": "経済・ビジネス（世界）",
       "title": "Tech giant Oracle cuts 21,000 jobs as it embraces AI",
       "summary": "オラクルが2万1000人の従業員削減を発表し、人工知能の推進に経営資源をシフトさせている。この削減はテック企業全体がAI開発に数千億ドルを投じる中での広がるトレンドの一部であり、業界全体で経営効率化とAI関連事業への投資優先の動きが加速している。",
@@ -155,7 +165,7 @@
       "lang": "en"
     },
     {
-      "id": "26347287",
+      "id": "71920280",
       "category": "経済・ビジネス（世界）",
       "title": "Can you keep your kids off school or refuse to work during a heatwave?",
       "summary": "気温が今後数日間で大幅に上昇する中、親は子どもを学校に行かせないことや、仕事を休むことができるかについて、法的権利が定められている。英国では極端な気象条件下での労働者の権利と親の選択肢に関する具体的なガイドラインが存在し、熱波時の対応について法的保護が用意されている。",
@@ -165,7 +175,7 @@
       "lang": "en"
     },
     {
-      "id": "66802743",
+      "id": "67886433",
       "category": "経済・ビジネス（世界）",
       "title": "Ticket reseller StubHub UK customers to get refunds over illegal hidden fees",
       "summary": "ストリーミング・チケット再販業者StubHubの英国顧客約5万人は、違法な隠れ手数料に対する払い戻しを受け取ることになった。英国競争・市場庁（CMA）はStubHubに対し、顧客への返金と罰金支払いを命じた。チケット購入時に消費者に十分に開示されていなかった追加費用が問題となっていた。",
@@ -175,17 +185,7 @@
       "lang": "en"
     },
     {
-      "id": "35049182",
-      "category": "経済・ビジネス（世界）",
-      "title": "Millions in UK could claim share of £3bn after Apple case given green light",
-      "summary": "英国でAppleの反競争的慣行に関する訴訟が承認され、数百万人の消費者が30億ポンド相当の損害賠償請求に参加できる可能性が生じた。Appleは自社の慣行が反競争的ではなく、多くの顧客が第三者の代替サービスを利用していると主張して異議を唱えている。この判決により、英国の消費者がAppleの市場支配的地位による不当な行為で被った損害について補償を受ける道が開かれた。",
-      "url": "https://www.bbc.co.uk/news/articles/c932d1r0p96o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-06-22T23:02:33+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "27310819",
+      "id": "62139625",
       "category": "経済・ビジネス（世界）",
       "title": "Do you know your 'sweat score'? The rise of hydration tech",
       "summary": "汗をかく量を数値化する「汗スコア」測定技術が急速に普及しており、市場に多くの水分補給追跡デバイスが登場している一方で、こうした過剰な情報が本当に必要なのかという疑問が生じている。これらのウェアラブルやアプリは運動時の水分補給を最適化することを目的としているが、消費者や専門家の間では、これだけ詳細なデータが実際の健康管理にどこまで役立つのかについて議論が続いている。",
@@ -195,7 +195,7 @@
       "lang": "en"
     },
     {
-      "id": "71864869",
+      "id": "62520298",
       "category": "経済・ビジネス（世界）",
       "title": "Tesla crash that killed a woman under US federal investigation",
       "summary": "テスラの自動運転機能を使用中に車がテキサスの住宅に突入し、女性が死亡した事故が米国の連邦当局による調査の対象となっている。ドライバーは金曜日、自動運転技術を使用していたと述べており、この事故は自動運転システムの安全性について新たな懸念を生じさせている。テスラの自動運転機能に関わる事故は複数報告されており、今回の調査はその安全性と責任を明確にするための重要なステップとなる見込みだ。",
@@ -205,163 +205,163 @@
       "lang": "en"
     },
     {
-      "id": "79699738",
+      "id": "54376096",
       "category": "テクノロジー・AI",
-      "title": "The running list: major tech layoffs in 2026 where employers cited AI",
-      "summary": "2026年に人工知能を理由として発表された主要テック企業の大規模なリストラについて、時系列の逆順で記載されている。テック業界ではAI導入を背景に、複数の大企業がこれまでに著しい人員削減を実施しており、その動向を追跡するものである。",
-      "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+      "summary": "Anthropicが新たに提供するClaude TagはSlackに常時稼働するAIチームメイトをもたらし、生産性向上だけでなく、企業の組織文脈や機関知識、エンタープライズワークフローを取得する戦略的な狙いがある。このサービスを通じてAnthropicはSlack内でのユーザーの行動パターンや企業データを段階的に学習し、より深い顧客ロックインを目指している。",
+      "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
       "source": "TechCrunch",
-      "published_at": "2026-06-23T01:27:55+00:00",
+      "published_at": "2026-06-23T17:00:00+00:00",
       "lang": "en"
     },
     {
-      "id": "96088487",
+      "id": "71423057",
       "category": "テクノロジー・AI",
-      "title": "OpenAI launches new initiative to help find and patch open source bugs",
-      "summary": "OpenAIがAIを活用してオープンソースコミュニティの脆弱性発見と修正を支援する新しい取り組みを開始しました。この取り組みはAIの力を用いてオープンソースプロジェクトに潜む未発見のバグを特定し、セキュリティの向上を促進することを目的としています。OpenAIはこの initiative を通じてオープンソースコミュニティの自己防衛能力の強化に貢献する方針です。",
-      "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+      "title": "Password manager maker LastPass says hackers stole customer support case data during Klue breach",
+      "summary": "パスワード管理会社LastPassは、Klueというサービスのセキュリティ侵害により、顧客サポートケースのデータがハッカーに盗まれたと発表しました。これは最近のパスワード管理技術パートナーのセキュリティ侵害に続く、LastPass顧客に影響を与える2番目のデータ流出事件です。",
+      "url": "https://techcrunch.com/2026/06/23/password-manager-maker-lastpass-says-hackers-stole-customer-support-case-data-during-klue-breach/",
       "source": "TechCrunch",
-      "published_at": "2026-06-23T00:11:31+00:00",
+      "published_at": "2026-06-23T15:12:37+00:00",
       "lang": "en"
     },
     {
-      "id": "87922725",
+      "id": "12915383",
       "category": "テクノロジー・AI",
-      "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
-      "summary": "Nvidiaは、新型データセンター設計のRubin世代が完全液冷システムにより電力使用量を大幅に削減し、ほぼすべての水使用量を排除したと主張している。データセンターの水とエネルギー消費に対する社会的反発が高まる中、同社はこの技術によってAIインフラストラクチャの環境負荷を軽減できると考えているが、AI関連の懸念事項の全てに対応するわけではない。",
-      "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+      "title": "HaloBraid raises $7M from Seven Seven Six to end the six-hour hair salon appointment",
+      "summary": "HaloBraidは髪編み込みプロセスを高速化するための初のデバイスの開発に成功し、Seven Seven Sixから700万ドルの資金調達を行いました。このデバイスは専門のスタイリストのための編み込みアシスタントとして機能し、今年後半のローンチが予定されており、従来は6時間かかっていたサロンでの施術時間の短縮を目指しています。",
+      "url": "https://techcrunch.com/2026/06/23/halobraid-raises-7m-from-seven-seven-six-to-end-the-six-hour-hair-salon-appointment/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-23T15:09:38+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "24613469",
+      "category": "テクノロジー・AI",
+      "title": "The Fitbit Air takes a smarter approach to the AI health dumpster fire",
+      "summary": "Googleの新型Fitbit Airに搭載されたヘルスコーチAIは、ユーザーの睡眠不足や心拍変動の低下、高温多湿環境での長時間滞在など、複数の健康指標を分析して総合的な体調評価を提供している。従来のAIヘルスツールが断片的な警告を出すのに対し、このアプローチは複雑な健康データを意味のある形で統合し、より実用的なインサイトを与えることを目指している。Fitbit AirはウェアラブルテクノロジーとヘルスケアAIの過度な商業化に陥りやすい現状に対し、より慎重で有用な方向性を示そうとしている。",
+      "url": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach",
       "source": "AI | The Verge",
-      "published_at": "2026-06-22T23:24:32+00:00",
+      "published_at": "2026-06-23T15:00:00+00:00",
       "lang": "en"
     },
     {
-      "id": "54530008",
+      "id": "45354476",
       "category": "テクノロジー・AI",
-      "title": "Tesla pushes back on Autopilot narrative after fatal Texas crash",
-      "summary": "テスラはテキサス州での致命的な衝突事故後、オートパイロット機能に関する報道に異議を唱えている。オートパイロットシステムが実際に作動していたのか、無効化されていたのか、または誤作動していたのかは、調査官が車両のデータログの分析を完了するまで明らかにならない見通しである。",
-      "url": "https://techcrunch.com/2026/06/22/tesla-pushes-back-on-autopilot-narrative-after-fatal-texas-crash/",
+      "title": "Meta debuts new, cheaper smart glasses under its own brand",
+      "summary": "メタ社が独自ブランドの新しく低価格なスマートグラスを発表しました。本日から複数の国で利用可能となり、様々な色とレンズの組み合わせから選択できます。",
+      "url": "https://techcrunch.com/2026/06/23/meta-debuts-new-cheaper-smart-glasses-under-its-own-brand/",
       "source": "TechCrunch",
-      "published_at": "2026-06-22T22:59:57+00:00",
+      "published_at": "2026-06-23T14:11:23+00:00",
       "lang": "en"
     },
     {
-      "id": "60540032",
+      "id": "13479664",
       "category": "テクノロジー・AI",
-      "title": "Shareholders sue Uber’s board over sexual assaults, other incidents",
-      "summary": "ウーバーの取締役会は性的暴行を含む多くの事件に対する対応が不十分であるとして、デトロイト年金基金が主導する株主訴訟が提起されました。訴訟では、取締役会と経営陣がコンプライアンス体制を軽視してきた結果、数千件の訴訟が発生したと主張しています。ウーバーの法的リスク管理体制の問題が問われる事態となっています。",
-      "url": "https://techcrunch.com/2026/06/22/shareholders-sue-ubers-board-over-sexual-assaults-other-incidents/",
+      "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
+      "summary": "TechCrunch Founder Summit 2026のチケットが6月26日午後11時59分（太平洋時間）のアーリーバード割引終了まであと4日間、最大190ドルの割引を受けることができます。この起業家向けブートキャンプへの登録は本日中に行うことが推奨されています。",
+      "url": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
       "source": "TechCrunch",
-      "published_at": "2026-06-22T22:43:12+00:00",
+      "published_at": "2026-06-23T14:00:00+00:00",
       "lang": "en"
     },
     {
-      "id": "12782575",
+      "id": "55616611",
       "category": "テクノロジー・AI",
-      "title": "The AI world is getting ‘loopy’",
-      "summary": "AI分野で「ループ」と呼ばれる技術が注目を集めている。これは複数の自律型AI（エージェント）がバックグラウンドで継続的に、果てしなく動作することを可能にするもので、従来のエージェント型AIをさらに発展させた形態である。このアプローチにより、AI群は自動的かつ無制限に作業を実行し続けることができるようになる。",
-      "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+      "title": "Ribbie turns real-time baseball stats into arcade-like, pixel-art broadcasts",
+      "summary": "Ribbie（リビー）は、MLBの試合をリアルタイムで追跡できるアーケードゲーム風のピクセルアート仕様のインターフェースです。ユーザーはこのユニークなプラットフォームを通じて、野球の試合統計を楽しみながら視聴でき、懐かしいレトロゲームの雰囲気を味わいながら現代的な野球放送を楽しむことができます。",
+      "url": "https://techcrunch.com/2026/06/23/ribbie-turns-real-time-baseball-stats-into-arcade-like-pixel-art-broadcasts/",
       "source": "TechCrunch",
-      "published_at": "2026-06-22T20:53:11+00:00",
+      "published_at": "2026-06-23T13:58:30+00:00",
       "lang": "en"
     },
     {
-      "id": "14842879",
+      "id": "62376818",
       "category": "テクノロジー・AI",
-      "title": "Microsoft and Chevron plan one of the largest gas-powered data center projects in US",
-      "summary": "マイクロソフトとシェブロンが米国最大級のガス火力データセンタープロジェクトを計画しており、マイクロソフトはシェブロンと20年間の電力購入契約を締結し、新しい天然ガス発電所からの数十年分のカーボン排出を固定化することになった。このプロジェクトはAI需要の急増に対応するためのエネルギー確保戦略だが、同時に長期的な炭素排出増加をもたらす契約となっている。",
-      "url": "https://techcrunch.com/2026/06/22/microsoft-and-chevron-plan-one-of-the-largest-gas-powered-data-center-projects-in-us/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-22T20:37:19+00:00",
+      "title": "Sony’s AI Camera Assistant is exactly as bad as it looks",
+      "summary": "ソニーが先月発表したスマートフォン「Xperia 1 VIII」では、新機能のAIカメラアシスタントで撮影した写真を宣伝材料として公開しましたが、それらはソニーカメラ製品としては数年来最悪の品質の写真でした。Xperia 1 VIIIを使用して1週間のテスト後、このAIカメラアシスタントは見た目どおり実際に非常に悪い性能であることが明らかになりました。",
+      "url": "https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant",
+      "source": "AI | The Verge",
+      "published_at": "2026-06-23T13:25:42+00:00",
       "lang": "en"
     },
     {
-      "id": "55537318",
-      "category": "テクノロジー・AI",
-      "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
-      "summary": "AI チップメーカーの Groq は6億5000万ドルの資金調達を確認し、Nvidia の200億ドル規模の買収的人材獲得取引の後、経営陣の人員補強を行った。Groq は資金調達後、ネオクラウド事業に注力し、新しい経営幹部を採用している。この動きは、Nvidia との関係構築後の同社の事業戦略転換を示唆している。",
-      "url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-22T20:13:58+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "19049088",
+      "id": "23770718",
       "category": "台湾・中台関係",
-      "title": "Taiwan begins 5-day military drill with tanks patrolling streets",
-      "summary": "台湾が中国からの潜在的な攻撃に対する戦闘態勢の強化を目的とした5日間の軍事演習を開始し、戦車が街中をパトロールしている。この演習は台湾の防衛能力を高め、有事に備えるための準備訓練として実施されている。",
-      "url": "https://abcnews.com/International/wireStory/taiwan-begins-5-day-military-drill-tanks-patrolling-134087603",
-      "source": "Abcnews.com",
-      "published_at": "2026-06-22T11:51:01+00:00",
+      "title": "HP OmniBook Ultra Review: Perfect, if Not for the Little Things",
+      "summary": "HPの新型ラップトップ「OmniBook Ultra」はIntel Core Ultra X9チップを搭載し、プレミアムな質感で高く評価される一方、トラックパッドとキーボードにいくつかの課題がある。細部の問題はあるものの、全体的な品質と性能の高さにより、これらの欠点を許容できるレベルに達している。",
+      "url": "https://gizmodo.com/hp-omnibook-ultra-review-perfect-if-not-for-the-little-things-2000775327",
+      "source": "Gizmodo.com",
+      "published_at": "2026-06-22T17:17:39+00:00",
       "lang": "en"
     },
     {
-      "id": "12600985",
+      "id": "11049439",
       "category": "台湾・中台関係",
-      "title": "Urbanisation, megaprojects and dispossession in Asia",
-      "summary": "アジアにおける都市化、メガプロジェクト、そして資産剥奪をめぐる学術的な批評書「アジアのメガプロジェクトの政治経済」が発表された。本書はシン・ヒュンバンとギム・ドンワンの編集により、アジア全域で支配的な都市開発モデルとなっているメガプロジェクトを批判的に検討し、学際的なアプローチから地域の実態を分析している。",
-      "url": "https://blogs.lse.ac.uk/lsereviewofbooks/2026/06/22/book-review-the-political-economy-of-megaprojects-in-asia-state-power-land-control-financial-flows-and-dispossession-hyun-bang-shin-dong-wan-gimm/",
-      "source": "Lse.ac.uk",
-      "published_at": "2026-06-22T11:22:34+00:00",
+      "title": "China Report - July 2026",
+      "summary": "中国報告書7月号は、世界有数の新興大国である中国に関する、バランスの取れたニュースと分析を提供する独自の情報源です。主流メディアの中国報道における空白を埋めることを目的としており、毎月の雑誌で中国の動向を追跡しています。",
+      "url": "https://post.rlsbb.to/china-report-july-2026/",
+      "source": "Rlsbb.to",
+      "published_at": "2026-06-22T15:36:16+00:00",
       "lang": "en"
     },
     {
-      "id": "53064040",
+      "id": "13888776",
       "category": "台湾・中台関係",
-      "title": "DFI Debuts at Automate 2026 with Industrial Edge AI Platforms for Physical AI Deployment",
-      "summary": "組み込みマザーボードと産業用コンピュータの大手メーカーであるDFIが、2026年6月にシカゴで開催されるAutomate 2026に初出展し、Intel技術を搭載した最新の産業用エッジAIプラットフォームを展示している。DFIは物理的なAIの展開に対応した耐久性のあるエッジシステムを提供することで、産業分野でのAI活用を推進している。",
-      "url": "https://www.prnewswire.com/news-releases/dfi-debuts-at-automate-2026-with-industrial-edge-ai-platforms-for-physical-ai-deployment-302805962.html",
+      "title": "Nvidia Stock Steady Near $210 as Robotics, Supercomputer Announcements Roll Out",
+      "summary": "エヌビディアの株価は210ドル付近で安定を保っており、ロボティクスとスーパーコンピューター関連の新たなアナウンスメントが相次いでいます。同社は最近のボラティリティと顧客による独自AI チップ開発との競争にもかかわらず、新しいAIパートナーシップと製品発表により株価を維持しています。",
+      "url": "https://www.ibtimes.com.au/nvidia-stock-steady-ai-partnerships-products-1871114",
+      "source": "Ibtimes.com.au",
+      "published_at": "2026-06-22T15:28:36+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "68993495",
+      "category": "台湾・中台関係",
+      "title": "U.S. to permit Iranian oil sales, easing decades-old sanctions, as peace talks continue",
+      "summary": "米国はイランとの最終的な平和協議を進める中で、核査察と ホルムズ海峡の自由通航に関するイランの約束と引き換えに、数十年続いてきた制裁を緩和し、イランの石油販売を認可した。この措置は両国間の緊張緩和に向けた重要な一歩となっている。",
+      "url": "https://www.cbc.ca/news/world/united-states-iran-oil-sales-peace-deal-9.7244322",
+      "source": "CBC News",
+      "published_at": "2026-06-22T15:23:41+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "81850885",
+      "category": "台湾・中台関係",
+      "title": "Semiconductor Intellectual Property (IP) Market worth $18.64 billion by 2032 - Exclusive Report by MarketsandMarkets™",
+      "summary": "半導体知的財産（IP）市場は2025年の93億ドルから2032年には186億4000万ドルに達すると予測されており、年平均成長率は10.2％となる見通しです。この成長は、AI、IoT、自動運転などの先端技術の需要増加とチップ設計の複雑化に伴う知的財産の重要性の高まりによって推進されています。",
+      "url": "https://www.prnewswire.com/news-releases/semiconductor-intellectual-property-ip-market-worth-18-64-billion-by-2032---exclusive-report-by-marketsandmarkets-302806124.html",
       "source": "PRNewswire",
-      "published_at": "2026-06-22T11:00:00+00:00",
+      "published_at": "2026-06-22T14:15:00+00:00",
       "lang": "en"
     },
     {
-      "id": "76772119",
+      "id": "57616239",
       "category": "台湾・中台関係",
-      "title": "Monday Miscellany, 6/22/23",
-      "summary": "カナダが聖書をヘイトスピーチと見なす可能性があり、政府と企業から人間の役割を除外することで平和を実現しようとする動きが進んでいる。これは現代社会における宗教の自由と自動化の進展に関わる複雑な問題を浮き彫りにしている。",
-      "url": "https://www.patheos.com/blogs/geneveith/2026/06/monday-miscellany-6-22-23/",
-      "source": "Patheos",
-      "published_at": "2026-06-22T10:00:53+00:00",
+      "title": "Survey on the current status of rabies post-exposure prophylaxis clinics construction and the surveillance of rabies-exposed individuals in China, 2022",
+      "summary": "2022年の中国における狂犬病曝露後予防接種クリニックの構築状況と狂犬病曝露者の監視に関する全国調査によると、中国では人間の狂犬病患者数の削減に相当な進展があったにもかかわらず、狂犬病は依然として重大な公衆衛生上の問題であり、本調査は狂犬病曝露後予防接種クリニックの構築状況と狂犬病曝露者の監視体制を評価したものである。",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014011",
+      "source": "Plos.org",
+      "published_at": "2026-06-22T14:00:00+00:00",
       "lang": "en"
     },
     {
-      "id": "21919207",
+      "id": "67039998",
       "category": "台湾・中台関係",
-      "title": "Micron earnings, PCE data, gas prices: What to watch this week",
-      "summary": "マイクロン・テクノロジーの決算発表とPCE（個人消費支出）データが、今週の投資家にとって重要な注目点となります。これらの経済指標とメモリ半導体大手の業績は、市場全体のトレンドを左右する可能性があり、同時にガソリン価格の動向も経済状況を反映する指標として注視される予定です。",
-      "url": "https://finance.yahoo.com/markets/article/micron-earnings-pce-data-gas-prices-what-to-watch-this-week-100000040.html",
-      "source": "Yahoo Entertainment",
-      "published_at": "2026-06-22T10:00:00+00:00",
+      "title": "Windstar Opens Asia 2028/2029 Season as Demand Surges, Bringing Small-Ship Access to the Heart of Bangkok and Ho Chi Minh City",
+      "summary": "ウィンドスター・クルーズが2028/2029年のアジア季節営業をオープンし、前年比でほぼ2倍に増加した2027年のアジア航海予約需要に応えている。バンコクとホーチミンシティの中心部へのアクセス、オーバーナイト滞在、文化体験プログラムを提供するスター・シーカーで、小型船によるアジア旅行の新たな選択肢を展開している。アジア航海への強い需要に押され、ウィンドスター・クルーズは顧客に対してより深い目的地体験を提供することを目指している。",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/windstar-opens-asia-2028-2029-season-as-demand-surges-bringing-small-ship-access-to-the-heart-of-bangkok-and-ho-chi-minh-city",
+      "source": "Financial Post",
+      "published_at": "2026-06-22T13:21:21+00:00",
       "lang": "en"
     },
     {
-      "id": "12939609",
+      "id": "50237256",
       "category": "台湾・中台関係",
-      "title": "MediThinQ and Synovis Micro Companies Alliance, Inc. Announce Strategic Global Distribution Agreement",
-      "summary": "MediThinQ（韓国の手術可視化技術企業）とSynovis Micro Companies Alliance, Inc.が戦略的グローバル流通契約を締結しました。この複数年の専売契約により、MediThinQの外科用可視化技術がSynovisのネットワークを通じてより広い市場へ展開されることになります。両社の提携は、革新的な医療技術のグローバル普及を加速させる戦略的協力です。",
-      "url": "https://en.antaranews.com/news/419971/medithinq-and-synovis-micro-companies-alliance-inc-announce-strategic-global-distribution-agreement",
-      "source": "Antaranews.com",
-      "published_at": "2026-06-22T07:54:34+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "74354820",
-      "category": "台湾・中台関係",
-      "title": "India, Taiwan ETFs see record outflows before Asia stock rebound",
-      "summary": "インドと台湾を追跡するUS上場ETFは、通貨弱化、利回り上昇、エネルギー懸念の中で3月に過去最高の資金流出を経験したが、地政学的緊張の緩和への期待からアジア株式は急速に回復した。アナリストらは市場センチメントが依然として脆弱であると警告している。",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/india-taiwan-etfs-see-record-outflows-before-asia-stock-rebound/articleshow/131903910.cms",
-      "source": "The Times of India",
-      "published_at": "2026-06-22T07:46:39+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "17345963",
-      "category": "台湾・中台関係",
-      "title": "Taiwan auto parts makers forecast 2H26 recovery as tariff and geopolitical risks ease",
-      "summary": "台湾の自動車部品大手メーカーは、2026年下半期に関税と地政学的リスクの不確実性が緩和され、市場環境が改善すると予想していると株主総会で発表した。これらの企業は前年同期と比べて市場の見通しがより明確になったと報告しており、今後の事業環境の正常化に期待を示している。",
-      "url": "https://www.digitimes.com/news/a20260622PD201/taiwan-recovery-2026-market-revenue.html",
-      "source": "Digitimes",
-      "published_at": "2026-06-22T06:35:50+00:00",
+      "title": "PRICE DROP  Full-service flights from Barcelona to Taiwan for €457",
+      "summary": "深圳航空がバルセロナからタイペイへの往復フライトチケットを457ユーロから販売しており、荷物預けも含まれている。このオファーは手荷物を含む充実したサービスを提供する格安運賃となっている。スペインからアジアへの旅行を検討している利用者にとって、費用対効果の高い選択肢となっている。",
+      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-barcelona-to-taiwan-e457/",
+      "source": "Fly4free.com",
+      "published_at": "2026-06-22T13:14:15+00:00",
       "lang": "en"
     }
   ]
