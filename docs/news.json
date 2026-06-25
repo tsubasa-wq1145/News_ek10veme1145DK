@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T17:02:02.344915+00:00",
+  "updated_at": "2026-06-25T19:32:11.122996+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -45,7 +45,7 @@
   "digest": [],
   "news": [
     {
-      "id": "14988761",
+      "id": "29705955",
       "category": "経済・ビジネス（日本）",
       "title": "NYダウ 一時800ドル超上昇 取引時間中の最高値更新 AI期待で",
       "summary": "ニューヨーク株式市場でダウ平均株価が25日に取引開始直後から買い注文が広がり、一時800ドル超上昇して取引時間中の最高値を更新した。AI期待により市場が好調な動きを見せている。",
@@ -55,7 +55,7 @@
       "lang": "ja"
     },
     {
-      "id": "67088963",
+      "id": "37083817",
       "category": "経済・ビジネス（日本）",
       "title": "ウクライナ復興会議開幕 各国や企業の支援が焦点",
       "summary": "ロシアの軍事侵攻が続くウクライナの復興について話し合う国際会議がポーランドで開幕し、官民レベルでの支援について協議されている。復興に必要な資金は今後10年間でおよそ94兆円と推計されており、各国や企業からの支援規模が重要な焦点となっている。",
@@ -65,7 +65,7 @@
       "lang": "ja"
     },
     {
-      "id": "93529275",
+      "id": "89227378",
       "category": "経済・ビジネス（日本）",
       "title": "米 イラン ホルムズ海峡での料金徴収 海上回廊めぐり駆け引き",
       "summary": "トランプ米大統領はイランがホルムズ海峡での料金徴収を示唆していることに対し、いかなる料金の徴収も容認できないという立場を示しました。一方、イランの革命防衛隊はオマーンが提供する海上回廊も容認しないと警告するなど、ホルムズ海峡の管理をめぐり米イラン間で緊張が高まっています。",
@@ -75,7 +75,7 @@
       "lang": "ja"
     },
     {
-      "id": "60694914",
+      "id": "27025317",
       "category": "経済・ビジネス（日本）",
       "title": "カナダ国防相 “多角化で日本との連携強化を”",
       "summary": "カナダのマクギンティ国防相はNHKのインタビューで、米国との協力を維持しながらも外交関係を多角化し、日本との防衛連携を強化する方針を述べました。",
@@ -85,7 +85,7 @@
       "lang": "ja"
     },
     {
-      "id": "89282074",
+      "id": "62817994",
       "category": "経済・ビジネス（日本）",
       "title": "“ルフィグループ”幹部か フィリピンで日本人容疑者拘束",
       "summary": "特殊詐欺グループ「ルフィグループ」の幹部とみられる56歳の日本人容疑者がフィリピン当局に拘束されました。このグループは「ルフィ」などと名乗る指示役による広域強盗事件を引き起こしていました。",
@@ -95,7 +95,7 @@
       "lang": "ja"
     },
     {
-      "id": "51826039",
+      "id": "11762870",
       "category": "経済・ビジネス（日本）",
       "title": "イラン周辺7か国の「渡航中止勧告」を解除 外務省",
       "summary": "外務省は、米国とイランが戦闘終結に向けた覚書に署名したことを受けて、UAE、カタールなどイラン周辺7か国への「渡航中止勧告」を解除しました。ただし、不要不急の渡航は引き続き控えるよう呼びかけています。",
@@ -105,7 +105,7 @@
       "lang": "ja"
     },
     {
-      "id": "63809863",
+      "id": "40997612",
       "category": "経済・ビジネス（日本）",
       "title": "ベネズエラでM7超の地震2回 164人が死亡 暫定大統領が発表",
       "summary": "ベネズエラで日本時間25日午前、マグニチュード7を超える地震が相次いで発生し、少なくとも32人が死亡、700人がけがをしました。首都カラカスなど複数の州で建物が倒壊するなどの被害が出たため、暫定大統領が非常事態宣言を発令し、救助活動が進められています。",
@@ -115,7 +115,7 @@
       "lang": "ja"
     },
     {
-      "id": "39807382",
+      "id": "61818430",
       "category": "経済・ビジネス（日本）",
       "title": "天皇皇后両陛下 ベルギー国王夫妻とお別れのあいさつ",
       "summary": "天皇皇后両陛下はベルギーの公式訪問を終え、ベルギー国王夫妻と庭園を散策した後、お別れのあいさつを交わされた。この訪問を通じて両国の友好関係を深めることができた。",
@@ -125,7 +125,7 @@
       "lang": "ja"
     },
     {
-      "id": "39348765",
+      "id": "27044151",
       "category": "経済・ビジネス（世界）",
       "title": "Apple hikes prices on some products by nearly 20%",
       "summary": "Appleが一部製品の価格を最大20%引き上げました。同社は「これほど大きく、これほど急速なコンポーネント価格の上昇は経験したことがない」とコメントしており、サプライチェーンの混乱と部品コスト上昇が価格引き上げの主な理由となっています。",
@@ -135,7 +135,7 @@
       "lang": "en"
     },
     {
-      "id": "78456289",
+      "id": "72493467",
       "category": "経済・ビジネス（世界）",
       "title": "Reeves urges Burnham to 'stick to what I'm doing' on economy",
       "summary": "チャンスラー（財務大臣）が、彼女が首相になった場合に自分を左遷する可能性があるという報道にもかかわらず、メイカーフィールド選出議員の支持を表明した。リーブス財務大臣はバーナム議員の首相就任を支持すると表明しており、潜在的な人事上のリスクがあっても彼への支持を貫く姿勢を示している。",
@@ -145,7 +145,7 @@
       "lang": "en"
     },
     {
-      "id": "13292934",
+      "id": "89023226",
       "category": "経済・ビジネス（世界）",
       "title": "Oil price falls back to pre-Iran war levels",
       "summary": "石油価格がイラン戦争前の水準まで低下しており、イランが米国とイスラエルの攻撃に対して事実上ホルムズ海峡を閉鎖して以来、エネルギー価格は激しく変動している。イランによる報復行動とそれに続く地政学的緊張の懸念が市場を揺さぶり、原油相場は大きく下落する結果となった。",
@@ -155,7 +155,7 @@
       "lang": "en"
     },
     {
-      "id": "47872375",
+      "id": "86544715",
       "category": "経済・ビジネス（世界）",
       "title": "Ryanair says it will reluctantly not charge parents to sit next to children",
       "summary": "アイルランドの格安航空会社ラインエアが、保護者と子どもが一緒に座席に座ることを無料で認める方針に転換した。これまでは片道8ポンドの追加料金を徴収していたが、批判を受けて無料化に応じた。同社はこの決定を「しぶしぶ」受け入れたと表明している。",
@@ -165,7 +165,7 @@
       "lang": "en"
     },
     {
-      "id": "40241368",
+      "id": "86296384",
       "category": "経済・ビジネス（世界）",
       "title": "How you can save money on your energy bill as debts rise",
       "summary": "エネルギー代金の債務と滞納金が過去最高を記録する中、専門家は家計の電気代削減を支援するための方法が利用可能であると指摘している。エネルギー代金の高騰により消費者の負債が急増しているが、専門家は節約や支援制度の活用を推奨している。",
@@ -175,7 +175,7 @@
       "lang": "en"
     },
     {
-      "id": "19677332",
+      "id": "91559536",
       "category": "経済・ビジネス（世界）",
       "title": "Price cuts on family summer days out come into force",
       "summary": "学校の夏休みが始まるのに合わせて、政府はテーマパークなどのアトラクションと子ども向け食事の付加価値税を20%から5%に引き下げた。この措置により、家族の夏休みの外出費用が削減される。子どもを持つ家庭の経済的負担を軽減することが目的である。",
@@ -185,7 +185,7 @@
       "lang": "en"
     },
     {
-      "id": "39070073",
+      "id": "23165542",
       "category": "経済・ビジネス（世界）",
       "title": "I've spent 30 years in recruitment - this is how to get a job",
       "summary": "30年の採用業界経験を持つ採用代理店のボスが、競争が激しくなった就職市場で注目されるためのコツを共有している。記事では、履歴書の工夫や面接での自己表現、ネットワーキングの重要性など、実践的なアドバイスが提供されている。厳しい雇用環境で成功するためには、自分の強みを明確に伝え、採用担当者の目に留まる工夫が不可欠だと指摘されている。",
@@ -195,7 +195,7 @@
       "lang": "en"
     },
     {
-      "id": "77251817",
+      "id": "85883561",
       "category": "経済・ビジネス（世界）",
       "title": "The legal fight to get equal pay for Germany's disabled workers",
       "summary": "ドイツの障害者労働者が最低賃金未満の給与で働いているため、現在約30万人の障害者に対して最低賃金を適用するための裁判が進められている。この訴訟は、障害者の給与平等を実現するための重要なテストケースとなっており、ドイツの労働法制度における大きな変化をもたらす可能性がある。",
@@ -205,7 +205,37 @@
       "lang": "en"
     },
     {
-      "id": "81848542",
+      "id": "77687077",
+      "category": "テクノロジー・AI",
+      "title": "Notion Mail shuts down amid agent takeover",
+      "summary": "Notionはメールインボックスサービスを廃止し、AI エージェント機能への注力を発表した。ユーザーがメール管理をAIエージェントに委ねる傾向が高まっていることが理由だ。同社はAIエージェント技術の拡充に経営資源をシフトさせている。",
+      "url": "https://techcrunch.com/2026/06/25/notion-mail-shuts-down-amid-agent-takeover/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-25T19:14:46+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "66974055",
+      "category": "テクノロジー・AI",
+      "title": "a16z-backed Base Power is offering cheaper electricity to the power grid that needs it most",
+      "summary": "a16zの支援を受けるBase Powerは、家庭に設置したバッテリーを通じてPJMの混雑した系統接続待機列を迂回し、バックアップサービスと引き換えに電力網により安価な電力を供給している。Base Powerは住宅用バッテリーを活用することで、従来の発電所建設よりも迅速かつ低コストで電力供給を実現し、電力網の負荷軽減に貢献している。",
+      "url": "https://techcrunch.com/2026/06/25/a16z-backed-base-power-is-offering-cheaper-electricity-to-the-power-grid-that-needs-it-most/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-25T17:52:05+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "26358243",
+      "category": "テクノロジー・AI",
+      "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+      "summary": "AnthropicのClaudeが有料消費者の支持を集めており、これまでChatGPTが支配していた市場で競争が激化している。ChatGPTが圧倒的な市場シェアを保持しているにもかかわらず、AI利用料金を支払う消費者がClaudeを選択する傾向が強まっているというデータが示されている。",
+      "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-25T17:38:27+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "79663715",
       "category": "テクノロジー・AI",
       "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
       "summary": "General Intuitionが3億2000万ドルの資金調達を完了し、数百万時間のゲームプレイデータでAIを訓練して、現実世界のタスク実行に活用する事業に230億ドルの価値評価を受けた。同社はゲーム内の行動データがAIに人間に近い直感的な判断能力を習得させるのに役立つと考えており、このアプローチでAIエージェントの実用化を加速させることを目指している。",
@@ -215,7 +245,7 @@
       "lang": "en"
     },
     {
-      "id": "74005373",
+      "id": "48117814",
       "category": "テクノロジー・AI",
       "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
       "summary": "Databricksの元AI責任者が、AIの電力消費を1000倍削減できると考えており、同社の新しい画像生成システムツール「Un0」がこの技術の可能性を初めて実証しました。この革新的なアプローチにより、従来のAIシステムを複製しながら大幅な消費電力削減を実現する可能性が示唆されています。",
@@ -225,7 +255,7 @@
       "lang": "en"
     },
     {
-      "id": "26178278",
+      "id": "73113836",
       "category": "テクノロジー・AI",
       "title": "Hacked Klue says criminals are deleting stolen customer data, but now other hackers are making threats",
       "summary": "市場調査会社Klueはハッキングされた顧客データについて、盗まれたデータを削除している可能性があると顧客に通知しました。同社は盗まれたデータに関して身代金を要求する第二のハッカーグループの脅迫警告も発表しており、複数の脅威に直面しています。",
@@ -235,9 +265,9 @@
       "lang": "en"
     },
     {
-      "id": "22889789",
+      "id": "72099560",
       "category": "テクノロジー・AI",
-      "title": "Parker Conrad knows which employees are worth their AI spend and says Rippling can help you, too",
+      "title": "Rippling now wants to be your entire data stack",
       "summary": "Rippling CEOのParker Conradは、企業がAI導入による従業員の生産性向上を測定できると述べており、自社製品がその支援をできると主張している。具体例として、ClaudeというAIツールを活用して業務効率化を実現している従業員が年間3万ドルの利用コストをかけているケースを紹介し、AIへの投資対効果を可視化することの重要性を強調している。",
       "url": "https://techcrunch.com/2026/06/25/parker-conrad-knows-which-employees-are-worth-their-ai-spend-and-says-rippling-can-help-you-too/",
       "source": "TechCrunch",
@@ -245,7 +275,7 @@
       "lang": "en"
     },
     {
-      "id": "69546183",
+      "id": "87477106",
       "category": "テクノロジー・AI",
       "title": "Google Finance gets a dedicated app for Android",
       "summary": "Googleは金融情報サービス「Google Finance」の専用Androidアプリをリリースした。このアプリでは、ユーザーはウォッチリスト、リアルタイムの市場データ、ライブの金融ニュース、そして株価の変動理由をAIが説明する「Key Moments」機能にアクセスできる。スマートフォンから簡単に投資情報を追跡・確認できるようになった。",
@@ -255,37 +285,47 @@
       "lang": "en"
     },
     {
-      "id": "62933235",
-      "category": "テクノロジー・AI",
-      "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
-      "summary": "ネットワークスイッチ上で動作するソフトウェアを提供するNetrisが、a16zから1500万ドルのシリーズA資金調達を実施し、ネオクラウド事業者がサービス開始までの時間を短縮するためのプラットフォームを強化する。このソフトウェアソリューションにより、企業はインフラストラクチャの展開をより迅速かつ効率的に実現できるようになる。",
-      "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-25T14:55:38+00:00",
+      "id": "88050412",
+      "category": "台湾・中台関係",
+      "title": "Global Laboratory Equipment Services Market Size/Share Worth USD 62.83 Billion by 2035 at a 8% CAGR: Healthcare Foresights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
+      "summary": "世界の臨床検査機器サービス市場は2025年に約289億4000万ドルと評価され、2035年には626億3000万ドルに達すると予想されており、この間の年平均成長率は8%となる見通しです。Healthcare Foresightsの市場調査報告書によると、同市場は継続的な需要増加と業界の拡大傾向により、今後10年間で堅調な成長が見込まれています。",
+      "url": "https://www.globenewswire.com/news-release/2026/06/24/3317139/0/en/Global-Laboratory-Equipment-Services-Market-Size-Share-Worth-USD-62-83-Billion-by-2035-at-a-8-CAGR-Healthcare-Foresights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segmentatio.html",
+      "source": "GlobeNewswire",
+      "published_at": "2026-06-24T19:30:00+00:00",
       "lang": "en"
     },
     {
-      "id": "58552812",
-      "category": "テクノロジー・AI",
-      "title": "Trump admin bars Polestar from selling its new EVs in the US",
-      "summary": "トランプ政権は中国系自動車メーカーのポールスター（Polestar）に対して、米国で新しい電動車を販売し続けるための特別認可を与えることを商務省が拒否した。この決定により、ポールスターは米国市場での電動車販売が事実上禁止される状況になっている。",
-      "url": "https://techcrunch.com/2026/06/25/trump-admin-bars-polestar-from-selling-its-new-evs-in-the-us/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-25T14:55:25+00:00",
+      "id": "41141839",
+      "category": "台湾・中台関係",
+      "title": "Nvidia CEO Jensen Huang says smuggled data centres are a dead end and national security comes first",
+      "summary": "エヌビディアのジェンセン・フアンCEOは、商業的な機会が米国の国家安全保障と対立する場合、企業は米国の利益を優先すると株主に述べました。フアンCEOは密輸されたデータセンターは終わりだと述べ、「国家安全保障が最優先」と強調しました。",
+      "url": "https://thenextweb.com/news/nvidia-huang-national-security-smuggled-chips-dead-end/",
+      "source": "The Next Web",
+      "published_at": "2026-06-24T19:19:16+00:00",
       "lang": "en"
     },
     {
-      "id": "69031309",
-      "category": "テクノロジー・AI",
-      "title": "Apple raises Mac and iPad prices, spares iPhone for now",
-      "summary": "Appleはマックブックエアとプロ、およびiPadエアとプロの価格を引き上げました。この値上げはマック製品とiPad製品に対してのみで、iPhoneは現在のところ価格据え置きとなっています。",
-      "url": "https://techcrunch.com/2026/06/25/apple-raises-mac-and-ipad-prices-spares-iphone-for-now/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-25T14:52:35+00:00",
+      "id": "39025591",
+      "category": "台湾・中台関係",
+      "title": "The AI boom is wobbling, but the bubble hasn't burst",
+      "summary": "AI関連の好況は揺らいでいるものの、まだバブルは崩壊していない状況が続いており、世界的な株式市場はAI支出と米国の金利引き上げシグナルに支えられて慎重な回復を見せている。韓国のコスピは変動性を示しているが、AI大手企業は債券市場から資金調達を行っており、インフレ懸念があるものの投資家の関心はAI産業に集中している。",
+      "url": "https://economictimes.indiatimes.com/opinion/et-editorial/the-ai-boom-is-wobbling-but-the-bubble-hasnt-burst/articleshow/131974955.cms",
+      "source": "The Times of India",
+      "published_at": "2026-06-24T18:02:46+00:00",
       "lang": "en"
     },
     {
-      "id": "16778134",
+      "id": "37710371",
+      "category": "台湾・中台関係",
+      "title": "US Secures Netherlands for Pax Silica Alliance in key win for strategic chip alliance — tension remains over MATCH Act restrictions",
+      "summary": "米国がオランダをパックス・シリカ同盟に組み入れることに成功し、戦略的チップ同盟にとって重要な勝利となった。オランダの大手企業ASMLは半導体製造の重要なボトルネックの一つであり、この参加により同盟の強化が実現した。一方、MATCH法による規制をめぐる緊張関係は依然として残されている。",
+      "url": "https://www.tomshardware.com/tech-industry/us-secures-netherlands-for-pax-silica-alliance-in-key-win-for-strategic-chip-alliance-tension-remains-over-match-act-restrictions",
+      "source": "Tom's Hardware UK",
+      "published_at": "2026-06-24T17:15:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "24874449",
       "category": "台湾・中台関係",
       "title": "[Latest] Global Density Gradient Media Market Size/Share Worth USD 5.3 Billion by 2035 at a 11.5% CAGR: Healthcare Foresights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
       "summary": "世界の密度勾配培地市場は2025年に約18億ドルと評価され、2035年までに年平均成長率11.5%で53億ドルに達すると予測されている。ヘルスケアフォーサイツが発表した220ページ以上のレポートによると、この市場は医療分野での需要増加に支えられながら、今後10年間で大幅な成長が見込まれている。市場分析ではセグメンテーション、成長率、SWOT分析など複数の観点から市場動向が評価されている。",
@@ -295,7 +335,7 @@
       "lang": "en"
     },
     {
-      "id": "52146003",
+      "id": "12316088",
       "category": "台湾・中台関係",
       "title": "China’s De-Dollarization Drive Has Hit a Wall",
       "summary": "中国の脱ドル化推進は停滞している。中国は金融商品を作ることはできるが、需要を強制することはできないという点が課題である。脱ドル化の実現には市場の自発的な需要が必要だが、現状ではドルの支配的地位は依然として強固であり、中国の目標達成は容易ではない状況にある。",
@@ -305,7 +345,7 @@
       "lang": "en"
     },
     {
-      "id": "42498334",
+      "id": "76405760",
       "category": "台湾・中台関係",
       "title": "Can Taiwan Semiconductor Shares Hit $500 Before 2026 Ends?",
       "summary": "台湾セミコンダクター・マニュファクチャリング（TSM）は2026年5月の月間売上高が前年同月比30.1%増のNT$416.98億ドルに達し、チップセクター全体に注目を集めている。同社の強い業績成長により、年末までに株価が500ドルに到達する可能性についての議論が業界で高まっている。TSMの好調な業績は、AI需要の拡大とグローバル半導体市場における同社の支配的地位を反映している。",
@@ -315,53 +355,13 @@
       "lang": "en"
     },
     {
-      "id": "23233272",
+      "id": "39991393",
       "category": "台湾・中台関係",
       "title": "Allianz: The Age of Predictable Shipping Is Over",
       "summary": "アリアンツ・コマーシャルは、地政学的緊張と脆弱なサプライチェーンにより、世界の海運業が予測可能性の時代から不確実性の高い新時代へ移行していると警告している。同社は、かつての比較的安定した運営環境が終焉を迎え、海運会社はリスク管理能力の強化を迫られていると指摘している。",
       "url": "https://gcaptain.com/allianz-the-age-of-predictable-shipping-is-over/",
       "source": "gcaptain.com",
       "published_at": "2026-06-24T14:16:06+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "71107463",
-      "category": "台湾・中台関係",
-      "title": "China Reopens a Business Channel to Japan While Political Ties Remain Frozen",
-      "summary": "日本の経済団体が自由民主党議員の率いる中国訪問を実現したことで、冷え込んでいた日中関係の政治的緊張が緩和される可能性が示唆されている。中国が日本とのビジネスチャネルを再開しようとする動きは、政治的対立が続く中でも経済交流を重視する姿勢を表している。この訪問は両国間の対話の糸口となり、今後の関係改善に向けた転換点となるかもしれない。",
-      "url": "https://thediplomat.com/2026/06/china-reopens-a-business-channel-to-japan-while-political-ties-remain-frozen/",
-      "source": "The Diplomat",
-      "published_at": "2026-06-24T14:04:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "16860903",
-      "category": "台湾・中台関係",
-      "title": "Simulating arsenic migration in arid farmland soils under high-arsenic groundwater irrigation in Xinjiang",
-      "summary": "新疆クイトゥン川流域の農地土壌において、高濃度ヒ素含有地下水による灌漑条件下でのヒ素(V)の移動特性を調べるシミュレーション灌漑実験が実施された。本研究では、異なる灌漑シナリオ下においてヒ素の土壌中での移動メカニズムを明らかにし、乾燥地域の農業環境におけるヒ素汚染リスク評価の基礎データを提供することを目的としている。",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0351925",
-      "source": "Plos.org",
-      "published_at": "2026-06-24T14:00:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "30404474",
-      "category": "台湾・中台関係",
-      "title": "[Latest] Global Neonatal Intensive Care Respiratory Devices Market Size/Share Worth USD 5.7 Billion by 2035 at a 10.5% CAGR: Healthcare Foresights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth, SWOT Analysis)",
-      "summary": "新生児集中治療用呼吸器デバイスの世界市場は2025年に約21億ドルの規模で、2035年までに57億ドルに成長すると予測されており、年平均成長率は10.5％となることが市場調査報告書で明らかになった。この成長は新生児医療への投資増加と技術革新により牽引される見通しで、主要企業の動向や市場セグメント別の分析も含まれている。",
-      "url": "https://www.globenewswire.com/news-release/2026/06/24/3316951/0/en/Latest-Global-Neonatal-Intensive-Care-Respiratory-Devices-Market-Size-Share-Worth-USD-5-7-Billion-by-2035-at-a-10-5-CAGR-Healthcare-Foresights-Analysis-Outlook-Leaders-Report-Trend.html",
-      "source": "GlobeNewswire",
-      "published_at": "2026-06-24T13:30:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "47243605",
-      "category": "台湾・中台関係",
-      "title": "Ray Dalio just finished a 10-day trip to China. He says global leaders know America ‘doesn’t have what it takes to fight to maintain its empire’",
-      "summary": "レイ・ダリオ氏は10日間の中国出張を終えて、過去数ヶ月で世界秩序に大きな変化が起きており、グローバルリーダーたちはアメリカが「帝国としての地位を維持するための力を持たない」と認識していると述べた。同氏は東部で「朝貢」システムが台頭していると見ている。",
-      "url": "https://fortune.com/2026/06/24/ray-dalio-china-tribute-system-america-empire/",
-      "source": "Fortune",
-      "published_at": "2026-06-24T13:13:00+00:00",
       "lang": "en"
     }
   ]
