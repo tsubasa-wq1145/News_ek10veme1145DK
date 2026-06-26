@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T16:34:01.988177+00:00",
+  "updated_at": "2026-06-26T18:19:49.266790+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -45,7 +45,7 @@
   "digest": [],
   "news": [
     {
-      "id": "52410348",
+      "id": "88119756",
       "category": "経済・ビジネス（日本）",
       "title": "フォルクスワーゲン“従業員 最大10万人削減計画” ドイツ報道",
       "summary": "フォルクスワーゲンがグループ全体で最大10万人の従業員削減を計画していると報じられました。この大規模なリストラは経営の効率化を目指したものと考えられます。",
@@ -55,7 +55,7 @@
       "lang": "ja"
     },
     {
-      "id": "63614511",
+      "id": "65027296",
       "category": "経済・ビジネス（日本）",
       "title": "米と湾岸諸国の共同声明にイラン「介入主義」と非難",
       "summary": "アメリカが湾岸諸国と発表した地域安全保障への関与を示す共同声明に対し、イラン外務省は介入主義的で無責任かつ挑発的であると非難しました。またイランはホルムズ海峡の管理についてはオマーンとの協議で決定する立場を改めて強調しています。",
@@ -65,7 +65,7 @@
       "lang": "ja"
     },
     {
-      "id": "33414241",
+      "id": "72916522",
       "category": "経済・ビジネス（日本）",
       "title": "茂木外相 “核問題めぐるIAEAの取り組み 積極支援”",
       "summary": "茂木外務大臣がIAEA事務局長と会談し、イランの核問題解決と北朝鮮の非核化においてIAEAが重要な役割を果たしているとして、日本がその取り組みを積極的に支援していく方針を示しました。",
@@ -75,7 +75,7 @@
       "lang": "ja"
     },
     {
-      "id": "58570667",
+      "id": "61473916",
       "category": "経済・ビジネス（日本）",
       "title": "ベネズエラ M7超地震 589人死亡 2980人けが 暫定大統領が発表",
       "summary": "南米ベネズエラで今月24日に発生したマグニチュード7超の2つの地震により、589人が死亡、2980人がけがをしたとロドリゲス暫定大統領が26日に発表しました。",
@@ -85,7 +85,7 @@
       "lang": "ja"
     },
     {
-      "id": "12233918",
+      "id": "91441542",
       "category": "経済・ビジネス（日本）",
       "title": "国際刑事裁判所とアジアの大学の共同拠点が慶應大に開設",
       "summary": "国際刑事裁判所とアジアの10の大学が共同で東京の慶應大学に拠点を開設し、戦争犯罪などを裁く国際刑事司法分野での人材育成と学術交流の拡大を目指します。",
@@ -95,7 +95,7 @@
       "lang": "ja"
     },
     {
-      "id": "28341431",
+      "id": "58437245",
       "category": "経済・ビジネス（日本）",
       "title": "ベネズエラの地震 死者200人超 各国も支援本格化",
       "summary": "ベネズエラで24日に発生したマグニチュード7を超える2度の地震により、死者が235人前後に達したと保健相が発表しました。倒壊建物に取り残された人々の救出活動が進行中で、各国が救助隊を派遣するなど国際的な支援が本格化しています。",
@@ -105,7 +105,7 @@
       "lang": "ja"
     },
     {
-      "id": "72513103",
+      "id": "22592832",
       "category": "経済・ビジネス（日本）",
       "title": "日韓議連会長の自民 武田元総務相が韓国を訪れ大統領と会談",
       "summary": "日韓議員連盟会長の自民党・武田元総務相が韓国を訪問し、イ・ジェミョン大統領と会談しました。両国は安全保障を含む幅広い分野での連携を確認しました。",
@@ -115,7 +115,7 @@
       "lang": "ja"
     },
     {
-      "id": "60269013",
+      "id": "23196638",
       "category": "経済・ビジネス（日本）",
       "title": "イランやレバノンに1500万ドルの緊急人道支援 茂木外相",
       "summary": "茂木外務大臣は、イランやレバノンの人道状況の悪化に対応するため、総額1500万ドルの緊急無償資金協力を実施することを発表しました。日本は中東地域の平和と安定への貢献を目指しています。",
@@ -125,7 +125,7 @@
       "lang": "ja"
     },
     {
-      "id": "19610482",
+      "id": "75797063",
       "category": "経済・ビジネス（世界）",
       "title": "What's happening to petrol prices now oil is back to pre-Iran war levels?",
       "summary": "イランとの戦争が2月28日に始まった際、燃料価格は中東でのエネルギー生産と輸送の混乱により急騰したが、現在は戦前の水準に戻ったため、ガソリン価格も低下している。戦争開始時には供給不安から価格が上昇していたが、実際の生産への影響が限定的だったことが判明し、市場は落ち着きを取り戻した。",
@@ -135,7 +135,7 @@
       "lang": "en"
     },
     {
-      "id": "41466093",
+      "id": "40068780",
       "category": "経済・ビジネス（世界）",
       "title": "Who could be the UK's next chancellor?",
       "summary": "英国首相の辞任により、英国の財務を担当する次期財務相を巡る競争が始まった。この職は経済政策と予算編成を担当する重要なポジションであり、複数の有力候補者が立候補を検討していると見られている。次の財務相は、インフレーションやエネルギー危機といった経済的課題に直面することになるだろう。",
@@ -145,7 +145,7 @@
       "lang": "en"
     },
     {
-      "id": "65404346",
+      "id": "18442349",
       "category": "経済・ビジネス（世界）",
       "title": "The abundant but expensive energy source that's under your feet",
       "summary": "地熱エネルギーは足元の豊富で有望なエネルギー源だが、採掘と利用には多大なコストがかかっている。スタートアップ企業が従来とは異なるアプローチで地熱エネルギーの商用化を進めているが、経済的な実現可能性が課題となっている。革新的な技術により採掘コストの削減が期待される一方で、規模拡大までの道のりは依然として困難である。",
@@ -155,7 +155,7 @@
       "lang": "en"
     },
     {
-      "id": "45754226",
+      "id": "58761567",
       "category": "経済・ビジネス（世界）",
       "title": "Asia stock markets slide as tech shares slump",
       "summary": "アジアの株式市場が下落しており、特にテクノロジー関連銘柄が大きく値を下げている。韓国のコスピ指数は今週3度目の取引停止となり、パニック売却を防ぐための措置が講じられた。地域全体で市場の不安定性が高まっている。",
@@ -165,7 +165,7 @@
       "lang": "en"
     },
     {
-      "id": "61873247",
+      "id": "22553209",
       "category": "経済・ビジネス（世界）",
       "title": "Power banks and vapes now biggest fire risk on planes",
       "summary": "飛行機でのリチウム電池火災が最大の安全上のリスクとなっており、機内預け荷物から見つかるモバイルバッテリーと電子タバコなどのデバイスの数がこの1年でほぼ2倍に増加している。これらの小型電子機器は航空機内での火災の主要な原因として認識されており、航空会社と規制当局は乗客に対してこれらの製品を客室に持ち込むか正しく梱包するよう警告している。",
@@ -175,7 +175,7 @@
       "lang": "en"
     },
     {
-      "id": "61962385",
+      "id": "34571181",
       "category": "経済・ビジネス（世界）",
       "title": "Teens who hacked TfL were known to police years before cyber-attack",
       "summary": "ロンドン交通局（TfL）へのサイバー攻撃を実行した10代の若者オーウェン・フラワーズとターラ・ジュバイルは、この攻撃の数年前から警察に認識されていた。この攻撃によってロンドン交通局は多額の被害を被ることになったが、二人はこの事件での役割について有罪判決を受けた。",
@@ -185,7 +185,7 @@
       "lang": "en"
     },
     {
-      "id": "77410395",
+      "id": "19694382",
       "category": "経済・ビジネス（世界）",
       "title": "I'm back at home again after uni - here's how I'm making it work",
       "summary": "大学卒業後に親元に戻る若い世代が増えており、生活費の上昇がこの傾向を加速させています。親子関係を良好に保ちながら同居生活を成功させるためには、相互理解と明確なコミュニケーションが重要です。記事では、親との衝突を避けるための実践的なアドバイスが提供されています。",
@@ -195,7 +195,7 @@
       "lang": "en"
     },
     {
-      "id": "56031662",
+      "id": "49166128",
       "category": "経済・ビジネス（世界）",
       "title": "Apple hikes some prices by nearly 20% while Xbox raises console cost",
       "summary": "Appleが一部製品の価格を最大20%引き上げました。同社は「これほど大きく、これほど急速なコンポーネント価格の上昇は経験したことがない」とコメントしており、サプライチェーンの混乱と部品コスト上昇が価格引き上げの主な理由となっています。",
@@ -205,7 +205,37 @@
       "lang": "en"
     },
     {
-      "id": "87091329",
+      "id": "59188070",
+      "category": "テクノロジー・AI",
+      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+      "summary": "OpenAI、Google、Apple、SpaceXなどの大手企業がNvidiaに依存しない独自のAIチップ開発を進めており、Nvidiaが長年支配していたAIチップ市場の構図が変わり始めている。OpenAIはBroadcomと協力してカスタム推論チップ「Jalapeño」を開発し、複数企業がサプライチェーンリスクの低減と技術的な独立性を目指して独自チップへの投資を加速させている。",
+      "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-26T17:43:22+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "85145138",
+      "category": "テクノロジー・AI",
+      "title": "Russian hackers were behind $2.5 billion hack of Jaguar Land Rover: Report",
+      "summary": "ロシアンハッカーがジャガー・ランドローバーの25億ドル規模のハッキングの背後にいたとの報道がある。昨年同社を襲ったこのハッキングは、ここ数年で最も混乱を招き、被害が大きく、コストがかかった攻撃の一つであった。",
+      "url": "https://techcrunch.com/2026/06/26/russian-hackers-were-behind-2-5-billion-hack-of-jaguar-land-rover-report/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-26T17:29:29+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "97001486",
+      "category": "テクノロジー・AI",
+      "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+      "summary": "OpenAIがトランプ政権の要請を受けてモデルのリリースを段階的に行うというニュースから24時間以内に、新モデルGPT-5.6をリリースした。フラグシップモデル「Sol」、中堅モデル「Terra」、そして「Luna」の3つのモデルスイートが限定プレビューとして公開され、米国のAI規制の動向の中で展開されている。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+      "source": "AI | The Verge",
+      "published_at": "2026-06-26T17:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "64837708",
       "category": "テクノロジー・AI",
       "title": "Tesla settles FSD crash lawsuit as federal investigations continue",
       "summary": "テスラは同社の高度な運転支援システム「フルセルフドライビング」を使用していた車両による2023年の死亡事故に関連した訴訟を和解した。同社の自動運転技術をめぐる連邦調査が継続する中での和解となる。テスラはFSDの安全性と有効性に関する複数の法的課題に直面している。",
@@ -215,7 +245,7 @@
       "lang": "en"
     },
     {
-      "id": "20378731",
+      "id": "26540864",
       "category": "テクノロジー・AI",
       "title": "TikTok’s road to becoming a super app",
       "summary": "TikTokは、ユーザーがデジタル活動の大部分を行うアプリへと進化することを目指しており、スーパーアプリ化を進めている。同社は動画プラットフォームの枠を超えて、ショッピングやメッセージング、決済など多くの機能を統合することで、ユーザーの日常生活に欠かせない総合プラットフォームになろうとしている。",
@@ -225,7 +255,7 @@
       "lang": "en"
     },
     {
-      "id": "75461294",
+      "id": "82237508",
       "category": "テクノロジー・AI",
       "title": "It’s not about Anthropic vs. OpenAI anymore",
       "summary": "AI モデルはその能力が現実の政治的影響をもたらす段階に進化しており、これらの影響に対処するにはアンスロピックとオープンAIという企業間の競争ではなく、業界全体での協力的な取り組みが必要とされている。AI技術の政治的影響への対応は、単一企業の判断に任せるべき問題ではなく、集団的な行動を通じた対処が求められている。",
@@ -235,7 +265,7 @@
       "lang": "en"
     },
     {
-      "id": "17982791",
+      "id": "37476452",
       "category": "テクノロジー・AI",
       "title": "Xprize founder says ‘humans behave better when they’re being watched’",
       "summary": "Xprizeの創設者ペター・ディアマンディスは、人間は監視されている時により良く行動すると述べており、2024年のラリー・エリソンのコメントに続いて、グローバル監視が世界をより良い場所にするという主張をしている技術経営者の最新の人物となっている。",
@@ -245,47 +275,37 @@
       "lang": "en"
     },
     {
-      "id": "74952700",
+      "id": "51735118",
       "category": "テクノロジー・AI",
-      "title": "Robotaxis drive miles just to get cleaned and charged; this new startup wants to fix that",
-      "summary": "Aseon Labsは、ロボタクシーが充電と清掃のために無駄に走行する問題を解決するための新興企業で、Y Combinatorの2026年春コホートから生まれ、Crane Venture Partnersなどから1000万ドルの資金調達に成功した。ロボタクシーサービスの運営効率を改善するためのソリューションを提供することを目指している。",
-      "url": "https://techcrunch.com/2026/06/26/this-silicon-valley-startup-has-raised-10m-to-build-pitstops-to-clean-and-charge-robotaxis/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-26T13:00:00+00:00",
+      "title": "Anthropic&#8217;s Mythos mess is only getting worse",
+      "summary": "Anthropic社のMythosクラスモデルは、トランプ政権からの金曜夜の最後通告を受けて2週間前にオフラインにされました。同社は直ちに対応し、多数の経営幹部をワシントンDCに派遣しましたが、その後の進展報告が著しく不足しており、解決の見通しが立っていない状況です。Anthropic社は今週、この問題について複数回のコメント要請を拒否しています。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
+      "source": "AI | The Verge",
+      "published_at": "2026-06-26T14:07:03+00:00",
       "lang": "en"
     },
     {
-      "id": "13580549",
-      "category": "テクノロジー・AI",
-      "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
-      "summary": "TechCrunch Founder Summit 2026のアーリーバード割引が本日午後11時59分（太平洋時間）で終了となり、その後は料金が値上がりする。今すぐ登録することで最大190ドルの割引を受けることができる。",
-      "url": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-26T13:00:00+00:00",
+      "id": "27018229",
+      "category": "台湾・中台関係",
+      "title": "US Counterterrorism Aircraft Could Be Surprisingly Useful in a Taiwan War",
+      "summary": "米国のテロ対策航空機がアメリカのテロ対策に使用されてきた装備が、台湾をめぐる対中紛争において重要な役割を果たす可能性があることが指摘されている。グローバルテロ対策作戦で中核的な役割を担ってきた航空機が、中国との潜在的な紛争シナリオにおいて予想外の有用性を持つ可能性があるとみられている。テロ対策装備技術が次世代の地政学的課題に対応する際の戦略的価値を示唆している。",
+      "url": "https://thediplomat.com/2026/06/us-counterterrorism-aircraft-could-be-surprisingly-useful-in-a-taiwan-war/",
+      "source": "The Diplomat",
+      "published_at": "2026-06-25T18:02:00+00:00",
       "lang": "en"
     },
     {
-      "id": "57045693",
-      "category": "テクノロジー・AI",
-      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-      "summary": "ホワイトハウスが安全性への懸念からOpenAIに対し、新モデルの段階的なリリースを求めています。OpenAIは最新モデルであるGPT 5.6を一般公開ではなく、限定されたパートナー企業のみと共有する計画であり、これはトランプ政権からの指示によるものです。",
-      "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-25T23:34:39+00:00",
+      "id": "64958559",
+      "category": "台湾・中台関係",
+      "title": "[Latest] Global Bioprocess Digital Twin Market Size/Share Worth USD 6.47 Billion by 2035 at a 19.6% CAGR: Healthcare Foresights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
+      "summary": "グローバルバイオプロセスデジタルツイン市場は2025年に約8億9000万ドルの規模であり、2035年までに64億7000万ドルに達すると予測されており、年間平均成長率は19.6%である。Healthcare Foresightsによる市場調査報告書は220ページ以上の詳細な分析、見通し、業界リーダー企業、トレンド予測、市場セグメンテーション、成長率、SWOT分析などを含んでいる。",
+      "url": "https://www.globenewswire.com/news-release/2026/06/25/3317865/0/en/Latest-Global-Bioprocess-Digital-Twin-Market-Size-Share-Worth-USD-6-47-Billion-by-2035-at-a-19-6-CAGR-Healthcare-Foresights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segmenta.html",
+      "source": "GlobeNewswire",
+      "published_at": "2026-06-25T17:30:00+00:00",
       "lang": "en"
     },
     {
-      "id": "91590335",
-      "category": "テクノロジー・AI",
-      "title": "YouTube Shorts are getting even shorter with an update that lets you double the playback speed",
-      "summary": "YouTubeショーツが再生速度を2倍にできるアップデートを導入し、より短い動画対応が進んでいる。このアップデートにより、ユーザーはショーツ動画の再生速度を調整でき、より効率的にコンテンツを視聴できるようになった。YouTubeはショーツをより利用しやすく、ユーザー体験を向上させるための改善を続けている。",
-      "url": "https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-25T22:02:12+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "66601178",
+      "id": "80342308",
       "category": "台湾・中台関係",
       "title": "Mo & A Turned a Mitsubishi Taillight Into a Night Stand",
       "summary": "MoとAはミツビシのテールライトをナイトスタンドに改造しました。ほとんどの家具は建築やNature、またはモダンデザインの幾何学的な要素から着想を得ていますが、このデザイナーペアは自動車のテールライトという意外な素材を使用して、機能的でユニークな照明家具を創作し、廃材の再利用と創造的なデザイン思考の可能性を示しています。",
@@ -295,7 +315,7 @@
       "lang": "en"
     },
     {
-      "id": "22032118",
+      "id": "18640777",
       "category": "台湾・中台関係",
       "title": "The Universe's First Stars Were Shaped By Turbulence and Were Not As Massive as Thought",
       "summary": "宇宙最初の星（Population III星）は乱流の影響を受けて形成されており、これまで考えられていたほど質量が大きくなかったことが新しい研究で明らかになりました。従来の理論では、これらの星が形成された環境は穏やかで安定しており、必然的に超大質量の星が生まれると考えられていましたが、高解像度シミュレーション研究により、乱流が星形成に大きな役割を果たしていたことが判明しました。この発見は、初期宇宙の星形成メカニズムと宇宙進化の理解を根本的に変える可能性があります。",
@@ -305,7 +325,7 @@
       "lang": "en"
     },
     {
-      "id": "35366270",
+      "id": "89425466",
       "category": "台湾・中台関係",
       "title": "GTA 6 Banned Ahead of Release for More Than 1 Billion People",
       "summary": "GTA 6（グランド・セフト・オートシリーズの最新作）は、世界で10億人以上の人々に対して発売前から禁止されることになった。ロックスター・ゲームスの新作は予約販売が開始されており、標準版は80ドル、限定版は100ドルの価格設定となっている。この禁止措置は特定の地域での販売規制により、多くの消費者がこのゲームにアクセスできない状況が生じている。",
@@ -315,7 +335,7 @@
       "lang": "en"
     },
     {
-      "id": "60967943",
+      "id": "75402537",
       "category": "台湾・中台関係",
       "title": "[Latest] Global AI Voice Agents in Healthcare Market Size/Share Worth USD 14.37 Billion by 2035 at a 18.3% CAGR: Healthcare Foresights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
       "summary": "医療業界向けのAI音声エージェント市場は2025年に21億4000万ドルと評価され、2035年には143億7000万ドルに達すると予測されており、年平均成長率は18.3%となる見込みです。Healthcare Foresightsが発表したこの調査報告書では、医療分野におけるAI音声技術の急速な拡大と市場機会が詳細に分析されています。",
@@ -325,7 +345,7 @@
       "lang": "en"
     },
     {
-      "id": "55009511",
+      "id": "55934033",
       "category": "台湾・中台関係",
       "title": "Fingerprint Sensor Market worth $6.98 billion by 2032 - Exclusive Report by MarketsandMarkets™",
       "summary": "指紋センサー市場は2026年の50億1000万ドルから2032年には69億8000万ドルに達すると予測されており、年間平均成長率は5.7%である。この市場の拡大は生体認証技術の需要増加とスマートデバイスの普及に牽引されている。MarketsandMarketsの調査では170の市場データテーブルを含む詳細な分析が提供されている。",
@@ -335,31 +355,11 @@
       "lang": "en"
     },
     {
-      "id": "43075789",
+      "id": "69031334",
       "category": "台湾・中台関係",
       "title": "3 ex-DPP staffers' China spying sentences reduced, 1 acquitted",
       "summary": "台湾高等裁判所は木曜日、中国の情報機関に機密情報を流したとして有罪判決を受けた民進党の元職員3人の懲役刑を短縮し、第4の人物を無罪とする判決を下した。これは下級審の判決を覆すものである。台湾の司法当局は国家安全保障に関わるスパイ活動事件を厳しく取り締まる姿勢を示す一方で、今回の判決では証拠の十分性について再検討が行われたことを示唆している。",
       "url": "https://www.globalsecurity.org/intell/library/news/2026/intell-260625-cna01.htm",
-      "source": "Globalsecurity.org",
-      "published_at": "2026-06-25T12:00:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "20047684",
-      "category": "台湾・中台関係",
-      "title": "China urges relevant countries to respect China's sovereignty, maritime rights, stop confusing right and wrong, FM on US, UK, France and Germany's maritime-related statement",
-      "summary": "中国は米国、英国、フランス、ドイツが台湾東方での中国の活動に懸念を表明し、地域の安定を損なうと主張したことに対し、中国の主権と海洋権を尊重し、是非を混同しないよう関連国に促している。中国外相は、これらの国々が根拠のない主張をしていると反発し、中国の活動は正当なものだと強調している。台湾周辺での中国の活動をめぐる国際的な対立が続いている。",
-      "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260625-globaltimes02.htm",
-      "source": "Globalsecurity.org",
-      "published_at": "2026-06-25T12:00:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "12038728",
-      "category": "台湾・中台関係",
-      "title": "China always opposes any form of official exchanges between US, Taiwan region, FM says on claims that Chinese embassy dissuades US states, businesses from engaging with island",
-      "summary": "中国の外務大臣は、米国と台湾地域間の公式な交流に対し一貫して反対する立場を改めて述べ、中国大使館が米国の州政府や企業に対して台湾との関係を控えるよう働きかけているという米国政府部門の主張に応答した。米国の州知事や企業指導者への書簡では、中国大使館が米国内の地方政府当局や民間企業に接触して台湾との関係を思いとどまらせようとしていると指摘されている。",
-      "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260625-globaltimes01.htm",
       "source": "Globalsecurity.org",
       "published_at": "2026-06-25T12:00:00+00:00",
       "lang": "en"
