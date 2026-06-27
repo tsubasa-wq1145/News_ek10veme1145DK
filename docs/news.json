@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T08:12:55.845111+00:00",
+  "updated_at": "2026-06-27T10:34:59.681214+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -45,7 +45,17 @@
   "digest": [],
   "news": [
     {
-      "id": "79210837",
+      "id": "78043004",
+      "category": "経済・ビジネス（日本）",
+      "title": "北京 高層ビルに小型機が衝突 操縦士1人死亡13人けが 地元政府",
+      "summary": "中国の首都北京の中心部で26日に小型機が高層ビルに衝突したとみられると複数の香港メディアが報じており、事故現場には多くの警察官が配置されているものの、中国当局からの公式発表はまだなされていません。",
+      "url": "http://www3.nhk.or.jp/news/html/20260627/k10015162151000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-27T10:28:24+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "55539898",
       "category": "経済・ビジネス（日本）",
       "title": "ベネズエラ大地震 死者900人余りに 約3300人がけが 救出急ぐ",
       "summary": "ベネズエラで24日に発生したマグニチュード7を超える地震により、900人余りが死亡し、約3300人がけがをしました。発生から48時間以上が経過し、倒壊建物に取り残された人たちの救出が急がれており、国際社会からの支援も本格化しています。",
@@ -55,7 +65,7 @@
       "lang": "ja"
     },
     {
-      "id": "13212479",
+      "id": "82351736",
       "category": "経済・ビジネス（日本）",
       "title": "アンソロピック AI「ミュトス5」米の一部企業などに提供再開へ",
       "summary": "アンソロピックは政府の命令で提供を停止していた最新AIモデル「クロード・ミュトス5」について、アメリカの一部企業への提供を再開すると発表した。",
@@ -65,7 +75,7 @@
       "lang": "ja"
     },
     {
-      "id": "48896041",
+      "id": "10146875",
       "category": "経済・ビジネス（日本）",
       "title": "ボルトン元大統領補佐官 司法取引で機密情報の所持認める",
       "summary": "トランプ政権で大統領補佐官を務めたジョン・ボルトン氏が、機密情報を違法に所持していた罪を司法取引で認めました。当初は政権からの報復だと主張して争う姿勢を見せていましたが、最終的に罪の一部を受け入れることに合意しました。",
@@ -75,7 +85,7 @@
       "lang": "ja"
     },
     {
-      "id": "21019897",
+      "id": "64947849",
       "category": "経済・ビジネス（日本）",
       "title": "ウクライナ外相が来日へ 復興支援や無人機など意見交わす考え",
       "summary": "ウクライナのシビハ外相が今月30日から日本を訪問し、茂木外務大臣と会談することが発表されました。会談では日本による復興支援の継続やウクライナの無人機に関する知見などについて意見交換する予定です。",
@@ -85,17 +95,7 @@
       "lang": "ja"
     },
     {
-      "id": "25231675",
-      "category": "経済・ビジネス（日本）",
-      "title": "中国 北京 中心部の高層ビルに小型機衝突か 香港メディア",
-      "summary": "中国の首都北京の中心部で26日に小型機が高層ビルに衝突したとみられると複数の香港メディアが報じており、事故現場には多くの警察官が配置されているものの、中国当局からの公式発表はまだなされていません。",
-      "url": "http://www3.nhk.or.jp/news/html/20260627/k10015162151000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-27T03:21:02+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "30939434",
+      "id": "60082467",
       "category": "経済・ビジネス（日本）",
       "title": "米軍がイランの軍事施設を攻撃と発表 イラン側は厳しく非難",
       "summary": "アメリカ中央軍はイランのミサイルや無人機の保管施設を航空機で攻撃したと発表し、その理由はホルムズ海峡の貨物船がイランの無人機の攻撃を受けたことへの対抗措置だとしています。イラン側はこの攻撃を厳しく非難しており、両国間の停戦は不安定な状態に陥っています。",
@@ -105,7 +105,7 @@
       "lang": "ja"
     },
     {
-      "id": "74413620",
+      "id": "63579494",
       "category": "経済・ビジネス（日本）",
       "title": "イギリス国王 即位後64億円以上を納税 英君主の納税額公表は初",
       "summary": "イギリス王室はチャールズ国王が即位後4年間で64億円以上を納税したと発表し、君主の納税額公表は初めてとなった。王室の透明性向上を求める声が高まる中での発表で、弟のアンドルー元王子の不正疑惑と関連する王室改革の一環と見られている。",
@@ -115,7 +115,7 @@
       "lang": "ja"
     },
     {
-      "id": "18683385",
+      "id": "23527212",
       "category": "経済・ビジネス（日本）",
       "title": "【随時更新】ロシア ウクライナに軍事侵攻（6月27日の動き）",
       "summary": "ロシアのウクライナへの軍事侵攻が続いており、ウクライナ各地でロシア軍とウクライナ軍の戦闘が激化している中、多くの市民が国外に避難している。6月27日のウクライナ情勢について、戦闘状況と関係各国の外交動向を随時更新で報告する。",
@@ -125,7 +125,7 @@
       "lang": "ja"
     },
     {
-      "id": "70068616",
+      "id": "34180162",
       "category": "経済・ビジネス（世界）",
       "title": "Trump threatens 100% tariff on European nations over tech tax",
       "summary": "トランプ米大統領は、技術税導入を検討している複数のヨーロッパ諸国に対して100%の関税を課すと脅迫した。大統領は声明で、多くのヨーロッパ諸国がこうした課税を導入することについて協議していると指摘し、米国企業に対する不公正な扱いだと主張している。",
@@ -135,7 +135,7 @@
       "lang": "en"
     },
     {
-      "id": "32328358",
+      "id": "78051088",
       "category": "経済・ビジネス（世界）",
       "title": "Three unusual things about the King's tax bill",
       "summary": "チャールズ国王は2024年～2025年度に1290万ポンドの税金を納めたが、その税務状況は極めて異例である。国王は一般市民とは異なる特別な税制上の扱いを受けており、通常の納税義務とは大きく異なる仕組みとなっている。この独特な税金の支払い方法と制度は、イギリスの王室財政における重要な特徴を示している。",
@@ -145,7 +145,7 @@
       "lang": "en"
     },
     {
-      "id": "90620540",
+      "id": "83774588",
       "category": "経済・ビジネス（世界）",
       "title": "What's happening to petrol prices now oil is back to pre-Iran war levels?",
       "summary": "イランとの戦争が2月28日に始まった際、燃料価格は中東でのエネルギー生産と輸送の混乱により急騰したが、現在は戦前の水準に戻ったため、ガソリン価格も低下している。戦争開始時には供給不安から価格が上昇していたが、実際の生産への影響が限定的だったことが判明し、市場は落ち着きを取り戻した。",
@@ -155,7 +155,7 @@
       "lang": "en"
     },
     {
-      "id": "21950695",
+      "id": "68966775",
       "category": "経済・ビジネス（世界）",
       "title": "Who could be the UK's next chancellor?",
       "summary": "英国首相の辞任により、英国の財務を担当する次期財務相を巡る競争が始まった。この職は経済政策と予算編成を担当する重要なポジションであり、複数の有力候補者が立候補を検討していると見られている。次の財務相は、インフレーションやエネルギー危機といった経済的課題に直面することになるだろう。",
@@ -165,7 +165,7 @@
       "lang": "en"
     },
     {
-      "id": "50375028",
+      "id": "39172757",
       "category": "経済・ビジネス（世界）",
       "title": "Asia stock markets slide as tech shares slump",
       "summary": "アジアの株式市場が下落しており、特にテクノロジー関連銘柄が大きく値を下げている。韓国のコスピ指数は今週3度目の取引停止となり、パニック売却を防ぐための措置が講じられた。地域全体で市場の不安定性が高まっている。",
@@ -175,7 +175,7 @@
       "lang": "en"
     },
     {
-      "id": "71942512",
+      "id": "81949208",
       "category": "経済・ビジネス（世界）",
       "title": "Power banks and vapes now biggest fire risk on planes",
       "summary": "飛行機でのリチウム電池火災が最大の安全上のリスクとなっており、機内預け荷物から見つかるモバイルバッテリーと電子タバコなどのデバイスの数がこの1年でほぼ2倍に増加している。これらの小型電子機器は航空機内での火災の主要な原因として認識されており、航空会社と規制当局は乗客に対してこれらの製品を客室に持ち込むか正しく梱包するよう警告している。",
@@ -185,7 +185,7 @@
       "lang": "en"
     },
     {
-      "id": "51091528",
+      "id": "42694773",
       "category": "経済・ビジネス（世界）",
       "title": "Teens who hacked TfL were known to police years before cyber-attack",
       "summary": "ロンドン交通局（TfL）へのサイバー攻撃を実行した10代の若者オーウェン・フラワーズとターラ・ジュバイルは、この攻撃の数年前から警察に認識されていた。この攻撃によってロンドン交通局は多額の被害を被ることになったが、二人はこの事件での役割について有罪判決を受けた。",
@@ -195,7 +195,7 @@
       "lang": "en"
     },
     {
-      "id": "63322727",
+      "id": "65776853",
       "category": "経済・ビジネス（世界）",
       "title": "I'm back at home again after uni - here's how I'm making it work",
       "summary": "大学卒業後に親元に戻る若い世代が増えており、生活費の上昇がこの傾向を加速させています。親子関係を良好に保ちながら同居生活を成功させるためには、相互理解と明確なコミュニケーションが重要です。記事では、親との衝突を避けるための実践的なアドバイスが提供されています。",
@@ -205,7 +205,7 @@
       "lang": "en"
     },
     {
-      "id": "62450994",
+      "id": "84056065",
       "category": "テクノロジー・AI",
       "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
       "summary": "トランプ政権はAnthropicの「Mythos」を100以上の米国企業および政府機関による使用を承認し、非米国従業員も含めて利用可能にした。このAIモデルへのアクセス拡大により、米国内の様々なセクターでの導入が進むことが期待されている。",
@@ -215,7 +215,7 @@
       "lang": "en"
     },
     {
-      "id": "29692219",
+      "id": "32598744",
       "category": "テクノロジー・AI",
       "title": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
       "summary": "FTC（米連邦取引委員会）はイーロン・マスク氏がSpaceXの元従業員らが創業したスタートアップMeshを買収することを承認した。Meshは2月にステルスモードを抜けて5000万ドルのシリーズAファインディングを実施している。",
@@ -225,7 +225,7 @@
       "lang": "en"
     },
     {
-      "id": "89743077",
+      "id": "79324119",
       "category": "テクノロジー・AI",
       "title": "Anthropic&#8217;s Mythos 5 is back",
       "summary": "Anthropicの大型言語モデル「Mythos 5」がトランプ政権との2週間に及ぶ交渉を経て、限定的に再開された。政府の書簡によると、選ばれた組織のみが利用可能となる一方、公開版の「Fable 5」については依然として制限が続いているという状況である。",
@@ -235,7 +235,7 @@
       "lang": "en"
     },
     {
-      "id": "31117241",
+      "id": "50775171",
       "category": "テクノロジー・AI",
       "title": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product",
       "summary": "Y Combinatorの支援を受けるスタートアップ企業Corgiは、Papermarkから自社ソフトウェアの盗用を指摘されましたが、これを否定しており、オープンソースソフトウェアの利用をめぐる論争が生じています。",
@@ -245,7 +245,7 @@
       "lang": "en"
     },
     {
-      "id": "54332673",
+      "id": "46531592",
       "category": "テクノロジー・AI",
       "title": "Novak Djokovic has a new job —  advisor to private equity firm General Atlantic",
       "summary": "ノバク・ジョコビッチがプライベート・エクイティ企業ゼネラル・アトランティックのグローバル・ストラテジック・アドバイザーに就任した。ジョコビッチはテニス界の伝説的選手で、同社の戦略立案と事業展開に助言を提供する。この就任により、ジョコビッチはテニス選手としてのキャリアと並行して、ビジネス分野でのポジションを確保することになった。",
@@ -255,7 +255,7 @@
       "lang": "en"
     },
     {
-      "id": "12125982",
+      "id": "49551273",
       "category": "テクノロジー・AI",
       "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
       "summary": "OpenAIは政府の要請によりGPT-5.6の展開を制限しましたが、このような政府によるアクセス制限プロセスが常態化すべきではないと主張しており、ユーザーや開発者、企業、サイバーディフェンダー、国際パートナーなどが必要とする最高のツールが利用できなくなることに懸念を表明しています。",
@@ -265,7 +265,7 @@
       "lang": "en"
     },
     {
-      "id": "37851338",
+      "id": "58591051",
       "category": "テクノロジー・AI",
       "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
       "summary": "オープンAIがインド市場における経営強化のため、Uberインド・南アジア部門の最高経営責任者をスカウトし、米国外最大市場となるインドでの事業展開を加速させている。同社はインドでのオフィス拡張、パートナーシップ構築、採用活動を積極的に推し進めており、今回の人事異動はこうした市場進出戦略の一環である。",
@@ -275,7 +275,7 @@
       "lang": "en"
     },
     {
-      "id": "41340112",
+      "id": "14423739",
       "category": "テクノロジー・AI",
       "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
       "summary": "OpenAI、Google、Apple、SpaceXなどの大手企業がNvidiaに依存しない独自のAIチップ開発を進めており、Nvidiaが長年支配していたAIチップ市場の構図が変わり始めている。OpenAIはBroadcomと協力してカスタム推論チップ「Jalapeño」を開発し、複数企業がサプライチェーンリスクの低減と技術的な独立性を目指して独自チップへの投資を加速させている。",
@@ -285,7 +285,57 @@
       "lang": "en"
     },
     {
-      "id": "77556825",
+      "id": "59039006",
+      "category": "台湾・中台関係",
+      "title": "Taiwan ship operator says vessel hit in Hormuz 'unharmed'",
+      "summary": "台湾の船舶運営会社によると、ホルムズ海峡で正体不明の物体に衝突した同社の船舶「エバー・ラブリー」は軽微な損傷を受けたが、乗組員21名と積み荷は無傷だった。シンガポール海事港湾庁はこの挑発的でない事件を非難している。",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/taiwanese-container-ship-hit-by-unidentified-object-in-strait-of-hormuz-crew-unharmed/articleshow/132012814.cms",
+      "source": "The Times of India",
+      "published_at": "2026-06-26T10:31:01+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "67949142",
+      "category": "台湾・中台関係",
+      "title": "China-Linked Hackers Strike Asian Critical Infrastructure with TinyRCT Backdoor",
+      "summary": "中国関連のハッカーグループがTinyRCTという新しいカスタムバックドアを使用して、東南アジアの重要インフラを標的にした攻撃を展開している。このマルウェアは遠隔操作機能を備えており、攻撃者に侵害されたシステムへの完全なアクセスを可能にしている。セキュリティ専門家は、この地域の重要インフラ施設に対する脅威が高まっていると警告している。",
+      "url": "https://www.infosecurity-magazine.com/news/china-hackers-asian-cni-backdoor/",
+      "source": "Infosecurity Magazine",
+      "published_at": "2026-06-26T10:30:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "86139657",
+      "category": "台湾・中台関係",
+      "title": "Cable Assembly Market Size to Hit $348.66 Billion by 2035 | Research by SNS Insider",
+      "summary": "ケーブルアセンブリ市場は2035年までに348.66億ドルに達する見込みで、製品タイプ、ケーブルタイプ、最終用途産業、用途別にセグメント化され、2026年から2035年までの予測が行われている。この成長は自動車、航空宇宙、通信などの産業における電子機器の需要増加に支えられている。SNS Insiderの調査では、市場の拡大と多様化するニーズに対応するための製品革新が重要な成長要因となることが示されている。",
+      "url": "https://www.globenewswire.com/news-release/2026/06/26/3318088/0/en/Cable-Assembly-Market-Size-to-Hit-348-66-Billion-by-2035-Research-by-SNS-Insider.html",
+      "source": "GlobeNewswire",
+      "published_at": "2026-06-26T08:55:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "52657779",
+      "category": "台湾・中台関係",
+      "title": "After the Invasion",
+      "summary": "中国の学者と政策立案者が、侵攻後の台湾統治という問題にどのように向き合っているかを検討する記事である。経済的に豊かで世界的に統合された民主主義国家である台湾の占領は、軍事作戦そのものをはるかに超えた課題をもたらすと主張している。",
+      "url": "https://www.rand.org/pubs/external_publications/EP71373.html",
+      "source": "Rand.org",
+      "published_at": "2026-06-26T08:45:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "44330700",
+      "category": "台湾・中台関係",
+      "title": "Taiwan opposition stalls government's $6.6 billion drone bill",
+      "summary": "台湾の野党が支配する議会は、中国の脅威に対する防衛に不可欠な国産ドローンの政府の66億ドル規模の計画を阻止した。KMT（国民党）とTPP（台湾民衆党）の議員らは、コスト面での懸念を理由に独自の提案を要求している。この対立により、台湾の防衛力強化に向けた重要なプロジェクトの進展が遅れている。",
+      "url": "https://economictimes.indiatimes.com/news/international/business/taiwan-opposition-stalls-governments-6-6-billion-drone-bill/articleshow/132011501.cms",
+      "source": "The Times of India",
+      "published_at": "2026-06-26T08:43:57+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "11883758",
       "category": "台湾・中台関係",
       "title": "Asia stock markets slide as tech shares slump",
       "summary": "アジア株式市場は技術関連銘柄の下落により軟調となり、韓国のコスピ指数は週内3度目となるサーキットブレーカーが発動されてパニック売却を防止した。",
@@ -295,7 +345,7 @@
       "lang": "en"
     },
     {
-      "id": "43964163",
+      "id": "83664789",
       "category": "台湾・中台関係",
       "title": "GTA 6 is apparently already banned in these countries",
       "summary": "Grand Theft Auto VIのプリオーダーが開始されましたが、ソニーの公式PlayStation Storeページによると、8つの国ではGTA 6が利用できないとされています。これらの国ではゲームの販売や配信が制限されているため、プレイヤーはプリオーダーができない状況となっています。",
@@ -305,63 +355,13 @@
       "lang": "en"
     },
     {
-      "id": "55193384",
+      "id": "52276223",
       "category": "台湾・中台関係",
       "title": "[Latest] Global In Silico Clinical Trials Market Size/Share Worth USD 8.94 Billion by 2035 at a 15.2% CAGR: Healthcare Foresights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
       "summary": "インシリコ臨床試験の世界市場は2025年に18億4000万ドルの規模であり、2035年までに89億4000万ドルに成長すると予測されており、年平均成長率は15.2%である。この市場の拡大は、医薬品開発の効率化やコスト削減への需要の高まりによって推進されている。今後、デジタル化やAI技術の進展により、インシリコ臨床試験はヘルスケア業界における重要な役割を担うようになると見込まれている。",
       "url": "https://www.globenewswire.com/news-release/2026/06/26/3318041/0/en/Latest-Global-In-Silico-Clinical-Trials-Market-Size-Share-Worth-USD-8-94-Billion-by-2035-at-a-15-2-CAGR-Healthcare-Foresights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segmen.html",
       "source": "GlobeNewswire",
       "published_at": "2026-06-26T06:30:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "18417705",
-      "category": "台湾・中台関係",
-      "title": "Show HN: Every site gives a different P/E ratio, so I open-sourced the math",
-      "summary": "マイクロソフトの2023年5月6日時点のPER（株価収益率）について、複数のサイトで大きな数値のばらつきが見られたため、その計算方法をオープンソース化したというニュース記事。異なるサイトが28.93から34.4までの異なるPER数値を表示する理由は、過去12ヶ月の利益と会計年度末の利益の使い分けなど、計算方法の違いにあると指摘している。同じ企業の同じ日付なのに複数の異なる数値が存在する問題に対応するため、著者が正確で透明性のある計算方法を公開した。",
-      "url": "https://github.com/JerBouma/FinanceToolkit",
-      "source": "Github.com",
-      "published_at": "2026-06-26T06:13:19+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "36695975",
-      "category": "台湾・中台関係",
-      "title": "Why Iran Defeated the US and Israel",
-      "summary": "イランはここ1年間、イスラエルと米国が先制攻撃を2度行い、高度な技術と圧倒的な火力により数千人の民間人を殺害し、敵の武器・船舶、モスク、教会、病院などを破壊したにもかかわらず、イランは防御システムを通じてこれらの攻撃に対抗し、戦略的に優位性を保ったとみられている。イスラエルと米国の軍事的優位性にもかかわらず、イランの粘り強い対応と地域内の影響力が、この紛争における力の均衡を変えたと考えられている。",
-      "url": "https://www.counterpunch.org/2026/06/26/why-iran-defeated-the-us-and-israel/",
-      "source": "CounterPunch",
-      "published_at": "2026-06-26T05:55:13+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "51340747",
-      "category": "台湾・中台関係",
-      "title": "China leverages critical minerals dominance in escalating spat with Japan",
-      "summary": "中国が日本への鉱物輸出を停止し、クリティカルミネラル（希少鉱物）の優位性を活用して対立を深めている。この輸出制限は世界的なサプライチェーンの多様化の緊急性を浮き彫りにしており、グローバルな技術・防衛産業に大きな影響を与えている。",
-      "url": "https://cryptobriefing.com/china-critical-minerals-japan-rare-earth/",
-      "source": "Crypto Briefing",
-      "published_at": "2026-06-26T05:08:45+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "88216330",
-      "category": "台湾・中台関係",
-      "title": "HYPOCRITE IDLER 2Q2026",
-      "summary": "申し訳ございませんが、提供いただいたテキストは記事というより見出しと短い説明文のみで、実質的な内容がありません。「Josh's work and unwork, doings and undoings since April 1」という記述だけでは、具体的なニュース内容や事実情報が不足しており、意味のある要約を作成することができません。翻訳対象となる実際のニュース記事本文をご提供いただけますでしょうか。",
-      "url": "https://www.hilobrow.com/2026/06/26/hypocrite-idler-2q2026/",
-      "source": "Hilobrow.com",
-      "published_at": "2026-06-26T05:04:27+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "52064558",
-      "category": "台湾・中台関係",
-      "title": "The Problem with Isolationism",
-      "summary": "イラン戦争は孤立主義者がアメリカの介入政策を批判するための舞台となっているが、その批判は的外れである。孤立主義者たちはアメリカが中東での軍事介入を避けるべきだと主張しているものの、完全な孤立政策は国際的な脅威に対応する能力を損なう可能性がある。戦略的な国際関与とテロ対策の必要性を考慮すると、一概に介入政策を否定することはできないという論点が示されている。",
-      "url": "https://www.americanthinker.com/articles/2026/06/the-problem-with-isolationism/",
-      "source": "Americanthinker.com",
-      "published_at": "2026-06-26T04:00:00+00:00",
       "lang": "en"
     }
   ]
