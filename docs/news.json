@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T13:01:13.330458+00:00",
+  "updated_at": "2026-06-27T16:48:21.609972+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -45,7 +45,7 @@
   "digest": [],
   "news": [
     {
-      "id": "46197943",
+      "id": "43425367",
       "category": "経済・ビジネス（日本）",
       "title": "中国とロシアの空軍 日本海などで合同パトロール 連携を誇示",
       "summary": "中国国防省が日本海などの空域でロシア軍と合同パトロールを実施したと発表しました。中国とロシアは両国の軍事的な連携を改めて誇示する狙いがあるものとみられます。",
@@ -55,7 +55,7 @@
       "lang": "ja"
     },
     {
-      "id": "58280923",
+      "id": "62103935",
       "category": "経済・ビジネス（日本）",
       "title": "台湾立法院長が訪米 米下院議長と安全保障など意見交わす",
       "summary": "台湾の立法院長がアメリカを訪問し、下院議長と安全保障協力などについて協議しました。中国の台湾への圧力が強まる中、米台関係の強化を確認しました。",
@@ -65,7 +65,7 @@
       "lang": "ja"
     },
     {
-      "id": "14358137",
+      "id": "30664421",
       "category": "経済・ビジネス（日本）",
       "title": "米とイラン 双方が攻撃主張 最終合意への険しさ浮き彫りに",
       "summary": "アメリカ中央軍はイランのミサイルや無人機の保管施設を航空機で攻撃したと発表し、その理由はホルムズ海峡の貨物船がイランの無人機の攻撃を受けたことへの対抗措置だとしています。イラン側はこの攻撃を厳しく非難しており、両国間の停戦は不安定な状態に陥っています。",
@@ -75,7 +75,7 @@
       "lang": "ja"
     },
     {
-      "id": "33889318",
+      "id": "16897890",
       "category": "経済・ビジネス（日本）",
       "title": "北京 高層ビルに小型機衝突 操縦士1人死亡 13人けが 地元政府",
       "summary": "中国の首都北京の中心部で26日に小型機が高層ビルに衝突したとみられると複数の香港メディアが報じており、事故現場には多くの警察官が配置されているものの、中国当局からの公式発表はまだなされていません。",
@@ -85,7 +85,7 @@
       "lang": "ja"
     },
     {
-      "id": "55512015",
+      "id": "35486684",
       "category": "経済・ビジネス（日本）",
       "title": "ベネズエラ大地震 死者900人余りに 約3300人がけが 救出急ぐ",
       "summary": "ベネズエラで24日に発生したマグニチュード7を超える地震により、900人余りが死亡し、約3300人がけがをしました。発生から48時間以上が経過し、倒壊建物に取り残された人たちの救出が急がれており、国際社会からの支援も本格化しています。",
@@ -95,7 +95,7 @@
       "lang": "ja"
     },
     {
-      "id": "78179163",
+      "id": "69844402",
       "category": "経済・ビジネス（日本）",
       "title": "アンソロピック AI「ミュトス5」米の一部企業などに提供再開へ",
       "summary": "アンソロピックは政府の命令で提供を停止していた最新AIモデル「クロード・ミュトス5」について、アメリカの一部企業への提供を再開すると発表した。",
@@ -105,7 +105,7 @@
       "lang": "ja"
     },
     {
-      "id": "86886920",
+      "id": "31185497",
       "category": "経済・ビジネス（日本）",
       "title": "ボルトン元大統領補佐官 司法取引で機密情報の所持認める",
       "summary": "トランプ政権で大統領補佐官を務めたジョン・ボルトン氏が、機密情報を違法に所持していた罪を司法取引で認めました。当初は政権からの報復だと主張して争う姿勢を見せていましたが、最終的に罪の一部を受け入れることに合意しました。",
@@ -115,7 +115,7 @@
       "lang": "ja"
     },
     {
-      "id": "41132666",
+      "id": "34021890",
       "category": "経済・ビジネス（日本）",
       "title": "ウクライナ外相が来日へ 復興支援や無人機など意見交わす考え",
       "summary": "ウクライナのシビハ外相が今月30日から日本を訪問し、茂木外務大臣と会談することが発表されました。会談では日本による復興支援の継続やウクライナの無人機に関する知見などについて意見交換する予定です。",
@@ -125,7 +125,7 @@
       "lang": "ja"
     },
     {
-      "id": "30781109",
+      "id": "75757273",
       "category": "経済・ビジネス（世界）",
       "title": "Trump threatens 100% tariff on European nations over tech tax",
       "summary": "トランプ米大統領は、技術税導入を検討している複数のヨーロッパ諸国に対して100%の関税を課すと脅迫した。大統領は声明で、多くのヨーロッパ諸国がこうした課税を導入することについて協議していると指摘し、米国企業に対する不公正な扱いだと主張している。",
@@ -135,7 +135,7 @@
       "lang": "en"
     },
     {
-      "id": "34364528",
+      "id": "54405239",
       "category": "経済・ビジネス（世界）",
       "title": "Three unusual things about the King's tax bill",
       "summary": "チャールズ国王は2024年～2025年度に1290万ポンドの税金を納めたが、その税務状況は極めて異例である。国王は一般市民とは異なる特別な税制上の扱いを受けており、通常の納税義務とは大きく異なる仕組みとなっている。この独特な税金の支払い方法と制度は、イギリスの王室財政における重要な特徴を示している。",
@@ -145,7 +145,7 @@
       "lang": "en"
     },
     {
-      "id": "67946761",
+      "id": "53664648",
       "category": "経済・ビジネス（世界）",
       "title": "What's happening to petrol prices now oil is back to pre-Iran war levels?",
       "summary": "イランとの戦争が2月28日に始まった際、燃料価格は中東でのエネルギー生産と輸送の混乱により急騰したが、現在は戦前の水準に戻ったため、ガソリン価格も低下している。戦争開始時には供給不安から価格が上昇していたが、実際の生産への影響が限定的だったことが判明し、市場は落ち着きを取り戻した。",
@@ -155,7 +155,7 @@
       "lang": "en"
     },
     {
-      "id": "36645024",
+      "id": "47810715",
       "category": "経済・ビジネス（世界）",
       "title": "Who could be the UK's next chancellor?",
       "summary": "英国首相の辞任により、英国の財務を担当する次期財務相を巡る競争が始まった。この職は経済政策と予算編成を担当する重要なポジションであり、複数の有力候補者が立候補を検討していると見られている。次の財務相は、インフレーションやエネルギー危機といった経済的課題に直面することになるだろう。",
@@ -165,7 +165,7 @@
       "lang": "en"
     },
     {
-      "id": "24973710",
+      "id": "61456972",
       "category": "経済・ビジネス（世界）",
       "title": "Asia stock markets slide as tech shares slump",
       "summary": "アジアの株式市場が下落しており、特にテクノロジー関連銘柄が大きく値を下げている。韓国のコスピ指数は今週3度目の取引停止となり、パニック売却を防ぐための措置が講じられた。地域全体で市場の不安定性が高まっている。",
@@ -175,7 +175,7 @@
       "lang": "en"
     },
     {
-      "id": "85771214",
+      "id": "95581733",
       "category": "経済・ビジネス（世界）",
       "title": "Power banks and vapes now biggest fire risk on planes",
       "summary": "飛行機でのリチウム電池火災が最大の安全上のリスクとなっており、機内預け荷物から見つかるモバイルバッテリーと電子タバコなどのデバイスの数がこの1年でほぼ2倍に増加している。これらの小型電子機器は航空機内での火災の主要な原因として認識されており、航空会社と規制当局は乗客に対してこれらの製品を客室に持ち込むか正しく梱包するよう警告している。",
@@ -185,7 +185,7 @@
       "lang": "en"
     },
     {
-      "id": "58888849",
+      "id": "13914089",
       "category": "経済・ビジネス（世界）",
       "title": "Teens who hacked TfL were known to police years before cyber-attack",
       "summary": "ロンドン交通局（TfL）へのサイバー攻撃を実行した10代の若者オーウェン・フラワーズとターラ・ジュバイルは、この攻撃の数年前から警察に認識されていた。この攻撃によってロンドン交通局は多額の被害を被ることになったが、二人はこの事件での役割について有罪判決を受けた。",
@@ -195,7 +195,7 @@
       "lang": "en"
     },
     {
-      "id": "49147598",
+      "id": "45194981",
       "category": "経済・ビジネス（世界）",
       "title": "I'm back at home again after uni - here's how I'm making it work",
       "summary": "大学卒業後に親元に戻る若い世代が増えており、生活費の上昇がこの傾向を加速させています。親子関係を良好に保ちながら同居生活を成功させるためには、相互理解と明確なコミュニケーションが重要です。記事では、親との衝突を避けるための実践的なアドバイスが提供されています。",
@@ -205,7 +205,37 @@
       "lang": "en"
     },
     {
-      "id": "23972439",
+      "id": "84714315",
+      "category": "テクノロジー・AI",
+      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "summary": "Apple Vision Pro開発を指揮していたポール・ミード副社長がOpenAIのハードウェアチームに転職することが報じられた。同氏はAppleでのVision Pro責任者としての役割を離れ、OpenAIでの新たな職務に就く見通しである。この人事異動はAppleのMR分野での経営陣の動きとOpenAIのハードウェア戦略の強化を示唆している。",
+      "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-27T16:45:09+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "29033175",
+      "category": "テクノロジー・AI",
+      "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+      "summary": "健康志向の起業家コナー・クリストゥが癌と診断されたとき、彼は血液検査結果、スキャンデータ、ウェアラブルデバイスの出力、日記などすべての健康データをAIアシスタント「Claude」に入力し、癌との戦いに活用することにした。クリストゥは自身の詳細な健康情報をAIに分析させることで、治療戦略の最適化と病状の管理に役立てている。",
+      "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-27T14:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "69367198",
+      "category": "テクノロジー・AI",
+      "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
+      "summary": "Appleはティム・クックCEOが価格上昇は「避けられない」と述べており、最近のMacBook Pro、iPad Air、HomePod Miniなど複数の製品で値上げを実施している。記事はAppleが大手テック企業のAI開発熱に乗じて消費者に負担を強いているのではないかと疑問を呈している。",
+      "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
+      "source": "AI | The Verge",
+      "published_at": "2026-06-27T13:30:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "10604875",
       "category": "テクノロジー・AI",
       "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
       "summary": "アジアのAIスタートアップが、アンスロピックの輸出禁止が長引く中、Mythosに匹敵する機能を備えたモデルを相次いで立ち上げている。これらの新しいモデルはアジア地域で開発され、輸出禁止の懸念なしにMythosに匹敵する能力を提供する可能性がある。米国のAIラボはこの巨大市場を失う可能性があり、回復が難しくなるかもしれない。",
@@ -215,7 +245,7 @@
       "lang": "en"
     },
     {
-      "id": "96571723",
+      "id": "17889422",
       "category": "テクノロジー・AI",
       "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
       "summary": "トランプ政権はAnthropicの「Mythos」を100以上の米国企業および政府機関による使用を承認し、非米国従業員も含めて利用可能にした。このAIモデルへのアクセス拡大により、米国内の様々なセクターでの導入が進むことが期待されている。",
@@ -225,7 +255,7 @@
       "lang": "en"
     },
     {
-      "id": "17017467",
+      "id": "69792738",
       "category": "テクノロジー・AI",
       "title": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
       "summary": "FTC（米連邦取引委員会）はイーロン・マスク氏がSpaceXの元従業員らが創業したスタートアップMeshを買収することを承認した。Meshは2月にステルスモードを抜けて5000万ドルのシリーズAファインディングを実施している。",
@@ -235,7 +265,7 @@
       "lang": "en"
     },
     {
-      "id": "70873898",
+      "id": "36066642",
       "category": "テクノロジー・AI",
       "title": "Anthropic&#8217;s Mythos 5 is back",
       "summary": "Anthropicの大型言語モデル「Mythos 5」がトランプ政権との2週間に及ぶ交渉を経て、限定的に再開された。政府の書簡によると、選ばれた組織のみが利用可能となる一方、公開版の「Fable 5」については依然として制限が続いているという状況である。",
@@ -245,7 +275,7 @@
       "lang": "en"
     },
     {
-      "id": "23737130",
+      "id": "78988118",
       "category": "テクノロジー・AI",
       "title": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product",
       "summary": "Y Combinatorの支援を受けるスタートアップ企業Corgiは、Papermarkから自社ソフトウェアの盗用を指摘されましたが、これを否定しており、オープンソースソフトウェアの利用をめぐる論争が生じています。",
@@ -255,113 +285,83 @@
       "lang": "en"
     },
     {
-      "id": "37423779",
-      "category": "テクノロジー・AI",
-      "title": "Novak Djokovic has a new job —  advisor to private equity firm General Atlantic",
-      "summary": "ノバク・ジョコビッチがプライベート・エクイティ企業ゼネラル・アトランティックのグローバル・ストラテジック・アドバイザーに就任した。ジョコビッチはテニス界の伝説的選手で、同社の戦略立案と事業展開に助言を提供する。この就任により、ジョコビッチはテニス選手としてのキャリアと並行して、ビジネス分野でのポジションを確保することになった。",
-      "url": "https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-26T19:13:40+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "65925569",
-      "category": "テクノロジー・AI",
-      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
-      "summary": "OpenAIは政府の要請によりGPT-5.6の展開を制限しましたが、このような政府によるアクセス制限プロセスが常態化すべきではないと主張しており、ユーザーや開発者、企業、サイバーディフェンダー、国際パートナーなどが必要とする最高のツールが利用できなくなることに懸念を表明しています。",
-      "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-26T18:32:14+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "17130094",
-      "category": "テクノロジー・AI",
-      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
-      "summary": "オープンAIがインド市場における経営強化のため、Uberインド・南アジア部門の最高経営責任者をスカウトし、米国外最大市場となるインドでの事業展開を加速させている。同社はインドでのオフィス拡張、パートナーシップ構築、採用活動を積極的に推し進めており、今回の人事異動はこうした市場進出戦略の一環である。",
-      "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-26T18:19:36+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "61814452",
+      "id": "69031320",
       "category": "台湾・中台関係",
-      "title": "China Bestsellers, May 2026: Screen Adaptations Drive Book Sales",
-      "summary": "2026年5月の中国の書籍売上ランキングが発表され、テレビや映画などのスクリーン化作品が書籍販売を大きく牭動かしていることが明らかになった。フィクション、ノンフィクション、児童書の各カテゴリーで売上データが共有され、外国人著者による書籍の販売状況についても詳細な分析が提供されている。",
-      "url": "https://publishingperspectives.com/2026/06/china-bestsellers-may-2026-screen-adaptations-drive-book-sales/",
-      "source": "Publishingperspectives.com",
-      "published_at": "2026-06-26T12:45:40+00:00",
+      "title": "Brent Erases Iran War Premium as Hormuz Flows Show Signs of Recovery",
+      "summary": "ホルムズ海峡の混乱が緩和されると市場が予想し、ブレント原油が1週間で10%下落して、イラン戦争プレミアムが消滅した。中東産原油のベンチマークが順鞘に陥り、ホルムズ海峡を通過する船舶輸送量が回復の兆しを見せている。原油価格の下落は海峡を通じた石油流通の正常化と地政学的リスクの軽減を反映している。",
+      "url": "https://oilprice.com/Energy/Energy-General/Brent-Erases-Iran-War-Premium-as-Hormuz-Flows-Show-Signs-of-Recovery.html",
+      "source": "OilPrice.com",
+      "published_at": "2026-06-26T16:19:44+00:00",
       "lang": "en"
     },
     {
-      "id": "88573271",
+      "id": "91024937",
       "category": "台湾・中台関係",
-      "title": "AI Tool Accelerates Joint Venture Identity Success",
-      "summary": "AI駆動のブランド診断フレームワークが、3つのグローバル企業の経営陣を集めて、わずか6週間以内に合弁事業のブランドアイデンティティを統一した。このツールは、複数の企業間でのコンセンサス形成と意思決定プロセスを大幅に加速させ、従来は数ヶ月要していたブランド戦略の策定を革新的に短縮している。フランス政府が主催する投資イベント「Choose France」の締め切りに対応するため、このAIソリューションが複雑な企業統合タスクを効率化する実例となった。",
-      "url": "https://www.prnewswire.com/news-releases/ai-tool-accelerates-joint-venture-identity-success-302811292.html",
-      "source": "PRNewswire",
-      "published_at": "2026-06-26T12:38:00+00:00",
+      "title": "Brent Erases Iran War Premium as Hormuz Flows Show Signs of Recovery",
+      "summary": "ブレント原油が10%下落し、ホルムズ海峡の通行混乱が緩和される見通しから「イラン戦争プレミアム」が解消される兆候を見せている。中東産原油のベンチマーク指標も低下しており、市場はホルムズ海峡の流通が回復する可能性があると予測している。",
+      "url": "https://finance.yahoo.com/energy/articles/brent-erases-iran-war-premium-161944594.html",
+      "source": "Yahoo Entertainment",
+      "published_at": "2026-06-26T16:19:44+00:00",
       "lang": "en"
     },
     {
-      "id": "24428962",
+      "id": "44568136",
       "category": "台湾・中台関係",
-      "title": "TSMC’s most advanced fab in Hsinchu prints transistors 25,000 times thinner than a human hair — using light that doesn’t naturally exist on Earth",
-      "summary": "TSMCの新竹工場では、地球の表面に自然には存在しない13.5ナノメートルの極紫外線を用いて、人間の髪の毛の25,000倍も微細な回路パターンを製造している。このプラズマ駆動型の極紫外線技術により、TSMCは世界で最も先進的な半導体製造を実現している。同工場は超高度な微細加工プロセスで業界をリードしている。",
-      "url": "https://spacedaily.com/sd-v-tsmcs-most-advanced-fab-in-hsinchu-prints-transistors-25-000-times-thinner-than-a-human-hair-using-light-that-doesnt-naturally-exist-on-earth/",
-      "source": "Space Daily",
-      "published_at": "2026-06-26T12:22:43+00:00",
+      "title": "76 Other Ways Philly Changed the World",
+      "summary": "フィラデルフィアは民主主義をアメリカにもたらしただけでなく、風船ガムから世界初のコンピュータ、命を救う医学的ブレークスルーまで、76の方法で世界を変えてきた。フィラデルフィアの最大の貢献は、これらの革新的な発明や影響を世界に広めたことである。",
+      "url": "https://www.phillymag.com/news/76-ways-philadelphia-changed-the-world/",
+      "source": "phillymag.com",
+      "published_at": "2026-06-26T15:25:59+00:00",
       "lang": "en"
     },
     {
-      "id": "48438529",
+      "id": "28219663",
       "category": "台湾・中台関係",
-      "title": "Taiwan to Build Chip and EV Factories in Poland Replacing China and the US",
-      "summary": "台湾がポーランドに半導体と電気自動車の工場を建設し、かつて中国とアメリカで計画されていたプロジェクトを引き継ぐことになった。この動きはポーランドのテック戦略において、地政学的な緊張の中で供給チェーンの多様化を進めるものとなっている。台湾の製造業能力がヨーロッパの戦略的パートナーシップの中で重要な役割を担うようになっている。",
-      "url": "https://thediplomat.com/2026/06/taiwan-to-build-chip-and-ev-factories-in-poland-replacing-china-and-the-us/",
+      "title": "Has China Really Entered the Three-Carrier Era?",
+      "summary": "中国が就役させた新しい航空母艦「福建」が台湾海峡を通過したことは、中国の航空母艦能力の進歩を示す一方で、その限界も明らかにしている。電磁式カタパルトを搭載する福建は技術的には先進的だが、乗員訓練や運用経験の面でまだ課題が残されており、中国が本当の意味で3隻の航空母艦時代に突入したかどうかは検討の余地がある。今後の運用状況次第で、中国海軍の実際の戦力評価が決まるとみられている。",
+      "url": "https://thediplomat.com/2026/06/has-china-really-entered-the-three-carrier-era/",
       "source": "The Diplomat",
-      "published_at": "2026-06-26T12:13:00+00:00",
+      "published_at": "2026-06-26T15:02:00+00:00",
       "lang": "en"
     },
     {
-      "id": "75520684",
+      "id": "73587787",
       "category": "台湾・中台関係",
-      "title": "Opposition delays review of Cabinet's NT$210 billion drone procurement bill",
-      "summary": "台湾の野党は金曜日、政府提案のドローン調達に関する210億台湾ドル（66億米ドル）の特別予算案の審査を延期することに投票し、独自の法案を起草する計画があると述べた。野党はこの防衛関連の大型予算案について、政府案に対する対案を検討する時間を確保したいという意向を示している。台湾はドローン技術を含む防衛力強化に注力しており、この予算案は国防戦略の重要な要素となっている。",
-      "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260626-cna01.htm",
-      "source": "Globalsecurity.org",
-      "published_at": "2026-06-26T12:00:00+00:00",
+      "title": "Display Market worth $137.83 billion by 2032 - Exclusive Report by MarketsandMarkets™",
+      "summary": "ディスプレイ市場は2026年の1093億ドルから2032年には1378億ドルに成長し、年平均成長率は3.9%と予測されている。この成長はテクノロジー産業の拡大や高性能ディスプレイへの需要増加によって牽引される見通しである。MarketsandMarketsの調査レポートでは160の市場データテーブルと60の図表が含まれている。",
+      "url": "https://www.prnewswire.com/news-releases/display-market-worth-137-83-billion-by-2032---exclusive-report-by-marketsandmarkets-302811607.html",
+      "source": "PRNewswire",
+      "published_at": "2026-06-26T14:15:00+00:00",
       "lang": "en"
     },
     {
-      "id": "67811060",
+      "id": "57562306",
       "category": "台湾・中台関係",
-      "title": "President Xi Jinping Meets with Bangladesh's Prime Minister Tarique Rahman",
-      "summary": "習近平国家主席は6月26日朝、北京の人民大会堂でバングラデシュのタリク・ラーマン首相と会談し、両国は中国とバングラデシュの共同体建設に向けた決定を共同発表した。この訪問はバングラデシュ首相の中国への公式訪問の一環であり、両国の関係強化を示すものである。",
-      "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/06/china-260626-prc-mofa01.htm",
-      "source": "Globalsecurity.org",
-      "published_at": "2026-06-26T12:00:00+00:00",
+      "title": "Xi backs Bangladesh in upholding sovereignty, 'rejecting foreign interference' in talks with PM Rahman",
+      "summary": "中国の習近平国家主席はバングラデシュの首相タリク・ラーマンとの会談で、バングラデシュの主権維持と外部干渉の拒否に対する揺るがない支持を約束した。中国はラーマン政権への支援を表明するとともに、新たな経済回廊の構想を提案した。",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/xi-backs-bangladesh-in-upholding-sovereignty-rejecting-foreign-interference-in-talks-with-pm-rahman/articleshow/132017558.cms",
+      "source": "The Times of India",
+      "published_at": "2026-06-26T13:38:52+00:00",
       "lang": "en"
     },
     {
-      "id": "70031699",
+      "id": "29719876",
       "category": "台湾・中台関係",
-      "title": "Lai orders stronger maritime resilience after China quarantine drill",
-      "summary": "台湾の頼清徳総統は、中国による台湾封鎖を想定した机上演習後、海上調整、商業船舶通信、無人機偵察能力の強化を関係当局に指示した。この演習は中国の経済的・軍事的な包囲シナリオに対する台湾の防御態勢を評価するためのもので、海事インフラと情報収集体制の整備が急務であることが確認された。",
-      "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260626-cna02.htm",
-      "source": "Globalsecurity.org",
-      "published_at": "2026-06-26T12:00:00+00:00",
+      "title": "The Iran Deal: A Bad End to an Unnecessary War",
+      "summary": "イランとの紛争が長期化する中、米国とイランが先週覚書に署名して現段階の戦闘を正式に終了させたが、開戦当初から米国と連携していたイスラエルはこの合意に参加していない状況が生じている。",
+      "url": "https://www.fairobserver.com/world-news/middle-east-news/the-iran-deal-a-bad-end-to-an-unnecessary-war/",
+      "source": "Fair Observer",
+      "published_at": "2026-06-26T13:23:14+00:00",
       "lang": "en"
     },
     {
-      "id": "94316966",
+      "id": "74885857",
       "category": "台湾・中台関係",
-      "title": "China slams Japan, Philippines over so-called maritime delimitation negotiations",
-      "summary": "中国国防報道官は木曜日、中国を迂回して一方的に海洋境界画定交渉を開始した日本とフィリピンを非難した。中国は、この交渉が中国の海洋権益を侵害するものであり、関係国との協議なしに進められるべきではないと主張している。両国間の海洋領土問題は、南シナ海における緊張の高まりを反映した形での対立となっている。",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260626-pdo01.htm",
-      "source": "Globalsecurity.org",
-      "published_at": "2026-06-26T12:00:00+00:00",
+      "title": "Seven recent Yale graduates to continue their studies as U.K. fellows",
+      "summary": "イェール大学の最近の卒業生7人（2026年卒業生6人を含む）が、イギリスでの大学院進学のためのフェローシップを獲得した。このフェローシップにより、彼らはイギリスの高等教育機関で高度な研究を続ける機会を得る。",
+      "url": "https://news.yale.edu/2026/06/26/seven-recent-yale-graduates-continue-their-studies-uk-fellows",
+      "source": "Yale.edu",
+      "published_at": "2026-06-26T13:19:19+00:00",
       "lang": "en"
     }
   ]
