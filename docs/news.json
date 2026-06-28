@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T10:56:16.713804+00:00",
+  "updated_at": "2026-06-28T14:48:14.177089+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -45,7 +45,17 @@
   "digest": [],
   "news": [
     {
-      "id": "21474842",
+      "id": "68584214",
+      "category": "経済・ビジネス（日本）",
+      "title": "小泉防衛相訪韓 未来志向的な防衛協力の発展へ意思疎通で一致",
+      "summary": "小泉防衛大臣が韓国を訪問し、アン・ギュベク国防相と会談、朝鮮半島の非核化に向けた日韓両国および日米韓3か国の協力継続と、安定的で未来志向的な防衛協力の発展に向けた意思疎通の継続で合意した。",
+      "url": "http://www3.nhk.or.jp/news/html/20260628/k10015163121000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-28T13:56:04+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "51033419",
       "category": "経済・ビジネス（日本）",
       "title": "アメリカ建国250年 トランプ大統領主導の公共工事が物議",
       "summary": "アメリカが建国250年を迎え独立記念日の祝賀行事が行われる中、トランプ大統領が主導した公共工事がワシントンの象徴的な景観である「ナショナル・モール」の反射池を巡って物議を醸しています。この工事の影響が首都の歴史的な景観に悪影響を与えているとして、批判の声が上がっています。",
@@ -55,7 +65,7 @@
       "lang": "ja"
     },
     {
-      "id": "80983425",
+      "id": "20291994",
       "category": "経済・ビジネス（日本）",
       "title": "米イラン双方が攻撃 互いに停戦合意違反を非難し情勢不安定",
       "summary": "米軍がイラン国内の軍事施設を攻撃し、トランプ大統領は停戦合意違反が理由だと主張しました。これに対しイランもクウェートとバーレーンの米軍基地を攻撃し、米イラン間の停戦状況は不安定化しています。",
@@ -65,17 +75,7 @@
       "lang": "ja"
     },
     {
-      "id": "33970810",
-      "category": "経済・ビジネス（日本）",
-      "title": "小泉防衛相訪韓 未来志向的な防衛協力の発展へ意思疎通で一致",
-      "summary": "小泉防衛大臣が韓国を訪問し、アン・ギュベク国防相と会談、朝鮮半島の非核化に向けた日韓両国および日米韓3か国の協力継続と、安定的で未来志向的な防衛協力の発展に向けた意思疎通の継続で合意した。",
-      "url": "http://www3.nhk.or.jp/news/html/20260628/k10015163121000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-28T09:51:54+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "48851967",
+      "id": "60368602",
       "category": "経済・ビジネス（日本）",
       "title": "ヨーロッパで猛暑続く ドイツなどで最高気温更新 死者相次ぐ",
       "summary": "ヨーロッパ各地で記録的な熱波が続いており、ドイツでは観測史上最高の40度を超える気温を記録しました。フランスのパリでは暑さが原因と見られる死者が相次ぐなど、各地で被害が広がっています。",
@@ -85,7 +85,7 @@
       "lang": "ja"
     },
     {
-      "id": "25544845",
+      "id": "30511302",
       "category": "経済・ビジネス（日本）",
       "title": "サッカーW杯 ユニフォームランキング 日本代表アウェー用2位に",
       "summary": "アメリカのスポーツ専門チャンネルがサッカーワールドカップ北中米大会に出場する48チーム100着余りのユニフォームをランキング発表し、日本代表の白いアウェー用ユニフォームが2位に選ばれました。",
@@ -95,17 +95,7 @@
       "lang": "ja"
     },
     {
-      "id": "70690647",
-      "category": "経済・ビジネス（日本）",
-      "title": "【動画】Pickup NEWS（6月28日）",
-      "summary": "本日のニュースダイジェスト動画では、これまでに報道された複数のニュース項目を1分間にまとめて紹介しています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260628/k10015162691000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-28T04:48:43+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "36265461",
+      "id": "72017601",
       "category": "経済・ビジネス（日本）",
       "title": "ベネズエラ地震 死者1430人 救助は時間との闘いに",
       "summary": "ベネズエラで24日に発生したマグニチュード7を超える2度の地震で、これまでに1430人の死亡が確認されました。各国からの救助隊が活動しているものの、生存率が大きく低下する地震発生から72時間を経過しており、救助活動は時間との闘いになっています。",
@@ -115,7 +105,7 @@
       "lang": "ja"
     },
     {
-      "id": "41523755",
+      "id": "48900688",
       "category": "経済・ビジネス（日本）",
       "title": "日米韓 北朝鮮のサイバー活動への対応を協議",
       "summary": "日本、アメリカ、韓国の代表団は北朝鮮によるサイバー攻撃への対応を協議し、暗号資産盗難などを通じた資金調達を防ぐことで大量破壊兵器や弾道ミサイル開発を阻止する方針を確認しました。",
@@ -125,7 +115,17 @@
       "lang": "ja"
     },
     {
-      "id": "24412964",
+      "id": "49722710",
+      "category": "経済・ビジネス（日本）",
+      "title": "アメリカとイラン 双方が攻撃主張 協議の先行き見通せず",
+      "summary": "アメリカがイランのミサイル保管施設への攻撃を発表し、イランも報復としてアメリカ軍関連施設を攻撃したと主張しており、停戦合意後に緊張が再び高まっています。双方が攻撃を続ける中、覚書に基づいた最終合意に向けた協議の見通しは依然として不透明な状況が続いています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260628/k10015162801000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-27T23:10:01+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "28552362",
       "category": "経済・ビジネス（世界）",
       "title": "Trump threatens 100% tariff on European nations over tech tax",
       "summary": "トランプ米大統領は、技術税導入を検討している複数のヨーロッパ諸国に対して100%の関税を課すと脅迫した。大統領は声明で、多くのヨーロッパ諸国がこうした課税を導入することについて協議していると指摘し、米国企業に対する不公正な扱いだと主張している。",
@@ -135,7 +135,7 @@
       "lang": "en"
     },
     {
-      "id": "43943868",
+      "id": "10562843",
       "category": "経済・ビジネス（世界）",
       "title": "Could you handle a 20-plus hour flight? This airline is banking on it",
       "summary": "ロンドンからシドニーへの初の直行便が実現しようとしており、20時間以上の長時間飛行となることから、航空会社はこのような超長距離フライトの需要があると見込んでいる。業界アナリストはこのフライトを大きなマイルストーンと評価する一方で、消費者がこのような極めて長い飛行時間のチケットを購入するかどうかは不確実な状況にある。この取り組みは航空産業における技術進歩と乗客の長距離移動ニーズの拡大を示す重要な事例となっている。",
@@ -145,7 +145,7 @@
       "lang": "en"
     },
     {
-      "id": "81148208",
+      "id": "46371372",
       "category": "経済・ビジネス（世界）",
       "title": "Three unusual things about the King's tax bill",
       "summary": "チャールズ国王は2024年～2025年度に1290万ポンドの税金を納めたが、その税務状況は極めて異例である。国王は一般市民とは異なる特別な税制上の扱いを受けており、通常の納税義務とは大きく異なる仕組みとなっている。この独特な税金の支払い方法と制度は、イギリスの王室財政における重要な特徴を示している。",
@@ -155,7 +155,7 @@
       "lang": "en"
     },
     {
-      "id": "78111238",
+      "id": "78504695",
       "category": "経済・ビジネス（世界）",
       "title": "What's happening to petrol prices now oil is back to pre-Iran war levels?",
       "summary": "イランとの戦争が2月28日に始まった際、燃料価格は中東でのエネルギー生産と輸送の混乱により急騰したが、現在は戦前の水準に戻ったため、ガソリン価格も低下している。戦争開始時には供給不安から価格が上昇していたが、実際の生産への影響が限定的だったことが判明し、市場は落ち着きを取り戻した。",
@@ -165,7 +165,7 @@
       "lang": "en"
     },
     {
-      "id": "58066415",
+      "id": "69839051",
       "category": "経済・ビジネス（世界）",
       "title": "Who could be the UK's next chancellor?",
       "summary": "英国首相の辞任により、英国の財務を担当する次期財務相を巡る競争が始まった。この職は経済政策と予算編成を担当する重要なポジションであり、複数の有力候補者が立候補を検討していると見られている。次の財務相は、インフレーションやエネルギー危機といった経済的課題に直面することになるだろう。",
@@ -175,7 +175,7 @@
       "lang": "en"
     },
     {
-      "id": "43853740",
+      "id": "29902773",
       "category": "経済・ビジネス（世界）",
       "title": "Asia stock markets slide as tech shares slump",
       "summary": "アジアの株式市場が下落しており、特にテクノロジー関連銘柄が大きく値を下げている。韓国のコスピ指数は今週3度目の取引停止となり、パニック売却を防ぐための措置が講じられた。地域全体で市場の不安定性が高まっている。",
@@ -185,7 +185,7 @@
       "lang": "en"
     },
     {
-      "id": "55687901",
+      "id": "48907146",
       "category": "経済・ビジネス（世界）",
       "title": "Power banks and vapes now biggest fire risk on planes",
       "summary": "飛行機でのリチウム電池火災が最大の安全上のリスクとなっており、機内預け荷物から見つかるモバイルバッテリーと電子タバコなどのデバイスの数がこの1年でほぼ2倍に増加している。これらの小型電子機器は航空機内での火災の主要な原因として認識されており、航空会社と規制当局は乗客に対してこれらの製品を客室に持ち込むか正しく梱包するよう警告している。",
@@ -195,7 +195,7 @@
       "lang": "en"
     },
     {
-      "id": "89378675",
+      "id": "58529650",
       "category": "経済・ビジネス（世界）",
       "title": "I'm back at home again after uni - here's how I'm making it work",
       "summary": "大学卒業後に親元に戻る若い世代が増えており、生活費の上昇がこの傾向を加速させています。親子関係を良好に保ちながら同居生活を成功させるためには、相互理解と明確なコミュニケーションが重要です。記事では、親との衝突を避けるための実践的なアドバイスが提供されています。",
@@ -205,7 +205,27 @@
       "lang": "en"
     },
     {
-      "id": "75458944",
+      "id": "88502228",
+      "category": "テクノロジー・AI",
+      "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
+      "summary": "パリセーズ火災事件の裁判において、検察はジョナサン・リンダークネヒトが2025年元日に放火した罪で起訴し、この火災はロサンゼルス歴史上最も死者が多い山火事となった。検察は有罪判決を得るため、iPhoneの位置情報データ、防犯カメラの映像、目撃者の証言に加えて、彼のChatGPTのログ記録も証拠として提出した。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+      "source": "AI | The Verge",
+      "published_at": "2026-06-28T14:12:06+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "47470769",
+      "category": "テクノロジー・AI",
+      "title": "Govee’s smart nugget ice maker makes every iced drink feel like a luxury",
+      "summary": "Goveeが発売した500ドルのスマート製氷機「GoveeLife Smart Nugget Ice Maker Pro」は、飲料に最適なソフトで噛みやすい氷を作ることができ、高級感のあるアイスドリンク体験を提供することを目指している。この製品は、飲み物の品質と同じくらい氷の質を重視する消費者をターゲットにした最新のスマートホームデバイスである。",
+      "url": "https://techcrunch.com/2026/06/28/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-28T14:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "29475746",
       "category": "テクノロジー・AI",
       "title": "Indian payments chief thinks AI will be heavily involved in next era of digital payment growth",
       "summary": "インドの決済最高責任者は、人工知能が次のデジタル決済成長の時代に大きな役割を果たすと考えている。ディリップ・アスベ氏は、新しいUPIアプリケーションが実行可能なビジネスモデルによってより競争力を持つようになる可能性があると述べている。AIを活用することで、インドのデジタル決済業界はさらなる革新と競争の激化を迎えようとしている。",
@@ -215,7 +235,7 @@
       "lang": "en"
     },
     {
-      "id": "29799771",
+      "id": "26848855",
       "category": "テクノロジー・AI",
       "title": "Instagram is testing more ways to customize ‘Your Algorithm’",
       "summary": "Instagramは、「あなたのアルゴリズム」をカスタマイズするための新しい方法をテストしています。ユーザーは近い将来、フィードに表示されるコンテンツをより細かく調整できるようになる見込みです。この機能強化により、個人の好みに合わせたより充実したInstagram体験が実現されることが期待されています。",
@@ -225,7 +245,7 @@
       "lang": "en"
     },
     {
-      "id": "71904463",
+      "id": "34960320",
       "category": "テクノロジー・AI",
       "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
       "summary": "ソフトバンクのCEOを含む複数の業界関係者が、イーロン・マスクが提唱する軌道上データセンター構想に対して懐疑的な見方を示している。マスクのビジョンに共感しない専門家や企業幹部が増えており、この宇宙ベースのインフラプロジェクトの実現可能性に疑問が呈されている。技術的な課題やコスト面での懸念が、この革新的なアイデアへの慎重な態度につながっている。",
@@ -235,7 +255,7 @@
       "lang": "en"
     },
     {
-      "id": "54755966",
+      "id": "50734577",
       "category": "テクノロジー・AI",
       "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
       "summary": "マーガレット・アトウッド著『ハンドメイドの物語』の作者は、ポルトガルのポルト開催の文学文化祭でのインタビューでAIについて言及し、AIの問題は「ゴミを入れればゴミが出る」という原則だと述べた。アトウッドはAIツールを試用した経験を語りながら、AIが学習データの質に完全に依存していることを指摘している。",
@@ -245,7 +265,7 @@
       "lang": "en"
     },
     {
-      "id": "91815351",
+      "id": "88482601",
       "category": "テクノロジー・AI",
       "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
       "summary": "Apple Vision Pro開発を指揮していたポール・ミード副社長がOpenAIのハードウェアチームに転職することが報じられた。同氏はAppleでのVision Pro責任者としての役割を離れ、OpenAIでの新たな職務に就く見通しである。この人事異動はAppleのMR分野での経営陣の動きとOpenAIのハードウェア戦略の強化を示唆している。",
@@ -255,37 +275,67 @@
       "lang": "en"
     },
     {
-      "id": "54345931",
+      "id": "72838446",
       "category": "テクノロジー・AI",
-      "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
-      "summary": "健康志向の起業家コナー・クリストゥが癌と診断されたとき、彼は血液検査結果、スキャンデータ、ウェアラブルデバイスの出力、日記などすべての健康データをAIアシスタント「Claude」に入力し、癌との戦いに活用することにした。クリストゥは自身の詳細な健康情報をAIに分析させることで、治療戦略の最適化と病状の管理に役立てている。",
-      "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-27T14:00:00+00:00",
+      "title": "Absolute Martian Manhunter #12 Preview: Life, Death, and Fate",
+      "summary": "火星の奇人マンハンターの第12号プレビューでは、キャラクターが生死と運命に直面することになる。LOLtronというAIキャラクターが、かつてのライターであるジュード・テラーの永遠の死を言及しながら、コミックブックプレビューを紹介している。この作品はBleedingCoolウェブサイトで公開される予定である。",
+      "url": "https://bleedingcool.com/comics/absolute-martian-manhunter-12-preview-life-death-and-fate/",
+      "source": "Bleeding Cool News",
+      "published_at": "2026-06-27T14:26:09+00:00",
       "lang": "en"
     },
     {
-      "id": "20545160",
-      "category": "テクノロジー・AI",
-      "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
-      "summary": "Appleはティム・クックCEOが価格上昇は「避けられない」と述べており、最近のMacBook Pro、iPad Air、HomePod Miniなど複数の製品で値上げを実施している。記事はAppleが大手テック企業のAI開発熱に乗じて消費者に負担を強いているのではないかと疑問を呈している。",
-      "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
-      "source": "AI | The Verge",
+      "id": "80166198",
+      "category": "台湾・中台関係",
+      "title": "Tim Sheehy exposes a 'scary' shipbuilding collapse that leaves the US vulnerable to China",
+      "summary": "上院議員ティム・シーヒーは、中国が米国の230倍の速さで船舶を建造していると警告し、造船危機は深刻な国家安全保障上の問題だと指摘しています。シーヒーは米国の造船産業の衰退により、中国に対して米国が脆弱な状況にあることを懸念しており、この問題の解決が急務であると主張しています。",
+      "url": "https://www.foxnews.com/media/tim-sheehy-exposes-scary-shipbuilding-collapse-leaves-us-vulnerable-china",
+      "source": "Fox News",
+      "published_at": "2026-06-27T14:00:47+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "82852472",
+      "category": "台湾・中台関係",
+      "title": "Since the first Japanese bullet train left Tokyo Station on October 1, 1964 — just nine days before the opening of the Tokyo Olympics — the Shinkansen has carried more than 10 billion passengers across 60 years of continuous high-speed operation, and has never had a single passenger fatality caused by derailment or collision in its entire history",
+      "summary": "1964年10月1日の東京オリンピック9日前に東京駅から出発した日本の新幹線は、60年間の連続運行を通じて10億人以上の乗客を運んできたが、脱線や衝突による乗客死亡事故は一件も起きていない。一方、高速鉄道システムを構築した他の国々はいずれも遅かれ早かれ人命喪失事故を経験しており、1981年に開業したフランスのTGVネットワークも2015年のストラスブール近郊での脱線を含む複数の致命的事故を経験している。",
+      "url": "https://spacedaily.com/d-since-the-first-japanese-bullet-train-left-tokyo-station-on-october-1-1964-just-nine-days-before-the-opening-of-the-tokyo-olympics-the-shinkansen-has-carried-more-than-10-billion/",
+      "source": "Space Daily",
+      "published_at": "2026-06-27T13:45:54+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "63056336",
+      "category": "台湾・中台関係",
+      "title": "Why the left should support Trump’s deal with Iran",
+      "summary": "イラン核合意の潜在的な平和協議を弱体化させようとする組織的な取り組みが行われている。これは親イスラエル右派からだけでなく、リベラル派や進歩的左派の一部からも出ているのが懸念される。左派勢力がトランプ政権とイランの取引を支持すべき理由が論じられている記事であり、通常は右派の反対が予想される中で、左派陣営内部からの反発が問題になっていることを指摘している。",
+      "url": "https://mondoweiss.net/2026/06/why-the-left-should-support-trumps-deal-with-iran/",
+      "source": "Mondoweiss",
       "published_at": "2026-06-27T13:30:00+00:00",
       "lang": "en"
     },
     {
-      "id": "43155214",
-      "category": "テクノロジー・AI",
-      "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
-      "summary": "アジアのAIスタートアップが、アンスロピックの輸出禁止が長引く中、Mythosに匹敵する機能を備えたモデルを相次いで立ち上げている。これらの新しいモデルはアジア地域で開発され、輸出禁止の懸念なしにMythosに匹敵する能力を提供する可能性がある。米国のAIラボはこの巨大市場を失う可能性があり、回復が難しくなるかもしれない。",
-      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-27T12:00:00+00:00",
+      "id": "83212359",
+      "category": "台湾・中台関係",
+      "title": "The New Five Forces, Part 1: Technology as a Structural Disruptor",
+      "summary": "テクノロジーは市場構造を根本的に変え、経営環境に新たな力学をもたらしている。不確実な世界での事業展開に向けて、既存の経営フレームワークの再構築が急務となっている。ノア・ガフニ博士の報告書に基づく5部構成シリーズの第1部では、変動性の時代における新しい5つの経営課題が提示されている。",
+      "url": "https://www.fairobserver.com/world-news/the-new-five-forces-part-1-technology-as-a-structural-disruptor/",
+      "source": "Fair Observer",
+      "published_at": "2026-06-27T12:19:54+00:00",
       "lang": "en"
     },
     {
-      "id": "68117018",
+      "id": "36580198",
+      "category": "台湾・中台関係",
+      "title": "Graphene Chip Market Size to Hit USD 19.78 Billion by 2035 | Research by SNS Insider",
+      "summary": "グラフェンチップの世界市場規模は2035年までに197億8000万ドルに達すると予想され、チップタイプ、用途、グラフェン形態、チップサイズ、地域別にセグメント分析が行われている。この市場は急速な成長を遂げており、様々な産業分野での応用拡大が進んでいる。SNS Insiderの調査による今後の市場トレンドと収益予測が注目されている。",
+      "url": "https://www.globenewswire.com/news-release/2026/06/27/3318537/0/en/Graphene-Chip-Market-Size-to-Hit-USD-19-78-Billion-by-2035-Research-by-SNS-Insider.html",
+      "source": "GlobeNewswire",
+      "published_at": "2026-06-27T11:30:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "73530945",
       "category": "台湾・中台関係",
       "title": "Apple Price Hikes Weigh on Asian Stocks, Dampening Tech Market Sentiment",
       "summary": "アップルの値上げがアジア株式市場に新たな圧力をかけており、投資家がテクノロジー企業と消費者需要の見通しを再評価している。アップルの価格決定は自社の売上だけでなく、サプライチェーン全体に影響を与えるため、広範な業界の需要見通しの悪化を示唆し、アジア地域のテック関連銘柄全体のセンチメントを圧迫している。",
@@ -295,7 +345,7 @@
       "lang": "en"
     },
     {
-      "id": "13440754",
+      "id": "40866898",
       "category": "台湾・中台関係",
       "title": "ETMarkets Smart Talk | AI and semiconductors remain the best global investment themes today: Niteen Dongare",
       "summary": "インドの投資家がグローバル分散投資を増やす中、アナンド・ラティ・インターナショナル・ベンチャーズのニティーン・ドンガレ氏は、AIと半導体が最も魅力的な長期投資テーマであると述べています。同氏はポートフォリオの20～30%をグローバル市場に配分することを推奨しており、これらの技術セクターが今後の投資機会の中核であると指摘しています。",
@@ -305,63 +355,13 @@
       "lang": "en"
     },
     {
-      "id": "52230916",
+      "id": "48547035",
       "category": "台湾・中台関係",
       "title": "Rich and famous families teach their kids Mandarin as China's influence grows",
       "summary": "中国の影響力の増大に伴い、富裕層や有力家族が子どもたちに中国語（標準中国語）を習わせることに強い関心を示している。専門家らは、世界における中国の台頭を考えると、このような傾向は当然の結果だと指摘している。",
       "url": "https://www.abc.net.au/news/2026-06-27/musk-trump-bezos-zuckerberg-children-learning-mandarin/106813224",
       "source": "ABC News (AU)",
       "published_at": "2026-06-27T03:18:49+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "75611004",
-      "category": "台湾・中台関係",
-      "title": "EVA Air Debuts the First Washington, D.C. to Taipei Nonstop Service",
-      "summary": "EVA航空がワシントンD.C.からタイペイへの初の直行便サービスを開始し、これは同航空の北米における10番目の拠点となりました。このルートにより、米国の首都地域とアジア間のアクセスが向上します。",
-      "url": "https://www.prnewswire.com/news-releases/eva-air-debuts-the-first-washington-dc-to-taipei-nonstop-service-302812477.html",
-      "source": "PRNewswire",
-      "published_at": "2026-06-27T01:16:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "52358357",
-      "category": "台湾・中台関係",
-      "title": "AI glasses are aiding cheating in exams. Test-obsessed Asia is ground zero",
-      "summary": "AI眼鏡を使用した試験カンニングが急増しており、特に試験重視のアジア地域で深刻な問題となっている。従来の方法から進化したこの新しい形態のカンニングは、学校の試験管理システムに新たな課題をもたらしている。教育機関はこの技術的脅威に対抗するため、新しい対策の導入を余儀なくされている。",
-      "url": "https://www.cnn.com/2026/06/26/asia/ai-glasses-cheating-exams-intl-hnk",
-      "source": "CNN",
-      "published_at": "2026-06-27T00:58:41+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "35730191",
-      "category": "台湾・中台関係",
-      "title": "Why Do DVDs Have Region Codes?",
-      "summary": "DVDやBlu-rayディスクにはリージョンコードが設定されており、異なるリージョンのディスクは対応するプレイヤーで再生できない仕様になっている。この地域制限は、映画スタジオが異なる国での公開時期や価格設定をコントロールし、違法コピーを防ぐためのビジネス戦略として導入された。結果として消費者は自分のリージョンに対応したディスクのみ購入でき、企業側は各地域の市場を独立して管理できるようになっている。",
-      "url": "https://www.bgr.com/2199842/why-do-dvds-have-region-codes/",
-      "source": "BGR",
-      "published_at": "2026-06-26T23:17:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "43985386",
-      "category": "台湾・中台関係",
-      "title": "Trump blames Iran for ‘foolish’ strike on cargo ship in Strait of Hormuz",
-      "summary": "ホルムズ海峡でイラン軍がドローン攻撃を実施し、貨物船を攻撃したことについて、トランプ米大統領はイランの行動を「愚かだ」と非難した。オマン沖での無人機による攻撃により、米国とイランの脆弱な停戦合意が試されており、米大統領から厳しい警告が発せられている。",
-      "url": "https://www.aljazeera.com/news/2026/6/26/trump-blames-iran-for-foolish-strike-on-cargo-ship-in-strait-of-hormuz",
-      "source": "Al Jazeera English",
-      "published_at": "2026-06-26T19:26:16+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "41373548",
-      "category": "台湾・中台関係",
-      "title": "The CABEI Board of Governors marks a milestone with the approval of a new US$3 billion capital increase and the strengthening of the Bank's governance",
-      "summary": "中米開発銀行（CABEI）の理事会は2026年6月26日、30億ドルの資本増強と統治体制の強化を承認しました。この決定は銀行の財務健全性と関連性を高める戦略的措置であり、CABEIの歴史において最も重要なマイルストーンの一つとなります。この承認により、中米地域への投資能力が大幅に強化されることが期待されています。",
-      "url": "https://www.prnewswire.com/news-releases/the-cabei-board-of-governors-marks-a-milestone-with-the-approval-of-a-new-us3-billion-capital-increase-and-the-strengthening-of-the-banks-governance-302812184.html",
-      "source": "PRNewswire",
-      "published_at": "2026-06-26T18:12:00+00:00",
       "lang": "en"
     }
   ]
