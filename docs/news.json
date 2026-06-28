@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T14:59:46.643637+00:00",
+  "updated_at": "2026-06-28T23:09:33.103873+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -45,7 +45,57 @@
   "digest": [],
   "news": [
     {
-      "id": "45993308",
+      "id": "45159413",
+      "category": "経済・ビジネス（日本）",
+      "title": "政府 厳しい安全保障環境の認識共有 韓国と連携強化図る方針",
+      "summary": "小泉防衛大臣が就任後初めて韓国を訪問し、アン・ギュベク国防相と会談しました。政府は中国と北朝鮮がロシアとの軍事連携を強める状況下で、厳しい安全保障環境の認識を共有し、韓国との連携強化を図る方針です。",
+      "url": "http://www3.nhk.or.jp/news/html/20260629/k10015163241000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-28T21:37:19+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "82748342",
+      "category": "経済・ビジネス（日本）",
+      "title": "“アメリカ・イランが攻撃停止で合意 30日に協議”米報道",
+      "summary": "アメリカとイランがホルムズ海峡をめぐる攻撃の停止で合意し、30日にカタールで協議を行う見通しだとアメリカメディアが伝えた。両国の紛争の緩和に向けた動きとなっている。",
+      "url": "http://www3.nhk.or.jp/news/html/20260629/k10015163371000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-28T21:26:55+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "51185459",
+      "category": "経済・ビジネス（日本）",
+      "title": "ロシアとベラルーシが首脳会談 軍事侵攻めぐり圧力との報道も",
+      "summary": "プーチン大統領とベラルーシのルカシェンコ大統領が26日から2日間の首脳会談を開き、経済協力や安全保障について協議しました。ロシアはベラルーシに対し、ウクライナへの軍事侵攻への協力強化を圧力でもって促しているとも報じられています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260629/k10015163311000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-28T20:57:57+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "21218886",
+      "category": "経済・ビジネス（日本）",
+      "title": "ベネズエラ地震から4日 各国救助チームの活動本格化",
+      "summary": "ベネズエラの地震で4日後までに1450人の死亡が確認され、建物被害が集中しているラ・グアイラ州などで各国の救助チームが活動を本格化させています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260629/k10015163301000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-28T20:49:40+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "13257753",
+      "category": "経済・ビジネス（日本）",
+      "title": "米イラン攻撃の応酬続く ホルムズ海峡めぐる対立再び鮮明に",
+      "summary": "アメリカとイランがホルムズ海峡をめぐって攻撃の応酬を続けており、イランのアラグチ外相は船舶がイランの管理方法に従わずに航行することで状況が複雑化し緊張が高まると主張しました。双方の対立が明確化する中、両国の覚書に基づく協議の展開が注視されています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260629/k10015163291000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-28T20:48:13+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "44036771",
       "category": "経済・ビジネス（日本）",
       "title": "小泉防衛相訪韓 未来志向的な防衛協力の発展へ意思疎通で一致",
       "summary": "小泉防衛大臣が韓国を訪問し、アン・ギュベク国防相と会談、朝鮮半島の非核化に向けた日韓両国および日米韓3か国の協力継続と、安定的で未来志向的な防衛協力の発展に向けた意思疎通の継続で合意した。",
@@ -55,7 +105,7 @@
       "lang": "ja"
     },
     {
-      "id": "12366524",
+      "id": "12188310",
       "category": "経済・ビジネス（日本）",
       "title": "アメリカ建国250年 トランプ大統領主導の公共工事が物議",
       "summary": "アメリカが建国250年を迎え独立記念日の祝賀行事が行われる中、トランプ大統領が主導した公共工事がワシントンの象徴的な景観である「ナショナル・モール」の反射池を巡って物議を醸しています。この工事の影響が首都の歴史的な景観に悪影響を与えているとして、批判の声が上がっています。",
@@ -65,7 +115,7 @@
       "lang": "ja"
     },
     {
-      "id": "37165531",
+      "id": "34625522",
       "category": "経済・ビジネス（日本）",
       "title": "米イラン双方が攻撃 互いに停戦合意違反を非難し情勢不安定",
       "summary": "米軍がイラン国内の軍事施設を攻撃し、トランプ大統領は停戦合意違反が理由だと主張しました。これに対しイランもクウェートとバーレーンの米軍基地を攻撃し、米イラン間の停戦状況は不安定化しています。",
@@ -75,57 +125,7 @@
       "lang": "ja"
     },
     {
-      "id": "62745852",
-      "category": "経済・ビジネス（日本）",
-      "title": "ヨーロッパで猛暑続く ドイツなどで最高気温更新 死者相次ぐ",
-      "summary": "ヨーロッパ各地で記録的な熱波が続いており、ドイツでは観測史上最高の40度を超える気温を記録しました。フランスのパリでは暑さが原因と見られる死者が相次ぐなど、各地で被害が広がっています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260628/k10015163151000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-28T06:48:24+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "16950978",
-      "category": "経済・ビジネス（日本）",
-      "title": "サッカーW杯 ユニフォームランキング 日本代表アウェー用2位に",
-      "summary": "アメリカのスポーツ専門チャンネルがサッカーワールドカップ北中米大会に出場する48チーム100着余りのユニフォームをランキング発表し、日本代表の白いアウェー用ユニフォームが2位に選ばれました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260628/k10015163161000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-28T06:34:48+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "26980493",
-      "category": "経済・ビジネス（日本）",
-      "title": "ベネズエラ地震 死者1430人 救助は時間との闘いに",
-      "summary": "ベネズエラで24日に発生したマグニチュード7を超える2度の地震で、これまでに1430人の死亡が確認されました。各国からの救助隊が活動しているものの、生存率が大きく低下する地震発生から72時間を経過しており、救助活動は時間との闘いになっています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260628/k10015162791000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-28T02:45:34+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "90237736",
-      "category": "経済・ビジネス（日本）",
-      "title": "日米韓 北朝鮮のサイバー活動への対応を協議",
-      "summary": "日本、アメリカ、韓国の代表団は北朝鮮によるサイバー攻撃への対応を協議し、暗号資産盗難などを通じた資金調達を防ぐことで大量破壊兵器や弾道ミサイル開発を阻止する方針を確認しました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260628/k10015162911000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-28T01:00:25+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "34722829",
-      "category": "経済・ビジネス（日本）",
-      "title": "アメリカとイラン 双方が攻撃主張 協議の先行き見通せず",
-      "summary": "アメリカがイランのミサイル保管施設への攻撃を発表し、イランも報復としてアメリカ軍関連施設を攻撃したと主張しており、停戦合意後に緊張が再び高まっています。双方が攻撃を続ける中、覚書に基づいた最終合意に向けた協議の見通しは依然として不透明な状況が続いています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260628/k10015162801000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-27T23:10:01+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "65522311",
+      "id": "93727809",
       "category": "経済・ビジネス（世界）",
       "title": "Trump threatens 100% tariff on European nations over tech tax",
       "summary": "トランプ米大統領は、技術税導入を検討している複数のヨーロッパ諸国に対して100%の関税を課すと脅迫した。大統領は声明で、多くのヨーロッパ諸国がこうした課税を導入することについて協議していると指摘し、米国企業に対する不公正な扱いだと主張している。",
@@ -135,7 +135,7 @@
       "lang": "en"
     },
     {
-      "id": "27425713",
+      "id": "70888529",
       "category": "経済・ビジネス（世界）",
       "title": "Could you handle a 20-plus hour flight? This airline is banking on it",
       "summary": "ロンドンからシドニーへの初の直行便が実現しようとしており、20時間以上の長時間飛行となることから、航空会社はこのような超長距離フライトの需要があると見込んでいる。業界アナリストはこのフライトを大きなマイルストーンと評価する一方で、消費者がこのような極めて長い飛行時間のチケットを購入するかどうかは不確実な状況にある。この取り組みは航空産業における技術進歩と乗客の長距離移動ニーズの拡大を示す重要な事例となっている。",
@@ -145,7 +145,7 @@
       "lang": "en"
     },
     {
-      "id": "56101903",
+      "id": "79554672",
       "category": "経済・ビジネス（世界）",
       "title": "Three unusual things about the King's tax bill",
       "summary": "チャールズ国王は2024年～2025年度に1290万ポンドの税金を納めたが、その税務状況は極めて異例である。国王は一般市民とは異なる特別な税制上の扱いを受けており、通常の納税義務とは大きく異なる仕組みとなっている。この独特な税金の支払い方法と制度は、イギリスの王室財政における重要な特徴を示している。",
@@ -155,7 +155,7 @@
       "lang": "en"
     },
     {
-      "id": "76141410",
+      "id": "76110137",
       "category": "経済・ビジネス（世界）",
       "title": "What's happening to petrol prices now oil is back to pre-Iran war levels?",
       "summary": "イランとの戦争が2月28日に始まった際、燃料価格は中東でのエネルギー生産と輸送の混乱により急騰したが、現在は戦前の水準に戻ったため、ガソリン価格も低下している。戦争開始時には供給不安から価格が上昇していたが、実際の生産への影響が限定的だったことが判明し、市場は落ち着きを取り戻した。",
@@ -165,7 +165,7 @@
       "lang": "en"
     },
     {
-      "id": "46147839",
+      "id": "90408877",
       "category": "経済・ビジネス（世界）",
       "title": "Who could be the UK's next chancellor?",
       "summary": "英国首相の辞任により、英国の財務を担当する次期財務相を巡る競争が始まった。この職は経済政策と予算編成を担当する重要なポジションであり、複数の有力候補者が立候補を検討していると見られている。次の財務相は、インフレーションやエネルギー危機といった経済的課題に直面することになるだろう。",
@@ -175,7 +175,7 @@
       "lang": "en"
     },
     {
-      "id": "36884729",
+      "id": "86729619",
       "category": "経済・ビジネス（世界）",
       "title": "Asia stock markets slide as tech shares slump",
       "summary": "アジアの株式市場が下落しており、特にテクノロジー関連銘柄が大きく値を下げている。韓国のコスピ指数は今週3度目の取引停止となり、パニック売却を防ぐための措置が講じられた。地域全体で市場の不安定性が高まっている。",
@@ -185,7 +185,7 @@
       "lang": "en"
     },
     {
-      "id": "24397449",
+      "id": "29701482",
       "category": "経済・ビジネス（世界）",
       "title": "Power banks and vapes now biggest fire risk on planes",
       "summary": "飛行機でのリチウム電池火災が最大の安全上のリスクとなっており、機内預け荷物から見つかるモバイルバッテリーと電子タバコなどのデバイスの数がこの1年でほぼ2倍に増加している。これらの小型電子機器は航空機内での火災の主要な原因として認識されており、航空会社と規制当局は乗客に対してこれらの製品を客室に持ち込むか正しく梱包するよう警告している。",
@@ -195,7 +195,7 @@
       "lang": "en"
     },
     {
-      "id": "48387645",
+      "id": "50224106",
       "category": "経済・ビジネス（世界）",
       "title": "I'm back at home again after uni - here's how I'm making it work",
       "summary": "大学卒業後に親元に戻る若い世代が増えており、生活費の上昇がこの傾向を加速させています。親子関係を良好に保ちながら同居生活を成功させるためには、相互理解と明確なコミュニケーションが重要です。記事では、親との衝突を避けるための実践的なアドバイスが提供されています。",
@@ -205,7 +205,77 @@
       "lang": "en"
     },
     {
-      "id": "10890315",
+      "id": "60259938",
+      "category": "テクノロジー・AI",
+      "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
+      "summary": "中国のZhipu AI（Z.ai）がオープンウェイトのGLM-5.2をリリースし、研究者の一部はこのモデルが特定のバグ発見とサイバーセキュリティシナリオでMythosと同等の性能を持つと主張している。GLMは一般的なタスクではAnthropicやOpenAIのモデルに遅れを取っているが、中国は自国のモデルと海外の先進モデルとの能力差を大幅に縮小したようである。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+      "source": "AI | The Verge",
+      "published_at": "2026-06-28T21:42:51+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "23889712",
+      "category": "テクノロジー・AI",
+      "title": "California law targeting loud streaming ads takes effect on July 1",
+      "summary": "カリフォルニア州で7月1日に発効する新しい法律により、ストリーミング動画の音量が大きすぎる広告が規制される。この法律は視聴者の不快感を軽減し、広告の音量を番組コンテンツと同じレベルに抑えることを義務付けている。ストリーミングプラットフォームは法令遵守のため、広告配信システムの調整を求められることになる。",
+      "url": "https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-28T21:34:14+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "70314406",
+      "category": "テクノロジー・AI",
+      "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
+      "summary": "Sunoが音声生成AI企業として、独立したアーティストをサポートするための新しいインキュベータープログラム「Spark」を立ち上げました。このプログラムは助成金、メンタリング、マーケティングサポートを提供し、無契約のシンガーソングライターなどが対象となります。Sunoは単なるAIツールではなく、ストリーミングプラットフォームとして機能し、新しいアーティストを発掘することを目指しています。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
+      "source": "AI | The Verge",
+      "published_at": "2026-06-28T20:27:36+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "81100182",
+      "category": "テクノロジー・AI",
+      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+      "summary": "フォード・モーターが人工知能だけでは高品質な製品開発が実現できないことに気づき、経験豊富なベテランエンジニア（「グレーバード」と呼ばれる）を再雇用している。同社は当初、AIの導入だけで高品質な製品が生産できると誤って考えていたが、その戦略が失敗に終わったため、従来の人間による専門知識の重要性を認識し、ベテランエンジニアの復帰を決めた。この事例は、技術革新においても経験と人的資本の価値が依然として不可欠であることを示唆している。",
+      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-28T19:05:39+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "51161909",
+      "category": "テクノロジー・AI",
+      "title": "Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from too much convenience",
+      "summary": "ゲーム設計者でありライターのイアン・ボゴストは、テクノロジー企業が提供する過度な便利さから生活を取り戻すために、日常の小さなことに目を向けることの重要性を主張している。シリコンバレーが本当に必要とされていない製品やサービスを開発してきたのではないかという疑問を呈しており、生活の質を向上させるには便利さよりも意味のある活動に価値を見出す必要があると述べている。ボゴストの著作「The Small Stuff」は、現代人がテクノロジーの過度な依存から解放され、より充実した人生を築くヒントを提供している。",
+      "url": "https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-28T17:03:16+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "88985680",
+      "category": "テクノロジー・AI",
+      "title": "TechCrunch Mobility: All eyes on Tesla FSD",
+      "summary": "テスラの完全自動運転（FSD）機能が注目を集めており、テクノロジー業界ではAIが交通輸送の未来にどのような役割を果たすかについて関心が高まっています。テスラFSDの進展は自動運転技術とAI応用の発展状況を示す重要な指標となっており、業界全体の動向を左右する可能性があります。",
+      "url": "https://techcrunch.com/2026/06/28/techcrunch-mobility-all-eyes-on-tesla-fsd/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-28T16:05:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "88719399",
+      "category": "テクノロジー・AI",
+      "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
+      "summary": "ウォール街の投資家たちがエヌビディアのように成功する可能性のあるAI関連企業を探す中で、米国メモリ製造大手マイクロンに注目している理由として、AI産業の拡大に伴うメモリチップの需要増加が挙げられる。マイクロンはAI処理に必要な高性能メモリの主要サプライヤーであり、ウォール街アナリストはこの企業がエヌビディアのような大幅な成長を遂げる可能性があると考えている。AI市場の継続的な成長と供給不足の状況が、マイクロンの株価上昇見通しを支えている。",
+      "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-28T15:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "52253510",
       "category": "テクノロジー・AI",
       "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
       "summary": "パリセーズ火災事件の裁判において、検察はジョナサン・リンダークネヒトが2025年元日に放火した罪で起訴し、この火災はロサンゼルス歴史上最も死者が多い山火事となった。検察は有罪判決を得るため、iPhoneの位置情報データ、防犯カメラの映像、目撃者の証言に加えて、彼のChatGPTのログ記録も証拠として提出した。",
@@ -215,77 +285,57 @@
       "lang": "en"
     },
     {
-      "id": "10874780",
-      "category": "テクノロジー・AI",
-      "title": "Govee’s smart nugget ice maker makes every iced drink feel like a luxury",
-      "summary": "Goveeが発売した500ドルのスマート製氷機「GoveeLife Smart Nugget Ice Maker Pro」は、飲料に最適なソフトで噛みやすい氷を作ることができ、高級感のあるアイスドリンク体験を提供することを目指している。この製品は、飲み物の品質と同じくらい氷の質を重視する消費者をターゲットにした最新のスマートホームデバイスである。",
-      "url": "https://techcrunch.com/2026/06/28/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-28T14:00:00+00:00",
+      "id": "88355371",
+      "category": "台湾・中台関係",
+      "title": "Citi Raises its Price Target on NXP Semiconductors (NXPI)",
+      "summary": "シティグループはNXPセミコンダクターズの株価目標を引き上げた。NXPセミコンダクターズはAI関連の優良銘柄15社のうちの1つとして認識されており、今後10年で投資家に大きなリターンをもたらす可能性があるとされている。シティは2026年6月23日にこの株式の目標株価を上方修正し、同社の成長見通しに対する強気姿勢を示した。",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/citi-raises-price-target-nxp-193233902.html",
+      "source": "Yahoo Entertainment",
+      "published_at": "2026-06-27T19:32:33+00:00",
       "lang": "en"
     },
     {
-      "id": "52968235",
-      "category": "テクノロジー・AI",
-      "title": "Indian payments chief thinks AI will be heavily involved in next era of digital payment growth",
-      "summary": "インドの決済最高責任者は、人工知能が次のデジタル決済成長の時代に大きな役割を果たすと考えている。ディリップ・アスベ氏は、新しいUPIアプリケーションが実行可能なビジネスモデルによってより競争力を持つようになる可能性があると述べている。AIを活用することで、インドのデジタル決済業界はさらなる革新と競争の激化を迎えようとしている。",
-      "url": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-28T05:00:00+00:00",
+      "id": "54570952",
+      "category": "台湾・中台関係",
+      "title": "Stifel Raises its Price Target on Marvell Technology (MRVL)",
+      "summary": "マーベル・テクノロジーはAI関連銘柄として注目を集めており、2026年6月24日にスティーフェルが同社の株価目標を引き上げた。同社は今後10年で投資家に大きなリターンをもたらす可能性のあるAI関連企業15社の一つとして評価されている。スティーフェルのアップグレードは、マーベル・テクノロジーの成長見通しに対する市場の強気姿勢を反映している。",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stifel-raises-price-target-marvell-193226804.html",
+      "source": "Yahoo Entertainment",
+      "published_at": "2026-06-27T19:32:26+00:00",
       "lang": "en"
     },
     {
-      "id": "78465695",
-      "category": "テクノロジー・AI",
-      "title": "Instagram is testing more ways to customize ‘Your Algorithm’",
-      "summary": "Instagramは、「あなたのアルゴリズム」をカスタマイズするための新しい方法をテストしています。ユーザーは近い将来、フィードに表示されるコンテンツをより細かく調整できるようになる見込みです。この機能強化により、個人の好みに合わせたより充実したInstagram体験が実現されることが期待されています。",
-      "url": "https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-27T21:27:37+00:00",
+      "id": "35748032",
+      "category": "台湾・中台関係",
+      "title": "Class Isn't Over Yet as Kill Blue is Renewed for Season 2",
+      "summary": "人気アニメ「キルブルー」がシーズン2の制作決定を発表し、原作者の藤巻忠俊は新しい手描きイラストを公開しました。このニュースはロサンゼルスのアニメエキスポで発表され、ファンの期待が高まっています。シーズン2では物語がさらに展開し、視聴者はキャラクターたちの新たな冒険を楽しみにすることができます。",
+      "url": "https://www.animenewsnetwork.com/press-release/2026-06-27/class-isnt-over-yet-as-kill-blue-is-renewed-for-season-2/.239031",
+      "source": "Anime News Network",
+      "published_at": "2026-06-27T18:56:55+00:00",
       "lang": "en"
     },
     {
-      "id": "82962694",
-      "category": "テクノロジー・AI",
-      "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
-      "summary": "ソフトバンクのCEOを含む複数の業界関係者が、イーロン・マスクが提唱する軌道上データセンター構想に対して懐疑的な見方を示している。マスクのビジョンに共感しない専門家や企業幹部が増えており、この宇宙ベースのインフラプロジェクトの実現可能性に疑問が呈されている。技術的な課題やコスト面での懸念が、この革新的なアイデアへの慎重な態度につながっている。",
-      "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-27T20:42:36+00:00",
+      "id": "59481933",
+      "category": "台湾・中台関係",
+      "title": "America’s continuing reliance on critical Chinese materials",
+      "summary": "アメリカは中国が支配する重要な資源の供給チェーン上の支配的地位に依存し続けており、軍事資産、主要技術、重要な医薬品の調達が中国の統制下にある。アメリカは戦略的に重要な材料における中国との経済的結びつきを減らそうとしているが、依然として深刻な脆弱性を抱えている。この供給チェーンの依存は、米中関係の緊張が高まる中で、アメリカの国防と経済安全保障上の課題となっている。",
+      "url": "https://www.wnd.com/2026/06/americas-continuing-reliance-critical-chinese-materials/",
+      "source": "Wnd.com",
+      "published_at": "2026-06-27T18:08:19+00:00",
       "lang": "en"
     },
     {
-      "id": "37860226",
-      "category": "テクノロジー・AI",
-      "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
-      "summary": "マーガレット・アトウッド著『ハンドメイドの物語』の作者は、ポルトガルのポルト開催の文学文化祭でのインタビューでAIについて言及し、AIの問題は「ゴミを入れればゴミが出る」という原則だと述べた。アトウッドはAIツールを試用した経験を語りながら、AIが学習データの質に完全に依存していることを指摘している。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
-      "source": "AI | The Verge",
-      "published_at": "2026-06-27T18:39:32+00:00",
+      "id": "79334950",
+      "category": "台湾・中台関係",
+      "title": "Wired for War: Pax Silica is AI slavery disguised as strength",
+      "summary": "米国のパックス・シリカ技術協定は中国をAIサプライチェーンから排除し、パランティアのような防衛技術大手に利益をもたらす一方で、EUの米国への依存を深めるものとなっている。この協定はAIの強化として提示されているが、実質的には米国の支配下でのAI奴隷化であり、米国が主導権を握ることで他国の技術的自由度が制限される結果になっている。",
+      "url": "https://www.rt.com/news/642162-pax-silica-eu-sovereignty/",
+      "source": "RT",
+      "published_at": "2026-06-27T17:07:12+00:00",
       "lang": "en"
     },
     {
-      "id": "39501829",
-      "category": "テクノロジー・AI",
-      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
-      "summary": "Apple Vision Pro開発を指揮していたポール・ミード副社長がOpenAIのハードウェアチームに転職することが報じられた。同氏はAppleでのVision Pro責任者としての役割を離れ、OpenAIでの新たな職務に就く見通しである。この人事異動はAppleのMR分野での経営陣の動きとOpenAIのハードウェア戦略の強化を示唆している。",
-      "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-27T16:45:09+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "25409152",
-      "category": "テクノロジー・AI",
-      "title": "Qualcomm Wants to Bring AI Data Center Power to Your Smartphone",
-      "summary": "クアルコムは、データセンター級のAI処理能力をスマートフォンに搭載しようとしている。従来、生成AIはクラウド上の大規模データセンターに依存していたが、現在ではAIが急速にスマートフォンなどの日常使用デバイスへシフトしており、クアルコムはこの動向に対応する技術開発を進めている。",
-      "url": "https://biztoc.com/x/051ad25f25cb8818",
-      "source": "Biztoc.com",
-      "published_at": "2026-06-27T14:54:11+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "14229912",
+      "id": "84247708",
       "category": "台湾・中台関係",
       "title": "Tim Sheehy exposes a 'scary' shipbuilding collapse that leaves the US vulnerable to China",
       "summary": "上院議員ティム・シーヒーは、中国が米国の230倍の速さで船舶を建造していると警告し、造船危機は深刻な国家安全保障上の問題だと指摘しています。シーヒーは米国の造船産業の衰退により、中国に対して米国が脆弱な状況にあることを懸念しており、この問題の解決が急務であると主張しています。",
@@ -295,7 +345,7 @@
       "lang": "en"
     },
     {
-      "id": "84236817",
+      "id": "30775172",
       "category": "台湾・中台関係",
       "title": "Since the first Japanese bullet train left Tokyo Station on October 1, 1964 — just nine days before the opening of the Tokyo Olympics — the Shinkansen has carried more than 10 billion passengers across 60 years of continuous high-speed operation, and has never had a single passenger fatality caused by derailment or collision in its entire history",
       "summary": "1964年10月1日の東京オリンピック9日前に東京駅から出発した日本の新幹線は、60年間の連続運行を通じて10億人以上の乗客を運んできたが、脱線や衝突による乗客死亡事故は一件も起きていない。一方、高速鉄道システムを構築した他の国々はいずれも遅かれ早かれ人命喪失事故を経験しており、1981年に開業したフランスのTGVネットワークも2015年のストラスブール近郊での脱線を含む複数の致命的事故を経験している。",
@@ -305,63 +355,13 @@
       "lang": "en"
     },
     {
-      "id": "43305510",
+      "id": "81789132",
       "category": "台湾・中台関係",
       "title": "Why the left should support Trump’s deal with Iran",
       "summary": "イラン核合意の潜在的な平和協議を弱体化させようとする組織的な取り組みが行われている。これは親イスラエル右派からだけでなく、リベラル派や進歩的左派の一部からも出ているのが懸念される。左派勢力がトランプ政権とイランの取引を支持すべき理由が論じられている記事であり、通常は右派の反対が予想される中で、左派陣営内部からの反発が問題になっていることを指摘している。",
       "url": "https://mondoweiss.net/2026/06/why-the-left-should-support-trumps-deal-with-iran/",
       "source": "Mondoweiss",
       "published_at": "2026-06-27T13:30:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "11740696",
-      "category": "台湾・中台関係",
-      "title": "The New Five Forces, Part 1: Technology as a Structural Disruptor",
-      "summary": "テクノロジーは市場構造を根本的に変え、経営環境に新たな力学をもたらしている。不確実な世界での事業展開に向けて、既存の経営フレームワークの再構築が急務となっている。ノア・ガフニ博士の報告書に基づく5部構成シリーズの第1部では、変動性の時代における新しい5つの経営課題が提示されている。",
-      "url": "https://www.fairobserver.com/world-news/the-new-five-forces-part-1-technology-as-a-structural-disruptor/",
-      "source": "Fair Observer",
-      "published_at": "2026-06-27T12:19:54+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "86915168",
-      "category": "台湾・中台関係",
-      "title": "Graphene Chip Market Size to Hit USD 19.78 Billion by 2035 | Research by SNS Insider",
-      "summary": "グラフェンチップの世界市場規模は2035年までに197億8000万ドルに達すると予想され、チップタイプ、用途、グラフェン形態、チップサイズ、地域別にセグメント分析が行われている。この市場は急速な成長を遂げており、様々な産業分野での応用拡大が進んでいる。SNS Insiderの調査による今後の市場トレンドと収益予測が注目されている。",
-      "url": "https://www.globenewswire.com/news-release/2026/06/27/3318537/0/en/Graphene-Chip-Market-Size-to-Hit-USD-19-78-Billion-by-2035-Research-by-SNS-Insider.html",
-      "source": "GlobeNewswire",
-      "published_at": "2026-06-27T11:30:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "91634031",
-      "category": "台湾・中台関係",
-      "title": "Apple Price Hikes Weigh on Asian Stocks, Dampening Tech Market Sentiment",
-      "summary": "アップルの値上げがアジア株式市場に新たな圧力をかけており、投資家がテクノロジー企業と消費者需要の見通しを再評価している。アップルの価格決定は自社の売上だけでなく、サプライチェーン全体に影響を与えるため、広範な業界の需要見通しの悪化を示唆し、アジア地域のテック関連銘柄全体のセンチメントを圧迫している。",
-      "url": "https://www.successful-blog.com/1/apple-price-hikes/",
-      "source": "Successful-blog.com",
-      "published_at": "2026-06-27T10:45:25+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "33427578",
-      "category": "台湾・中台関係",
-      "title": "ETMarkets Smart Talk | AI and semiconductors remain the best global investment themes today: Niteen Dongare",
-      "summary": "インドの投資家がグローバル分散投資を増やす中、アナンド・ラティ・インターナショナル・ベンチャーズのニティーン・ドンガレ氏は、AIと半導体が最も魅力的な長期投資テーマであると述べています。同氏はポートフォリオの20～30%をグローバル市場に配分することを推奨しており、これらの技術セクターが今後の投資機会の中核であると指摘しています。",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-ai-and-semiconductors-remain-the-best-global-investment-themes-today-niteen-dongare/articleshow/132030176.cms",
-      "source": "The Times of India",
-      "published_at": "2026-06-27T06:51:16+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "56261385",
-      "category": "台湾・中台関係",
-      "title": "Rich and famous families teach their kids Mandarin as China's influence grows",
-      "summary": "中国の影響力の増大に伴い、富裕層や有力家族が子どもたちに中国語（標準中国語）を習わせることに強い関心を示している。専門家らは、世界における中国の台頭を考えると、このような傾向は当然の結果だと指摘している。",
-      "url": "https://www.abc.net.au/news/2026-06-27/musk-trump-bezos-zuckerberg-children-learning-mandarin/106813224",
-      "source": "ABC News (AU)",
-      "published_at": "2026-06-27T03:18:49+00:00",
       "lang": "en"
     }
   ]
