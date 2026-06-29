@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T23:09:33.103873+00:00",
+  "updated_at": "2026-06-29T08:14:38.872781+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -45,87 +45,117 @@
   "digest": [],
   "news": [
     {
-      "id": "45159413",
+      "id": "44720964",
       "category": "経済・ビジネス（日本）",
-      "title": "政府 厳しい安全保障環境の認識共有 韓国と連携強化図る方針",
-      "summary": "小泉防衛大臣が就任後初めて韓国を訪問し、アン・ギュベク国防相と会談しました。政府は中国と北朝鮮がロシアとの軍事連携を強める状況下で、厳しい安全保障環境の認識を共有し、韓国との連携強化を図る方針です。",
-      "url": "http://www3.nhk.or.jp/news/html/20260629/k10015163241000.html",
+      "title": "中国での5月新車販売数 多くのメーカーで減“中東情勢影響も”",
+      "summary": "中国での5月の新車販売数は多くのメーカーで減少し、中東情勢によるガソリン価格上昇がエンジン車の販売低迷に影響したと報告されています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260629/k10015163851000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-06-28T21:37:19+00:00",
+      "published_at": "2026-06-29T08:05:25+00:00",
       "lang": "ja"
     },
     {
-      "id": "82748342",
+      "id": "48860842",
+      "category": "経済・ビジネス（日本）",
+      "title": "中国 軍民両用品目の対日輸出禁止発表 日本の20の企業など追加",
+      "summary": "中国商務省は防衛省防衛研究所など日本の20団体・企業を輸出規制リストに追加し、軍民両用品目の対日輸出を禁止すると発表した。これは日本の軍事力向上への関与を理由としており、中国は2月に同様の措置を別の20社に対して実施しており、日本への圧力を強めている。",
+      "url": "http://www3.nhk.or.jp/news/html/20260629/k10015163591000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-29T08:02:34+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "62919464",
+      "category": "経済・ビジネス（日本）",
+      "title": "ヨーロッパ 記録的熱波 “例年より1300人以上多く死亡” WHO",
+      "summary": "ヨーロッパで記録的な熱波が続いており、世界保健機関のテドロス事務局長は21日以降の死者数が例年より1300人以上多くなっていると発表しました。WHOは各国に対策強化を呼びかけています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260629/k10015163731000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-29T05:56:22+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "60219225",
+      "category": "経済・ビジネス（日本）",
+      "title": "【随時更新】ロシア ウクライナに軍事侵攻（6月29日の動き）",
+      "summary": "ロシアによるウクライナへの軍事侵攻が継続しており、各地でロシア軍とウクライナ軍の戦闘が続いています。多くの市民が国外への避難を余儀なくされており、戦闘状況や関係各国の外交動向について随時情報が更新されています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260629/k10015132991000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-29T04:47:02+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "26969614",
+      "category": "経済・ビジネス（日本）",
+      "title": "プーチン大統領 ウクライナ側からの新提案 「注意深く検討」",
+      "summary": "ロシアのプーチン大統領がウクライナ側から領土奥深くへの攻撃停止などを含む新たな提案を受けたことを明らかにしました。プーチン大統領は、これらの提案について注意深く検討していると述べています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260629/k10015163661000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-29T04:31:45+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "53344497",
+      "category": "経済・ビジネス（日本）",
+      "title": "ベネズエラ地震から4日 1450人の死亡確認 救助活動続く",
+      "summary": "ベネズエラの地震で4日後までに1450人の死亡が確認され、建物被害が集中しているラ・グアイラ州などで各国の救助チームが活動を本格化させています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260629/k10015163301000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-29T03:41:49+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "83379808",
       "category": "経済・ビジネス（日本）",
       "title": "“アメリカ・イランが攻撃停止で合意 30日に協議”米報道",
       "summary": "アメリカとイランがホルムズ海峡をめぐる攻撃の停止で合意し、30日にカタールで協議を行う見通しだとアメリカメディアが伝えた。両国の紛争の緩和に向けた動きとなっている。",
       "url": "http://www3.nhk.or.jp/news/html/20260629/k10015163371000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-06-28T21:26:55+00:00",
+      "published_at": "2026-06-29T02:53:34+00:00",
       "lang": "ja"
     },
     {
-      "id": "51185459",
+      "id": "38375961",
       "category": "経済・ビジネス（日本）",
-      "title": "ロシアとベラルーシが首脳会談 軍事侵攻めぐり圧力との報道も",
-      "summary": "プーチン大統領とベラルーシのルカシェンコ大統領が26日から2日間の首脳会談を開き、経済協力や安全保障について協議しました。ロシアはベラルーシに対し、ウクライナへの軍事侵攻への協力強化を圧力でもって促しているとも報じられています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260629/k10015163311000.html",
+      "title": "W杯敗退の韓国 イ大統領が代表監督・協会を痛烈批判",
+      "summary": "サッカーワールドカップ北中米大会でグループ3位となり1次リーグ敗退した韓国について、イ・ジェミョン大統領がSNSで代表監督を「無能な人物」と批判し、監督と協会を痛烈に非難した。",
+      "url": "http://www3.nhk.or.jp/news/html/20260629/k10015163481000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-06-28T20:57:57+00:00",
+      "published_at": "2026-06-29T00:59:02+00:00",
       "lang": "ja"
     },
     {
-      "id": "21218886",
-      "category": "経済・ビジネス（日本）",
-      "title": "ベネズエラ地震から4日 各国救助チームの活動本格化",
-      "summary": "ベネズエラの地震で4日後までに1450人の死亡が確認され、建物被害が集中しているラ・グアイラ州などで各国の救助チームが活動を本格化させています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260629/k10015163301000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-28T20:49:40+00:00",
-      "lang": "ja"
+      "id": "38044010",
+      "category": "経済・ビジネス（世界）",
+      "title": "South Korea unveils $1tn chip and AI investment plan",
+      "summary": "韓国が今後1兆ドルの規模でチップとAI産業に投資する計画を発表した。これはアジア太平洋地域でも台湾、中国、日本が半導体工場などの技術産業に大規模投資を進める中での発表である。韓国は地域内での競争力を強化し、グローバルな技術産業における立場を確保することを目指している。",
+      "url": "https://www.bbc.co.uk/news/articles/c9q2pwzngjqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-06-29T06:46:38+00:00",
+      "lang": "en"
     },
     {
-      "id": "13257753",
-      "category": "経済・ビジネス（日本）",
-      "title": "米イラン攻撃の応酬続く ホルムズ海峡めぐる対立再び鮮明に",
-      "summary": "アメリカとイランがホルムズ海峡をめぐって攻撃の応酬を続けており、イランのアラグチ外相は船舶がイランの管理方法に従わずに航行することで状況が複雑化し緊張が高まると主張しました。双方の対立が明確化する中、両国の覚書に基づく協議の展開が注視されています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260629/k10015163291000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-28T20:48:13+00:00",
-      "lang": "ja"
+      "id": "97301923",
+      "category": "経済・ビジネス（世界）",
+      "title": "Rogue builder left our roof leaking and spent £30K we gave him in Lanzarote",
+      "summary": "悪質な建設業者クリスチャン・ウィリアムズ氏が顧客から30万ポンドを受け取りながら屋根の工事を完成させず、その資金でランサローテ島での休暇を過ごしていた。詐欺で合計16万ポンドの利益を得たにもかかわらず、返金額はわずか1ポンドに設定されている。この事件は建設業界の悪質な詐欺行為と杜撰な規制の実態を明らかにしている。",
+      "url": "https://www.bbc.co.uk/news/articles/cze9wpny62go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-06-29T05:05:34+00:00",
+      "lang": "en"
     },
     {
-      "id": "44036771",
-      "category": "経済・ビジネス（日本）",
-      "title": "小泉防衛相訪韓 未来志向的な防衛協力の発展へ意思疎通で一致",
-      "summary": "小泉防衛大臣が韓国を訪問し、アン・ギュベク国防相と会談、朝鮮半島の非核化に向けた日韓両国および日米韓3か国の協力継続と、安定的で未来志向的な防衛協力の発展に向けた意思疎通の継続で合意した。",
-      "url": "http://www3.nhk.or.jp/news/html/20260628/k10015163121000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-28T13:56:04+00:00",
-      "lang": "ja"
+      "id": "27974641",
+      "category": "経済・ビジネス（世界）",
+      "title": "Got the tennis bug? How to play sport without paying",
+      "summary": "テニスの世界トップ選手がウィンブルドン選手権に登場する中、予算を抑えてテニスを始める方法について紹介している。記事ではコミュニティセンターの利用やラケットのレンタル、グループレッスンなど、低コストでテニスを楽しむための具体的な選択肢を提案している。初心者がテニスという競技に気軽にアクセスでき、本格的に取り組む前に試してみることができる環境が整備されていることが強調されている。",
+      "url": "https://www.bbc.co.uk/news/articles/crlw2xw1yy2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-06-28T23:06:00+00:00",
+      "lang": "en"
     },
     {
-      "id": "12188310",
-      "category": "経済・ビジネス（日本）",
-      "title": "アメリカ建国250年 トランプ大統領主導の公共工事が物議",
-      "summary": "アメリカが建国250年を迎え独立記念日の祝賀行事が行われる中、トランプ大統領が主導した公共工事がワシントンの象徴的な景観である「ナショナル・モール」の反射池を巡って物議を醸しています。この工事の影響が首都の歴史的な景観に悪影響を与えているとして、批判の声が上がっています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260628/k10015162961000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-28T10:32:02+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "34625522",
-      "category": "経済・ビジネス（日本）",
-      "title": "米イラン双方が攻撃 互いに停戦合意違反を非難し情勢不安定",
-      "summary": "米軍がイラン国内の軍事施設を攻撃し、トランプ大統領は停戦合意違反が理由だと主張しました。これに対しイランもクウェートとバーレーンの米軍基地を攻撃し、米イラン間の停戦状況は不安定化しています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260628/k10015162921000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-28T10:06:55+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "93727809",
+      "id": "33165687",
       "category": "経済・ビジネス（世界）",
       "title": "Trump threatens 100% tariff on European nations over tech tax",
       "summary": "トランプ米大統領は、技術税導入を検討している複数のヨーロッパ諸国に対して100%の関税を課すと脅迫した。大統領は声明で、多くのヨーロッパ諸国がこうした課税を導入することについて協議していると指摘し、米国企業に対する不公正な扱いだと主張している。",
@@ -135,7 +165,7 @@
       "lang": "en"
     },
     {
-      "id": "70888529",
+      "id": "72898964",
       "category": "経済・ビジネス（世界）",
       "title": "Could you handle a 20-plus hour flight? This airline is banking on it",
       "summary": "ロンドンからシドニーへの初の直行便が実現しようとしており、20時間以上の長時間飛行となることから、航空会社はこのような超長距離フライトの需要があると見込んでいる。業界アナリストはこのフライトを大きなマイルストーンと評価する一方で、消費者がこのような極めて長い飛行時間のチケットを購入するかどうかは不確実な状況にある。この取り組みは航空産業における技術進歩と乗客の長距離移動ニーズの拡大を示す重要な事例となっている。",
@@ -145,7 +175,7 @@
       "lang": "en"
     },
     {
-      "id": "79554672",
+      "id": "34972996",
       "category": "経済・ビジネス（世界）",
       "title": "Three unusual things about the King's tax bill",
       "summary": "チャールズ国王は2024年～2025年度に1290万ポンドの税金を納めたが、その税務状況は極めて異例である。国王は一般市民とは異なる特別な税制上の扱いを受けており、通常の納税義務とは大きく異なる仕組みとなっている。この独特な税金の支払い方法と制度は、イギリスの王室財政における重要な特徴を示している。",
@@ -155,17 +185,7 @@
       "lang": "en"
     },
     {
-      "id": "76110137",
-      "category": "経済・ビジネス（世界）",
-      "title": "What's happening to petrol prices now oil is back to pre-Iran war levels?",
-      "summary": "イランとの戦争が2月28日に始まった際、燃料価格は中東でのエネルギー生産と輸送の混乱により急騰したが、現在は戦前の水準に戻ったため、ガソリン価格も低下している。戦争開始時には供給不安から価格が上昇していたが、実際の生産への影響が限定的だったことが判明し、市場は落ち着きを取り戻した。",
-      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-06-26T13:51:15+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "90408877",
+      "id": "16401090",
       "category": "経済・ビジネス（世界）",
       "title": "Who could be the UK's next chancellor?",
       "summary": "英国首相の辞任により、英国の財務を担当する次期財務相を巡る競争が始まった。この職は経済政策と予算編成を担当する重要なポジションであり、複数の有力候補者が立候補を検討していると見られている。次の財務相は、インフレーションやエネルギー危機といった経済的課題に直面することになるだろう。",
@@ -175,27 +195,7 @@
       "lang": "en"
     },
     {
-      "id": "86729619",
-      "category": "経済・ビジネス（世界）",
-      "title": "Asia stock markets slide as tech shares slump",
-      "summary": "アジアの株式市場が下落しており、特にテクノロジー関連銘柄が大きく値を下げている。韓国のコスピ指数は今週3度目の取引停止となり、パニック売却を防ぐための措置が講じられた。地域全体で市場の不安定性が高まっている。",
-      "url": "https://www.bbc.co.uk/news/articles/ce8jz40k00ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-06-26T07:33:10+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "29701482",
-      "category": "経済・ビジネス（世界）",
-      "title": "Power banks and vapes now biggest fire risk on planes",
-      "summary": "飛行機でのリチウム電池火災が最大の安全上のリスクとなっており、機内預け荷物から見つかるモバイルバッテリーと電子タバコなどのデバイスの数がこの1年でほぼ2倍に増加している。これらの小型電子機器は航空機内での火災の主要な原因として認識されており、航空会社と規制当局は乗客に対してこれらの製品を客室に持ち込むか正しく梱包するよう警告している。",
-      "url": "https://www.bbc.co.uk/news/articles/cly716qd146o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-06-25T23:28:13+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "50224106",
+      "id": "91213876",
       "category": "経済・ビジネス（世界）",
       "title": "I'm back at home again after uni - here's how I'm making it work",
       "summary": "大学卒業後に親元に戻る若い世代が増えており、生活費の上昇がこの傾向を加速させています。親子関係を良好に保ちながら同居生活を成功させるためには、相互理解と明確なコミュニケーションが重要です。記事では、親との衝突を避けるための実践的なアドバイスが提供されています。",
@@ -205,7 +205,7 @@
       "lang": "en"
     },
     {
-      "id": "60259938",
+      "id": "53089045",
       "category": "テクノロジー・AI",
       "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
       "summary": "中国のZhipu AI（Z.ai）がオープンウェイトのGLM-5.2をリリースし、研究者の一部はこのモデルが特定のバグ発見とサイバーセキュリティシナリオでMythosと同等の性能を持つと主張している。GLMは一般的なタスクではAnthropicやOpenAIのモデルに遅れを取っているが、中国は自国のモデルと海外の先進モデルとの能力差を大幅に縮小したようである。",
@@ -215,7 +215,7 @@
       "lang": "en"
     },
     {
-      "id": "23889712",
+      "id": "78065857",
       "category": "テクノロジー・AI",
       "title": "California law targeting loud streaming ads takes effect on July 1",
       "summary": "カリフォルニア州で7月1日に発効する新しい法律により、ストリーミング動画の音量が大きすぎる広告が規制される。この法律は視聴者の不快感を軽減し、広告の音量を番組コンテンツと同じレベルに抑えることを義務付けている。ストリーミングプラットフォームは法令遵守のため、広告配信システムの調整を求められることになる。",
@@ -225,7 +225,7 @@
       "lang": "en"
     },
     {
-      "id": "70314406",
+      "id": "71920666",
       "category": "テクノロジー・AI",
       "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
       "summary": "Sunoが音声生成AI企業として、独立したアーティストをサポートするための新しいインキュベータープログラム「Spark」を立ち上げました。このプログラムは助成金、メンタリング、マーケティングサポートを提供し、無契約のシンガーソングライターなどが対象となります。Sunoは単なるAIツールではなく、ストリーミングプラットフォームとして機能し、新しいアーティストを発掘することを目指しています。",
@@ -235,7 +235,7 @@
       "lang": "en"
     },
     {
-      "id": "81100182",
+      "id": "77854692",
       "category": "テクノロジー・AI",
       "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
       "summary": "フォード・モーターが人工知能だけでは高品質な製品開発が実現できないことに気づき、経験豊富なベテランエンジニア（「グレーバード」と呼ばれる）を再雇用している。同社は当初、AIの導入だけで高品質な製品が生産できると誤って考えていたが、その戦略が失敗に終わったため、従来の人間による専門知識の重要性を認識し、ベテランエンジニアの復帰を決めた。この事例は、技術革新においても経験と人的資本の価値が依然として不可欠であることを示唆している。",
@@ -245,7 +245,7 @@
       "lang": "en"
     },
     {
-      "id": "51161909",
+      "id": "64271434",
       "category": "テクノロジー・AI",
       "title": "Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from too much convenience",
       "summary": "ゲーム設計者でありライターのイアン・ボゴストは、テクノロジー企業が提供する過度な便利さから生活を取り戻すために、日常の小さなことに目を向けることの重要性を主張している。シリコンバレーが本当に必要とされていない製品やサービスを開発してきたのではないかという疑問を呈しており、生活の質を向上させるには便利さよりも意味のある活動に価値を見出す必要があると述べている。ボゴストの著作「The Small Stuff」は、現代人がテクノロジーの過度な依存から解放され、より充実した人生を築くヒントを提供している。",
@@ -255,7 +255,7 @@
       "lang": "en"
     },
     {
-      "id": "88985680",
+      "id": "54005262",
       "category": "テクノロジー・AI",
       "title": "TechCrunch Mobility: All eyes on Tesla FSD",
       "summary": "テスラの完全自動運転（FSD）機能が注目を集めており、テクノロジー業界ではAIが交通輸送の未来にどのような役割を果たすかについて関心が高まっています。テスラFSDの進展は自動運転技術とAI応用の発展状況を示す重要な指標となっており、業界全体の動向を左右する可能性があります。",
@@ -265,7 +265,7 @@
       "lang": "en"
     },
     {
-      "id": "88719399",
+      "id": "91476485",
       "category": "テクノロジー・AI",
       "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
       "summary": "ウォール街の投資家たちがエヌビディアのように成功する可能性のあるAI関連企業を探す中で、米国メモリ製造大手マイクロンに注目している理由として、AI産業の拡大に伴うメモリチップの需要増加が挙げられる。マイクロンはAI処理に必要な高性能メモリの主要サプライヤーであり、ウォール街アナリストはこの企業がエヌビディアのような大幅な成長を遂げる可能性があると考えている。AI市場の継続的な成長と供給不足の状況が、マイクロンの株価上昇見通しを支えている。",
@@ -275,7 +275,7 @@
       "lang": "en"
     },
     {
-      "id": "52253510",
+      "id": "10674259",
       "category": "テクノロジー・AI",
       "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
       "summary": "パリセーズ火災事件の裁判において、検察はジョナサン・リンダークネヒトが2025年元日に放火した罪で起訴し、この火災はロサンゼルス歴史上最も死者が多い山火事となった。検察は有罪判決を得るため、iPhoneの位置情報データ、防犯カメラの映像、目撃者の証言に加えて、彼のChatGPTのログ記録も証拠として提出した。",
@@ -285,7 +285,37 @@
       "lang": "en"
     },
     {
-      "id": "88355371",
+      "id": "12966264",
+      "category": "台湾・中台関係",
+      "title": "Can China build its own ASML?",
+      "summary": "中国は半導体製造装置の完全な国産化を目指しており、特にASML（オランダの半導体製造装置大手）に匹敵する先端的なリソグラフィ装置の開発を急いでいます。しかし、世界最高水準の技術を必要とするリソグラフィ分野では、精密部品の供給制限や技術的な課題により、国産化は非常に困難な状況が続いています。中国の自主開発能力向上の努力は進んでいるものの、ASMLレベルの装置実現までには相当な時間が必要とみられています。",
+      "url": "https://nikkei.shorthandstories.com/can-china-build-its-own-asml/",
+      "source": "Shorthandstories.com",
+      "published_at": "2026-06-28T07:45:23+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "51422449",
+      "category": "台湾・中台関係",
+      "title": "China’s place in the new world order",
+      "summary": "中国を含むアジア各国の高級政策立案者との対話から、現在の世界秩序が大きな転換期を迎えていることが明らかになった。グローバルな力関係の再編が進む中で、中国の国際的地位と役割が急速に変わろうとしている。この変化は複数の要因によって駆動されており、今後の国際関係に深刻な影響を与える可能性がある。",
+      "url": "https://peoplesreview.com.np/2026/06/28/chinas-place-in-the-new-world-order/",
+      "source": "Peoplesreview.com.np",
+      "published_at": "2026-06-28T04:45:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "60969702",
+      "category": "台湾・中台関係",
+      "title": "Articles On: Data Centers, Taiwan, and EV Battery Recycling",
+      "summary": "中国は世界最大の温室効果ガス排出国であり、膨大な汚染と環境破壊を引き起こしている。このセクションでは、環境に害をもたらす中国共産党傘下の機関による活動に焦点を当てている。",
+      "url": "https://www.hoover.org/research/articles-data-centers-taiwan-and-ev-battery-recycling",
+      "source": "Hoover.org",
+      "published_at": "2026-06-28T00:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "76712679",
       "category": "台湾・中台関係",
       "title": "Citi Raises its Price Target on NXP Semiconductors (NXPI)",
       "summary": "シティグループはNXPセミコンダクターズの株価目標を引き上げた。NXPセミコンダクターズはAI関連の優良銘柄15社のうちの1つとして認識されており、今後10年で投資家に大きなリターンをもたらす可能性があるとされている。シティは2026年6月23日にこの株式の目標株価を上方修正し、同社の成長見通しに対する強気姿勢を示した。",
@@ -295,7 +325,7 @@
       "lang": "en"
     },
     {
-      "id": "54570952",
+      "id": "36067957",
       "category": "台湾・中台関係",
       "title": "Stifel Raises its Price Target on Marvell Technology (MRVL)",
       "summary": "マーベル・テクノロジーはAI関連銘柄として注目を集めており、2026年6月24日にスティーフェルが同社の株価目標を引き上げた。同社は今後10年で投資家に大きなリターンをもたらす可能性のあるAI関連企業15社の一つとして評価されている。スティーフェルのアップグレードは、マーベル・テクノロジーの成長見通しに対する市場の強気姿勢を反映している。",
@@ -305,7 +335,7 @@
       "lang": "en"
     },
     {
-      "id": "35748032",
+      "id": "20075450",
       "category": "台湾・中台関係",
       "title": "Class Isn't Over Yet as Kill Blue is Renewed for Season 2",
       "summary": "人気アニメ「キルブルー」がシーズン2の制作決定を発表し、原作者の藤巻忠俊は新しい手描きイラストを公開しました。このニュースはロサンゼルスのアニメエキスポで発表され、ファンの期待が高まっています。シーズン2では物語がさらに展開し、視聴者はキャラクターたちの新たな冒険を楽しみにすることができます。",
@@ -315,7 +345,7 @@
       "lang": "en"
     },
     {
-      "id": "59481933",
+      "id": "48951952",
       "category": "台湾・中台関係",
       "title": "America’s continuing reliance on critical Chinese materials",
       "summary": "アメリカは中国が支配する重要な資源の供給チェーン上の支配的地位に依存し続けており、軍事資産、主要技術、重要な医薬品の調達が中国の統制下にある。アメリカは戦略的に重要な材料における中国との経済的結びつきを減らそうとしているが、依然として深刻な脆弱性を抱えている。この供給チェーンの依存は、米中関係の緊張が高まる中で、アメリカの国防と経済安全保障上の課題となっている。",
@@ -325,43 +355,13 @@
       "lang": "en"
     },
     {
-      "id": "79334950",
+      "id": "47452536",
       "category": "台湾・中台関係",
       "title": "Wired for War: Pax Silica is AI slavery disguised as strength",
       "summary": "米国のパックス・シリカ技術協定は中国をAIサプライチェーンから排除し、パランティアのような防衛技術大手に利益をもたらす一方で、EUの米国への依存を深めるものとなっている。この協定はAIの強化として提示されているが、実質的には米国の支配下でのAI奴隷化であり、米国が主導権を握ることで他国の技術的自由度が制限される結果になっている。",
       "url": "https://www.rt.com/news/642162-pax-silica-eu-sovereignty/",
       "source": "RT",
       "published_at": "2026-06-27T17:07:12+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "84247708",
-      "category": "台湾・中台関係",
-      "title": "Tim Sheehy exposes a 'scary' shipbuilding collapse that leaves the US vulnerable to China",
-      "summary": "上院議員ティム・シーヒーは、中国が米国の230倍の速さで船舶を建造していると警告し、造船危機は深刻な国家安全保障上の問題だと指摘しています。シーヒーは米国の造船産業の衰退により、中国に対して米国が脆弱な状況にあることを懸念しており、この問題の解決が急務であると主張しています。",
-      "url": "https://www.foxnews.com/media/tim-sheehy-exposes-scary-shipbuilding-collapse-leaves-us-vulnerable-china",
-      "source": "Fox News",
-      "published_at": "2026-06-27T14:00:47+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "30775172",
-      "category": "台湾・中台関係",
-      "title": "Since the first Japanese bullet train left Tokyo Station on October 1, 1964 — just nine days before the opening of the Tokyo Olympics — the Shinkansen has carried more than 10 billion passengers across 60 years of continuous high-speed operation, and has never had a single passenger fatality caused by derailment or collision in its entire history",
-      "summary": "1964年10月1日の東京オリンピック9日前に東京駅から出発した日本の新幹線は、60年間の連続運行を通じて10億人以上の乗客を運んできたが、脱線や衝突による乗客死亡事故は一件も起きていない。一方、高速鉄道システムを構築した他の国々はいずれも遅かれ早かれ人命喪失事故を経験しており、1981年に開業したフランスのTGVネットワークも2015年のストラスブール近郊での脱線を含む複数の致命的事故を経験している。",
-      "url": "https://spacedaily.com/d-since-the-first-japanese-bullet-train-left-tokyo-station-on-october-1-1964-just-nine-days-before-the-opening-of-the-tokyo-olympics-the-shinkansen-has-carried-more-than-10-billion/",
-      "source": "Space Daily",
-      "published_at": "2026-06-27T13:45:54+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "81789132",
-      "category": "台湾・中台関係",
-      "title": "Why the left should support Trump’s deal with Iran",
-      "summary": "イラン核合意の潜在的な平和協議を弱体化させようとする組織的な取り組みが行われている。これは親イスラエル右派からだけでなく、リベラル派や進歩的左派の一部からも出ているのが懸念される。左派勢力がトランプ政権とイランの取引を支持すべき理由が論じられている記事であり、通常は右派の反対が予想される中で、左派陣営内部からの反発が問題になっていることを指摘している。",
-      "url": "https://mondoweiss.net/2026/06/why-the-left-should-support-trumps-deal-with-iran/",
-      "source": "Mondoweiss",
-      "published_at": "2026-06-27T13:30:00+00:00",
       "lang": "en"
     }
   ]
