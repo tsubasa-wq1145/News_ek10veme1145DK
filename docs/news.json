@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T16:39:10.699589+00:00",
+  "updated_at": "2026-06-29T23:03:19.316891+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -45,27 +45,67 @@
   "digest": [],
   "news": [
     {
-      "id": "78041144",
+      "id": "51840305",
       "category": "経済・ビジネス（日本）",
-      "title": "トランプ大統領のFRB理事解任通知 米連邦最高裁が無効の判断",
+      "title": "ブラジル サンパウロは逆転勝ちに歓喜",
+      "summary": "ワールドカップ北中米大会の日本対ブラジル戦でブラジルが逆転勝ちを収め、サンパウロのパブリック・ビューイング会場などで大勢のファンが歓喜に沸いた。",
+      "url": "http://www3.nhk.or.jp/news/html/20260630/k10015164291000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-29T22:59:31+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "25070962",
+      "category": "経済・ビジネス（日本）",
+      "title": "NYダウ平均株価 終値で初の5万2000ドル台 大手IT中心に買い",
+      "summary": "ニューヨーク株式市場でダウ平均株価が終値として初めて5万2000ドル台に到達し、先週末から300ドル以上値上がりした。大手IT企業などの銘柄への買い戻しが広がったことが背景にある。",
+      "url": "http://www3.nhk.or.jp/news/html/20260630/k10015164301000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-29T21:35:17+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "51148185",
+      "category": "経済・ビジネス（日本）",
+      "title": "トランプ大統領「30日にドーハでイランと協議」イラン側は否定",
+      "summary": "トランプ米大統領は30日にドーハでイラン側と協議すると発表したが、イラン外務省はこれを否定し、今後数日間はアメリカとの協議は行わないと述べた。ホルムズ海峡をめぐる米イラン対立の中、両国の主張が食い違い、協議の実現性が不透明となっている。",
+      "url": "http://www3.nhk.or.jp/news/html/20260630/k10015164111000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-29T21:32:02+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "19500032",
+      "category": "経済・ビジネス（日本）",
+      "title": "米連邦最高裁判所 トランプ大統領によるFRB理事解任は無効",
       "summary": "トランプ大統領がFRB理事の不正を理由に解任を通知したことについて、米連邦最高裁判所は29日にその判断を無効とする決定を下しました。大統領は去年8月にクック理事が住宅ローン契約で不正を行ったとして解任を通知していましたが、クック氏が提訴した裁判で最高裁が無効判断を示したものです。",
       "url": "http://www3.nhk.or.jp/news/html/20260629/k10015164241000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-06-29T14:39:06+00:00",
+      "published_at": "2026-06-29T20:31:55+00:00",
       "lang": "ja"
     },
     {
-      "id": "87128685",
+      "id": "55318929",
       "category": "経済・ビジネス（日本）",
-      "title": "外国為替市場で39年半ぶり円安水準 1ドル＝161円90銭台後半",
+      "title": "円相場 一時1ドル＝161円90銭台後半 約39年半ぶりの円安水準に",
       "summary": "29日のニューヨーク外国為替市場で円相場が1ドル＝161円90銭台をつけ、1986年12月以来約39年半ぶりの円安水準となりました。アメリカのFRBによる利上げ観測の強まりと日米の金利差拡大の可能性が意識される中、円売りドル買いの傾向が続いています。",
       "url": "http://www3.nhk.or.jp/news/html/20260629/k10015164231000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-06-29T14:08:11+00:00",
+      "published_at": "2026-06-29T20:29:52+00:00",
       "lang": "ja"
     },
     {
-      "id": "26072158",
+      "id": "31027914",
+      "category": "経済・ビジネス（日本）",
+      "title": "高市首相 1日からインド訪問 経済安保やAIで成果文書調整",
+      "summary": "高市総理大臣は1日からインドを訪問し、モディ首相と首脳会談を予定しており、経済安全保障とAIの分野で成果文書を発表する方向で調整している。両国の協力関係を戦略的に構築することで、強い経済の実現につなげることを目指している。",
+      "url": "http://www3.nhk.or.jp/news/html/20260630/k10015164091000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-29T20:25:30+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "37915486",
       "category": "経済・ビジネス（日本）",
       "title": "茂木外相 米イラン最終合意環境醸成に努力 クウェート外相に",
       "summary": "茂木外務大臣はクウェート外相との電話会談で、米イラン最終合意に向けた環境醸成に最大限努力する考えを示し、中東地域の復旧・復興における日本の積極的な役割を表明しました。",
@@ -75,7 +115,7 @@
       "lang": "ja"
     },
     {
-      "id": "36929945",
+      "id": "77529107",
       "category": "経済・ビジネス（日本）",
       "title": "高市首相 インドと経済安保やエネルギー分野で関係強化の考え",
       "summary": "高市総理大臣は7月1日からのインド訪問でモディ首相と首脳会談を予定しており、経済安全保障やエネルギー分野での関係強化を目指しています。",
@@ -85,47 +125,27 @@
       "lang": "ja"
     },
     {
-      "id": "73253244",
-      "category": "経済・ビジネス（日本）",
-      "title": "中国 軍民両用品目の対日輸出禁止発表 日本の20の企業など追加",
-      "summary": "中国商務省は防衛省防衛研究所など日本の20団体・企業を輸出規制リストに追加し、軍民両用品目の対日輸出を禁止すると発表した。これは日本の軍事力向上への関与を理由としており、中国は2月に同様の措置を別の20社に対して実施しており、日本への圧力を強めている。",
-      "url": "http://www3.nhk.or.jp/news/html/20260629/k10015163591000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-29T11:29:09+00:00",
-      "lang": "ja"
+      "id": "33818102",
+      "category": "経済・ビジネス（世界）",
+      "title": "Will Andy Burnham's devolution plan raise economic growth?",
+      "summary": "マンチェスターの市長アンディ・バーナムが提案した地方分権計画について、BBCが検証した結果、さらなる権限委譲がイギリスの経済成長に与える影響は不確実であり、過去の事例から見ても地域経済の成長効果は限定的であることが示唆されている。専門家の間でも、単なる権限移譲だけでは経済成長につながるとは限らず、それに伴う資金投下や政策実行能力が重要な要素となることで意見が一致している。",
+      "url": "https://www.bbc.co.uk/news/articles/c5yz4x9ew49o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-06-29T19:33:26+00:00",
+      "lang": "en"
     },
     {
-      "id": "33794242",
-      "category": "経済・ビジネス（日本）",
-      "title": "豪がバヌアツと安全保障などで合意 影響力拡大の中国に対抗へ",
-      "summary": "オーストラリアは南太平洋の島国バヌアツと安全保障に関する合意に署名し、この地域での影響力拡大を目指す中国への対抗姿勢を強めています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260629/k10015164041000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-29T10:49:09+00:00",
-      "lang": "ja"
+      "id": "16452392",
+      "category": "経済・ビジネス（世界）",
+      "title": "Supreme Court blocks Trump's attempt to fire Federal Reserve Governor Lisa Cook",
+      "summary": "最高裁判所はトランプ大統領による連邦準備制度理事会のリサ・クック理事の解任試みをブロックしました。この決定は中央銀行の独立性に対する勝利と見なされており、解任権をめぐる争いは下級裁判所へ差し戻されることになります。",
+      "url": "https://www.bbc.co.uk/news/articles/cy4wwy0nkeno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-06-29T16:51:52+00:00",
+      "lang": "en"
     },
     {
-      "id": "69668340",
-      "category": "経済・ビジネス（日本）",
-      "title": "パキスタンがアフガニスタン攻撃 対立の激化懸念",
-      "summary": "パキスタン政府がアフガニスタンの過激派組織の潜伏先を攻撃し29人を殺害したと発表しましたが、アフガニスタンを統治するタリバンは民間人36人が死亡したと反発しており、両国間の対立が激化する懸念が高まっています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260629/k10015163981000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-29T10:46:11+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "79834297",
-      "category": "経済・ビジネス（日本）",
-      "title": "韓国大統領「企業と連携して半導体やAI分野で大規模投資」",
-      "summary": "韓国のイ・ジェミョン大統領は、半導体とAI分野での国際競争力強化を目指し、大手企業と連携して84兆円を超える規模の生産拠点構築を含む大規模投資を推進する方針を表明した。",
-      "url": "http://www3.nhk.or.jp/news/html/20260629/k10015163941000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-29T09:51:18+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "74089289",
+      "id": "39144313",
       "category": "経済・ビジネス（世界）",
       "title": "Burnham's 'Manchesterism' could change the UK, but is not yet a full economic plan",
       "summary": "アンディ・バーナムの「マンチェスター主義」は、英国を見て運営する異なる方法を提示しており、地域分散型の経済改革を目指しているが、具体的な実行計画の詳細については多くの課題が残されている。バーナムの演説は英国の将来像を示す重要な提案である一方で、政策の詳細な部分についてはまだ完全な経済計画とは言えない段階にある。",
@@ -135,17 +155,7 @@
       "lang": "en"
     },
     {
-      "id": "48493731",
-      "category": "経済・ビジネス（世界）",
-      "title": "Supreme Court blocks Trump's attempt to fire Federal Reserve governor Lisa Cook",
-      "summary": "最高裁判所はトランプ大統領による連邦準備制度理事会のリサ・クック理事の解任試みをブロックしました。この決定は中央銀行の独立性に対する勝利と見なされており、解任権をめぐる争いは下級裁判所へ差し戻されることになります。",
-      "url": "https://www.bbc.co.uk/news/articles/cy4wwy0nkeno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-06-29T14:33:16+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "86383059",
+      "id": "23944953",
       "category": "経済・ビジネス（世界）",
       "title": "Inspired by Wimbledon and the World Cup? Here's how to play sport for free",
       "summary": "テニスの世界トップ選手がウィンブルドン選手権に登場する中、予算を抑えてテニスを始める方法について紹介している。記事ではコミュニティセンターの利用やラケットのレンタル、グループレッスンなど、低コストでテニスを楽しむための具体的な選択肢を提案している。初心者がテニスという競技に気軽にアクセスでき、本格的に取り組む前に試してみることができる環境が整備されていることが強調されている。",
@@ -155,7 +165,7 @@
       "lang": "en"
     },
     {
-      "id": "60823471",
+      "id": "27237861",
       "category": "経済・ビジネス（世界）",
       "title": "British American Tobacco to cut 9,000 jobs",
       "summary": "ブリティッシュ・アメリカン・タバコが9,000人の雇用削減を実行する。同社は今年初めに、デジタルとAIに重点を置いた事業への転換を通じた経費削減計画を発表していた。この削減により、同社はより効率的で技術駆動型の企業への変革を目指している。",
@@ -165,7 +175,7 @@
       "lang": "en"
     },
     {
-      "id": "33924924",
+      "id": "28752669",
       "category": "経済・ビジネス（世界）",
       "title": "Ford rehires human engineers after AI fails to match quality checks",
       "summary": "フォードが人工知能による品質検査が経験豊富な技術者の技能に及ばないことが判明したため、人間のエンジニアを再雇用した。同社のAIシステムは自動車製造における細かな欠陥の検出において人間の検査官に比べて性能が劣っており、品質管理の維持のため専門知識を持つ技術者の配置が必要であると判断された。",
@@ -175,7 +185,7 @@
       "lang": "en"
     },
     {
-      "id": "30220915",
+      "id": "67139404",
       "category": "経済・ビジネス（世界）",
       "title": "South Korea unveils $880bn chip and AI investment plan",
       "summary": "韓国が今後1兆ドルの規模でチップとAI産業に投資する計画を発表した。これはアジア太平洋地域でも台湾、中国、日本が半導体工場などの技術産業に大規模投資を進める中での発表である。韓国は地域内での競争力を強化し、グローバルな技術産業における立場を確保することを目指している。",
@@ -185,7 +195,7 @@
       "lang": "en"
     },
     {
-      "id": "50658893",
+      "id": "77625781",
       "category": "経済・ビジネス（世界）",
       "title": "Rogue builder left our roof leaking and spent £30K we gave him in Lanzarote",
       "summary": "悪質な建設業者クリスチャン・ウィリアムズ氏が顧客から30万ポンドを受け取りながら屋根の工事を完成させず、その資金でランサローテ島での休暇を過ごしていた。詐欺で合計16万ポンドの利益を得たにもかかわらず、返金額はわずか1ポンドに設定されている。この事件は建設業界の悪質な詐欺行為と杜撰な規制の実態を明らかにしている。",
@@ -195,97 +205,117 @@
       "lang": "en"
     },
     {
-      "id": "21831501",
-      "category": "経済・ビジネス（世界）",
-      "title": "Could you handle a 20-plus hour flight? This airline is banking on it",
-      "summary": "ロンドンからシドニーへの初の直行便が実現しようとしており、20時間以上の長時間飛行となることから、航空会社はこのような超長距離フライトの需要があると見込んでいる。業界アナリストはこのフライトを大きなマイルストーンと評価する一方で、消費者がこのような極めて長い飛行時間のチケットを購入するかどうかは不確実な状況にある。この取り組みは航空産業における技術進歩と乗客の長距離移動ニーズの拡大を示す重要な事例となっている。",
-      "url": "https://www.bbc.co.uk/news/articles/cx2j7v51l5ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-06-26T23:02:15+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "35549184",
+      "id": "35996283",
       "category": "テクノロジー・AI",
-      "title": "TIDAL cracks down on AI music by cutting off monetization",
-      "summary": "TIDALは、AI生成音楽が同サービスで収益を得ることを防ぐ新しいポリシーを導入する。同社はAI音楽への対策を強化し、人間のアーティストが不正な収入競争にさらされることを防ぐとしている。この政策により、AIが生成した楽曲は配信されても金銭的な利益を得られなくなる。",
-      "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+      "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
+      "summary": "チャマス・パリハピティヤ投資家が創設したAIコーディングスタートアップが、シリーズA資金調達で1億3500万ドルを調達し、パリハピティヤがCEOに就任した。VCはAIコーディングスタートアップへの出資に引き続き熱心であり、同社もその例外ではない。",
+      "url": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
       "source": "TechCrunch",
-      "published_at": "2026-06-29T16:29:04+00:00",
+      "published_at": "2026-06-29T20:55:50+00:00",
       "lang": "en"
     },
     {
-      "id": "49038872",
+      "id": "90402773",
       "category": "テクノロジー・AI",
-      "title": "In major privacy win, Supreme Court rules geofence warrants are protected by privacy rights",
-      "summary": "最高裁判所は地理的位置情報に基づく令状の使用を制限する判決を下し、プライバシー擁護派の勝利となりました。この判決は、そうした令状の使用を違憲と主張し完全禁止を求めていた関係者の訴えに応じたものです。位置情報を使った監視行為がプライバシー権によって保護されることが認められたこの決定により、個人のプライバシーに対する裁判所の保護がさらに強化されることになります。",
-      "url": "https://techcrunch.com/2026/06/29/in-major-privacy-win-supreme-court-rules-geofence-warrants-are-protected-by-privacy-rights/",
+      "title": "Gemini’s personalized AI image generation is now free for US users",
+      "summary": "Googleは米国の対象となる無料ユーザー向けにGeminiの個人化されたAI画像生成機能を展開し、チャットボットがユーザーの興味や接続されたGoogleアプリのデータに基づいて画像を作成できるようにしました。この機能により、ユーザーはより自分の好みに合わせた画像生成が可能になります。",
+      "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
       "source": "TechCrunch",
-      "published_at": "2026-06-29T16:05:23+00:00",
+      "published_at": "2026-06-29T20:12:59+00:00",
       "lang": "en"
     },
     {
-      "id": "50776151",
+      "id": "17376944",
       "category": "テクノロジー・AI",
-      "title": "WhatsApp now lets you reserve usernames",
-      "summary": "WhatsAppがユーザー名の予約機能を開始しました。ユーザー名は3〜35文字の長さで設定でき、プライバシー保護と識別性の向上が可能になります。この新機能により、ユーザーは電話番号を共有せずにWhatsAppで連絡先を交換できるようになりました。",
-      "url": "https://techcrunch.com/2026/06/29/whatsapp-now-lets-you-reserve-usernames/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-29T16:00:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "37416015",
-      "category": "テクノロジー・AI",
-      "title": "Lawmakers want to ban AI companies from selling your health data",
-      "summary": "米国の議員らが、ChatGPTやClaudeなどのAIチャットボットを含む企業に対して、アメリカ国民の健康情報と位置情報をデータブローカーに売却することを禁止する新たな提案を計画している。エリザベス・ウォーレン上院議員とメアリー・ゲイ・スキャンロン下院議員は数週間以内にこの提案の新版を発表する予定である。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
+      "title": "Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
+      "summary": "Tidalは7月15日からAI生成音楽に「100%AI生成」というラベルを付け、即座に収益化を廃止することを発表した。AIが生成した楽曲を完全に禁止するのではなく、リスナーに情報提供し、アーティストを保護する新方針を導入する。この施策により、Tidalはロイヤリティを支払わずにAI生成音楽をプラットフォーム上に保持する方針を示している。",
+      "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
       "source": "AI | The Verge",
-      "published_at": "2026-06-29T16:00:00+00:00",
+      "published_at": "2026-06-29T19:47:35+00:00",
       "lang": "en"
     },
     {
-      "id": "48935284",
+      "id": "54492746",
       "category": "テクノロジー・AI",
-      "title": "Rocket Lab continues buying spree by acquiring satellite company Iridium",
-      "summary": "ロケット・ラボが衛星通信企業アイリジウムを買収し、買収額は80億ドルの全株式取引である。この買収によりロケット・ラボはアマゾンとスペースXとの競争でさらに強力な立場を手に入れることになる。",
-      "url": "https://techcrunch.com/2026/06/29/rocket-lab-continues-buying-spree-by-acquiring-satellite-company-iridium/",
+      "title": "Watch out, Amazon: The Kobo eReader now has a Goodreads rival",
+      "summary": "Kobo電子書籍リーダーのユーザーは、読書進捗を自動的にStoryGraphに同期できるようになり、Amazonの子会社であるGoodreadsに依存せずに、書籍の追跡や読書統計、チャレンジ管理が可能になった。この機能により、Koboはアマゾンに対抗する読書コミュニティサービスの提供を強化し、ユーザーの利便性が向上した。",
+      "url": "https://techcrunch.com/2026/06/29/watch-out-amazon-the-kobo-ereader-now-has-a-goodreads-rival/",
       "source": "TechCrunch",
-      "published_at": "2026-06-29T15:02:07+00:00",
+      "published_at": "2026-06-29T19:06:21+00:00",
       "lang": "en"
     },
     {
-      "id": "85795582",
+      "id": "31125670",
       "category": "テクノロジー・AI",
-      "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
-      "summary": "ロボットハンド企業Proceptionがテスラとの営業秘密訴訟を和解し、1100万ドルの資金調達を発表した。同社はロボット工学における最難関課題の一つであるハンドの制御に対し、訓練データ収集のユニークなアプローチを取っている。",
-      "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-29T14:00:08+00:00",
+      "title": "OpenAI is teasing new hardware… for Codex",
+      "summary": "OpenAIが7月15日にAIを活用したコーディングツール「Codex」関連のデバイスをリリースする予定であり、同社はX上に投稿した動画で複数のボタンが付いた四角形のデバイスを公開し「お気に入りのCodexショートカットがアップグレードされる」とキャプションを添えた。このデバイスはOpenAIが開発中の神秘的なAI搭載デバイスとは別のものである。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+      "source": "AI | The Verge",
+      "published_at": "2026-06-29T18:52:03+00:00",
       "lang": "en"
     },
     {
-      "id": "37778623",
+      "id": "41052598",
       "category": "テクノロジー・AI",
-      "title": "Pocket raises $11M in bet on rising demand for AI note-taking devices",
-      "summary": "Pocket raises $11M in bet on rising demand for AI note-taking devices（ポケット、AI搭載メモデバイスの需要増加に賭けて1100万ドルを調達） ポケットは、スマートフォンの背面に装着できるクレジットカード型の129ドルのデバイスを販売しており、無制限の録音、文字起こし、ToDoリストの機能を提供している。同社はAI搭載のメモ取りデバイスへの需要増加に期待して、1100万ドルの資金調達に成功した。",
-      "url": "https://techcrunch.com/2026/06/29/pocket-raises-11m-in-bet-on-rising-demand-for-ai-note-taking-devices/",
+      "title": "Waymo and Uber quietly part ways in Phoenix",
+      "summary": "ウェイモとウーバーはフェニックスで静かに提携を解消した。ウーバーは同市での新しい自動運転車パートナーシップの立ち上げを準備していると発表したが、パートナー企業の名前は明かしていない。ウェイモとウーバーの協力関係の終了により、フェニックスの自動運転車市場の競争構図に変化が起こると予想される。",
+      "url": "https://techcrunch.com/2026/06/29/waymo-and-uber-quietly-part-ways-in-phoenix/",
       "source": "TechCrunch",
-      "published_at": "2026-06-29T13:16:00+00:00",
+      "published_at": "2026-06-29T18:45:12+00:00",
       "lang": "en"
     },
     {
-      "id": "82234940",
+      "id": "91714214",
       "category": "テクノロジー・AI",
-      "title": "Flipper Device’s new Busy Bar is a customizable display for productivity",
-      "summary": "Flipper Deviceが新たに発表した「Busy Bar」は、生産性向上のためのカスタマイズ可能なディスプレイデバイスで、小売価格は249ドルである。このデバイスは、ユーザーが自分の作業状況や進捗状況をリアルタイムで表示・管理できるように設計されており、仕事の効率性を高めるツールとして位置づけられている。",
-      "url": "https://techcrunch.com/2026/06/29/flipper-devices-new-busy-bar-is-a-customizable-display-for-productivity/",
+      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+      "summary": "カリフォルニア州政府がClaudeを半額で使用できる契約をAnthropicとカリフォルニア州知事が締結した。Anthropicがカリフォルニア州との関係を深める一方で、OpenAIのライバルである同社は連邦政府から敵対視されている状況が生じている。",
+      "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
       "source": "TechCrunch",
-      "published_at": "2026-06-29T13:00:00+00:00",
+      "published_at": "2026-06-29T18:10:26+00:00",
       "lang": "en"
     },
     {
-      "id": "74618720",
+      "id": "61903574",
+      "category": "テクノロジー・AI",
+      "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
+      "summary": "世界最大級のメモリチップ企業である韓国の大手テック企業が5500億ドル以上を投じてメモリ不足対策に取り組み、メモリ製造ラボの拡充を計画している。韓国はこれによってAI技術大国としての地位確立を目指している。",
+      "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-29T18:07:48+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "87198031",
+      "category": "台湾・中台関係",
+      "title": "AI and Iran will speed up the energy transition",
+      "summary": "先週、世界の未来像をより明確にする2つの出来事が発生した。AIとイランの動きは、エネルギー転換を加速させる要因となるだろう。これらの展開により、再生可能エネルギーやクリーンテクノロジーへのシフトが従来よりも急速に進むと予想される。",
+      "url": "https://www.abc.net.au/news/2026-06-29/artificial-intelligence-china-iran-strait-of-hormuz-oil/106847742",
+      "source": "ABC News (AU)",
+      "published_at": "2026-06-28T19:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "20150698",
+      "category": "台湾・中台関係",
+      "title": "The political economy of industrial slowdown",
+      "summary": "産業生産が過去最低の2.86％成長に落ち込んだにもかかわらず、来年度は7％への加速を予想する予算案が示されている。このような急激な成長加速は実現困難とみられ、政府は産業の低迷に対する構造的な問題解決より、楽観的な数字を掲げることで政治的な正当性を保とうとしている可能性がある。予算編成の現実性と実現可能性の乖離が、経済政策の有効性に対する疑問を招いている。",
+      "url": "https://www.thedailystar.net/business/economy/news/the-political-economy-industrial-slowdown-4210681",
+      "source": "The Daily Star",
+      "published_at": "2026-06-28T17:56:58+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "31541626",
+      "category": "台湾・中台関係",
+      "title": "The New Five Forces, Part 2: Geopolitics and Forced Choices",
+      "summary": "地政学的な緊張の高まりにより、企業は従来の経営戦略を見直し、サプライチェーンの多様化やリスク管理の強化を迫られている。この記事はノア・ガフニ博士の報告書「ニューファイブフォース：不確実な世界でのビジネス戦略」の第2部として、地政学が現代企業に与える影響と選択を余儀なくされる経営課題について分析している。企業は政治的リスクを事業戦略に組み込み、変動する国際環境への適応力を強化することが急務となっている。",
+      "url": "https://www.fairobserver.com/world-news/the-new-five-forces-part-2-geopolitics-and-forced-choices/",
+      "source": "Fair Observer",
+      "published_at": "2026-06-28T16:48:30+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "34732906",
       "category": "台湾・中台関係",
       "title": "PM lauds NU for reviving ancient tradition of ‘Shaastraarth’",
       "summary": "インド首相モディ氏がナーランダ大学を称賛し、古代の伝統的な議論形式である「シャストラアルス」を復活させた取り組みを評価しています。同大学は古い知識体系と現代技術を融合させた形で、この伝統的な哲学討論を再現しており、首相は他の教育機関もこのモデルに倣うよう促しています。",
@@ -295,7 +325,7 @@
       "lang": "en"
     },
     {
-      "id": "79591997",
+      "id": "31874140",
       "category": "台湾・中台関係",
       "title": "SHRC takes up VN Desai Hospital’s ‘fake doc’ case",
       "summary": "医療委員会（MMC）がICU契約医師バラット・サワントの医学証明書が無効であることを発見したため、州人権委員会（SHRC）はVNデサイ病院の「偽医者」事件を7月9日から審理することになり、派遣機関への支払いは中止されている。",
@@ -305,7 +335,7 @@
       "lang": "en"
     },
     {
-      "id": "52477836",
+      "id": "33901304",
       "category": "台湾・中台関係",
       "title": "With Marcelo Mayer on IL, Red Sox promote infielder Tsung-Che Cheng",
       "summary": "マルセロ・メイヤーが故障者リスト入りしたため、レッドソックスはTsung-Che Cheng内野手をメジャーに昇格させた。25歳の台湾出身選手で、ピントン郡出身のChengは打率.333、5四死球、4盗塁を記録している。詳細な経歴や昇格の背景が期待される。",
@@ -315,7 +345,7 @@
       "lang": "en"
     },
     {
-      "id": "19757949",
+      "id": "14681481",
       "category": "台湾・中台関係",
       "title": "Varsity teachers to stage demonstration on July 1",
       "summary": "ビハール州の大学教員たちが7月1日に給与と年金の遅延に抗議するデモを実施予定であり、フタブ氏は9つの大学にわたって4ヶ月分の給与が未払いとなっていると指摘し、定期的な支払いを求めている。",
@@ -325,43 +355,13 @@
       "lang": "en"
     },
     {
-      "id": "70357562",
+      "id": "82602041",
       "category": "台湾・中台関係",
       "title": "Uttarakhand: The dhaba at the end of the road",
       "summary": "ウッタラカンド州の村落地域では、新しい道路は単なるインフラストラクチャーではなく、経済発展の始まりを意味しており、州政府の道路整備計画はそれに続く経済的な機会をもたらしている。特に道路沿いに出現する食堂などの商業施設が、地域経済の活性化に重要な役割を果たしている。",
       "url": "https://timesofindia.indiatimes.com/city/dehradun/uttarakhand-the-dhaba-at-the-end-of-the-road/articleshow/132053259.cms",
       "source": "The Times of India",
       "published_at": "2026-06-28T14:38:04+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "57251715",
-      "category": "台湾・中台関係",
-      "title": "2 killed in accident in Hanumakonda district",
-      "summary": "ハイデラバード発の車が道路上でコントロールを失い、中央分離帯に衝突してウッパル村近くの住宅に突っ込んだため、ハヌマコンダ地区で2人が死亡した事故が発生し、警察が事件の届け出を受理した。",
-      "url": "https://timesofindia.indiatimes.com/city/hyderabad/2-killed-in-accident-in-hanumakonda-district/articleshow/132053419.cms",
-      "source": "The Times of India",
-      "published_at": "2026-06-28T14:36:37+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "28657069",
-      "category": "台湾・中台関係",
-      "title": "Woman advocate arrested for running flesh trade racket from Kalyan hotel",
-      "summary": "タイン警察は、カルヤン・イースト地区のホテルから売春斡旋組織を運営していたとして、女性弁護士を逮捕した。この事件では2人の女性が救出され、インド刑法及び不道徳行為防止法違反で立件された。",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/woman-advocate-arrested-for-running-flesh-trade-racket-from-kalyan-hotel/articleshow/132053055.cms",
-      "source": "The Times of India",
-      "published_at": "2026-06-28T14:33:30+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "58245017",
-      "category": "台湾・中台関係",
-      "title": "Hyderabad narcotics team arrests marijuana smuggler in Giridih",
-      "summary": "ハイデラバード麻薬部門がギリディ出身の男性サティヤム・ミシュラを逮捕した。彼は宅配便と速達郵便を使用してテランガナ州および他州へマリファナを密輸していた容疑で拘束されている。",
-      "url": "https://timesofindia.indiatimes.com/city/ranchi/hyderabad-narcotics-team-arrests-marijuana-smuggler-in-giridih/articleshow/132053354.cms",
-      "source": "The Times of India",
-      "published_at": "2026-06-28T14:33:16+00:00",
       "lang": "en"
     }
   ]
