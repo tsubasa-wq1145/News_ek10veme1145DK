@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T11:39:44.586184+00:00",
+  "updated_at": "2026-06-30T15:27:04.749102+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -45,7 +45,27 @@
   "digest": [],
   "news": [
     {
-      "id": "75160250",
+      "id": "32549385",
+      "category": "経済・ビジネス（日本）",
+      "title": "米「出生地主義」見直しの大統領令 連邦最高裁が認めない判断",
+      "summary": "トランプ大統領が署名したアメリカでの出生児に自動的に国籍を与える「出生地主義」を見直す大統領令について、連邦最高裁判所は30日にこれを認めないとする判断を下しました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165281000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-30T15:22:56+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "62944630",
+      "category": "経済・ビジネス（日本）",
+      "title": "尖閣諸島沖 日本のEEZ 中国の海洋調査船 一時活動も海域離れる",
+      "summary": "沖縄県の尖閣諸島沖の日本のEZで海洋調査を行っていた中国の海洋調査船が、28日からの活動を経て30日に海域を離れたことが確認された。",
+      "url": "http://www3.nhk.or.jp/news/html/20260630/k10015165231000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-06-30T12:18:04+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "25975689",
       "category": "経済・ビジネス（日本）",
       "title": "【随時更新】ロシア ウクライナに軍事侵攻（6月30日の動き）",
       "summary": "ロシアによるウクライナへの軍事侵攻が継続しており、各地でロシア軍とウクライナ軍の戦闘が続いている。多くの市民が国外へ避難する中、6月30日のウクライナ情勢の動きを随時更新で報道している。",
@@ -55,7 +75,7 @@
       "lang": "ja"
     },
     {
-      "id": "20972962",
+      "id": "78594568",
       "category": "経済・ビジネス（日本）",
       "title": "ゼレンスキー大統領 “プーチン氏 停戦向けた提案拒否の認識”",
       "summary": "ウクライナのゼレンスキー大統領は、ロシアのプーチン大統領が停戦提案を拒否したと述べ、今後も支援国と協力して停戦実現に向けた取り組みを続ける方針を示しました。",
@@ -65,7 +85,7 @@
       "lang": "ja"
     },
     {
-      "id": "86035872",
+      "id": "40421325",
       "category": "経済・ビジネス（日本）",
       "title": "ベネズエラに浄水器など緊急援助物資を供与 茂木外相",
       "summary": "茂木外務大臣は、地震の被害を受けたベネズエラに対してポリタンクや浄水器などの緊急援助物資を供与すると発表した。今後は国際緊急援助隊の派遣や緊急無償資金協力なども検討していく予定である。",
@@ -75,7 +95,7 @@
       "lang": "ja"
     },
     {
-      "id": "27015827",
+      "id": "18389127",
       "category": "経済・ビジネス（日本）",
       "title": "欧州の記録的熱波 東欧などにも影響広がる 国際機関が警告",
       "summary": "ヨーロッパで記録的な熱波が発生し、東欧地域にまで影響が拡大している状況にあります。この熱波により多くの死者が発生し、山火事も相次いで起きるなど被害が深刻化しており、国際機関が警告を発しています。",
@@ -85,7 +105,7 @@
       "lang": "ja"
     },
     {
-      "id": "98926455",
+      "id": "49332999",
       "category": "経済・ビジネス（日本）",
       "title": "中国 6月製造業景況感が3か月ぶりに改善 節目を上回る",
       "summary": "中国の6月製造業景況感指数は、通信や電子機器などの業種における堅調な生産と新規受注を背景に3か月ぶりに改善し、景気判断の節目である50を上回りました。",
@@ -95,7 +115,7 @@
       "lang": "ja"
     },
     {
-      "id": "92788109",
+      "id": "27097846",
       "category": "経済・ビジネス（日本）",
       "title": "米最高裁 FTC＝連邦取引委員会委員の解任 大統領の権限を容認",
       "summary": "アメリカの連邦最高裁判所は、トランプ大統領によるFTC委員の解任は大統領の権限だと認める判断を示しました。一方、反対した3人の判事は、この決定が大統領の権力増大につながることへの懸念を表明しています。",
@@ -105,27 +125,17 @@
       "lang": "ja"
     },
     {
-      "id": "43725934",
-      "category": "経済・ビジネス（日本）",
-      "title": "ペルシャ湾内の日本関係船舶 新たに3隻がホルムズ海峡通過",
-      "summary": "ペルシャ湾内に滞在していた日本関係船舶のうち新たに3隻がホルムズ海峡を通過したことが金子国土交通大臣により発表された。乗組員の健康状態と船体に問題はないと報告されている。",
-      "url": "http://www3.nhk.or.jp/news/html/20260630/k10015164521000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-30T03:13:56+00:00",
-      "lang": "ja"
+      "id": "74392978",
+      "category": "経済・ビジネス（世界）",
+      "title": "Shetland backs plan to connect islands with £1.5bn undersea tunnels",
+      "summary": "シェットランド諸島は、海底トンネルで島々を結ぶ15億ポンド規模の計画を支持する見通しで、英国最北部の島々を結ぶ海底リンクは8年以内に完成する可能性がある。この野心的なプロジェクトは、シェットランド地域の交通インフラを大幅に改善し、島々間の移動時間を短縮することで、経済発展と地域活性化を促進することが期待されている。",
+      "url": "https://www.bbc.co.uk/news/articles/cvgl1egyl79o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-06-30T12:18:16+00:00",
+      "lang": "en"
     },
     {
-      "id": "23244232",
-      "category": "経済・ビジネス（日本）",
-      "title": "円相場 一時1ドル＝162円台に 約39年半ぶりの円安水準",
-      "summary": "29日のニューヨーク外国為替市場で円相場が1ドル＝161円90銭台をつけ、1986年12月以来約39年半ぶりの円安水準となりました。アメリカのFRBによる利上げ観測の強まりと日米の金利差拡大の可能性が意識される中、円売りドル買いの傾向が続いています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260629/k10015164231000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-30T02:34:11+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "68364559",
+      "id": "15361804",
       "category": "経済・ビジネス（世界）",
       "title": "Homes harder to sell as high mortgage rates frustrate buyers",
       "summary": "住宅ローン金利が高い状況下で住宅販売が困難になっており、不動産ポータルサイトのZooplaによると1月以降にリストされた住宅の5軒中3軒が売れ残っている状況が報告されている。高い住宅ローン金利が購入者の購買意欲を減退させ、住宅市場の流動性が低下していることが明らかになった。",
@@ -135,17 +145,7 @@
       "lang": "en"
     },
     {
-      "id": "54746770",
-      "category": "経済・ビジネス（世界）",
-      "title": "Shetland set to back £1.5bn plan to connect islands with undersea tunnels",
-      "summary": "シェットランド諸島は、海底トンネルで島々を結ぶ15億ポンド規模の計画を支持する見通しで、英国最北部の島々を結ぶ海底リンクは8年以内に完成する可能性がある。この野心的なプロジェクトは、シェットランド地域の交通インフラを大幅に改善し、島々間の移動時間を短縮することで、経済発展と地域活性化を促進することが期待されている。",
-      "url": "https://www.bbc.co.uk/news/articles/cvgl1egyl79o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-06-30T05:20:33+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "45225044",
+      "id": "28003166",
       "category": "経済・ビジネス（世界）",
       "title": "India's biggest share sales tell the story of a country glued to its phones",
       "summary": "インド国立証券取引所（NSE）とジオ・プラットフォームズの大型上場は、過去10年間でインドの消費、投資、取引方法が劇的に変わったことを象徴している。これらの企業はスマートフォンを通じたデジタル化の急速な進展を体現しており、インド社会がモバイル中心の経済へシフトしていることを示している。",
@@ -155,7 +155,7 @@
       "lang": "en"
     },
     {
-      "id": "29406317",
+      "id": "97197118",
       "category": "経済・ビジネス（世界）",
       "title": "Chinese tycoon sentenced to 30 years in US jail",
       "summary": "中国の実業家グオ・ウェングイが、米国で30年の懲役刑を言い渡された。彼は自らを中国批評家として標榜し、詐欺的な事業を支持する多くの信奉者を獲得していた。",
@@ -165,7 +165,7 @@
       "lang": "en"
     },
     {
-      "id": "54223008",
+      "id": "38858049",
       "category": "経済・ビジネス（世界）",
       "title": "We had packed lunches every day for 10 years and retired at 40",
       "summary": "夫婦が10年間毎日弁当を持参して生活を節約し、40歳でリタイアを実現した話である。FIRE運動は、できるだけ多くの資金を貯蓄して早期リタイアを目指す動きであり、この夫婦はその実践例として極度の節約生活を通じて経済的独立を達成した。",
@@ -175,7 +175,7 @@
       "lang": "en"
     },
     {
-      "id": "12992835",
+      "id": "32693971",
       "category": "経済・ビジネス（世界）",
       "title": "Hollywood director gets two and a half years in prison for defrauding Netflix",
       "summary": "ハリウッドの映画監督がNetflixの詐欺で2年半の懲役刑を受けた。同監督はNetflixの番組制作資金をロールスロイスやフェラーリなどの贅沢品の購入に充てたとして告発されていた。映画制作資金を個人的な高級車購入に流用した不正な行為が問われた事件である。",
@@ -185,7 +185,7 @@
       "lang": "en"
     },
     {
-      "id": "16342123",
+      "id": "46874920",
       "category": "経済・ビジネス（世界）",
       "title": "Will Andy Burnham's devolution plan raise economic growth?",
       "summary": "マンチェスターの市長アンディ・バーナムが提案した地方分権計画について、BBCが検証した結果、さらなる権限委譲がイギリスの経済成長に与える影響は不確実であり、過去の事例から見ても地域経済の成長効果は限定的であることが示唆されている。専門家の間でも、単なる権限移譲だけでは経済成長につながるとは限らず、それに伴う資金投下や政策実行能力が重要な要素となることで意見が一致している。",
@@ -195,7 +195,7 @@
       "lang": "en"
     },
     {
-      "id": "68084985",
+      "id": "43955395",
       "category": "経済・ビジネス（世界）",
       "title": "Burnham's 'Manchesterism' could change the UK, but is not yet a full economic plan",
       "summary": "アンディ・バーナムの「マンチェスター主義」は、英国を見て運営する異なる方法を提示しており、地域分散型の経済改革を目指しているが、具体的な実行計画の詳細については多くの課題が残されている。バーナムの演説は英国の将来像を示す重要な提案である一方で、政策の詳細な部分についてはまだ完全な経済計画とは言えない段階にある。",
@@ -205,7 +205,77 @@
       "lang": "en"
     },
     {
-      "id": "59264403",
+      "id": "26961630",
+      "category": "テクノロジー・AI",
+      "title": "X now offers an MCP server to make its platform easier for AI tools to use",
+      "summary": "XはホストされたMCPサーバーを立ち上げ、開発者がAIアプリケーションを同社のAPIと接続することを容易にした。このサーバーにより、AI ツールはX プラットフォームへのアクセスがシンプルになり、開発者の統合作業の負担が軽減される。これはX がAI エコシステムとの連携を強化する動きである。",
+      "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-30T15:08:42+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "62995649",
+      "category": "テクノロジー・AI",
+      "title": "Arcturus could halve the grid’s electrical losses using its nano-infused copper",
+      "summary": "アーク トゥルスという企業がレーザーを用いて炭素ナノ材料を銅に注入する技術を開発し、銅の電気伝導性を大幅に向上させている。この技術により、電力網の電気損失を半減させることができる可能性がある。同社はこのナノ材料を含む銅を利用することで、電気インフラの効率改善を目指している。",
+      "url": "https://techcrunch.com/2026/06/30/arcturus-could-halve-the-grids-electrical-losses-using-its-nano-infused-copper/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-30T15:01:42+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "23096083",
+      "category": "テクノロジー・AI",
+      "title": "Podcasting platform Riverside enters the newsletter publishing game",
+      "summary": "ポッドキャスト配信プラットフォームのRiversideがニュースレター出版事業に参入する。ユーザーは録音内容をベースにAIを使ってニュースレターを作成できるようになる。これにより、ポッドキャスターはコンテンツの再利用性を高め、リスナーへのアクセス手段を拡大することが可能になる。",
+      "url": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-30T15:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "22034633",
+      "category": "テクノロジー・AI",
+      "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+      "summary": "Amazonが新たに10億ドル規模のフロンティア開発エンジニアリング(FDE)組織を立ち上げ、OpenAIとAnthropicに続いている。新チームのエンジニアは企業内に配置され、カスタマイズされたエージェントの導入に焦点を当て、迅速な展開と顧客の自立性向上を目指す。",
+      "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-30T15:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "60349273",
+      "category": "テクノロジー・AI",
+      "title": "Your brand deserves its own stage — Side Events at TechCrunch Disrupt 2026",
+      "summary": "TechCrunch Disrupt 2026は10月10日から16日にかけて開催され、ブランドが独自のサイドイベントを主催して注目を集める機会を提供している。参加企業は会議期間中に自社のステージを設営し、業界内での存在感を強化できる。このサイドイベントは、TechCrunch Disruptという大規模なテックイベントの週間に、ブランドが独立した露出と影響力を獲得するための重要なプラットフォームとなっている。",
+      "url": "https://techcrunch.com/2026/06/30/your-brand-deserves-its-own-stage-side-events-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-30T14:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "14560583",
+      "category": "テクノロジー・AI",
+      "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
+      "summary": "Protonが開発したプライバシー重視のAIチャットボット「Lumo」がバージョン2.0にアップグレードされ、今週リリースされる予定だ。このアップデートにより、ユーザーはより多様な機能を利用できるようになる。",
+      "url": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-30T14:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "83609554",
+      "category": "テクノロジー・AI",
+      "title": "Meet the lawyer who beat Elon Musk — twice",
+      "summary": "イーロン・マスクがAIの失敗について訴訟を起こした事件で、弁護士ビル・サヴィットがマスクに対して質問を行ったところ、マスクは激怒してサヴィットの質問は「自分をだまそうとするために設計されている」と主張した。サヴィットはこれまでマスクとの法廷戦で2度勝利しており、この事件もそうした対立の一例である。マスク側の対応は、セラピーの代わりに訴訟で感情をぶつけているようなものとも見える。",
+      "url": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
+      "source": "AI | The Verge",
+      "published_at": "2026-06-30T12:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "39822723",
       "category": "テクノロジー・AI",
       "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
       "summary": "仮想通貨取引所OKXが、支払い、身元確認、評判管理を統合したAIエージェント向けのマーケットプレイスを構築しており、AIエージェント同士が相互に雇用および給与支払いを行える環境を実現しようとしている。",
@@ -215,143 +285,83 @@
       "lang": "en"
     },
     {
-      "id": "85387844",
-      "category": "テクノロジー・AI",
-      "title": "The AI jobs debate just got messier",
-      "summary": "AIを積極的に導入している企業では従業員数が10.2%増加し、特に入門レベルの職員は12%増加していることが新しいレポートで明らかになった。これはAIが初級職を失わせるという一般的な議論に反する結果となっている。",
-      "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-30T04:01:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "76602751",
-      "category": "テクノロジー・AI",
-      "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
-      "summary": "Wix傘下のバイブコーディングプラットフォーム「Base44」が独自のAIモデルの展開を開始し、将来的には最先端モデルを上回る性能を目指しています。AIスタートアップが競争力確保のため、独自モデル開発による差別化を進めている動きが広がっています。Base44は専門特化したモデルにより、コーディングタスクでのパフォーマンス向上と顧客の依存度低減を狙っています。",
-      "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-30T02:28:41+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "68169059",
-      "category": "テクノロジー・AI",
-      "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
-      "summary": "チャマス・パリハピティヤ投資家が創設したAIコーディングスタートアップが、シリーズA資金調達で1億3500万ドルを調達し、パリハピティヤがCEOに就任した。VCはAIコーディングスタートアップへの出資に引き続き熱心であり、同社もその例外ではない。",
-      "url": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-29T20:55:50+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "63138940",
-      "category": "テクノロジー・AI",
-      "title": "Gemini’s personalized AI image generation is now free for US users",
-      "summary": "Googleは米国の対象となる無料ユーザー向けにGeminiの個人化されたAI画像生成機能を展開し、チャットボットがユーザーの興味や接続されたGoogleアプリのデータに基づいて画像を作成できるようにしました。この機能により、ユーザーはより自分の好みに合わせた画像生成が可能になります。",
-      "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-29T20:12:59+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "57938890",
-      "category": "テクノロジー・AI",
-      "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
-      "summary": "Tidalは7月15日からAI生成音楽に「100%AI生成」というラベルを付け、即座に収益化を廃止することを発表した。AIが生成した楽曲を完全に禁止するのではなく、リスナーに情報提供し、アーティストを保護する新方針を導入する。この施策により、Tidalはロイヤリティを支払わずにAI生成音楽をプラットフォーム上に保持する方針を示している。",
-      "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
-      "source": "AI | The Verge",
-      "published_at": "2026-06-29T19:47:35+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "54123772",
-      "category": "テクノロジー・AI",
-      "title": "Watch out, Amazon: The Kobo eReader now has a Goodreads rival",
-      "summary": "Kobo電子書籍リーダーのユーザーは、読書進捗を自動的にStoryGraphに同期できるようになり、Amazonの子会社であるGoodreadsに依存せずに、書籍の追跡や読書統計、チャレンジ管理が可能になった。この機能により、Koboはアマゾンに対抗する読書コミュニティサービスの提供を強化し、ユーザーの利便性が向上した。",
-      "url": "https://techcrunch.com/2026/06/29/watch-out-amazon-the-kobo-ereader-now-has-a-goodreads-rival/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-29T19:06:21+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "30362455",
-      "category": "テクノロジー・AI",
-      "title": "OpenAI is teasing new hardware… for Codex",
-      "summary": "OpenAIが7月15日にAIを活用したコーディングツール「Codex」関連のデバイスをリリースする予定であり、同社はX上に投稿した動画で複数のボタンが付いた四角形のデバイスを公開し「お気に入りのCodexショートカットがアップグレードされる」とキャプションを添えた。このデバイスはOpenAIが開発中の神秘的なAI搭載デバイスとは別のものである。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
-      "source": "AI | The Verge",
-      "published_at": "2026-06-29T18:52:03+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "23264307",
+      "id": "25028994",
       "category": "台湾・中台関係",
-      "title": "Eisai to Showcase Alzheimer's Disease Portfolio with More Than 50 Presentations at the Alzheimer's Association International Conference® 2026 (AAIC®)",
-      "summary": "長野市のEisai Co., Ltd.は、2026年のアルツハイマー病協会国際会議でアルツハイマー病研究ポートフォリオに関する50以上のプレゼンテーションを実施することを発表した。抗アミロイドベータプロトフィブリル抗体であるlecanemab（LEQEMBI®）を含む同社の最新研究成果が展示される予定である。これは同社がアルツハイマー病の治療開発において重要な進展を遂げていることを示している。",
-      "url": "https://www.prnewswire.com/news-releases/eisai-to-showcase-alzheimers-disease-portfolio-with-more-than-50-presentations-at-the-alzheimers-association-international-conference-2026-aaic-302813154.html",
-      "source": "PRNewswire",
-      "published_at": "2026-06-29T11:30:00+00:00",
+      "title": "Mustang Panda Uses Zoho WorkDrive as Command Channel in Indian Government Attacks",
+      "summary": "中国系スパイグループのマスタング・パンダが、インド政府と水力発電施設を標的とした2つのキャンペーンを展開しており、新しいマルウェアを配備し、正規のクラウドサービスであるZoho WorkDriveを指令チャネルとして悪用していることが判明した。Acronis脅威研究ユニットがこの活動を発見し、同グループが既存の信頼されたサービスを攻撃インフラとして利用する新たな手法を採用していることが明らかになった。",
+      "url": "https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html",
+      "source": "Internet",
+      "published_at": "2026-06-29T15:03:40+00:00",
       "lang": "en"
     },
     {
-      "id": "18711139",
+      "id": "56107191",
       "category": "台湾・中台関係",
-      "title": "Nvidia's AI chip sales in China stall, as local chipmakers like Huawei take the lead",
-      "summary": "Nvidiaの中国向けAIチップの販売が停滞しており、Huaweiなどのローカルチップメーカーがリードを奪っています。HuangはアメリカがAIチップ市場での優位性を失い、中国の競合企業が「巨人」へと成長したことを認めています。",
-      "url": "https://www.moneycontrol.com/news/business/nvidia-s-ai-chip-sales-in-china-stall-as-local-chipmakers-like-huawei-take-the-lead-13961063.html",
-      "source": "Moneycontrol",
-      "published_at": "2026-06-29T11:06:30+00:00",
+      "title": "‘Subversive Carrots’ and China’s Economic Influence Over the World",
+      "summary": "中国の経済的影響力に関する新著の著者オードリー・ウォン氏は、経済的手段を用いた国家戦略は中国の意思決定者が考えるほど単純ではなく、米国の政策立案者や外部の観察者が懸念するほど強力でもないと主張している。ウォン氏の研究は、中国が経済的利益を活用して国際的な影響力を行使しようとする試みの複雑性と限界を明らかにしている。経済的な手段による外交戦略の実効性には、予想以上の困難が伴うことが示唆されている。",
+      "url": "https://thediplomat.com/2026/06/subversive-carrots-and-chinas-economic-influence-over-the-world/",
+      "source": "The Diplomat",
+      "published_at": "2026-06-29T14:48:00+00:00",
       "lang": "en"
     },
     {
-      "id": "41049722",
+      "id": "47893150",
       "category": "台湾・中台関係",
-      "title": "Axis Greater China Equity FoF vs Edelweiss Greater China Equity Offshore Fund: Risks, returns and portfolio compared",
-      "summary": "エデルワイス・グレーター・チャイナ・エクイティ・オフショア・ファンドはわずかに高い平均リターンとリスク調整後パフォーマンスを提供している一方で、アクシス・グレーター・チャイナ・エクイティ・FoFはより低いボラティリティとより高いソルティーノ・レシオを有しており、両ファンドはそれぞれ異なる投資特性を示している。",
-      "url": "https://www.livemint.com/money/personal-finance/axis-greater-china-equity-fof-vs-edelweiss-greater-china-equity-offshore-fund-risks-returns-and-portfolio-compared-11782717485327.html",
-      "source": "Livemint",
-      "published_at": "2026-06-29T10:41:36+00:00",
+      "title": "How Mamdani’s Democratic Socialists Sought Ties With Chinese Officials",
+      "summary": "ニューヨーク市長ゾーラン・マムダニの政治組織である米国民主社会主義者たちが、中国共産党幹部との関係構築を進め、親中国立場を取ることに同意していたことが、内部会議の記録で明らかになった。この組織はこれまで秘密裏に中国側との接触を深めてきたとみられている。",
+      "url": "https://freerepublic.com/focus/f-news/4385939/posts",
+      "source": "Freerepublic.com",
+      "published_at": "2026-06-29T14:35:46+00:00",
       "lang": "en"
     },
     {
-      "id": "47015346",
+      "id": "78274887",
       "category": "台湾・中台関係",
-      "title": "We are nearing a fair value zone, says Elara Capital's MD, Harendra Kumar",
-      "summary": "エラーキャピタルのマネージングディレクター、ハレンドラ・クマール氏は、インドの利益成長が依然として弱点であるものの、AIトレンドの沈静化とアジア他国との相対的な魅力の向上により、外国人投資家がインドへの投資を再開すると予想している。同氏は現在の株価水準が適正な評価ゾーンに近づきつつあると述べている。",
-      "url": "https://www.thehindubusinessline.com/catalyst/we-are-nearing-a-fair-value-zone-says-elara-capitals-md-harendra-kumar/article71146576.ece",
-      "source": "BusinessLine",
-      "published_at": "2026-06-29T09:45:21+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "36415639",
-      "category": "台湾・中台関係",
-      "title": "China includes 20 Japanese entities on watch list, adds another 20 on export control list to curb Japan's neo-militarist agenda",
-      "summary": "中国商務省は20社の日本企業（三井E&S等）を監視リストに追加し、防衛研究所を含む20の日本機関を輸出管理リストに新たに加える措置を発表した。この決定は日本の再軍国主義化の動きを抑制することが目的とされている。",
-      "url": "https://www.globalsecurity.org/wmd/library/news/japan/2026/japan-260629-globaltimes01.htm",
-      "source": "Globalsecurity.org",
-      "published_at": "2026-06-29T09:36:38+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "32890279",
-      "category": "台湾・中台関係",
-      "title": "China slaps export controls on dozens of Japanese entities",
-      "summary": "中国商務省は、日本の複数の企業・機関に対する輸出規制を実施すると発表した。中国はこの措置を、東京の「新しい軍国主義」に対する対抗策だと位置づけている。規制対象には防衛関連企業や研究機関が含まれており、日中関係の緊張がさらに高まっている。",
-      "url": "https://www.aljazeera.com/economy/2026/6/29/china-slaps-export-controls-on-dozens-of-japanese-entities",
-      "source": "Al Jazeera English",
-      "published_at": "2026-06-29T09:29:21+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "82134530",
-      "category": "台湾・中台関係",
-      "title": "Wooptix Installs First Phemet® Metrology System at CEA-Leti",
-      "summary": "Wooptixは、フランスのグルノーブルにあるCEA-Letiの技術研究機関に初めてPhemet®計測システムを導入し、半導体メトロロジーおよびプロセス制御の高度化を実現した。このシステムの導入により、CEA-Letiは半導体製造プロセスの精密な測定と品質管理の向上が期待できる。Wooptixの計測技術は半導体業界における研究開発施設の性能向上に貢献する重要な取り組みである。",
-      "url": "https://www.globenewswire.com/news-release/2026/06/29/3318703/0/en/Wooptix-Installs-First-Phemet-Metrology-System-at-CEA-Leti.html",
+      "title": "[Latest] Global Neonatal Infant Care Market Size/Share Worth USD 8.94 Billion by 2035 at a 7.9% CAGR: Healthcare Foresights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
+      "summary": "世界の新生児ケア市場は2025年に約38億4000万ドルの規模であり、2035年までに89億4000万ドルに達すると予測されており、年間平均成長率は7.9%となる見込みである。この市場の拡大は、医療技術の進歩と新生児医療に対する需要の増加によって牽引されている。Healthcare Foresightsの調査報告書は、市場の成長トレンドと主要プレイヤーの戦略を詳細に分析している。",
+      "url": "https://www.globenewswire.com/news-release/2026/06/29/3319084/0/en/Latest-Global-Neonatal-Infant-Care-Market-Size-Share-Worth-USD-8-94-Billion-by-2035-at-a-7-9-CAGR-Healthcare-Foresights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segmentation.html",
       "source": "GlobeNewswire",
-      "published_at": "2026-06-29T08:00:00+00:00",
+      "published_at": "2026-06-29T14:30:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "11620657",
+      "category": "台湾・中台関係",
+      "title": "Let him cook: How Weber Blackstone CEO Roger Dahle went from upstart to the biggest name in grilling",
+      "summary": "Weber Blackstone のCEOロジャー・ダーレは、新興企業から業界最大手へと成長した人物です。デコーダーの年間恒例の独立記念日グリル特集で、アウトドア調理企業のCEOが彼らのビジネスモデルについて語りますが、今年は特別な回となっています。",
+      "url": "https://www.theverge.com/podcast/958790/weber-blackstone-ceo-roger-dahle-grilling-griddles-merger-outdoor-cooking",
+      "source": "The Verge",
+      "published_at": "2026-06-29T13:53:31+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "35507076",
+      "category": "台湾・中台関係",
+      "title": "Taiwanese majors eye South Tamil Nadu for expansion and new projects",
+      "summary": "台湾の大手企業がインド南部タミルナド州南部地域における電子機器と半導体産業での事業拡大の可能性を探るため、3日間の視察を実施している。台湾企業はこの地域での新規事業展開と既存事業の拡張に関心を示しており、南タミルナド州はアジアの技術産業における重要な投資先として注目されている。",
+      "url": "https://www.thehindubusinessline.com/info-tech/taiwanese-majors-eye-south-tn-for-expansion-and-new-projects/article71161487.ece",
+      "source": "BusinessLine",
+      "published_at": "2026-06-29T13:48:03+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "81735254",
+      "category": "台湾・中台関係",
+      "title": "Ruchir Sharma: The new AI-based world order",
+      "summary": "ルチル・シャルマは、AI（人工知能）の急速な発展が投資収益の他のすべての要因を圧倒し、AI中心の新しい世界秩序を形作っていると指摘している。AIブームの強力な力は、従来の経済システムや投資パターンを大きく変えており、今後の世界経済はAI技術の発展に左右される可能性が高いと述べている。",
+      "url": "https://financialpost.com/financial-times/ruchir-sharma-ai-based-world-order",
+      "source": "Financial Post",
+      "published_at": "2026-06-29T13:39:27+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "83876369",
+      "category": "台湾・中台関係",
+      "title": "Live-action Spirited Away stage play announces world tour with first-ever U.S. and Canadian dates",
+      "summary": "実写版「千と千尋の神隠し」の舞台化作品が初めて米国とカナダでの公演を含むワールドツアーを開始することが発表されました。この舞台作品は太平洋を越えて初めて北米に進出するほか、イギリスにも再び登場します。海外の映画好きやアニメーション愛好家たちが宮崎駿の作品を高く評価してきたこと受けての展開となっています。",
+      "url": "https://soranews24.com/2026/06/29/live-action-spirited-away-stage-play-announces-world-tour-with-first-ever-u-s-and-canadian-dates/",
+      "source": "SoraNews24",
+      "published_at": "2026-06-29T13:00:12+00:00",
       "lang": "en"
     }
   ]
