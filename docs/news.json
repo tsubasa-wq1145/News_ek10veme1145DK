@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T11:51:57.863929+00:00",
+  "updated_at": "2026-07-01T15:41:27.006233+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -45,7 +45,37 @@
   "digest": [],
   "news": [
     {
-      "id": "21331426",
+      "id": "61970563",
+      "category": "経済・ビジネス（日本）",
+      "title": "【動画】ストームチェイサーの1日",
+      "summary": "アメリカ中西部では5月から6月にかけて竜巻や嵐が多く発生し、近年その発生エリアが拡大している。気象観測のために嵐を追跡するストームチェイサーたちが、数百キロ走って危険な気象現象を記録する活動の様子を紹介している。",
+      "url": "http://www3.nhk.or.jp/news/html/20260701/k10015146061000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-01T14:31:14+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "68634889",
+      "category": "経済・ビジネス（日本）",
+      "title": "高市首相 インドに到着 モディ首相と首脳会談へ",
+      "summary": "高市首相が日本時間1日夜にインドに到着し、2日にモディ首相と首脳会談を予定している。会談では経済安全保障分野を中心とした両国の具体的な協力の進展を目指す。",
+      "url": "http://www3.nhk.or.jp/news/html/20260701/k10015166351000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-01T13:35:51+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "35395083",
+      "category": "経済・ビジネス（日本）",
+      "title": "ユーロ圏 6月 消費者物価指数 去年同月比2.8％上昇 前月下回る",
+      "summary": "ユーロ圏の6月消費者物価指数は前年同月比2.8％上昇し、前月より低下しましたが、イラン情勢の影響でヨーロッパ中央銀行の目標2％を依然上回っています。このため市場では年内の追加利上げが予想されています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260701/k10015166321000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-01T12:56:03+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "51055815",
       "category": "経済・ビジネス（日本）",
       "title": "“アメリカとイラン交渉 60日超の可能性” 米メディア指摘",
       "summary": "アメリカとイランの協議担当者がカタールを訪問し、仲介国との会談を予定していますが、イラン側はアメリカとの直接協議は予定されていないと表明しており、両国間の対立の深刻さが明らかになっています。",
@@ -55,7 +85,7 @@
       "lang": "ja"
     },
     {
-      "id": "54552723",
+      "id": "90365819",
       "category": "経済・ビジネス（日本）",
       "title": "海保測量船 沖縄沖EEZ内で中国海警船から調査中止要求で抗議",
       "summary": "海上保安庁の測量船が先月30日夜、沖縄県沖の日本のEEZ内で海洋調査を行っていた際に中国海警船から調査中止を要求され、日本政府が外交ルートを通じて中国に抗議しました。海上保安庁は調査を継続しています。",
@@ -65,7 +95,7 @@
       "lang": "ja"
     },
     {
-      "id": "38688103",
+      "id": "21919300",
       "category": "経済・ビジネス（日本）",
       "title": "中国で拘束の日本人2人 正式に逮捕 レアアース輸出関連疑いか",
       "summary": "中国遼寧省大連で5月に税関当局に拘束された日本人2人が正式に逮捕されました。両名は日本の電機メーカー関係者で、レアアースを使った磁石の輸出に関連した疑いが持たれています。",
@@ -75,7 +105,7 @@
       "lang": "ja"
     },
     {
-      "id": "81987995",
+      "id": "77300355",
       "category": "経済・ビジネス（日本）",
       "title": "習主席「台湾統一は歴史的任務」中国共産党創立105年演説",
       "summary": "中国共産党創立105年の記念式典で習近平国家主席は、台湾問題の解決と祖国の完全統一を実現することが歴史的な任務であると述べ、台湾統一への強い意欲を示しました。",
@@ -85,7 +115,7 @@
       "lang": "ja"
     },
     {
-      "id": "47632657",
+      "id": "38231821",
       "category": "経済・ビジネス（日本）",
       "title": "高市首相 インドに向け出発 経済安全保障など協力進展目指す",
       "summary": "高市総理大臣が1日午後、インドのモディ首相との首脳会談のため羽田空港を出発した。経済安全保障分野などを中心にインドとの具体的な協力の進展を目指す方針を示している。",
@@ -95,47 +125,37 @@
       "lang": "ja"
     },
     {
-      "id": "40333884",
-      "category": "経済・ビジネス（日本）",
-      "title": "米大統領 資産報告書公開“主要収益は暗号資産関連 2300億円”",
-      "summary": "トランプ米大統領が申告した2025年の資産報告書が公開され、主要な収益が暗号資産関連で少なくとも14億ドル（約2300億円）に上ることが明らかになった。",
-      "url": "http://www3.nhk.or.jp/news/html/20260701/k10015166021000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-01T06:40:08+00:00",
-      "lang": "ja"
+      "id": "25553479",
+      "category": "経済・ビジネス（世界）",
+      "title": "Brewery boss who banned phones and swearing from pubs dies aged 81",
+      "summary": "タドカスター醸造所の経営者で、パブでの携帯電話と悪態を禁止する独特の経営方針で知られていたハンフリー・スミスが81歳で亡くなった。スミスは1980年代からこの醸造所を率いており、顧客との対話を重視し、現代技術よりも人間関係を優先する哲学を持ち続けていた。彼の厳格な規則はパブ文化に独特の影響を与え、業界内でも注目される経営者として知られていた。",
+      "url": "https://www.bbc.co.uk/news/articles/c0ky1v2e275o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-01T15:13:20+00:00",
+      "lang": "en"
     },
     {
-      "id": "76523993",
-      "category": "経済・ビジネス（日本）",
-      "title": "トランプ大統領  “中間選挙前に初の共和党大会開催へ”",
-      "summary": "トランプ大統領は9月に南部テキサス州で共和党の党大会を開催すると発表しました。中間選挙前の党大会開催は初めてのことで、支持拡大を目指した異例の対応です。",
-      "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165951000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-01T05:30:53+00:00",
-      "lang": "ja"
+      "id": "31128178",
+      "category": "経済・ビジネス（世界）",
+      "title": "Up to 150 ex-WHSmith High Street stores to close as rescue deal approved",
+      "summary": "WHSmith の経営危機を受けて裁判所が承認した再建計画により、最大150の高街店舗が閉鎖される予定である。残存する店舗の大部分については大幅な家賃削減が実施されることになっている。この大規模なリストラクチャリングを通じて、同社は経営の立て直しを図ることとしている。",
+      "url": "https://www.bbc.co.uk/news/articles/cn751pkmgyxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-01T14:10:32+00:00",
+      "lang": "en"
     },
     {
-      "id": "49871238",
-      "category": "経済・ビジネス（日本）",
-      "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月1日の動き）",
-      "summary": "ロシアによるウクライナへの軍事侵攻が継続しており、ウクライナ各地でロシア軍とウクライナ軍の戦闘が続いている中、多数の市民が国外への避難を余儀なくされています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260701/k10015133061000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-01T05:18:10+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "37161481",
+      "id": "39314865",
       "category": "経済・ビジネス（世界）",
       "title": "Trump made more than $1bn from crypto in first year back in office",
       "summary": "トランプ大統領は職務復帰後の1年間で、暗号資産から10億ドル以上の収入を得た。この暗号資産による収入は、不動産やトランプブランドの腕時計などの物品販売からの収入をはるかに上回っており、彼の主要な収入源となっている。",
       "url": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published_at": "2026-07-01T11:41:13+00:00",
+      "published_at": "2026-07-01T13:52:20+00:00",
       "lang": "en"
     },
     {
-      "id": "41181080",
+      "id": "63295725",
       "category": "経済・ビジネス（世界）",
       "title": "Why is crucial tech vulnerable to the heat?",
       "summary": "エネルギーグリッドや列車サービスなどの重要なインフラは、極端な高温気象に対して脆弱性を持っている。これらのシステムは、冷却システムの過負荷や機械部品の性能低下により、猛暑時に機能不全に陥るリスクがある。気候変動に伴う極端気象の増加に対応するため、こうした重要インフラの耐熱性向上が急務となっている。",
@@ -145,17 +165,7 @@
       "lang": "en"
     },
     {
-      "id": "10638592",
-      "category": "経済・ビジネス（世界）",
-      "title": "Romesh Ranganathan 'gutted' over bakery closure",
-      "summary": "イギリスの芸人ロメシュ・ラガナサンが経営に関与していたコーグランズ・ベーカリーが、国民保険と事業税の引き上げにより自発的清算に入ったことについて、ラガナサンは非常に残念だと述べている。この決定は、政府の税制変更がビジネスに与える深刻な影響を示す事例となっている。",
-      "url": "https://www.bbc.co.uk/news/articles/c74y7wdgy49o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-01T06:53:28+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "64240410",
+      "id": "83070321",
       "category": "経済・ビジネス（世界）",
       "title": "Anthropic says US lifts export ban on its advanced AI tools",
       "summary": "Anthropic社は、6月にハッカーによる悪用の懸念から急遽停止されていた高度なAIツール「Fable」と「Mythos」について、米国が輸出禁止を解除したと発表した。同社はこれらのツールの安全性に関する懸念に対処し、規制当局の承認を得ることができた。この措置により、Anthropic社は国際市場でのAIツール提供を再開することが可能になった。",
@@ -165,7 +175,7 @@
       "lang": "en"
     },
     {
-      "id": "35088445",
+      "id": "69376874",
       "category": "経済・ビジネス（世界）",
       "title": "Australia sues Amazon for making allegedly unfair contracts with subscribers",
       "summary": "オーストラリア競争・消費者委員会（ACCC）はアマゾンが消費者保護法に違反していると主張し、購読者との不公正な契約について訴訟を提起した。ACCCは、アマゾンがプライム会員の自動更新に関する透明性の欠如と不適切な解約手続きが消費者保護法違反に該当すると指摘している。",
@@ -175,7 +185,7 @@
       "lang": "en"
     },
     {
-      "id": "63484742",
+      "id": "90891815",
       "category": "経済・ビジネス（世界）",
       "title": "Why Gen Z are planning for life without a state pension",
       "summary": "Z世代の多くが国家年金制度が将来存在しないと考えており、退職後の生活に向けた独自の資産形成計画を立てている。政府の財政危機や人口高齢化などの構造的問題から、若い世代が公的年金への信頼を失い、個人的な貯蓄や投資による老後資金確保に力を注いでいる状況が浮き彫りになっている。",
@@ -185,7 +195,7 @@
       "lang": "en"
     },
     {
-      "id": "47131205",
+      "id": "65422636",
       "category": "経済・ビジネス（世界）",
       "title": "Plea for households to read energy meter as prices rise",
       "summary": "規制当局Ofgemが最新の電気料金上限を導入し、家庭用エネルギー価格が年間13%上昇した。消費者は自分のエネルギーメーターを読むことで、正確な使用量に基づいた請求を受けられるようになる。エネルギー企業は顧客に対して、推定値ではなく実際の計測値を提出するよう呼びかけている。",
@@ -195,17 +205,67 @@
       "lang": "en"
     },
     {
-      "id": "35026176",
-      "category": "経済・ビジネス（世界）",
-      "title": "We had packed lunches every day for 10 years and retired at 40",
-      "summary": "夫婦が10年間毎日弁当を持参して生活を節約し、40歳でリタイアを実現した話である。FIRE運動は、できるだけ多くの資金を貯蓄して早期リタイアを目指す動きであり、この夫婦はその実践例として極度の節約生活を通じて経済的独立を達成した。",
-      "url": "https://www.bbc.co.uk/news/articles/cvgdn3qqg7po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-06-29T23:03:26+00:00",
+      "id": "17784598",
+      "category": "テクノロジー・AI",
+      "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+      "summary": "ベニス・エーアイが6500万ドルのシリーズA資金調達によってユニコーン企業となり、プライバシー重視のAIプラットフォームが急速に成長している。同社のエリック・フォーヒーズCEOによると、既に利益を生み出しており、年間実行レートの収益は700万ドルを超えているという。",
+      "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-01T14:25:23+00:00",
       "lang": "en"
     },
     {
-      "id": "19666879",
+      "id": "22740353",
+      "category": "テクノロジー・AI",
+      "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
+      "summary": "Googleの24時間対応型エージェント型アシスタント「Gemini Spark」がMacで利用可能になりました。このアップデートではリアルタイム追跡機能と、より多くのアプリへの対応サポートが追加されています。",
+      "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-01T14:20:19+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "79355850",
+      "category": "テクノロジー・AI",
+      "title": "Sony to end physical PlayStation game disc production in 2028",
+      "summary": "ソニーは2028年からすべての新作プレイステーションゲームの物理ディスク生産を終了し、デジタル化への転換を進める方針を発表した。この決定は、ゲーム業界全体がデジタルディストリビューションへシフトしている流れを反映している。",
+      "url": "https://techcrunch.com/2026/07/01/sony-to-end-physical-playstation-game-discs-in-2028/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-01T14:16:32+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "60730069",
+      "category": "テクノロジー・AI",
+      "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
+      "summary": "TechCrunch Disrupt 2026で開催されるBuilders Stageは、1万人以上の起業家、スタートアップ経営者、投資家が集まり、企業の構築とスケーリングに必要な実践的な戦略についての対話とQ&Aセッションを展開する。現在登録すれば最大330ドルの割引が受けられる。",
+      "url": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-01T14:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "51230769",
+      "category": "テクノロジー・AI",
+      "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+      "summary": "メタはスペースXと同様に、余剰のAI計算能力を現金化する計画を進めている。メタはクラウドインフラストラクチャビジネスを展開し、AI計算力とモデルへのアクセスを売却する予定で、これによりアマゾンウェブサービス、グーグルクラウド、マイクロソフトアズールなどの大手クラウドプロバイダーと競合することになる。",
+      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-01T13:43:07+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "21816405",
+      "category": "テクノロジー・AI",
+      "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
+      "summary": "Googleは優れたスマートスピーカーを開発しましたが、Geminiはまだ十分に対応できていません。スマートスピーカーは音楽、タイマー、照明制御以外の用途を見つけるのに苦戦してきましたが、AIがこの状況を変えると期待されています。Amazonは昨年秋に新しいAlexa搭載ハードウェアを発表し、GoogleもようやくAIスマートスピーカー市場に参入しようとしています。",
+      "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
+      "source": "AI | The Verge",
+      "published_at": "2026-07-01T12:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "73250076",
       "category": "テクノロジー・AI",
       "title": "The ‘Father of the Internet’ is finally retiring",
       "summary": "インターネットの基礎となるプロトコルの開発者の一人であるビントン・サーフ氏が、Googleのチーフ・インターネット・エヴァンジェリストの職を来週退任することが明らかになった。「インターネットの父」と呼ばれるサーフ氏は数十年にわたってインターネット技術の発展と普及に貢献してきた。",
@@ -215,7 +275,7 @@
       "lang": "en"
     },
     {
-      "id": "21493006",
+      "id": "53946996",
       "category": "テクノロジー・AI",
       "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
       "summary": "トランプ政権がAnthropicのMythosとFableモデルの制限を解除した。政権のAI政策への不安定な対応により、業界の企業は今後のモデルリリースを規制する内容について不透明な状況に置かれている。",
@@ -225,143 +285,83 @@
       "lang": "en"
     },
     {
-      "id": "61423884",
-      "category": "テクノロジー・AI",
-      "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
-      "summary": "AI自動運転企業のWayveが従業員向けテンダーオファー（株式買取）を8.5億ドルの企業評価額で8,500万ドル規模で開始した。これはAIスタートアップ企業が人材確保・定着のための戦略的手段として従業員テンダーオファーを活用する拡大傾向の一環である。",
-      "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-01T02:04:40+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "27357297",
-      "category": "テクノロジー・AI",
-      "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
-      "summary": "Anthropic社は、トランプ政権との数週間の交渉を経て、制限されていたClaudeの「Fable 5」モデルを復活させることが決定された。同社はX上の投稿で、水曜日からClaudeプラットフォーム上で世界中のユーザーへのアクセス復旧を開始し、AWS、Google Cloud、Microsoftなどで再度有効化する予定だと発表した。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-      "source": "AI | The Verge",
-      "published_at": "2026-07-01T00:03:55+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "20877924",
-      "category": "テクノロジー・AI",
-      "title": "Startup Battlefield Australia application closes in days: Apply before July 6",
-      "summary": "テックスタートアップの登竜門であるStartup Battlefield Australiaの応募期限が7月6日に迫っており、革新的なビジネスアイデアを持つ起業家らに最後の申し込みの機会を呼びかけている。このプログラムは、まだ知られていないが大きなインパクトを生み出す可能性を持つスタートアップに対し、一度のピッチプレゼンテーションが企業の運命を大きく変える可能性があることを強調しており、参加企業に成長と認知の機会をもたらすプラットフォームとなっている。",
-      "url": "https://techcrunch.com/2026/06/30/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-30T23:00:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "34039627",
-      "category": "テクノロジー・AI",
-      "title": "OpenClaw is finally available on Android and iOS",
-      "summary": "OpenClawという無料のオープンソースエージェントプログラムがAndroidとiOSで利用可能になった。このプログラムはユーザーのスマートフォンで動作するようになり、より多くの人がアクセスできるようになった。",
-      "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-30T21:53:28+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "10234704",
-      "category": "テクノロジー・AI",
-      "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
-      "summary": "DeepMindの元研究者3人が創設したプラハベースのAI企業EquiLibre Technologiesは、現在5億ドル以上の評価額となっており、ポーカーAIの開発経験を活かして、定量分析ヘッジファンド向けのAIソリューション開発を行っている。この企業は機械学習技術を金融市場の分析と取引戦略に応用することで、大きな成長を遂げている。",
-      "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-30T20:33:48+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "79642452",
-      "category": "テクノロジー・AI",
-      "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
-      "summary": "Googleの研究ノート管理ツール「NotebookLM」が新機能として、アップロードした資料に基づいて60秒の縦型AI動画を自動生成する機能をGoogle AI UltraおよびProサブスクライバーに向けてロールアウトしている。このTikTok風の動画生成機能により、ユーザーは膨大なノートや研究資料の内容を短時間で視覚的に把握できるようになる。",
-      "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-      "source": "AI | The Verge",
-      "published_at": "2026-06-30T19:24:51+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "61721773",
+      "id": "82462077",
       "category": "台湾・中台関係",
-      "title": "Innovations in Protein Snacks: Sustainable Packaging and Clean-Label Products Lead Market Trends",
-      "summary": "タンパク質スナック市場は、消費者の健康意識の高まりと高タンパク質食への需要により成長が予想されており、植物性タンパク質、添加物を使わないクリーンラベル製品、電子商取引の拡大がビジネス機会となっている。持続可能なパッケージングと環境配慮がこの市場の主要トレンドとなっており、メーカーはこれらの要素を取り入れた製品開発を進めている。",
-      "url": "https://www.globenewswire.com/news-release/2026/06/30/3319570/28124/en/Innovations-in-Protein-Snacks-Sustainable-Packaging-and-Clean-Label-Products-Lead-Market-Trends.html",
+      "title": "Micron Stock Holds Near Record Highs Today as Wall Street Debates Whether the AI Memory Boom Has Peaked",
+      "summary": "マイクロン・テクノロジーの株価は記録的な高値近くで推移していますが、ウォール街ではAIメモリ需要ブームがピークを迎えたかどうかについて議論が続いています。同社は好調な決算と長期契約およびAIパートナーシップなどの戦略的転換を背景にしていますが、市場の不確実性の中でアナリストは企業の将来の方向性について見方が分かれています。",
+      "url": "https://www.ibtimes.com.au/micron-technology-stock-volatility-record-earnings-1871619",
+      "source": "Ibtimes.com.au",
+      "published_at": "2026-06-30T14:58:10+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "25014332",
+      "category": "台湾・中台関係",
+      "title": "Record number of new millionaires emerged in 2025 — UBS",
+      "summary": "2025年に世界的な個人資産が急増し、UBSの報告によると記録的な数の新しい百万長者が誕生した。ほぼ100万人の人々が米ドル建ての百万長者となったことが明らかになり、グローバルな富の集中がさらに進んでいることを示している。この急増は経済成長と市場上昇の結果を反映している。",
+      "url": "https://punchng.com/record-number-of-new-millionaires-emerged-in-2025-ubs/",
+      "source": "The Punch",
+      "published_at": "2026-06-30T14:51:13+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "80229176",
+      "category": "台湾・中台関係",
+      "title": "Electronic Shelf Labels Market to Reach $4.18 Billion by 2029: Trends, Technologies, and Growth Opportunities",
+      "summary": "電子棚札市場は2029年までに41億8000万ドルに達すると予想されており、小売業や産業分野での導入が拡大している。フルグラフィック電子ペーパーやLCD、セグメント化された電子ペーパーなどの技術が、在庫管理やラベル管理システムの効率化を推進している。赤外線やRF通信などの通信技術の発展により、リアルタイムデータ処理が可能になり、市場成長の主要な要因となっている。",
+      "url": "https://www.globenewswire.com/news-release/2026/06/30/3319897/0/en/Electronic-Shelf-Labels-Market-to-Reach-4-18-Billion-by-2029-Trends-Technologies-and-Growth-Opportunities.html",
       "source": "GlobeNewswire",
-      "published_at": "2026-06-30T11:40:00+00:00",
+      "published_at": "2026-06-30T14:30:00+00:00",
       "lang": "en"
     },
     {
-      "id": "89543598",
+      "id": "25056186",
       "category": "台湾・中台関係",
-      "title": "Intelligent Training Data Service Market Booms: Record Growth Expected from $3.43 Billion in 2025 to $8.27 Billion by 2030",
-      "summary": "インテリジェント訓練データサービス市場は、AI利用の増加、高品質な注釈付きデータセットの需要、自動データ注釈、合成データの利用により急速に拡大しており、2025年の34億3000万ドルから2030年には82億7000万ドルへの記録的成長が予想されている。市場の機会はAI駆動型意思決定ツールや領域特定データセットの開発にあり、企業はこれらの需要に対応することで事業拡大を図っている。",
-      "url": "https://www.globenewswire.com/news-release/2026/06/30/3319568/28124/en/Intelligent-Training-Data-Service-Market-Booms-Record-Growth-Expected-from-3-43-Billion-in-2025-to-8-27-Billion-by-2030.html",
+      "title": "Record number of ‘new millionaires’ in 2025, says UBS",
+      "summary": "2025年には世界中で約100万人がドル建てで100万ドル以上の資産を持つミリオネアになったとUBSが発表した。これは記録的な数字であり、前年比で大幅な増加を示している。",
+      "url": "https://www.digitaljournal.com/article/record-number-of-new-millionaires-in-2025-says-ubs/",
+      "source": "Digital Journal",
+      "published_at": "2026-06-30T14:20:11+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "85426895",
+      "category": "台湾・中台関係",
+      "title": "The Global Market for Advanced Semiconductor Packaging 2027-2037",
+      "summary": "高度な半導体パッケージングは電子機器産業に革命をもたらしており、トランジスタスケーリングの効果が低下する中で極めて重要な役割を担っている。この動向はAIの高いメモリ帯域幅と効率的な電力供給への需要によって大きく牽引され、2027年から2037年にかけての市場成長を促進している。企業はパッケージング技術の革新に投資を加速させ、性能向上とコスト削減を実現することで競争力を強化している。",
+      "url": "https://www.globenewswire.com/news-release/2026/06/30/3319833/28124/en/The-Global-Market-for-Advanced-Semiconductor-Packaging-2027-2037.html",
       "source": "GlobeNewswire",
-      "published_at": "2026-06-30T11:39:00+00:00",
+      "published_at": "2026-06-30T13:42:00+00:00",
       "lang": "en"
     },
     {
-      "id": "18050927",
+      "id": "81558388",
       "category": "台湾・中台関係",
-      "title": "Taiwan raids Supermicro and two supply-chain partners in widening Nvidia smuggling probe — nine sites hit as six people summoned for questioning",
-      "summary": "台湾当局がエヌビディア製品の密輸事件の捜査を拡大し、スーパーマイクロコンピュータの台湾事務所と関連企業3社の計9箇所を家宅捜索し、6人を事情聴取のため召喚した。この捜査はエヌビディアのハイエンドAIチップが米国の輸出規制に違反して密輸されていた可能性を調査するものである。",
-      "url": "https://www.tomshardware.com/tech-industry/taiwan-raids-super-micro-and-two-supply-chain-partners-in-widening-nvidia-smuggling-probe",
-      "source": "Tom's Hardware UK",
-      "published_at": "2026-06-30T11:18:43+00:00",
+      "title": "China's limited defense capacity",
+      "summary": "中国はアメリカ太平洋軍の元司令官が外交誌に寄稿し、台湾を征服する能力がないと主張した。軍事技術の動向が台湾とその主要支援国であるアメリカに有利に働いているという見解を示している。中国は急速な軍事近代化を進めているものの、台湾侵攻に必要な防衛能力には依然として限界があるとの指摘である。",
+      "url": "https://biztoc.com/x/ca83ba1398384c7e",
+      "source": "Biztoc.com",
+      "published_at": "2026-06-30T13:32:00+00:00",
       "lang": "en"
     },
     {
-      "id": "64518753",
+      "id": "63300975",
       "category": "台湾・中台関係",
-      "title": "“ACON 2026” Unveils Special Cover Stages By Sung Han Bin, CLOSE YOUR EYES, MEOVV, And More",
-      "summary": "2026年7月25日に台北のNTSU Arenaで開催される「ACON 2026」は、2026年アジア・アーティスト・アワード（AAA）のプレイベントで、ZEROBASEONEのSung Han Binがホストを務め、複数のアーティストによる特別ステージが予定されている。このイベントではCLOSE YOUR EYESやMEOVVなど著名なアーティストがパフォーマンスを行う。",
-      "url": "http://www.soompi.com/article/1851418wpp/acon-2026-unveils-special-cover-stages-by-sung-han-bin-close-your-eyes-meovv-and-more",
-      "source": "soompi",
-      "published_at": "2026-06-30T11:13:38+00:00",
+      "title": "Taiwan Raids Tech Firms Over Smuggling Nvidia Chips to China",
+      "summary": "台湾の検察当局は、エヌビディアのAIチップが中国に密輸されたとされる事件の捜査を拡大し、米国企業スーパーマイクロコンピュータと他の2社の技術企業の事務所を捜索したと発表した。この事件は、米国の対中国制裁を回避するための違法な取引に関連しており、台湾はこうした高度な半導体の不正な流出を防ぐため捜査を強化している。",
+      "url": "https://biztoc.com/x/3661a142e0821d08",
+      "source": "Biztoc.com",
+      "published_at": "2026-06-30T13:01:00+00:00",
       "lang": "en"
     },
     {
-      "id": "90532989",
+      "id": "12162256",
       "category": "台湾・中台関係",
-      "title": "TG TET 2026 provisional answer key, response sheet out: Here how to download and raise objections",
-      "summary": "テランガナ州教育部がTG TET 2026試験の仮答案キーと解答用紙を公開し、受験者は公式ウェブサイトからダウンロードして7月2日までに異議申し立てが可能である。同試験は6月16日から6月22日にかけて実施された。",
-      "url": "https://timesofindia.indiatimes.com/education/news/tg-tet-2026-provisional-answer-key-response-sheet-out-here-how-to-download-and-raise-objections/articleshow/132091365.cms",
-      "source": "The Times of India",
-      "published_at": "2026-06-30T10:43:34+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "20416179",
-      "category": "台湾・中台関係",
-      "title": "Data Center Liquid Cooling Manifolds Market worth $6.33 billion by 2033 - Exclusive Report by MarketsandMarkets™",
-      "summary": "データセンターの液冷マニホールド市場は2033年までに63億3000万ドルに達する見通しで、MarketsandMarketsの調査によると、ラック内冷却、列単位冷却、施設レベル冷却などの多様なタイプと、浸漬冷却、直接チップ冷却、ハイブリッド冷却などの冷却技術により急速に成長している。",
-      "url": "https://www.prnewswire.com/news-releases/data-center-liquid-cooling-manifolds-market-worth-6-33-billion-by-2033---exclusive-report-by-marketsandmarkets-302814216.html",
-      "source": "PRNewswire",
-      "published_at": "2026-06-30T10:40:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "83125358",
-      "category": "台湾・中台関係",
-      "title": "IIT Bombay, SBI Life launch indigenous AI and Cybersecurity hub for insurance sector",
-      "summary": "IIT ボンベイとSBI生命保険は、インドの保険セクター向けの独自のAI、サイバーセキュリティ、量子技術ソリューションを開発するため、保険向けバーラットAI・サイバーイノベーションハブを立ち上げた。このパートナーシップは、デジタルセキュリティを強化し、保険業界のリスクを低減させることを目指している。",
-      "url": "https://timesofindia.indiatimes.com/education/news/iit-bombay-sbi-life-launch-indigenous-ai-and-cybersecurity-hub-for-insurance-sector/articleshow/132091104.cms",
-      "source": "The Times of India",
-      "published_at": "2026-06-30T10:30:03+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "89801807",
-      "category": "台湾・中台関係",
-      "title": "'I was a two-time NEET aspirant': Old video of fake Army Brigadier Aryan Verma motivating UPSC aspirants resurfaces— watch",
-      "summary": "印度陸軍准将になりすまして逮捕されたアリヤン・ベルマが、UPSC試験志望者に対して武装した警備員に囲まれて演説している動画が拡散している。ベルマは医学から公務員試験への転身を主張し、志望者との対話を奨励していた。同人物は虚偽の経歴と権威を利用して志望者を欺いていたことが明らかになった。",
-      "url": "https://timesofindia.indiatimes.com/education/news/i-was-a-two-time-neet-aspirant-old-video-of-fake-army-brigadier-aryan-verma-motivating-upsc-aspirants-resurfaces-watch/articleshow/132090039.cms",
-      "source": "The Times of India",
-      "published_at": "2026-06-30T10:09:58+00:00",
+      "title": "Super Micro Taiwan Offices Raided in Widening Probe Into $2.5 Billion NVIDIA Chip Smuggling Ring; Shares Plunge 8%",
+      "summary": "台湾検察当局がエヌビディアのAIチップ搭載サーバーの中国への密輸に関する調査の一環として、スーパーマイクロ・コンピューターの台湾オフィスを捜索し、同社の株価は月曜日に8%以上下落した。この調査は25億ドル規模の密輸ネットワークの拡大する疑惑に関連しており、検察は12カ所の関連施設を捜索している。",
+      "url": "https://freerepublic.com/focus/f-bloggers/4386064/posts",
+      "source": "Freerepublic.com",
+      "published_at": "2026-06-30T12:55:36+00:00",
       "lang": "en"
     }
   ]
