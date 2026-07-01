@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T07:14:53.540318+00:00",
+  "updated_at": "2026-07-01T11:51:57.863929+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -45,7 +45,57 @@
   "digest": [],
   "news": [
     {
-      "id": "24948599",
+      "id": "21331426",
+      "category": "経済・ビジネス（日本）",
+      "title": "“アメリカとイラン交渉 60日超の可能性” 米メディア指摘",
+      "summary": "アメリカとイランの協議担当者がカタールを訪問し、仲介国との会談を予定していますが、イラン側はアメリカとの直接協議は予定されていないと表明しており、両国間の対立の深刻さが明らかになっています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165191000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-01T11:02:17+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "54552723",
+      "category": "経済・ビジネス（日本）",
+      "title": "海保測量船 沖縄沖EEZ内で中国海警船から調査中止要求で抗議",
+      "summary": "海上保安庁の測量船が先月30日夜、沖縄県沖の日本のEEZ内で海洋調査を行っていた際に中国海警船から調査中止を要求され、日本政府が外交ルートを通じて中国に抗議しました。海上保安庁は調査を継続しています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260701/k10015166181000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-01T09:57:30+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "38688103",
+      "category": "経済・ビジネス（日本）",
+      "title": "中国で拘束の日本人2人 正式に逮捕 レアアース輸出関連疑いか",
+      "summary": "中国遼寧省大連で5月に税関当局に拘束された日本人2人が正式に逮捕されました。両名は日本の電機メーカー関係者で、レアアースを使った磁石の輸出に関連した疑いが持たれています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165711000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-01T09:53:35+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "81987995",
+      "category": "経済・ビジネス（日本）",
+      "title": "習主席「台湾統一は歴史的任務」中国共産党創立105年演説",
+      "summary": "中国共産党創立105年の記念式典で習近平国家主席は、台湾問題の解決と祖国の完全統一を実現することが歴史的な任務であると述べ、台湾統一への強い意欲を示しました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260701/k10015166141000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-01T09:18:55+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "47632657",
+      "category": "経済・ビジネス（日本）",
+      "title": "高市首相 インドに向け出発 経済安全保障など協力進展目指す",
+      "summary": "高市総理大臣が1日午後、インドのモディ首相との首脳会談のため羽田空港を出発した。経済安全保障分野などを中心にインドとの具体的な協力の進展を目指す方針を示している。",
+      "url": "http://www3.nhk.or.jp/news/html/20260701/k10015166051000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-01T07:31:12+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "40333884",
       "category": "経済・ビジネス（日本）",
       "title": "米大統領 資産報告書公開“主要収益は暗号資産関連 2300億円”",
       "summary": "トランプ米大統領が申告した2025年の資産報告書が公開され、主要な収益が暗号資産関連で少なくとも14億ドル（約2300億円）に上ることが明らかになった。",
@@ -55,7 +105,7 @@
       "lang": "ja"
     },
     {
-      "id": "78306203",
+      "id": "76523993",
       "category": "経済・ビジネス（日本）",
       "title": "トランプ大統領  “中間選挙前に初の共和党大会開催へ”",
       "summary": "トランプ大統領は9月に南部テキサス州で共和党の党大会を開催すると発表しました。中間選挙前の党大会開催は初めてのことで、支持拡大を目指した異例の対応です。",
@@ -65,7 +115,7 @@
       "lang": "ja"
     },
     {
-      "id": "36740226",
+      "id": "49871238",
       "category": "経済・ビジネス（日本）",
       "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月1日の動き）",
       "summary": "ロシアによるウクライナへの軍事侵攻が継続しており、ウクライナ各地でロシア軍とウクライナ軍の戦闘が続いている中、多数の市民が国外への避難を余儀なくされています。",
@@ -75,57 +125,37 @@
       "lang": "ja"
     },
     {
-      "id": "11550419",
-      "category": "経済・ビジネス（日本）",
-      "title": "米とイランが仲介国と会談へ 米高官“実務的協議 順調に進展”",
-      "summary": "アメリカとイランの協議担当者がカタールを訪問し、仲介国との会談を予定していますが、イラン側はアメリカとの直接協議は予定されていないと表明しており、両国間の対立の深刻さが明らかになっています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165191000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-01T05:00:47+00:00",
-      "lang": "ja"
+      "id": "37161481",
+      "category": "経済・ビジネス（世界）",
+      "title": "Trump made more than $1bn from crypto in first year back in office",
+      "summary": "トランプ大統領は職務復帰後の1年間で、暗号資産から10億ドル以上の収入を得た。この暗号資産による収入は、不動産やトランプブランドの腕時計などの物品販売からの収入をはるかに上回っており、彼の主要な収入源となっている。",
+      "url": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-01T11:41:13+00:00",
+      "lang": "en"
     },
     {
-      "id": "25526345",
-      "category": "経済・ビジネス（日本）",
-      "title": "ミュトス提供再開 “情報収集進める”国内金融機関",
-      "summary": "アメリカのAI企業アンソロピックが、アメリカ政府の輸出規制解除を受けて、最新AIモデル「クロード3・ソネット5」や「フェイブル5」の提供を再開することを明らかにした。国内金融機関はこれらのAIモデルの情報収集を進めている。",
-      "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165431000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-01T04:58:53+00:00",
-      "lang": "ja"
+      "id": "41181080",
+      "category": "経済・ビジネス（世界）",
+      "title": "Why is crucial tech vulnerable to the heat?",
+      "summary": "エネルギーグリッドや列車サービスなどの重要なインフラは、極端な高温気象に対して脆弱性を持っている。これらのシステムは、冷却システムの過負荷や機械部品の性能低下により、猛暑時に機能不全に陥るリスクがある。気候変動に伴う極端気象の増加に対応するため、こうした重要インフラの耐熱性向上が急務となっている。",
+      "url": "https://www.bbc.co.uk/news/articles/cj0gez6d50ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-01T07:23:12+00:00",
+      "lang": "en"
     },
     {
-      "id": "39169978",
-      "category": "経済・ビジネス（日本）",
-      "title": "イギリス 国防費 2029年までに対GDP比2.7％ 約17兆円に増額へ",
-      "summary": "イギリスは2029年までに国防費を対GDP比2.7％（約17兆円）に増額する計画を発表し、NATO加盟国の防衛費増強目標に対応する姿勢を示しました。しかし野党や与党の一部からは増額幅が不十分との批判が出ています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165261000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-01T04:14:26+00:00",
-      "lang": "ja"
+      "id": "10638592",
+      "category": "経済・ビジネス（世界）",
+      "title": "Romesh Ranganathan 'gutted' over bakery closure",
+      "summary": "イギリスの芸人ロメシュ・ラガナサンが経営に関与していたコーグランズ・ベーカリーが、国民保険と事業税の引き上げにより自発的清算に入ったことについて、ラガナサンは非常に残念だと述べている。この決定は、政府の税制変更がビジネスに与える深刻な影響を示す事例となっている。",
+      "url": "https://www.bbc.co.uk/news/articles/c74y7wdgy49o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-01T06:53:28+00:00",
+      "lang": "en"
     },
     {
-      "id": "35078886",
-      "category": "経済・ビジネス（日本）",
-      "title": "中国で拘束の日本人2人 正式に逮捕 レアアース輸出関連疑いか",
-      "summary": "中国遼寧省大連で5月に税関当局に拘束された日本人2人が正式に逮捕されました。両名は日本の電機メーカー関係者で、レアアースを使った磁石の輸出に関連した疑いが持たれています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165711000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-01T03:30:29+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "41855053",
-      "category": "経済・ビジネス（日本）",
-      "title": "トランスジェンダー選手 女子競技参加禁止の州法 米最高裁容認",
-      "summary": "アメリカの連邦最高裁判所がトランスジェンダー選手の女子競技参加禁止を定めた州法を容認する判断を示し、トランプ大統領は支持する一方で人権団体は性的マイノリティーの権利後退を懸念しています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165341000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-30T23:24:41+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "76311492",
+      "id": "64240410",
       "category": "経済・ビジネス（世界）",
       "title": "Anthropic says US lifts export ban on its advanced AI tools",
       "summary": "Anthropic社は、6月にハッカーによる悪用の懸念から急遽停止されていた高度なAIツール「Fable」と「Mythos」について、米国が輸出禁止を解除したと発表した。同社はこれらのツールの安全性に関する懸念に対処し、規制当局の承認を得ることができた。この措置により、Anthropic社は国際市場でのAIツール提供を再開することが可能になった。",
@@ -135,17 +165,7 @@
       "lang": "en"
     },
     {
-      "id": "38622144",
-      "category": "経済・ビジネス（世界）",
-      "title": "Trump made more than $1bn from crypto in first year back in office",
-      "summary": "トランプ大統領は職務復帰後の1年間で、暗号資産から10億ドル以上の収入を得た。この暗号資産による収入は、不動産やトランプブランドの腕時計などの物品販売からの収入をはるかに上回っており、彼の主要な収入源となっている。",
-      "url": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-01T03:31:08+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "44643618",
+      "id": "35088445",
       "category": "経済・ビジネス（世界）",
       "title": "Australia sues Amazon for making allegedly unfair contracts with subscribers",
       "summary": "オーストラリア競争・消費者委員会（ACCC）はアマゾンが消費者保護法に違反していると主張し、購読者との不公正な契約について訴訟を提起した。ACCCは、アマゾンがプライム会員の自動更新に関する透明性の欠如と不適切な解約手続きが消費者保護法違反に該当すると指摘している。",
@@ -155,17 +175,7 @@
       "lang": "en"
     },
     {
-      "id": "21432756",
-      "category": "経済・ビジネス（世界）",
-      "title": "Chinese tycoon sentenced to 30 years in US jail",
-      "summary": "中国の実業家グオ・ウェングイが、米国で30年の懲役刑を言い渡された。彼は自らを中国批評家として標榜し、詐欺的な事業を支持する多くの信奉者を獲得していた。",
-      "url": "https://www.bbc.co.uk/news/articles/cjeg15vw3z9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-06-30T23:48:18+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "69888284",
+      "id": "63484742",
       "category": "経済・ビジネス（世界）",
       "title": "Why Gen Z are planning for life without a state pension",
       "summary": "Z世代の多くが国家年金制度が将来存在しないと考えており、退職後の生活に向けた独自の資産形成計画を立てている。政府の財政危機や人口高齢化などの構造的問題から、若い世代が公的年金への信頼を失い、個人的な貯蓄や投資による老後資金確保に力を注いでいる状況が浮き彫りになっている。",
@@ -175,7 +185,7 @@
       "lang": "en"
     },
     {
-      "id": "99008331",
+      "id": "47131205",
       "category": "経済・ビジネス（世界）",
       "title": "Plea for households to read energy meter as prices rise",
       "summary": "規制当局Ofgemが最新の電気料金上限を導入し、家庭用エネルギー価格が年間13%上昇した。消費者は自分のエネルギーメーターを読むことで、正確な使用量に基づいた請求を受けられるようになる。エネルギー企業は顧客に対して、推定値ではなく実際の計測値を提出するよう呼びかけている。",
@@ -185,17 +195,7 @@
       "lang": "en"
     },
     {
-      "id": "44118112",
-      "category": "経済・ビジネス（世界）",
-      "title": "Cruise passengers 'stranded' after air con failure to be flown home",
-      "summary": "クルーズ船の乗客らはエアコンの故障により足止めされたが、ツイが謝罪し、翌日のフライト手配と全額返金を約束した。ツイはこの事態に対して乗客への補償と代替輸送の手配を迅速に進めている。",
-      "url": "https://www.bbc.co.uk/news/articles/cy0639x4dp8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-06-30T16:45:05+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "82898767",
+      "id": "35026176",
       "category": "経済・ビジネス（世界）",
       "title": "We had packed lunches every day for 10 years and retired at 40",
       "summary": "夫婦が10年間毎日弁当を持参して生活を節約し、40歳でリタイアを実現した話である。FIRE運動は、できるだけ多くの資金を貯蓄して早期リタイアを目指す動きであり、この夫婦はその実践例として極度の節約生活を通じて経済的独立を達成した。",
@@ -205,7 +205,7 @@
       "lang": "en"
     },
     {
-      "id": "81269694",
+      "id": "19666879",
       "category": "テクノロジー・AI",
       "title": "The ‘Father of the Internet’ is finally retiring",
       "summary": "インターネットの基礎となるプロトコルの開発者の一人であるビントン・サーフ氏が、Googleのチーフ・インターネット・エヴァンジェリストの職を来週退任することが明らかになった。「インターネットの父」と呼ばれるサーフ氏は数十年にわたってインターネット技術の発展と普及に貢献してきた。",
@@ -215,7 +215,7 @@
       "lang": "en"
     },
     {
-      "id": "83063269",
+      "id": "21493006",
       "category": "テクノロジー・AI",
       "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
       "summary": "トランプ政権がAnthropicのMythosとFableモデルの制限を解除した。政権のAI政策への不安定な対応により、業界の企業は今後のモデルリリースを規制する内容について不透明な状況に置かれている。",
@@ -225,7 +225,7 @@
       "lang": "en"
     },
     {
-      "id": "70882160",
+      "id": "61423884",
       "category": "テクノロジー・AI",
       "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
       "summary": "AI自動運転企業のWayveが従業員向けテンダーオファー（株式買取）を8.5億ドルの企業評価額で8,500万ドル規模で開始した。これはAIスタートアップ企業が人材確保・定着のための戦略的手段として従業員テンダーオファーを活用する拡大傾向の一環である。",
@@ -235,7 +235,7 @@
       "lang": "en"
     },
     {
-      "id": "20988594",
+      "id": "27357297",
       "category": "テクノロジー・AI",
       "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
       "summary": "Anthropic社は、トランプ政権との数週間の交渉を経て、制限されていたClaudeの「Fable 5」モデルを復活させることが決定された。同社はX上の投稿で、水曜日からClaudeプラットフォーム上で世界中のユーザーへのアクセス復旧を開始し、AWS、Google Cloud、Microsoftなどで再度有効化する予定だと発表した。",
@@ -245,7 +245,7 @@
       "lang": "en"
     },
     {
-      "id": "32715714",
+      "id": "20877924",
       "category": "テクノロジー・AI",
       "title": "Startup Battlefield Australia application closes in days: Apply before July 6",
       "summary": "テックスタートアップの登竜門であるStartup Battlefield Australiaの応募期限が7月6日に迫っており、革新的なビジネスアイデアを持つ起業家らに最後の申し込みの機会を呼びかけている。このプログラムは、まだ知られていないが大きなインパクトを生み出す可能性を持つスタートアップに対し、一度のピッチプレゼンテーションが企業の運命を大きく変える可能性があることを強調しており、参加企業に成長と認知の機会をもたらすプラットフォームとなっている。",
@@ -255,7 +255,7 @@
       "lang": "en"
     },
     {
-      "id": "85642392",
+      "id": "34039627",
       "category": "テクノロジー・AI",
       "title": "OpenClaw is finally available on Android and iOS",
       "summary": "OpenClawという無料のオープンソースエージェントプログラムがAndroidとiOSで利用可能になった。このプログラムはユーザーのスマートフォンで動作するようになり、より多くの人がアクセスできるようになった。",
@@ -265,7 +265,7 @@
       "lang": "en"
     },
     {
-      "id": "55269130",
+      "id": "10234704",
       "category": "テクノロジー・AI",
       "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
       "summary": "DeepMindの元研究者3人が創設したプラハベースのAI企業EquiLibre Technologiesは、現在5億ドル以上の評価額となっており、ポーカーAIの開発経験を活かして、定量分析ヘッジファンド向けのAIソリューション開発を行っている。この企業は機械学習技術を金融市場の分析と取引戦略に応用することで、大きな成長を遂げている。",
@@ -275,7 +275,7 @@
       "lang": "en"
     },
     {
-      "id": "33438728",
+      "id": "79642452",
       "category": "テクノロジー・AI",
       "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
       "summary": "Googleの研究ノート管理ツール「NotebookLM」が新機能として、アップロードした資料に基づいて60秒の縦型AI動画を自動生成する機能をGoogle AI UltraおよびProサブスクライバーに向けてロールアウトしている。このTikTok風の動画生成機能により、ユーザーは膨大なノートや研究資料の内容を短時間で視覚的に把握できるようになる。",
@@ -285,83 +285,83 @@
       "lang": "en"
     },
     {
-      "id": "12481509",
+      "id": "61721773",
       "category": "台湾・中台関係",
-      "title": "China imposes controls on 40 Japanese entities",
-      "summary": "中国が日本の再軍備に貢献しているとして40の日本企業に対して新たな輸出規制を月曜日に発表し、日本との緊張が高まっている。中国はこれらの企業が防衛関連産業に関与していると指摘しており、この措置は両国間の対立が深刻化していることを示唆している。この規制により、該当企業の対中国への技術や部品の輸出が制限される見通しである。",
-      "url": "https://www.arkansasonline.com/news/2026/jun/30/china-imposes-controls-on-40-japanese-entities/",
-      "source": "Arkansas Online",
-      "published_at": "2026-06-30T07:08:17+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "24191020",
-      "category": "台湾・中台関係",
-      "title": "Taiwan raids tech firms in China AI chip smuggling probe",
-      "summary": "台湾の検察当局が米国の輸出規制に違反し、高性能なNvidiaチップを搭載したAIサーバーを中国、マカオ、香港に密輸出していた疑いで、複数の技術企業に対して捜索を実施した。この事件は5月から調査が進められており、米国の先端技術に関する輸出管理規制の違反が問題となっている。",
-      "url": "https://www.digitaljournal.com/article/taiwan-raids-tech-firms-in-china-ai-chip-smuggling-probe/",
-      "source": "Digital Journal",
-      "published_at": "2026-06-30T07:05:09+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "66002162",
-      "category": "台湾・中台関係",
-      "title": "India Plans to Add Strategic Fuel Reserves After Iran War Shock",
-      "summary": "インドはイランを巻き込む戦争によるペルシャ湾での供給ショックの再発を避けるため、原油、液化石油ガス、液化天然ガスの戦略的備蓄を最大1ヶ月分の国内需要に相当する規模で構築する計画を立てている。",
-      "url": "https://financialpost.com/pmn/business-pmn/india-plans-to-add-strategic-fuel-reserves-after-iran-war-shock",
-      "source": "Financial Post",
-      "published_at": "2026-06-30T07:04:37+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "31495562",
-      "category": "台湾・中台関係",
-      "title": "Apple iPhone 18 Pro supplier list, parts and photos exposed in Tata data leak",
-      "summary": "アップルの次世代iPhone 18 Proのサプライヤーリストと部品情報が、インドの大手企業タタのデータ漏洩により流出した。この漏洩はiPhoneの製造に関わる複雑で慎重に調整されたサプライチェーンを脅かすものであり、世界中の多数のサプライヤーから部品を調達するアップルの事業に悪影響を及ぼす可能性がある。",
-      "url": "https://www.cnbc.com/2026/06/30/apple-iphone-18-pro-supplier-list-parts-and-photos-exposed-in-tata-data-leak.html",
-      "source": "CNBC",
-      "published_at": "2026-06-30T06:15:25+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "61942676",
-      "category": "台湾・中台関係",
-      "title": "Himax Strengthens 3D Sensing Portfolio with Launch of New iToF Depth Decoder ICs for Robotics and Intelligent Vision Applications",
-      "summary": "Himax Technologies が、ロボティクスとインテリジェントビジョン応用向けの新しい iToF 深度デコーダ IC である HE シリーズを発表し、3D センシングポートフォリオを強化した。同社は、これらの新しい IC により、ロボット、自動運転車、スマートカメラなどの次世代アプリケーションにおける画像認識と深度検出の精度と性能を向上させることを目指している。この発表により、Himax は半導体産業における 3D センシング技術の競争力をさらに強化することになる。",
-      "url": "https://www.globenewswire.com/news-release/2026/06/30/3319398/8267/en/Himax-Strengthens-3D-Sensing-Portfolio-with-Launch-of-New-iToF-Depth-Decoder-ICs-for-Robotics-and-Intelligent-Vision-Applications.html",
+      "title": "Innovations in Protein Snacks: Sustainable Packaging and Clean-Label Products Lead Market Trends",
+      "summary": "タンパク質スナック市場は、消費者の健康意識の高まりと高タンパク質食への需要により成長が予想されており、植物性タンパク質、添加物を使わないクリーンラベル製品、電子商取引の拡大がビジネス機会となっている。持続可能なパッケージングと環境配慮がこの市場の主要トレンドとなっており、メーカーはこれらの要素を取り入れた製品開発を進めている。",
+      "url": "https://www.globenewswire.com/news-release/2026/06/30/3319570/28124/en/Innovations-in-Protein-Snacks-Sustainable-Packaging-and-Clean-Label-Products-Lead-Market-Trends.html",
       "source": "GlobeNewswire",
-      "published_at": "2026-06-30T06:00:00+00:00",
+      "published_at": "2026-06-30T11:40:00+00:00",
       "lang": "en"
     },
     {
-      "id": "42686433",
+      "id": "89543598",
       "category": "台湾・中台関係",
-      "title": "台積電尾盤爆1.87萬賣單！ 專家曝神秘藏鏡人",
-      "summary": "台積電は30日の終盤に1.87万枚の大型売り注文が出現し、株価を押し下げたが、最終的には2410元で終値を迎え、前日比40元（1.69%）の上昇となった。この売り注文の背景には神秘的な仕掛け人が存在する可能性が指摘されている。同日は富時指数の構成銘柄調整の影響を受けたとみられている。",
-      "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%B0%BE%E7%9B%A4%E7%88%86187%E8%90%AC%E8%B3%A3%E5%96%AE%EF%BC%81-%E5%B0%88%E5%AE%B6%E6%9B%9D%E7%A5%9E%E7%A7%98%E8%97%8F%E9%8F%A1%E4%BA%BA-054811148.html",
-      "source": "Yahoo Entertainment",
-      "published_at": "2026-06-30T05:48:11+00:00",
+      "title": "Intelligent Training Data Service Market Booms: Record Growth Expected from $3.43 Billion in 2025 to $8.27 Billion by 2030",
+      "summary": "インテリジェント訓練データサービス市場は、AI利用の増加、高品質な注釈付きデータセットの需要、自動データ注釈、合成データの利用により急速に拡大しており、2025年の34億3000万ドルから2030年には82億7000万ドルへの記録的成長が予想されている。市場の機会はAI駆動型意思決定ツールや領域特定データセットの開発にあり、企業はこれらの需要に対応することで事業拡大を図っている。",
+      "url": "https://www.globenewswire.com/news-release/2026/06/30/3319568/28124/en/Intelligent-Training-Data-Service-Market-Booms-Record-Growth-Expected-from-3-43-Billion-in-2025-to-8-27-Billion-by-2030.html",
+      "source": "GlobeNewswire",
+      "published_at": "2026-06-30T11:39:00+00:00",
       "lang": "en"
     },
     {
-      "id": "16472523",
+      "id": "18050927",
       "category": "台湾・中台関係",
-      "title": "Global Market: Financial firms shift Asia expansion focus to South Korea, take cautious stance on China and India",
-      "summary": "国際金融機関がアジア太平洋地域の事業拡大において韓国を優先する傾向が強まっている一方で、中国とインドに対しては慎重な姿勢を取っていることが、ASIFMA・KPMG調査で判明した。この転換は規制環境の明確性、政策の安定性、資本市場機会が韓国の魅力を高めている一方で、中国とインドの不透明性が懸念されていることが背景にある。",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-financial-firms-shift-asia-expansion-focus-to-south-korea-take-cautious-stance-on-china-and-india/articleshow/132083991.cms",
+      "title": "Taiwan raids Supermicro and two supply-chain partners in widening Nvidia smuggling probe — nine sites hit as six people summoned for questioning",
+      "summary": "台湾当局がエヌビディア製品の密輸事件の捜査を拡大し、スーパーマイクロコンピュータの台湾事務所と関連企業3社の計9箇所を家宅捜索し、6人を事情聴取のため召喚した。この捜査はエヌビディアのハイエンドAIチップが米国の輸出規制に違反して密輸されていた可能性を調査するものである。",
+      "url": "https://www.tomshardware.com/tech-industry/taiwan-raids-super-micro-and-two-supply-chain-partners-in-widening-nvidia-smuggling-probe",
+      "source": "Tom's Hardware UK",
+      "published_at": "2026-06-30T11:18:43+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "64518753",
+      "category": "台湾・中台関係",
+      "title": "“ACON 2026” Unveils Special Cover Stages By Sung Han Bin, CLOSE YOUR EYES, MEOVV, And More",
+      "summary": "2026年7月25日に台北のNTSU Arenaで開催される「ACON 2026」は、2026年アジア・アーティスト・アワード（AAA）のプレイベントで、ZEROBASEONEのSung Han Binがホストを務め、複数のアーティストによる特別ステージが予定されている。このイベントではCLOSE YOUR EYESやMEOVVなど著名なアーティストがパフォーマンスを行う。",
+      "url": "http://www.soompi.com/article/1851418wpp/acon-2026-unveils-special-cover-stages-by-sung-han-bin-close-your-eyes-meovv-and-more",
+      "source": "soompi",
+      "published_at": "2026-06-30T11:13:38+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "90532989",
+      "category": "台湾・中台関係",
+      "title": "TG TET 2026 provisional answer key, response sheet out: Here how to download and raise objections",
+      "summary": "テランガナ州教育部がTG TET 2026試験の仮答案キーと解答用紙を公開し、受験者は公式ウェブサイトからダウンロードして7月2日までに異議申し立てが可能である。同試験は6月16日から6月22日にかけて実施された。",
+      "url": "https://timesofindia.indiatimes.com/education/news/tg-tet-2026-provisional-answer-key-response-sheet-out-here-how-to-download-and-raise-objections/articleshow/132091365.cms",
       "source": "The Times of India",
-      "published_at": "2026-06-30T04:35:55+00:00",
+      "published_at": "2026-06-30T10:43:34+00:00",
       "lang": "en"
     },
     {
-      "id": "79478160",
+      "id": "20416179",
       "category": "台湾・中台関係",
-      "title": "Taiwan raids Super Micro in widening China chip smuggling probe",
-      "summary": "台湾がスーパーマイクロに対する捜査を実施し、中国への半導体密輸事件の調査が拡大している。この捜査は、米国からの長年の圧力を受けて台湾が初めて公開した人工知能チップの転用取り締まりの範囲が広がったことを示しており、技術流出防止に向けた台湾当局の強化姿勢が明らかになった。",
-      "url": "https://biztoc.com/x/b6ae2baf76825a61",
-      "source": "Biztoc.com",
-      "published_at": "2026-06-30T04:27:13+00:00",
+      "title": "Data Center Liquid Cooling Manifolds Market worth $6.33 billion by 2033 - Exclusive Report by MarketsandMarkets™",
+      "summary": "データセンターの液冷マニホールド市場は2033年までに63億3000万ドルに達する見通しで、MarketsandMarketsの調査によると、ラック内冷却、列単位冷却、施設レベル冷却などの多様なタイプと、浸漬冷却、直接チップ冷却、ハイブリッド冷却などの冷却技術により急速に成長している。",
+      "url": "https://www.prnewswire.com/news-releases/data-center-liquid-cooling-manifolds-market-worth-6-33-billion-by-2033---exclusive-report-by-marketsandmarkets-302814216.html",
+      "source": "PRNewswire",
+      "published_at": "2026-06-30T10:40:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "83125358",
+      "category": "台湾・中台関係",
+      "title": "IIT Bombay, SBI Life launch indigenous AI and Cybersecurity hub for insurance sector",
+      "summary": "IIT ボンベイとSBI生命保険は、インドの保険セクター向けの独自のAI、サイバーセキュリティ、量子技術ソリューションを開発するため、保険向けバーラットAI・サイバーイノベーションハブを立ち上げた。このパートナーシップは、デジタルセキュリティを強化し、保険業界のリスクを低減させることを目指している。",
+      "url": "https://timesofindia.indiatimes.com/education/news/iit-bombay-sbi-life-launch-indigenous-ai-and-cybersecurity-hub-for-insurance-sector/articleshow/132091104.cms",
+      "source": "The Times of India",
+      "published_at": "2026-06-30T10:30:03+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "89801807",
+      "category": "台湾・中台関係",
+      "title": "'I was a two-time NEET aspirant': Old video of fake Army Brigadier Aryan Verma motivating UPSC aspirants resurfaces— watch",
+      "summary": "印度陸軍准将になりすまして逮捕されたアリヤン・ベルマが、UPSC試験志望者に対して武装した警備員に囲まれて演説している動画が拡散している。ベルマは医学から公務員試験への転身を主張し、志望者との対話を奨励していた。同人物は虚偽の経歴と権威を利用して志望者を欺いていたことが明らかになった。",
+      "url": "https://timesofindia.indiatimes.com/education/news/i-was-a-two-time-neet-aspirant-old-video-of-fake-army-brigadier-aryan-verma-motivating-upsc-aspirants-resurfaces-watch/articleshow/132090039.cms",
+      "source": "The Times of India",
+      "published_at": "2026-06-30T10:09:58+00:00",
       "lang": "en"
     }
   ]
