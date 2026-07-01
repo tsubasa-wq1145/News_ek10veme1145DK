@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T23:18:11.067311+00:00",
+  "updated_at": "2026-07-01T07:14:53.540318+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -45,87 +45,127 @@
   "digest": [],
   "news": [
     {
-      "id": "15065287",
+      "id": "24948599",
+      "category": "経済・ビジネス（日本）",
+      "title": "米大統領 資産報告書公開“主要収益は暗号資産関連 2300億円”",
+      "summary": "トランプ米大統領が申告した2025年の資産報告書が公開され、主要な収益が暗号資産関連で少なくとも14億ドル（約2300億円）に上ることが明らかになった。",
+      "url": "http://www3.nhk.or.jp/news/html/20260701/k10015166021000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-01T06:40:08+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "78306203",
+      "category": "経済・ビジネス（日本）",
+      "title": "トランプ大統領  “中間選挙前に初の共和党大会開催へ”",
+      "summary": "トランプ大統領は9月に南部テキサス州で共和党の党大会を開催すると発表しました。中間選挙前の党大会開催は初めてのことで、支持拡大を目指した異例の対応です。",
+      "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165951000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-01T05:30:53+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "36740226",
+      "category": "経済・ビジネス（日本）",
+      "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月1日の動き）",
+      "summary": "ロシアによるウクライナへの軍事侵攻が継続しており、ウクライナ各地でロシア軍とウクライナ軍の戦闘が続いている中、多数の市民が国外への避難を余儀なくされています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260701/k10015133061000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-01T05:18:10+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "11550419",
+      "category": "経済・ビジネス（日本）",
+      "title": "米とイランが仲介国と会談へ 米高官“実務的協議 順調に進展”",
+      "summary": "アメリカとイランの協議担当者がカタールを訪問し、仲介国との会談を予定していますが、イラン側はアメリカとの直接協議は予定されていないと表明しており、両国間の対立の深刻さが明らかになっています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165191000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-01T05:00:47+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "25526345",
+      "category": "経済・ビジネス（日本）",
+      "title": "ミュトス提供再開 “情報収集進める”国内金融機関",
+      "summary": "アメリカのAI企業アンソロピックが、アメリカ政府の輸出規制解除を受けて、最新AIモデル「クロード3・ソネット5」や「フェイブル5」の提供を再開することを明らかにした。国内金融機関はこれらのAIモデルの情報収集を進めている。",
+      "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165431000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-01T04:58:53+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "39169978",
       "category": "経済・ビジネス（日本）",
       "title": "イギリス 国防費 2029年までに対GDP比2.7％ 約17兆円に増額へ",
       "summary": "イギリスは2029年までに国防費を対GDP比2.7％（約17兆円）に増額する計画を発表し、NATO加盟国の防衛費増強目標に対応する姿勢を示しました。しかし野党や与党の一部からは増額幅が不十分との批判が出ています。",
       "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165261000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-06-30T23:03:42+00:00",
+      "published_at": "2026-07-01T04:14:26+00:00",
       "lang": "ja"
     },
     {
-      "id": "61130449",
+      "id": "35078886",
       "category": "経済・ビジネス（日本）",
-      "title": "中国で民族団結進歩促進法施行 国境越え弾圧のおそれと懸念も",
-      "summary": "中国で1日に民族団結進歩促進法が施行され、民族の団結を破壊した場合に処罰するほか、国外の組織や個人も対象とすることが定められた。この法律が国境を越えた弾圧につながる可能性があるとして懸念の声が上がっている。",
-      "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165081000.html",
+      "title": "中国で拘束の日本人2人 正式に逮捕 レアアース輸出関連疑いか",
+      "summary": "中国遼寧省大連で5月に税関当局に拘束された日本人2人が正式に逮捕されました。両名は日本の電機メーカー関係者で、レアアースを使った磁石の輸出に関連した疑いが持たれています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165711000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-06-30T22:22:16+00:00",
+      "published_at": "2026-07-01T03:30:29+00:00",
       "lang": "ja"
     },
     {
-      "id": "29850381",
+      "id": "41855053",
       "category": "経済・ビジネス（日本）",
-      "title": "“出国税” きょうから引き上げ 1人当たり1000円が3000円に",
-      "summary": "日本の出国税が7月1日から1人当たり1000円から3000円に引き上げられました。この増税分はオーバーツーリズム対策などの観光地における課題解決に充てられる予定です。",
-      "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165101000.html",
+      "title": "トランスジェンダー選手 女子競技参加禁止の州法 米最高裁容認",
+      "summary": "アメリカの連邦最高裁判所がトランスジェンダー選手の女子競技参加禁止を定めた州法を容認する判断を示し、トランプ大統領は支持する一方で人権団体は性的マイノリティーの権利後退を懸念しています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165341000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-06-30T21:53:31+00:00",
+      "published_at": "2026-06-30T23:24:41+00:00",
       "lang": "ja"
     },
     {
-      "id": "59230016",
-      "category": "経済・ビジネス（日本）",
-      "title": "米とイラン 協議担当者がカタールへ 直接協議なく対立浮き彫り",
-      "summary": "アメリカとイランの協議担当者がカタールを訪問し、仲介国との会談を予定していますが、イラン側はアメリカとの直接協議は予定されていないと表明しており、両国間の対立の深刻さが明らかになっています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165191000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-30T21:27:37+00:00",
-      "lang": "ja"
+      "id": "76311492",
+      "category": "経済・ビジネス（世界）",
+      "title": "Anthropic says US lifts export ban on its advanced AI tools",
+      "summary": "Anthropic社は、6月にハッカーによる悪用の懸念から急遽停止されていた高度なAIツール「Fable」と「Mythos」について、米国が輸出禁止を解除したと発表した。同社はこれらのツールの安全性に関する懸念に対処し、規制当局の承認を得ることができた。この措置により、Anthropic社は国際市場でのAIツール提供を再開することが可能になった。",
+      "url": "https://www.bbc.co.uk/news/articles/cdr42623e1do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-01T03:39:44+00:00",
+      "lang": "en"
     },
     {
-      "id": "51023332",
-      "category": "経済・ビジネス（日本）",
-      "title": "1ドル＝162円台後半に値下がり 日米の金利差拡大などで",
-      "summary": "30日のニューヨーク外国為替市場で円売りドル買いが進み、円相場は1ドル＝162円台後半まで値下がりし、約39年半ぶりの円安ドル高水準となりました。FRBの利上げ観測を背景とした日米の金利差拡大が主な要因です。",
-      "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165311000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-30T21:15:59+00:00",
-      "lang": "ja"
+      "id": "38622144",
+      "category": "経済・ビジネス（世界）",
+      "title": "Trump made more than $1bn from crypto in first year back in office",
+      "summary": "トランプ大統領は職務復帰後の1年間で、暗号資産から10億ドル以上の収入を得た。この暗号資産による収入は、不動産やトランプブランドの腕時計などの物品販売からの収入をはるかに上回っており、彼の主要な収入源となっている。",
+      "url": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-01T03:31:08+00:00",
+      "lang": "en"
     },
     {
-      "id": "62366750",
-      "category": "経済・ビジネス（日本）",
-      "title": "ダッカテロ事件から10年 犠牲の日本人遺族 “警備強化を”",
-      "summary": "バングラデシュのダッカで2016年7月1日に起きたイスラム過激派によるテロ事件から10年を迎え、日本人7人を含む22人が犠牲になったこの事件の遺族たちは、海外で働く日本人の警備体制強化を求めており、同様のテロが再び起こらないことを願っています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165181000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-30T20:39:41+00:00",
-      "lang": "ja"
+      "id": "44643618",
+      "category": "経済・ビジネス（世界）",
+      "title": "Australia sues Amazon for making allegedly unfair contracts with subscribers",
+      "summary": "オーストラリア競争・消費者委員会（ACCC）はアマゾンが消費者保護法に違反していると主張し、購読者との不公正な契約について訴訟を提起した。ACCCは、アマゾンがプライム会員の自動更新に関する透明性の欠如と不適切な解約手続きが消費者保護法違反に該当すると指摘している。",
+      "url": "https://www.bbc.co.uk/news/articles/c20yz9rzwy0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-01T01:04:16+00:00",
+      "lang": "en"
     },
     {
-      "id": "21855275",
-      "category": "経済・ビジネス（日本）",
-      "title": "米「出生地主義」見直しの大統領令 連邦最高裁が認めない判断",
-      "summary": "トランプ大統領が署名したアメリカでの出生児に自動的に国籍を与える「出生地主義」を見直す大統領令について、連邦最高裁判所は30日にこれを認めないとする判断を下しました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165281000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-30T19:39:32+00:00",
-      "lang": "ja"
+      "id": "21432756",
+      "category": "経済・ビジネス（世界）",
+      "title": "Chinese tycoon sentenced to 30 years in US jail",
+      "summary": "中国の実業家グオ・ウェングイが、米国で30年の懲役刑を言い渡された。彼は自らを中国批評家として標榜し、詐欺的な事業を支持する多くの信奉者を獲得していた。",
+      "url": "https://www.bbc.co.uk/news/articles/cjeg15vw3z9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-06-30T23:48:18+00:00",
+      "lang": "en"
     },
     {
-      "id": "55541209",
-      "category": "経済・ビジネス（日本）",
-      "title": "尖閣諸島沖 日本のEEZ 中国の海洋調査船 一時活動も海域離れる",
-      "summary": "沖縄県の尖閣諸島沖の日本のEZで海洋調査を行っていた中国の海洋調査船が、28日からの活動を経て30日に海域を離れたことが確認された。",
-      "url": "http://www3.nhk.or.jp/news/html/20260630/k10015165231000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-06-30T12:18:04+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "64365007",
+      "id": "69888284",
       "category": "経済・ビジネス（世界）",
       "title": "Why Gen Z are planning for life without a state pension",
       "summary": "Z世代の多くが国家年金制度が将来存在しないと考えており、退職後の生活に向けた独自の資産形成計画を立てている。政府の財政危機や人口高齢化などの構造的問題から、若い世代が公的年金への信頼を失い、個人的な貯蓄や投資による老後資金確保に力を注いでいる状況が浮き彫りになっている。",
@@ -135,7 +175,7 @@
       "lang": "en"
     },
     {
-      "id": "84753205",
+      "id": "99008331",
       "category": "経済・ビジネス（世界）",
       "title": "Plea for households to read energy meter as prices rise",
       "summary": "規制当局Ofgemが最新の電気料金上限を導入し、家庭用エネルギー価格が年間13%上昇した。消費者は自分のエネルギーメーターを読むことで、正確な使用量に基づいた請求を受けられるようになる。エネルギー企業は顧客に対して、推定値ではなく実際の計測値を提出するよう呼びかけている。",
@@ -145,17 +185,7 @@
       "lang": "en"
     },
     {
-      "id": "42712087",
-      "category": "経済・ビジネス（世界）",
-      "title": "Australia sues Amazon for making allegedly unfair contracts with subscribers",
-      "summary": "オーストラリア競争・消費者委員会（ACCC）はアマゾンが消費者保護法に違反していると主張し、購読者との不公正な契約について訴訟を提起した。ACCCは、アマゾンがプライム会員の自動更新に関する透明性の欠如と不適切な解約手続きが消費者保護法違反に該当すると指摘している。",
-      "url": "https://www.bbc.co.uk/news/articles/c20yz9rzwy0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-06-30T18:59:19+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "28487401",
+      "id": "44118112",
       "category": "経済・ビジネス（世界）",
       "title": "Cruise passengers 'stranded' after air con failure to be flown home",
       "summary": "クルーズ船の乗客らはエアコンの故障により足止めされたが、ツイが謝罪し、翌日のフライト手配と全額返金を約束した。ツイはこの事態に対して乗客への補償と代替輸送の手配を迅速に進めている。",
@@ -165,27 +195,7 @@
       "lang": "en"
     },
     {
-      "id": "69340567",
-      "category": "経済・ビジネス（世界）",
-      "title": "Homes harder to sell as high mortgage rates frustrate buyers",
-      "summary": "住宅ローン金利が高い状況下で住宅販売が困難になっており、不動産ポータルサイトのZooplaによると1月以降にリストされた住宅の5軒中3軒が売れ残っている状況が報告されている。高い住宅ローン金利が購入者の購買意欲を減退させ、住宅市場の流動性が低下していることが明らかになった。",
-      "url": "https://www.bbc.co.uk/news/articles/cdr4env2v14o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-06-30T06:22:35+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "14517749",
-      "category": "経済・ビジネス（世界）",
-      "title": "Chinese tycoon sentenced to 30 years in US jail",
-      "summary": "中国の実業家グオ・ウェングイが、米国で30年の懲役刑を言い渡された。彼は自らを中国批評家として標榜し、詐欺的な事業を支持する多くの信奉者を獲得していた。",
-      "url": "https://www.bbc.co.uk/news/articles/cjeg15vw3z9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-06-30T02:08:21+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "78748028",
+      "id": "82898767",
       "category": "経済・ビジネス（世界）",
       "title": "We had packed lunches every day for 10 years and retired at 40",
       "summary": "夫婦が10年間毎日弁当を持参して生活を節約し、40歳でリタイアを実現した話である。FIRE運動は、できるだけ多くの資金を貯蓄して早期リタイアを目指す動きであり、この夫婦はその実践例として極度の節約生活を通じて経済的独立を達成した。",
@@ -195,17 +205,47 @@
       "lang": "en"
     },
     {
-      "id": "61100264",
-      "category": "経済・ビジネス（世界）",
-      "title": "Hollywood director gets two and a half years in prison for defrauding Netflix",
-      "summary": "ハリウッドの映画監督がNetflixの詐欺で2年半の懲役刑を受けた。同監督はNetflixの番組制作資金をロールスロイスやフェラーリなどの贅沢品の購入に充てたとして告発されていた。映画制作資金を個人的な高級車購入に流用した不正な行為が問われた事件である。",
-      "url": "https://www.bbc.co.uk/news/articles/cwy0rrnq317o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-06-29T20:41:10+00:00",
+      "id": "81269694",
+      "category": "テクノロジー・AI",
+      "title": "The ‘Father of the Internet’ is finally retiring",
+      "summary": "インターネットの基礎となるプロトコルの開発者の一人であるビントン・サーフ氏が、Googleのチーフ・インターネット・エヴァンジェリストの職を来週退任することが明らかになった。「インターネットの父」と呼ばれるサーフ氏は数十年にわたってインターネット技術の発展と普及に貢献してきた。",
+      "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-01T03:15:37+00:00",
       "lang": "en"
     },
     {
-      "id": "70508186",
+      "id": "83063269",
+      "category": "テクノロジー・AI",
+      "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+      "summary": "トランプ政権がAnthropicのMythosとFableモデルの制限を解除した。政権のAI政策への不安定な対応により、業界の企業は今後のモデルリリースを規制する内容について不透明な状況に置かれている。",
+      "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-01T02:16:06+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "70882160",
+      "category": "テクノロジー・AI",
+      "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+      "summary": "AI自動運転企業のWayveが従業員向けテンダーオファー（株式買取）を8.5億ドルの企業評価額で8,500万ドル規模で開始した。これはAIスタートアップ企業が人材確保・定着のための戦略的手段として従業員テンダーオファーを活用する拡大傾向の一環である。",
+      "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-01T02:04:40+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "20988594",
+      "category": "テクノロジー・AI",
+      "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
+      "summary": "Anthropic社は、トランプ政権との数週間の交渉を経て、制限されていたClaudeの「Fable 5」モデルを復活させることが決定された。同社はX上の投稿で、水曜日からClaudeプラットフォーム上で世界中のユーザーへのアクセス復旧を開始し、AWS、Google Cloud、Microsoftなどで再度有効化する予定だと発表した。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+      "source": "AI | The Verge",
+      "published_at": "2026-07-01T00:03:55+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "32715714",
       "category": "テクノロジー・AI",
       "title": "Startup Battlefield Australia application closes in days: Apply before July 6",
       "summary": "テックスタートアップの登竜門であるStartup Battlefield Australiaの応募期限が7月6日に迫っており、革新的なビジネスアイデアを持つ起業家らに最後の申し込みの機会を呼びかけている。このプログラムは、まだ知られていないが大きなインパクトを生み出す可能性を持つスタートアップに対し、一度のピッチプレゼンテーションが企業の運命を大きく変える可能性があることを強調しており、参加企業に成長と認知の機会をもたらすプラットフォームとなっている。",
@@ -215,7 +255,7 @@
       "lang": "en"
     },
     {
-      "id": "91765422",
+      "id": "85642392",
       "category": "テクノロジー・AI",
       "title": "OpenClaw is finally available on Android and iOS",
       "summary": "OpenClawという無料のオープンソースエージェントプログラムがAndroidとiOSで利用可能になった。このプログラムはユーザーのスマートフォンで動作するようになり、より多くの人がアクセスできるようになった。",
@@ -225,7 +265,7 @@
       "lang": "en"
     },
     {
-      "id": "54844868",
+      "id": "55269130",
       "category": "テクノロジー・AI",
       "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
       "summary": "DeepMindの元研究者3人が創設したプラハベースのAI企業EquiLibre Technologiesは、現在5億ドル以上の評価額となっており、ポーカーAIの開発経験を活かして、定量分析ヘッジファンド向けのAIソリューション開発を行っている。この企業は機械学習技術を金融市場の分析と取引戦略に応用することで、大きな成長を遂げている。",
@@ -235,7 +275,7 @@
       "lang": "en"
     },
     {
-      "id": "61345525",
+      "id": "33438728",
       "category": "テクノロジー・AI",
       "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
       "summary": "Googleの研究ノート管理ツール「NotebookLM」が新機能として、アップロードした資料に基づいて60秒の縦型AI動画を自動生成する機能をGoogle AI UltraおよびProサブスクライバーに向けてロールアウトしている。このTikTok風の動画生成機能により、ユーザーは膨大なノートや研究資料の内容を短時間で視覚的に把握できるようになる。",
@@ -245,113 +285,83 @@
       "lang": "en"
     },
     {
-      "id": "90310267",
-      "category": "テクノロジー・AI",
-      "title": "Realta Fusion generates electricity directly from a fusion reaction, an apparent first",
-      "summary": "Realta Fusionという企業が核融合反応から直接電力を生成することに成功し、これは業界初の達成だと報告されました。同社のCEOであるキーラン・フューロング氏は「プラズマから電力を取ることができる」と述べ、この成果が今後の可能性を示すものだと強調しました。",
-      "url": "https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-30T19:12:43+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "67164994",
-      "category": "テクノロジー・AI",
-      "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
-      "summary": "Googleは画像生成ツール「Nano Banana 2 Lite」を導入し、処理速度を高速化し、コストを削減することで、AI生成コンテンツを作成したいクリエイター向けのより実用的なツールになった。",
-      "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-30T19:02:38+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "61600297",
-      "category": "テクノロジー・AI",
-      "title": "Clicks shows off its BlackBerry-inspired phone in a new hands-on video",
-      "summary": "Clicks社が新しいハンズオンビデオで、BlackBerryにインスパイアされた同社のスマートフォン「Clicks Communicator」の最終生産版を披露した。このデバイスは物理キーボードを備えながら、最新のアプリケーションに対応している。懐かしいBlackBerryのデザイン哲学を現代的なスマートフォン機能と組み合わせた製品として注目されている。",
-      "url": "https://techcrunch.com/2026/06/30/clicks-shows-off-its-blackberry-inspired-phone-in-a-new-hands-on-video/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-30T18:34:22+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "10945972",
-      "category": "テクノロジー・AI",
-      "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
-      "summary": "Nvidiaの競合企業Etchedが50億ドルの企業評価額に達し、同社のAIチップを搭載した推論システムについて既に10億ドルの契約を確保したことが明らかになった。",
-      "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-30T18:13:02+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "68250513",
+      "id": "12481509",
       "category": "台湾・中台関係",
-      "title": "Supermicro shares falls as Taiwan office raided due to chip smuggling investigation: report",
-      "summary": "スーパーマイクロ・コンピュータ（Supermicro）の台湾オフィスが月曜日に政府当局者による捜査を受けました。これはスーパーマイクロがエヌビディアのGPUをサーバー内に隠して中国に密輸していた疑いに関連した継続的な調査の一環です。この捜査の報道を受けてスーパーマイクロの株価は下落しました。",
-      "url": "https://biztoc.com/x/179150ef46da55b3",
-      "source": "Biztoc.com",
-      "published_at": "2026-06-29T21:33:44+00:00",
+      "title": "China imposes controls on 40 Japanese entities",
+      "summary": "中国が日本の再軍備に貢献しているとして40の日本企業に対して新たな輸出規制を月曜日に発表し、日本との緊張が高まっている。中国はこれらの企業が防衛関連産業に関与していると指摘しており、この措置は両国間の対立が深刻化していることを示唆している。この規制により、該当企業の対中国への技術や部品の輸出が制限される見通しである。",
+      "url": "https://www.arkansasonline.com/news/2026/jun/30/china-imposes-controls-on-40-japanese-entities/",
+      "source": "Arkansas Online",
+      "published_at": "2026-06-30T07:08:17+00:00",
       "lang": "en"
     },
     {
-      "id": "61919510",
+      "id": "24191020",
       "category": "台湾・中台関係",
-      "title": "Super Micro Insists Cooperation as Taiwan Authorities Storm Offices in NVIDIA GPU Smuggling Crackdown on China Exports",
-      "summary": "Super Micro Computerの台湾オフィスが当局による家宅捜索を受けました。これはNVIDIAのGPUが中国への不正輸出されていた疑いに関する調査の一環です。同社は当局への協力姿勢を強調しており、台湾の基隆地方検察庁が調査を進めています。",
-      "url": "https://wccftech.com/super-micro-insists-cooperation-as-taiwan-authorities-storm-offices-in-nvidia-gpu-smuggling-crackdown-on-china-exports/",
-      "source": "Wccftech",
-      "published_at": "2026-06-29T21:30:01+00:00",
+      "title": "Taiwan raids tech firms in China AI chip smuggling probe",
+      "summary": "台湾の検察当局が米国の輸出規制に違反し、高性能なNvidiaチップを搭載したAIサーバーを中国、マカオ、香港に密輸出していた疑いで、複数の技術企業に対して捜索を実施した。この事件は5月から調査が進められており、米国の先端技術に関する輸出管理規制の違反が問題となっている。",
+      "url": "https://www.digitaljournal.com/article/taiwan-raids-tech-firms-in-china-ai-chip-smuggling-probe/",
+      "source": "Digital Journal",
+      "published_at": "2026-06-30T07:05:09+00:00",
       "lang": "en"
     },
     {
-      "id": "57068642",
+      "id": "66002162",
       "category": "台湾・中台関係",
-      "title": "Supermicro Taiwan offices raided in chip smuggling probe targeting Nvidia AI hardware",
-      "summary": "スーパーマイクロコンピュータの台湾オフィスがエヌビディアのAIハードウェアを対象としたチップ密輸捜査により家宅捜索を受けた。この捜査は世界的な技術サプライチェーンにおける緊張の高まりを浮き彫りにしており、AI機器へのアクセスと投資家信頼に悪影響を与える可能性がある。",
-      "url": "https://cryptobriefing.com/supermicro-taiwan-raid-chip-smuggling-probe/",
-      "source": "Crypto Briefing",
-      "published_at": "2026-06-29T20:37:08+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "31334929",
-      "category": "台湾・中台関係",
-      "title": "Taiwanese authorities raid Supermicro office in Nvidia chip probe",
-      "summary": "台湾当局がエヌビディア製チップに関する調査の一環として、スーパーマイクロの台湾オフィスを捜査した。この捜査は台湾がアメリカのテクノロジー政策と足並みを揃えていることを示すもので、グローバルな半導体サプライチェーンと投資家の信頼に潜在的な影響を与える可能性がある。",
-      "url": "https://cryptobriefing.com/supermicro-taiwan-raid-nvidia-chip-probe/",
-      "source": "Crypto Briefing",
-      "published_at": "2026-06-29T20:31:49+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "74047651",
-      "category": "台湾・中台関係",
-      "title": "Japan Politics Daily: Takaichi Links Growth, Security and China Policy",
-      "summary": "日本の政治は6月29日、高市早苗首相が経済成長、国家安全保障、技術的強靱性を結びつけようとする試みを中心に展開され、政府は長期経済戦略の策定を進める一方で中国への対応も行っている。高市首相は経済発展と国防力強化を同時に実現する方針を示しており、これらの課題はアジア太平洋地域における日本の戦略的位置づけに直結している。技術産業の競争力維持と安全保障上の懸念に対する対応を統合する政策アプローチが、今後の日本の国家戦略の核となっていくことが示唆されている。",
-      "url": "https://newsonjapan.com/article/149821.php",
-      "source": "Newsonjapan.com",
-      "published_at": "2026-06-29T20:11:46+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "29192857",
-      "category": "台湾・中台関係",
-      "title": "Super Micro office raided as Taiwan expands chip smuggling probe",
-      "summary": "台湾当局がチップの中国への密輸に関する調査を拡大する中、スーパーマイクロコンピュータ（Super Micro Computer Inc.）の台湾オフィスが捜索を受けた。この捜査は、高度な半導体技術の不正な流出を巡る広がりを見せており、台湾から中国への違法な半導体輸出に関連した重大な疑惑が浮上している。",
-      "url": "https://financialpost.com/technology/tech-news/super-micro-office-raided-chip-smuggling-probe",
+      "title": "India Plans to Add Strategic Fuel Reserves After Iran War Shock",
+      "summary": "インドはイランを巻き込む戦争によるペルシャ湾での供給ショックの再発を避けるため、原油、液化石油ガス、液化天然ガスの戦略的備蓄を最大1ヶ月分の国内需要に相当する規模で構築する計画を立てている。",
+      "url": "https://financialpost.com/pmn/business-pmn/india-plans-to-add-strategic-fuel-reserves-after-iran-war-shock",
       "source": "Financial Post",
-      "published_at": "2026-06-29T19:26:21+00:00",
+      "published_at": "2026-06-30T07:04:37+00:00",
       "lang": "en"
     },
     {
-      "id": "62522708",
+      "id": "31495562",
       "category": "台湾・中台関係",
-      "title": "Taiwan raids Super Micro’s office as Nvidia chip smuggling investigation widens",
-      "summary": "台湾の基隆地検がSuper Micro Computerの現地オフィスを家宅捜索し、同社のサーバーを通じてNvidiaチップを中国に密輸していた疑いに関する捜査を拡大させた。この捜査では6人の個人の住居も対象となり、Nvidiaの高性能チップの不正な中国流入に関する疑惑が広がっている。台湾政府は輸出規制違反の可能性について調査を進めている。",
-      "url": "https://thenextweb.com/news/super-micro-taiwan-raid-nvidia-chip-smuggling-probe/",
-      "source": "The Next Web",
-      "published_at": "2026-06-29T19:18:48+00:00",
+      "title": "Apple iPhone 18 Pro supplier list, parts and photos exposed in Tata data leak",
+      "summary": "アップルの次世代iPhone 18 Proのサプライヤーリストと部品情報が、インドの大手企業タタのデータ漏洩により流出した。この漏洩はiPhoneの製造に関わる複雑で慎重に調整されたサプライチェーンを脅かすものであり、世界中の多数のサプライヤーから部品を調達するアップルの事業に悪影響を及ぼす可能性がある。",
+      "url": "https://www.cnbc.com/2026/06/30/apple-iphone-18-pro-supplier-list-parts-and-photos-exposed-in-tata-data-leak.html",
+      "source": "CNBC",
+      "published_at": "2026-06-30T06:15:25+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "61942676",
+      "category": "台湾・中台関係",
+      "title": "Himax Strengthens 3D Sensing Portfolio with Launch of New iToF Depth Decoder ICs for Robotics and Intelligent Vision Applications",
+      "summary": "Himax Technologies が、ロボティクスとインテリジェントビジョン応用向けの新しい iToF 深度デコーダ IC である HE シリーズを発表し、3D センシングポートフォリオを強化した。同社は、これらの新しい IC により、ロボット、自動運転車、スマートカメラなどの次世代アプリケーションにおける画像認識と深度検出の精度と性能を向上させることを目指している。この発表により、Himax は半導体産業における 3D センシング技術の競争力をさらに強化することになる。",
+      "url": "https://www.globenewswire.com/news-release/2026/06/30/3319398/8267/en/Himax-Strengthens-3D-Sensing-Portfolio-with-Launch-of-New-iToF-Depth-Decoder-ICs-for-Robotics-and-Intelligent-Vision-Applications.html",
+      "source": "GlobeNewswire",
+      "published_at": "2026-06-30T06:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "42686433",
+      "category": "台湾・中台関係",
+      "title": "台積電尾盤爆1.87萬賣單！ 專家曝神秘藏鏡人",
+      "summary": "台積電は30日の終盤に1.87万枚の大型売り注文が出現し、株価を押し下げたが、最終的には2410元で終値を迎え、前日比40元（1.69%）の上昇となった。この売り注文の背景には神秘的な仕掛け人が存在する可能性が指摘されている。同日は富時指数の構成銘柄調整の影響を受けたとみられている。",
+      "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%B0%BE%E7%9B%A4%E7%88%86187%E8%90%AC%E8%B3%A3%E5%96%AE%EF%BC%81-%E5%B0%88%E5%AE%B6%E6%9B%9D%E7%A5%9E%E7%A7%98%E8%97%8F%E9%8F%A1%E4%BA%BA-054811148.html",
+      "source": "Yahoo Entertainment",
+      "published_at": "2026-06-30T05:48:11+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "16472523",
+      "category": "台湾・中台関係",
+      "title": "Global Market: Financial firms shift Asia expansion focus to South Korea, take cautious stance on China and India",
+      "summary": "国際金融機関がアジア太平洋地域の事業拡大において韓国を優先する傾向が強まっている一方で、中国とインドに対しては慎重な姿勢を取っていることが、ASIFMA・KPMG調査で判明した。この転換は規制環境の明確性、政策の安定性、資本市場機会が韓国の魅力を高めている一方で、中国とインドの不透明性が懸念されていることが背景にある。",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-financial-firms-shift-asia-expansion-focus-to-south-korea-take-cautious-stance-on-china-and-india/articleshow/132083991.cms",
+      "source": "The Times of India",
+      "published_at": "2026-06-30T04:35:55+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "79478160",
+      "category": "台湾・中台関係",
+      "title": "Taiwan raids Super Micro in widening China chip smuggling probe",
+      "summary": "台湾がスーパーマイクロに対する捜査を実施し、中国への半導体密輸事件の調査が拡大している。この捜査は、米国からの長年の圧力を受けて台湾が初めて公開した人工知能チップの転用取り締まりの範囲が広がったことを示しており、技術流出防止に向けた台湾当局の強化姿勢が明らかになった。",
+      "url": "https://biztoc.com/x/b6ae2baf76825a61",
+      "source": "Biztoc.com",
+      "published_at": "2026-06-30T04:27:13+00:00",
       "lang": "en"
     }
   ]
