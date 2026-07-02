@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T06:42:52.826247+00:00",
+  "updated_at": "2026-07-02T11:27:18.303502+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -45,27 +45,67 @@
   "digest": [],
   "news": [
     {
-      "id": "83150358",
+      "id": "51163142",
       "category": "経済・ビジネス（日本）",
-      "title": "日印首脳会談 インドで2兆円超の事業創出 発表見通し",
+      "title": "日印首脳会談 戦略的協力関係深めることで合意 2兆円投資も",
       "summary": "インドを訪問中の高市総理大臣は2日にモディ首相と首脳会談を実施し、経済安全保障とAI分野での協力進展を目指しています。共同声明とともに経済安全保障およびAI分野での成果文書をまとめる方向で調整が進められています。",
       "url": "http://www3.nhk.or.jp/news/html/20260702/k10015166401000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-07-02T06:20:14+00:00",
+      "published_at": "2026-07-02T11:12:55+00:00",
       "lang": "ja"
     },
     {
-      "id": "81693944",
+      "id": "71922328",
       "category": "経済・ビジネス（日本）",
       "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月2日の動き）",
       "summary": "ロシアによるウクライナ軍事侵攻が継続しており、ウクライナ各地でロシア軍とウクライナ軍の戦闘が続いています。多くの市民が国外への避難を余儀なくされており、7月2日の戦闘状況と関係国の外交動向が随時更新される予定です。",
       "url": "http://www3.nhk.or.jp/news/html/20260702/k10015140521000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-07-02T05:46:00+00:00",
+      "published_at": "2026-07-02T10:05:57+00:00",
       "lang": "ja"
     },
     {
-      "id": "21465667",
+      "id": "78253119",
+      "category": "経済・ビジネス（日本）",
+      "title": "円相場 日中は1ドル＝162円台前半 夕方以降は荒い値動き",
+      "summary": "2日の東京外国為替市場では、日中は1ドル=162円台で推移していたものの、夕方以降は短時間で1円以上の円高が進むなど値動きが不安定になりました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260702/k10015167341000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-02T09:57:26+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "75724045",
+      "category": "経済・ビジネス（日本）",
+      "title": "アジア開発銀行 次の総裁選挙 神田眞人現総裁の信任投票へ",
+      "summary": "アジア開発銀行の次期総裁選挙で、神田眞人現総裁が唯一の候補者として指名されました。加盟国による信任投票が実施され、本年9月に結果が公表される予定です。",
+      "url": "http://www3.nhk.or.jp/news/html/20260702/k10015167301000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-02T09:33:31+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "31587585",
+      "category": "経済・ビジネス（日本）",
+      "title": "ベネズエラ地震1週間 日本NGO“あらゆる物資が足りていない”",
+      "summary": "ベネズエラで発生したマグニチュード7を超える地震から1週間が経過し、現地入りした日本のNGO職員は被害が報道以上に深刻であり、水や食料などあらゆる物資が不足していると述べ、さらなる支援の必要性を訴えている。",
+      "url": "http://www3.nhk.or.jp/news/html/20260702/k10015167231000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-02T08:21:07+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "19636101",
+      "category": "経済・ビジネス（日本）",
+      "title": "ロシア軍大規模攻撃でウクライナ各地被害 キーウで13人死亡",
+      "summary": "ロシア軍は2日にかけてミサイルと無人機を使ってウクライナ各地に大規模攻撃を実施し、首都キーウで少なくとも13人が死亡、86人が負傷するなど広範な被害が生じた。",
+      "url": "http://www3.nhk.or.jp/news/html/20260702/k10015167211000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-02T08:19:25+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "55545769",
       "category": "経済・ビジネス（日本）",
       "title": "米イラン協議 仲介国「前向きな進展」協議の行方は不透明",
       "summary": "アメリカとイランの担当者がそれぞれカタールを通じて協議を行い、バンス副大統領は協議が順調に進んでいると述べた。しかしイラン側は米国との直接協議は行われなかったと主張しており、今後両国の立場の隔たりが埋められるかが課題となっている。",
@@ -75,7 +115,7 @@
       "lang": "ja"
     },
     {
-      "id": "46928634",
+      "id": "80005255",
       "category": "経済・ビジネス（日本）",
       "title": "米歌手 ビクター・ウィリスさん死去 「Y.M.C.A.」などヒット曲",
       "summary": "アメリカの音楽グループ「ビレッジ・ピープル」のボーカル、ビクター・ウィリスさんが74歳で亡くなりました。彼は「Y.M.C.A.」などの世界的なヒット曲で知られていました。",
@@ -85,59 +125,39 @@
       "lang": "ja"
     },
     {
-      "id": "12789069",
-      "category": "経済・ビジネス（日本）",
-      "title": "国連AIパネル報告書 少数の企業や国への富の集中に警鐘",
-      "summary": "国連の専門家パネルが初の報告書を発表し、AI開発とそれにより生じる富が少数の企業や国に集中することで、権威主義的な支配に悪用される可能性があると警告しました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260702/k10015166751000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-02T01:09:20+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "11667736",
-      "category": "経済・ビジネス（日本）",
-      "title": "“前ウクライナ軍総司令官 次期大統領選に立候補意欲か”報道",
-      "summary": "ウクライナの前軍総司令官ザルジニー氏が、次期大統領選への立候補意欲をゼレンスキー大統領に伝えたとメディアが報じています。ウクライナ国内で彼の政治的な動向が注目されています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260702/k10015166791000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-02T00:00:48+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "16183092",
-      "category": "経済・ビジネス（日本）",
-      "title": "ベネズエラ地震発生1週間 3歳男児 6日ぶりに救出",
-      "summary": "ベネズエラで起きたマグニチュード7超の地震から1週間が経ち、死亡者は2295人に達しました。被災地では救助活動が続いているものの、食料や水の不足が深刻となっており、被災者支援が急務となっています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260702/k10015166531000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-01T22:34:28+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "78784160",
-      "category": "経済・ビジネス（日本）",
-      "title": "インドネシア 特殊詐欺対策 SIMカード開通に「顔認証」導入",
-      "summary": "インドネシア政府は、盗難・不正入手したSIMカードを利用した特殊詐欺の急増に対抗するため、SIMカード開通時に顔認証による本人確認を義務付ける新規制を導入しました。この施策により、不正な電話回線の開通を防ぎ、詐欺犯罪の抑制を目指しています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260702/k10015166271000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-01T21:34:34+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "50999095",
+      "id": "19635503",
       "category": "経済・ビジネス（世界）",
-      "title": "Singapore seizes $42m mansion over Nvidia chip smuggling",
-      "summary": "シンガポール当局が、Nvidia製チップを搭載したサーバーの違法取引に関与したとして、42百万ドル相当の豪華邸宅を押収した。この押収は、AI半導体が含まれたサーバーの不正な密輸取引の捜査の一環として行われたものである。",
-      "url": "https://www.bbc.co.uk/news/articles/cx2d9y18g73o?at_medium=RSS&at_campaign=rss",
+      "title": "Why the expected fight over the North American trade deal never kicked off",
+      "summary": "米国は北米貿易協定の16年間の延長を行わないことを確認しましたが、より劇的な行動は回避しました。予想されていた協定をめぐる激しい議論は結局のところ勃発しませんでした。これは米国が協定の終了を選択しつつも、抜本的な変更や廃止といった最も過激な措置には至らなかったためです。",
+      "url": "https://www.bbc.co.uk/news/articles/c70yd58y27yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published_at": "2026-07-02T06:02:17+00:00",
+      "published_at": "2026-07-02T10:24:08+00:00",
       "lang": "en"
     },
     {
-      "id": "64054754",
+      "id": "80035425",
       "category": "経済・ビジネス（世界）",
-      "title": "World Cup dreams shattered as StubHub tickets cancelled at last minute leaving fans stranded outside stadiums",
+      "title": "EU border delays 'not bearable' over summer, warns airport boss",
+      "summary": "ベルリン空港の責任者は、EUの新しい出入国システムにより、夏休みの時期に空港での長い待ち時間が発生することは「耐えられない」と警告している。新システムの導入により、旅行者は従来以上の遅延に直面することが予想されており、特に観光シーズンの混雑時には深刻な問題となる可能性があると指摘されている。",
+      "url": "https://www.bbc.co.uk/news/articles/c8x2y74wp9eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-02T10:15:47+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "86904336",
+      "category": "経済・ビジネス（世界）",
+      "title": "Google must pay €4.1bn fine for using Android to 'block' rivals",
+      "summary": "欧州連合の裁判所がGoogleに対し、Androidを使用して競合他社を排除したとして約41億ユーロの罰金支払いを命じた。Googleは自社の声明で、この判決はAndroidをオープンに保つための同社の多大な投資を認識していないと反論している。同社はAndroidプラットフォームの開発に継続的に投資してきたと主張しており、今後の対応が注視されている。",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj0pp5p62o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-02T09:46:11+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "13751594",
+      "category": "経済・ビジネス（世界）",
+      "title": "World Cup dreams shattered as StubHub tickets cancelled at last minute",
       "summary": "ワールドカップのチケット転売サイトStubHubで購入した何百人ものファンが、試合直前にチケットをキャンセルされたと報告している。スタジアムの外に取り残されたファンたちは、多額の投資を失い、試合を観戦することができなくなった。この問題は、公式でない転売プラットフォームを通じたチケット購入の危険性を浮き彫りにしている。",
       "url": "https://www.bbc.co.uk/news/articles/crkvlekgy07o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -145,9 +165,9 @@
       "lang": "en"
     },
     {
-      "id": "58488178",
+      "id": "89669268",
       "category": "経済・ビジネス（世界）",
-      "title": "Don't expect trackers to save your stolen car, experts say",
+      "title": "Don't expect connected car apps to save your stolen car, experts say",
       "summary": "盗まれた車を追跡装置で救出することは期待できないと専門家が指摘している。起亜はBCCに対し、英国の法律により車両のリアルタイム追跡機能の使用が禁止されていると述べた。盗難車の回収において、現行法の制限が追跡技術の有効性を大きく損なわせているという。",
       "url": "https://www.bbc.co.uk/news/articles/cp8r1798kp7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -155,7 +175,7 @@
       "lang": "en"
     },
     {
-      "id": "19961855",
+      "id": "63284999",
       "category": "経済・ビジネス（世界）",
       "title": "Diesel sees biggest monthly fall in 26 years. What's happening to fuel prices?",
       "summary": "イランとの紛争により燃料価格は一時的に上昇したが、平和への期待が高まるにつれて急速に低下している。ディーゼル燃料は26年間で最大の月間下落を記録し、地政学的な緊張の緩和が燃料市場に大きな影響を与えていることを示している。",
@@ -165,27 +185,7 @@
       "lang": "en"
     },
     {
-      "id": "87981553",
-      "category": "経済・ビジネス（世界）",
-      "title": "Halifax brand to be scrapped after 173 years",
-      "summary": "ロイズ銀行は173年の歴史を持つハリファックスブランドの廃止を発表した。同行はハリファックスの町への貢献継続を強調し、顧客への影響は最小限にとどまるとしている。",
-      "url": "https://www.bbc.co.uk/news/articles/c24ydy4q0nzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-01T20:09:05+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "34069592",
-      "category": "経済・ビジネス（世界）",
-      "title": "US blocks long-term renewal of North American trade deal",
-      "summary": "米国が北米貿易協定の16年間の長期更新をブロックし、代わりに毎年の継続的な見直しが実施されることになった。この決定により、カナダとメキシコとの間の貿易関係は不安定性を増し、各国は毎年協定の継続について不確実性を抱えることになる。",
-      "url": "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-01T18:56:36+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "42013022",
+      "id": "87516290",
       "category": "経済・ビジネス（世界）",
       "title": "Bibles, Home Alone and perfume: Six takeaways from Trump's 2025 finances",
       "summary": "トランプ大統領は2025年にホワイトハウスに復帰する中で、聖書販売や映画化権、香水事業など多角的な事業から数十億ドルの収入を得たことが公式文書で明らかになった。これらの商品やメディア関連の収益が、大統領の財務に大きく貢献していることが示されている。",
@@ -195,7 +195,7 @@
       "lang": "en"
     },
     {
-      "id": "35528020",
+      "id": "98763507",
       "category": "経済・ビジネス（世界）",
       "title": "Why is crucial tech vulnerable to the heat?",
       "summary": "エネルギーグリッドや列車サービスなどの重要なインフラは、極端な高温気象に対して脆弱性を持っている。これらのシステムは、冷却システムの過負荷や機械部品の性能低下により、猛暑時に機能不全に陥るリスクがある。気候変動に伴う極端気象の増加に対応するため、こうした重要インフラの耐熱性向上が急務となっている。",
@@ -205,7 +205,17 @@
       "lang": "en"
     },
     {
-      "id": "44432047",
+      "id": "11911222",
+      "category": "テクノロジー・AI",
+      "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
+      "summary": "OpenAIはトランプ政権との緊張緩和と人工知能に対する公的反発を弱めるため、米政府にAIブームの5パーセント相当の所有権を与えることを検討しており、CEOのサム・アルトマンはこの措置により国民が企業の利益を共有できると主張している。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+      "source": "AI | The Verge",
+      "published_at": "2026-07-02T10:23:27+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "33247129",
       "category": "テクノロジー・AI",
       "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
       "summary": "インドの技術大手経営者バヴィン・トゥラキア氏が、マイクロソフトオフィスに対抗するAI搭載の代替製品を開発するために、自身の資金3,000万ドルを投じている。トゥラキア氏の5番目のベンチャー企業である「Neo」は、エンタープライズソフトウェア分野での最新の取り組みであり、MicrosoftのOfficeやGoogle Appsに対抗するAI機能を備えたプロダクトとなる見込みである。",
@@ -215,7 +225,7 @@
       "lang": "en"
     },
     {
-      "id": "54355678",
+      "id": "29810173",
       "category": "テクノロジー・AI",
       "title": "Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year",
       "summary": "Appleは2025年初頭に新型iPad Proと廉価版MacBook Proの発売を計画していると報じられている。複数の新型iPad Proモデルと手頃な価格のMacBook Proが準備中であることが示唆されており、同社の製品ラインアップの拡充が期待されている。",
@@ -225,7 +235,7 @@
       "lang": "en"
     },
     {
-      "id": "51916626",
+      "id": "23275523",
       "category": "テクノロジー・AI",
       "title": "Bending Spoons defies SaaS slump, surges 40% on first day of trading",
       "summary": "イタリアの大手ソフトウェア企業ベンディング・スプーンズは上場初日に株価が40%急騰し、SaaS業界全体の低迷の中でも強い成長を見せている。同社はAOL、Eventbrite、Evernote、Meetup、Vimeoなど時代遅れになったテクノロジー企業を買収し、事業を再構築することで急速な成長を遂げており、市場の期待の高さが株価上昇に反映されている。",
@@ -235,7 +245,7 @@
       "lang": "en"
     },
     {
-      "id": "85349211",
+      "id": "73400330",
       "category": "テクノロジー・AI",
       "title": "After $18B IPO, Bending Spoons founder says success comes from minimizing luck",
       "summary": "イタリアの大手アプリ企業ベンディング・スプーンズの創業者は、180億ドルのIPO後、成功は運を最小化することから生まれると述べた。同社はかつての失敗の経験から、愛されながらも経営難に陥っていたインターネットブランドを静かに買収し再生させることで、事業を拡大してきた。創業者たちはこうした戦略的買収を通じて、事業の成功を運ではなく緻密な計画と実行に基づくものにしてきたという。",
@@ -245,7 +255,7 @@
       "lang": "en"
     },
     {
-      "id": "63071230",
+      "id": "11453198",
       "category": "テクノロジー・AI",
       "title": "WhatsApp usernames are already raising impersonation red flags",
       "summary": "WhatsAppが新機能として導入したユーザー名について、メタ社はプライバシー向上を謳っているが、批評家らはなりすまし防止の安全対策が十分かどうか懸念している。ユーザー名機能により電話番号の非公開が可能になる一方で、詐欺師がなりすましアカウントを作成するリスクが増加する可能性がある。メタ社の既存の保護機能だけでは不正行為を完全に防ぐことができるかについて疑問の声が上がっている。",
@@ -255,7 +265,7 @@
       "lang": "en"
     },
     {
-      "id": "86081006",
+      "id": "23122897",
       "category": "テクノロジー・AI",
       "title": "Apple’s Hide My Email feature has a bug that’s been exposing real email addresses, researcher claims",
       "summary": "Appleの「メールを非表示」機能にバグが存在し、ユーザーの実際のメールアドレスが露出している可能性があると研究者が指摘している。このバグにより、プライバシー保護機能が機能しなくなる恐れがあるという。Appleはこの問題への対応が急務となっている。",
@@ -265,7 +275,7 @@
       "lang": "en"
     },
     {
-      "id": "84390038",
+      "id": "31350112",
       "category": "テクノロジー・AI",
       "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
       "summary": "SpaceXが投資家向けに「ハンドセット型」のAIデバイス・プロトタイプを披露したと報じられており、同社が無線通信事業への拡大を検討していることを示唆している。このデバイスはスマートフォンのような形状で、SpaceXの衛星インターネット事業Starlinkとの連携を含む新たなビジネス展開の可能性を示しているとみられている。",
@@ -275,93 +285,73 @@
       "lang": "en"
     },
     {
-      "id": "77818907",
-      "category": "テクノロジー・AI",
-      "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
-      "summary": "アシュトン・カッチャーはベンチャーキャピタル企業のSound Venturesを離れ、モーガン・ベラーと共に新しいVC企業を立ち上げる。Sound VenturesはカテゴリーリーディングなAIラボへの集中的かつ確信度の高い投資で評判を築いてきたが、カッチャーの新ファンドはそうした企業を支える下層のインフラと電力といった部分にフォーカスする戦略を取るようだ。",
-      "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-01T18:47:22+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "12686414",
+      "id": "45885390",
       "category": "台湾・中台関係",
-      "title": "Taiwan ships should ignore boarding requests by China coast guard, Taipei says",
-      "summary": "台湾の東海岸沖を航行する台湾船舶は、中国の海警による乗船検査要求を無視すべきであり、必要に応じて台湾沿岸警備隊が介入して阻止すると台湾の高官が水曜日に表明した。中国は台湾を自国領土と主張しており、海警による台湾周辺海域での活動が増加している中での発表となった。",
-      "url": "https://biztoc.com/x/1177c8715344b86d",
-      "source": "Biztoc.com",
-      "published_at": "2026-07-01T06:18:48+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "11069743",
-      "category": "台湾・中台関係",
-      "title": "Takaichi Heads to India to Bolster Ties as China Tensions Deepen",
-      "summary": "日本の高市早苗首相はインドとの経済関係を強化し、中国への依存を減らそうとする両国が安全保障協力の一致を図るため、水曜日から3日間のインド訪問に向かう。インド首相ナレンドラ・モディとの会談で、両国はアジアの大国として中国との緊張が深まる中、関係強化を目指している。",
-      "url": "https://financialpost.com/pmn/business-pmn/takaichi-heads-to-india-to-bolster-ties-as-china-tensions-deepen",
-      "source": "Financial Post",
-      "published_at": "2026-07-01T06:05:01+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "48211794",
-      "category": "台湾・中台関係",
-      "title": "Xi Jinping reaffirms Taiwan reunification as historical task for China",
-      "summary": "習近平は台湾統一を中国の歴史的使命として改めて確認しており、この姿勢は地政学的緊張を高め、グローバルな外交力学と中国の安定性に対する市場認識に影響を与える可能性がある。習近平の台湾に関する立場表明により、国際的な政治経済情勢が一層複雑化するおそれがある。",
-      "url": "https://cryptobriefing.com/xi-jinping-reaffirms-taiwan-reunification-as-historical-task-for-china/",
+      "title": "US deploys Iron Dome on Guam amid China missile threat drills",
+      "summary": "米国はグアムに対中ミサイル脅威への対抗を目的としてアイアンドーム防空システムを配備した。この配備は米中間の緊張激化を反映しており、軍事紛争のリスク増加と地域の安定性への影響が懸念されている。",
+      "url": "https://cryptobriefing.com/us-deploys-iron-dome-on-guam-amid-china-missile-threat-drills/",
       "source": "Crypto Briefing",
-      "published_at": "2026-07-01T05:55:40+00:00",
+      "published_at": "2026-07-01T11:15:50+00:00",
       "lang": "en"
     },
     {
-      "id": "64341355",
+      "id": "73353295",
       "category": "台湾・中台関係",
-      "title": "Xi Jinping pushes for stronger military, global influence amid US tensions",
-      "summary": "習近平国家主席が米国との緊張が高まる中で、軍事力の強化と世界的な影響力の拡大を推し進めており、これは国際的なパワーバランスを大きく変える可能性があります。習近平の軍事的野心とグローバルな影響力の拡大は地政学的な緊張と経済的不確実性を高めるとみられています。",
-      "url": "https://cryptobriefing.com/xi-jinping-pushes-for-stronger-military-global-influence-amid-us-tensions/",
-      "source": "Crypto Briefing",
-      "published_at": "2026-07-01T05:33:34+00:00",
+      "title": "Factory activity strong in June despite war-driven costs",
+      "summary": "ユーロ圏の製造業活動は6月に2022年初頭以来の最好の四半期を終え、アジアの生産者はAIブームに支えられた強い成長を見せた。米国とイスラエルによるイラン紛争の影響による懸念がある中で、ビジネス調査は製造業の回復力を示す結果となった。",
+      "url": "https://www.rte.ie/news/business/2026/0701/1581247-euro-zone-and-asian-pmis/",
+      "source": "RTE",
+      "published_at": "2026-07-01T10:59:30+00:00",
       "lang": "en"
     },
     {
-      "id": "52883293",
+      "id": "84169245",
       "category": "台湾・中台関係",
-      "title": "US deports first migrant to Pacific nation Palau",
-      "summary": "米国はトランプ大統領の方針に基づき、太平洋の島国パラオへの移民の強制送還を開始した。パラオはこれまで難民や不法移民の受け入れを行っておらず、この協定は米国の移民政策の厳格化の一環である。この取り組みについては国際社会からも注視されている。",
-      "url": "https://www.channelnewsasia.com/world/us-deports-immigrants-palau-donald-trump-6223896",
+      "title": "India Should Stop Panicking About Trump",
+      "summary": "インドの政治家たちは米国とのトランプ大統領の関係について感情的に反応する傾向があるが、米印関係の戦略的な基盤はより安定しており、両国の地政学的な利益が一致しているため過度に懸念する必要はない。インドが対中国戦略やインド太平洋地域での影響力強化という長期的な目標を考えると、米国との同盟関係は揺るぎないものとなっている。感情的な反応よりも、インドは米国との関係の戦略的な価値に焦点を当て、冷静に対応することが重要である。",
+      "url": "http://foreignpolicy.com/2026/07/01/india-trump-modi-united-states-china-geopolitics-brics-quad/",
+      "source": "Foreign Policy",
+      "published_at": "2026-07-01T09:26:05+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "16335279",
+      "category": "台湾・中台関係",
+      "title": "VPN for TikTok: How to Choose & Use One Safely in 2026",
+      "summary": "TikTokにアクセスするためにVPNを使用する方法と選び方に関するガイドです。TikTokは10億以上のアクティブユーザーを持つ最も人気のあるソーシャルメディアプラットフォームの一つであり、VPNを使うことでどこからでもサイトにアクセスすることができます。このガイドでは、TikTokに最適なVPNを紹介し、安全に利用するための情報を提供しています。",
+      "url": "https://www.addictivetips.com/vpn/access-tiktok-anywhere-vpn/",
+      "source": "Addictivetips.com",
+      "published_at": "2026-07-01T08:53:05+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "35752886",
+      "category": "台湾・中台関係",
+      "title": "Malaysia Airlines Enrich Status Match For Air India & Garuda Indonesia Frequent Fliers",
+      "summary": "マレーシア航空がエンリッチステータスマッチプログラムを開始し、エア・インディアとガルーダ・インドネシアのマイレージ会員がマレーシア航空のステータスに有料で切り替えることができるようになった。このプログラムは特定国の非マレーシア国籍者がエア・インディアまたはガルーダ・インドネシアでステータスを保有している場合に利用可能である。",
+      "url": "https://loyaltylobby.com/2026/07/01/malaysia-airlines-enrich-status-match-for-air-india-garuda-indonesia-frequent-fliers/",
+      "source": "Loyaltylobby.com",
+      "published_at": "2026-07-01T07:58:59+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "40833568",
+      "category": "台湾・中台関係",
+      "title": "AI hardware demand keeps Asia’s factories humming as the Iran war bites",
+      "summary": "アジアの工場は6月も成長を続けており、その主な要因は世界的なAIハードウェア需要の急速な拡大である。チップ、サーバー、データセンター機器への強い需要が注文帳を満杯に保ち、イラン戦争などの地政学的リスクにもかかわらず生産活動が活発に続いている。",
+      "url": "https://thenextweb.com/news/asian-factories-ai-boom-june-pmi/",
+      "source": "The Next Web",
+      "published_at": "2026-07-01T07:44:30+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "77523805",
+      "category": "台湾・中台関係",
+      "title": "Xi casts Communist Party as key to steering China through ‘high winds, rough seas’",
+      "summary": "中国の習近平国家主席は7月1日の共産党創立105周年を記念する演説で、共産党が中国を困難な時代へ導く鍵であると強調し、台湾との統一という北京の長年の目標を改めて表明した。",
+      "url": "https://www.channelnewsasia.com/east-asia/china-xi-jinping-speech-communist-party-105th-anniversary-6221996",
       "source": "CNA",
-      "published_at": "2026-07-01T04:50:53+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "25503935",
-      "category": "台湾・中台関係",
-      "title": "Between 1978 and 2019, approximately 800 million Chinese people were lifted out of extreme poverty — accounting for roughly three-quarters of the entire world’s poverty reduction during those four decades, and the fastest and largest reduction in extreme poverty ever recorded in human history according to the World Bank",
-      "summary": "1978年から2019年にかけて、約8億人の中国人が極度の貧困から脱却し、この40年間における世界全体の貧困削減の約4分の3を占めており、世界銀行によると人類史上最速かつ最大規模の極度貧困削減が実現した。この劇的な貧困削減は一国で、ほぼ一人の政治指導者の在任期間を通じて達成されたもので、鄧小平の改革開放政策によってもたらされた歴史的な成果である。",
-      "url": "https://spacedaily.com/d-between-1978-and-2019-approximately-800-million-chinese-people-were-lifted-out-of-extreme-poverty-accounting-for-roughly-three-quarters-of-the-entire-worlds-poverty-reduction-during-those/",
-      "source": "Space Daily",
-      "published_at": "2026-07-01T04:45:29+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "41706494",
-      "category": "台湾・中台関係",
-      "title": "Global Human Fibrinogen Concentrate Market Size/Share Worth USD 2.78 Billion by 2035 at a 11.3% CAGR: Healthcare Foresights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
-      "summary": "グローバルなヒト線維素濃縮液市場は2025年に約9億5,000万ドルの規模を持ち、2035年までに27億8,000万ドルに成長すると予想されており、年平均成長率は11.3%となる見込みである。この成長はヘルスケア業界における需要の増加と医療技術の進展によるものとされている。",
-      "url": "https://www.globenewswire.com/news-release/2026/07/01/3320309/0/en/Global-Human-Fibrinogen-Concentrate-Market-Size-Share-Worth-USD-2-78-Billion-by-2035-at-a-11-3-CAGR-Healthcare-Foresights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segmentati.html",
-      "source": "GlobeNewswire",
-      "published_at": "2026-07-01T04:30:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "56591532",
-      "category": "台湾・中台関係",
-      "title": "Global AI wave revs up Asian factories, offsetting war-induced pain",
-      "summary": "アジアの製造業は6月にAI関連技術製品への強い需要に牽引され、大幅な成長を遂行した。この好調がイラン紛争による価格上昇圧力がある中でも、輸出依存型経済に必要な緩和をもたらした。AI技術への世界的な需要の波がアジアの工場操業を加速させ、地政学的リスクによる悪影響を相殺している。",
-      "url": "https://economictimes.indiatimes.com/news/international/business/global-ai-wave-revs-up-asian-factories-offsetting-war-induced-pain/articleshow/132105519.cms",
-      "source": "The Times of India",
-      "published_at": "2026-07-01T04:07:07+00:00",
+      "published_at": "2026-07-01T07:40:21+00:00",
       "lang": "en"
     }
   ]
