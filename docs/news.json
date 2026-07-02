@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T11:27:18.303502+00:00",
+  "updated_at": "2026-07-02T15:15:44.940691+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -45,97 +45,117 @@
   "digest": [],
   "news": [
     {
-      "id": "51163142",
+      "id": "69907136",
+      "category": "経済・ビジネス（日本）",
+      "title": "ウクライナ侵攻でロシア軍死傷者140万人 米シンクタンク分析",
+      "summary": "米シンクタンクの分析によると、ウクライナ侵攻におけるロシア軍の死傷者は140万人に達しており、ウクライナ側の死傷者1人に対するロシア側の死傷者の比率が今年に入り大幅に増加している。この背景には、ウクライナ軍がAI搭載無人機などを活用した攻撃を強化していることがあると指摘されている。",
+      "url": "http://www3.nhk.or.jp/news/html/20260703/k10015167551000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-02T15:00:11+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "37806745",
+      "category": "経済・ビジネス（日本）",
+      "title": "北京 高層ビルに小型機衝突 地元当局「個人的理由による事件」",
+      "summary": "北京の高層ビルに衝突した小型機について、地元当局は操縦していた66歳の北京在住男性による「個人的理由による事件」と認定し、操縦士1人が死亡したことを確認しました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260702/k10015167561000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-02T13:40:05+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "59801625",
+      "category": "経済・ビジネス（日本）",
+      "title": "中東情勢受け 「ナフサ」由来の石油製品など備蓄検討 業界団体",
+      "summary": "中東情勢の悪化によるナフサ調達への影響を受け、石油化学工業協会はナフサ由来の石油製品の備蓄を検討することを決めた。これはサプライチェーン混乱への対応策として位置づけられている。",
+      "url": "http://www3.nhk.or.jp/news/html/20260702/k10015167531000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-02T13:30:58+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "27397213",
       "category": "経済・ビジネス（日本）",
       "title": "日印首脳会談 戦略的協力関係深めることで合意 2兆円投資も",
       "summary": "インドを訪問中の高市総理大臣は2日にモディ首相と首脳会談を実施し、経済安全保障とAI分野での協力進展を目指しています。共同声明とともに経済安全保障およびAI分野での成果文書をまとめる方向で調整が進められています。",
       "url": "http://www3.nhk.or.jp/news/html/20260702/k10015166401000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-07-02T11:12:55+00:00",
+      "published_at": "2026-07-02T13:23:02+00:00",
       "lang": "ja"
     },
     {
-      "id": "71922328",
+      "id": "80059130",
       "category": "経済・ビジネス（日本）",
-      "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月2日の動き）",
-      "summary": "ロシアによるウクライナ軍事侵攻が継続しており、ウクライナ各地でロシア軍とウクライナ軍の戦闘が続いています。多くの市民が国外への避難を余儀なくされており、7月2日の戦闘状況と関係国の外交動向が随時更新される予定です。",
-      "url": "http://www3.nhk.or.jp/news/html/20260702/k10015140521000.html",
+      "title": "アメリカ 6月の就業者数 前月比増加続くも市場予想を下回る",
+      "summary": "アメリカの6月雇用統計が発表され、非農業部門の就業者数は前月比で5万7000人増加したものの、市場予想の11万3000人程度を下回りました。失業率は4.2％に改善した一方で、雇用の弱さが懸念され、今後の動向が注視されています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260702/k10015167521000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-07-02T10:05:57+00:00",
+      "published_at": "2026-07-02T13:18:00+00:00",
       "lang": "ja"
     },
     {
-      "id": "78253119",
+      "id": "80815218",
       "category": "経済・ビジネス（日本）",
-      "title": "円相場 日中は1ドル＝162円台前半 夕方以降は荒い値動き",
-      "summary": "2日の東京外国為替市場では、日中は1ドル=162円台で推移していたものの、夕方以降は短時間で1円以上の円高が進むなど値動きが不安定になりました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260702/k10015167341000.html",
+      "title": "日本とインドが蓄電池供給網の強化で協力 覚書に署名",
+      "summary": "日本とインドの両政府が蓄電池のサプライチェーン強化に向けた協力覚書に署名しました。電気自動車の需要が拡大するインド市場への日本企業の進出を支援することが目的です。",
+      "url": "http://www3.nhk.or.jp/news/html/20260702/k10015167491000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-07-02T09:57:26+00:00",
+      "published_at": "2026-07-02T13:03:41+00:00",
       "lang": "ja"
     },
     {
-      "id": "75724045",
+      "id": "44304504",
       "category": "経済・ビジネス（日本）",
-      "title": "アジア開発銀行 次の総裁選挙 神田眞人現総裁の信任投票へ",
-      "summary": "アジア開発銀行の次期総裁選挙で、神田眞人現総裁が唯一の候補者として指名されました。加盟国による信任投票が実施され、本年9月に結果が公表される予定です。",
-      "url": "http://www3.nhk.or.jp/news/html/20260702/k10015167301000.html",
+      "title": "ヨーロッパ司法裁判所 グーグルへの巨額制裁金を支持する判決",
+      "summary": "ヨーロッパ司法裁判所は、Androidスマートフォンの基本ソフトとアプリをセットで提供したグーグルに対するヨーロッパ委員会の競争法違反判定を支持し、40億ユーロ余りの制裁金を科する決定を認めました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260702/k10015167471000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-07-02T09:33:31+00:00",
+      "published_at": "2026-07-02T12:33:38+00:00",
       "lang": "ja"
     },
     {
-      "id": "31587585",
+      "id": "66511282",
       "category": "経済・ビジネス（日本）",
-      "title": "ベネズエラ地震1週間 日本NGO“あらゆる物資が足りていない”",
-      "summary": "ベネズエラで発生したマグニチュード7を超える地震から1週間が経過し、現地入りした日本のNGO職員は被害が報道以上に深刻であり、水や食料などあらゆる物資が不足していると述べ、さらなる支援の必要性を訴えている。",
-      "url": "http://www3.nhk.or.jp/news/html/20260702/k10015167231000.html",
+      "title": "日中関係悪化の中 北京で日本食の魅力を発信する催し",
+      "summary": "日中関係が悪化している状況下で、北京の日本大使館が日本食の魅力をアピールするイベントを開催し、中国の食品関係業者らが参加した。",
+      "url": "http://www3.nhk.or.jp/news/html/20260702/k10015167431000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-07-02T08:21:07+00:00",
+      "published_at": "2026-07-02T11:44:54+00:00",
       "lang": "ja"
     },
     {
-      "id": "19636101",
-      "category": "経済・ビジネス（日本）",
-      "title": "ロシア軍大規模攻撃でウクライナ各地被害 キーウで13人死亡",
-      "summary": "ロシア軍は2日にかけてミサイルと無人機を使ってウクライナ各地に大規模攻撃を実施し、首都キーウで少なくとも13人が死亡、86人が負傷するなど広範な被害が生じた。",
-      "url": "http://www3.nhk.or.jp/news/html/20260702/k10015167211000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-02T08:19:25+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "55545769",
-      "category": "経済・ビジネス（日本）",
-      "title": "米イラン協議 仲介国「前向きな進展」協議の行方は不透明",
-      "summary": "アメリカとイランの担当者がそれぞれカタールを通じて協議を行い、バンス副大統領は協議が順調に進んでいると述べた。しかしイラン側は米国との直接協議は行われなかったと主張しており、今後両国の立場の隔たりが埋められるかが課題となっている。",
-      "url": "http://www3.nhk.or.jp/news/html/20260702/k10015166461000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-02T04:04:05+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "80005255",
-      "category": "経済・ビジネス（日本）",
-      "title": "米歌手 ビクター・ウィリスさん死去 「Y.M.C.A.」などヒット曲",
-      "summary": "アメリカの音楽グループ「ビレッジ・ピープル」のボーカル、ビクター・ウィリスさんが74歳で亡くなりました。彼は「Y.M.C.A.」などの世界的なヒット曲で知られていました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260702/k10015166801000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-02T01:14:43+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "19635503",
+      "id": "83216098",
       "category": "経済・ビジネス（世界）",
-      "title": "Why the expected fight over the North American trade deal never kicked off",
-      "summary": "米国は北米貿易協定の16年間の延長を行わないことを確認しましたが、より劇的な行動は回避しました。予想されていた協定をめぐる激しい議論は結局のところ勃発しませんでした。これは米国が協定の終了を選択しつつも、抜本的な変更や廃止といった最も過激な措置には至らなかったためです。",
-      "url": "https://www.bbc.co.uk/news/articles/c70yd58y27yo?at_medium=RSS&at_campaign=rss",
+      "title": "Government may now allow pubs to extend hours for 1am England clash",
+      "summary": "イングランドが午前1時に試合を迎えるワールドカップの試合に向けて、政府がパブの営業時間延長を認める可能性が出てきた。政府は当初、ワールドカップのためにライセンス法をさらに緩和しないと述べていたが、方針を変える可能性が示唆されている。この決定は、深夜の試合を観戦したいパブの顧客と事業者の要望に応えるものとなる可能性がある。",
+      "url": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published_at": "2026-07-02T10:24:08+00:00",
+      "published_at": "2026-07-02T14:44:02+00:00",
       "lang": "en"
     },
     {
-      "id": "80035425",
+      "id": "49953830",
+      "category": "経済・ビジネス（世界）",
+      "title": "World Cup boom falters as US hospitality jobs fall in June",
+      "summary": "ワールドカップの開催に伴う雇用増加の期待が後退し、6月の米国ホスピタリティ産業の雇用が減少した。当初はトーナメント開催による雇用拡大の兆候が見られていたものの、実際には逆の結果となったことが示唆されている。",
+      "url": "https://www.bbc.co.uk/news/articles/cr471w6ykxno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-02T13:36:04+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "23814746",
+      "category": "経済・ビジネス（世界）",
+      "title": "Car finance compensation payments delayed until next year",
+      "summary": "自動車ローンの手数料配分に関する問題で、数百万人が補償を受ける可能性があるが、その支払いは来年まで遅延することが明らかになった。貸付業者とディーラー間の委託手数料の仕組みが消費者に不利だったとして、補償対象者の特定と支払い手続きに時間を要している。規制当局は問題の解決に向けて対応を進めているが、補償金受領まで数ヶ月の待機が必要となる見通しである。",
+      "url": "https://www.bbc.co.uk/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-02T12:26:03+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "52584459",
       "category": "経済・ビジネス（世界）",
       "title": "EU border delays 'not bearable' over summer, warns airport boss",
       "summary": "ベルリン空港の責任者は、EUの新しい出入国システムにより、夏休みの時期に空港での長い待ち時間が発生することは「耐えられない」と警告している。新システムの導入により、旅行者は従来以上の遅延に直面することが予想されており、特に観光シーズンの混雑時には深刻な問題となる可能性があると指摘されている。",
@@ -145,7 +165,7 @@
       "lang": "en"
     },
     {
-      "id": "86904336",
+      "id": "19548760",
       "category": "経済・ビジネス（世界）",
       "title": "Google must pay €4.1bn fine for using Android to 'block' rivals",
       "summary": "欧州連合の裁判所がGoogleに対し、Androidを使用して競合他社を排除したとして約41億ユーロの罰金支払いを命じた。Googleは自社の声明で、この判決はAndroidをオープンに保つための同社の多大な投資を認識していないと反論している。同社はAndroidプラットフォームの開発に継続的に投資してきたと主張しており、今後の対応が注視されている。",
@@ -155,9 +175,9 @@
       "lang": "en"
     },
     {
-      "id": "13751594",
+      "id": "19423336",
       "category": "経済・ビジネス（世界）",
-      "title": "World Cup dreams shattered as StubHub tickets cancelled at last minute",
+      "title": "'I spent $6,000 on a World Cup trip but was left stranded at the gate'",
       "summary": "ワールドカップのチケット転売サイトStubHubで購入した何百人ものファンが、試合直前にチケットをキャンセルされたと報告している。スタジアムの外に取り残されたファンたちは、多額の投資を失い、試合を観戦することができなくなった。この問題は、公式でない転売プラットフォームを通じたチケット購入の危険性を浮き彫りにしている。",
       "url": "https://www.bbc.co.uk/news/articles/crkvlekgy07o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -165,17 +185,7 @@
       "lang": "en"
     },
     {
-      "id": "89669268",
-      "category": "経済・ビジネス（世界）",
-      "title": "Don't expect connected car apps to save your stolen car, experts say",
-      "summary": "盗まれた車を追跡装置で救出することは期待できないと専門家が指摘している。起亜はBCCに対し、英国の法律により車両のリアルタイム追跡機能の使用が禁止されていると述べた。盗難車の回収において、現行法の制限が追跡技術の有効性を大きく損なわせているという。",
-      "url": "https://www.bbc.co.uk/news/articles/cp8r1798kp7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-01T23:31:43+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "63284999",
+      "id": "56723453",
       "category": "経済・ビジネス（世界）",
       "title": "Diesel sees biggest monthly fall in 26 years. What's happening to fuel prices?",
       "summary": "イランとの紛争により燃料価格は一時的に上昇したが、平和への期待が高まるにつれて急速に低下している。ディーゼル燃料は26年間で最大の月間下落を記録し、地政学的な緊張の緩和が燃料市場に大きな影響を与えていることを示している。",
@@ -185,7 +195,7 @@
       "lang": "en"
     },
     {
-      "id": "87516290",
+      "id": "66919900",
       "category": "経済・ビジネス（世界）",
       "title": "Bibles, Home Alone and perfume: Six takeaways from Trump's 2025 finances",
       "summary": "トランプ大統領は2025年にホワイトハウスに復帰する中で、聖書販売や映画化権、香水事業など多角的な事業から数十億ドルの収入を得たことが公式文書で明らかになった。これらの商品やメディア関連の収益が、大統領の財務に大きく貢献していることが示されている。",
@@ -195,17 +205,77 @@
       "lang": "en"
     },
     {
-      "id": "98763507",
-      "category": "経済・ビジネス（世界）",
-      "title": "Why is crucial tech vulnerable to the heat?",
-      "summary": "エネルギーグリッドや列車サービスなどの重要なインフラは、極端な高温気象に対して脆弱性を持っている。これらのシステムは、冷却システムの過負荷や機械部品の性能低下により、猛暑時に機能不全に陥るリスクがある。気候変動に伴う極端気象の増加に対応するため、こうした重要インフラの耐熱性向上が急務となっている。",
-      "url": "https://www.bbc.co.uk/news/articles/cj0gez6d50ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-01T07:23:12+00:00",
+      "id": "27623306",
+      "category": "テクノロジー・AI",
+      "title": "Popular TV-tracking app TV Time is shutting down as company focuses on AI",
+      "summary": "テレビ番組追跡アプリの人気サービス「TV Time」が、親会社Whip Mediaがエンタープライズ向けAI製品にシフトすることに伴い、7月15日にサービスを終了する。Whip Mediaは個人向けアプリから企業向けのAIソリューションに経営方針を転換し、TV Timeユーザーは今後このサービスを利用できなくなる。",
+      "url": "https://techcrunch.com/2026/07/02/popular-tv-tracking-app-tv-time-is-shutting-down-as-company-focuses-on-ai/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-02T15:14:03+00:00",
       "lang": "en"
     },
     {
-      "id": "11911222",
+      "id": "11201139",
+      "category": "テクノロジー・AI",
+      "title": "Lucid Motors’ CFO is out as its new CEO continues leadership shakeup",
+      "summary": "ルーシッド・モーターズの最高財務責任者が退任し、新CEO は経営幹部の大幅な入れ替えを続けている。同社は期待ほど販売が伸びていないグラビティSUVの巻き返しを目指して、新たな経営幹部陣の採用を発表した。",
+      "url": "https://techcrunch.com/2026/07/02/lucid-motors-cfo-is-out-as-its-new-ceo-continues-leadership-shakeup/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-02T14:53:39+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "84700707",
+      "category": "テクノロジー・AI",
+      "title": "US government says it got hacked — again",
+      "summary": "米政府は再びハッキング被害に遭ったと発表し、民主党上院議員は国土安全保障省の情報共有ネットワークにアクセスされた情報が国家安全保障に危険をもたらす可能性があると警告しました。",
+      "url": "https://techcrunch.com/2026/07/02/us-government-says-it-got-hacked-again/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-02T14:22:36+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "75208562",
+      "category": "テクノロジー・AI",
+      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+      "summary": "マイクロソフトが25億ドルの投資で独自のAI展開企業を立ち上げ、アマゾン、OpenAI、Anthropicに続いてAI導入事業に参入した。この新しいAI展開グループにより、マイクロソフトは企業向けのAI導入支援サービスを強化し、AI技術の実装と運用を専門とする新たなビジネス分野を確立する。",
+      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-02T13:53:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "51241479",
+      "category": "テクノロジー・AI",
+      "title": "Tesla saw a massive sales jump in the second quarter",
+      "summary": "テスラは第2四半期に世界中で48万台以上の電気自動車を納車し、地理的な販売拡大とModel 3、Model Y、Cybertuckの廉価版導入により大幅な販売増を実現した。この成長は新興市場への進出と価格競争力の強化によってもたらされた結果と見られている。",
+      "url": "https://techcrunch.com/2026/07/02/tesla-saw-a-massive-sales-jump-in-the-second-quarter/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-02T13:20:15+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "54381237",
+      "category": "テクノロジー・AI",
+      "title": "Rivian raises EV sales forecast as Q2 production ramps up",
+      "summary": "リヴィアンが先月R2 SUVを発売したことを受けて、2026年末までの出荷台数予想を従来予想より数千台引き上げた。同社の第2四半期の生産が順調に立ち上がったことで、電動車両の販売見通しが改善された。R2の好調な市場反応が、通年の売上予想の上振れにつながっている。",
+      "url": "https://techcrunch.com/2026/07/02/rivian-thinks-it-will-sell-more-evs-than-expected-this-year/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-02T12:30:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "69921238",
+      "category": "テクノロジー・AI",
+      "title": "Yep, we’re using OpenClaw to date now",
+      "summary": "ベン・ゲズはOpenClawとClaudeコード、Instagramの試験機能を使用した自動スクリプトを設定し、自分のダイレクトメッセージに多くの国際的な潜在的なパートナー候補を集めている。このツールにより、彼は自動化されたアプローチを通じてオンラインデーティングを行っている。つまり、人工知能とオートメーション技術を活用した新しいデーティング手法が登場しており、従来の恋愛サイトとは異なる自動マッチング方式で異なる国の相手とつながることが可能になっている。",
+      "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-02T12:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "79941345",
       "category": "テクノロジー・AI",
       "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
       "summary": "OpenAIはトランプ政権との緊張緩和と人工知能に対する公的反発を弱めるため、米政府にAIブームの5パーセント相当の所有権を与えることを検討しており、CEOのサム・アルトマンはこの措置により国民が企業の利益を共有できると主張している。",
@@ -215,143 +285,83 @@
       "lang": "en"
     },
     {
-      "id": "33247129",
-      "category": "テクノロジー・AI",
-      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
-      "summary": "インドの技術大手経営者バヴィン・トゥラキア氏が、マイクロソフトオフィスに対抗するAI搭載の代替製品を開発するために、自身の資金3,000万ドルを投じている。トゥラキア氏の5番目のベンチャー企業である「Neo」は、エンタープライズソフトウェア分野での最新の取り組みであり、MicrosoftのOfficeやGoogle Appsに対抗するAI機能を備えたプロダクトとなる見込みである。",
-      "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-02T05:30:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "29810173",
-      "category": "テクノロジー・AI",
-      "title": "Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year",
-      "summary": "Appleは2025年初頭に新型iPad Proと廉価版MacBook Proの発売を計画していると報じられている。複数の新型iPad Proモデルと手頃な価格のMacBook Proが準備中であることが示唆されており、同社の製品ラインアップの拡充が期待されている。",
-      "url": "https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-01T23:57:55+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "23275523",
-      "category": "テクノロジー・AI",
-      "title": "Bending Spoons defies SaaS slump, surges 40% on first day of trading",
-      "summary": "イタリアの大手ソフトウェア企業ベンディング・スプーンズは上場初日に株価が40%急騰し、SaaS業界全体の低迷の中でも強い成長を見せている。同社はAOL、Eventbrite、Evernote、Meetup、Vimeoなど時代遅れになったテクノロジー企業を買収し、事業を再構築することで急速な成長を遂げており、市場の期待の高さが株価上昇に反映されている。",
-      "url": "https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-01T22:47:04+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "73400330",
-      "category": "テクノロジー・AI",
-      "title": "After $18B IPO, Bending Spoons founder says success comes from minimizing luck",
-      "summary": "イタリアの大手アプリ企業ベンディング・スプーンズの創業者は、180億ドルのIPO後、成功は運を最小化することから生まれると述べた。同社はかつての失敗の経験から、愛されながらも経営難に陥っていたインターネットブランドを静かに買収し再生させることで、事業を拡大してきた。創業者たちはこうした戦略的買収を通じて、事業の成功を運ではなく緻密な計画と実行に基づくものにしてきたという。",
-      "url": "https://techcrunch.com/2026/07/01/after-18b-ipo-bending-spoons-founder-says-success-comes-from-minimizing-luck/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-01T22:28:35+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "11453198",
-      "category": "テクノロジー・AI",
-      "title": "WhatsApp usernames are already raising impersonation red flags",
-      "summary": "WhatsAppが新機能として導入したユーザー名について、メタ社はプライバシー向上を謳っているが、批評家らはなりすまし防止の安全対策が十分かどうか懸念している。ユーザー名機能により電話番号の非公開が可能になる一方で、詐欺師がなりすましアカウントを作成するリスクが増加する可能性がある。メタ社の既存の保護機能だけでは不正行為を完全に防ぐことができるかについて疑問の声が上がっている。",
-      "url": "https://techcrunch.com/2026/07/01/whatsapp-usernames-are-already-raising-impersonation-red-flags/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-01T22:02:24+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "23122897",
-      "category": "テクノロジー・AI",
-      "title": "Apple’s Hide My Email feature has a bug that’s been exposing real email addresses, researcher claims",
-      "summary": "Appleの「メールを非表示」機能にバグが存在し、ユーザーの実際のメールアドレスが露出している可能性があると研究者が指摘している。このバグにより、プライバシー保護機能が機能しなくなる恐れがあるという。Appleはこの問題への対応が急務となっている。",
-      "url": "https://techcrunch.com/2026/07/01/apples-hide-my-email-feature-has-a-bug-thats-been-exposing-real-email-addresses-researcher-claims/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-01T19:18:07+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "31350112",
-      "category": "テクノロジー・AI",
-      "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
-      "summary": "SpaceXが投資家向けに「ハンドセット型」のAIデバイス・プロトタイプを披露したと報じられており、同社が無線通信事業への拡大を検討していることを示唆している。このデバイスはスマートフォンのような形状で、SpaceXの衛星インターネット事業Starlinkとの連携を含む新たなビジネス展開の可能性を示しているとみられている。",
-      "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-01T18:54:18+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "45885390",
+      "id": "50991347",
       "category": "台湾・中台関係",
-      "title": "US deploys Iron Dome on Guam amid China missile threat drills",
-      "summary": "米国はグアムに対中ミサイル脅威への対抗を目的としてアイアンドーム防空システムを配備した。この配備は米中間の緊張激化を反映しており、軍事紛争のリスク増加と地域の安定性への影響が懸念されている。",
-      "url": "https://cryptobriefing.com/us-deploys-iron-dome-on-guam-amid-china-missile-threat-drills/",
+      "title": "AI in Sustainable Fisheries and Aquaculture Market Report 2026",
+      "summary": "2026年のAIを活用した持続可能な漁業・養殖市場では、AIとロボット技術の統合による持続可能な水産物生産、スマート養殖場の拡大、魚の健康管理の強化、環境に配慮した運営の最適化など、複数の成長機会が存在する。これらの取り組みは、技術革新を通じて漁業・養殖業の生産性向上と環境負荷の軽減を実現する可能性を示唆している。",
+      "url": "https://www.globenewswire.com/news-release/2026/07/01/3320808/28124/en/AI-in-Sustainable-Fisheries-and-Aquaculture-Market-Report-2026.html",
+      "source": "GlobeNewswire",
+      "published_at": "2026-07-01T14:36:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "34071285",
+      "category": "台湾・中台関係",
+      "title": "Gaming Derivatives Global Market Report 2026",
+      "summary": "ゲーミング・デリバティブの世界市場は2026年に向けて、ブロックチェーンとNFT採用の拡大、プレイ・トゥ・アーン（ゲームで稼ぐ）モデルの成長、クロスプラットフォーム・エコシステムの展開、モバイル・クラウドゲーミングの浸透が主要な機会となっている。さらにAI駆動アナリティクスやVR・AR革新などの分野でも成長の可能性がある。",
+      "url": "https://www.globenewswire.com/news-release/2026/07/01/3320805/28124/en/Gaming-Derivatives-Global-Market-Report-2026.html",
+      "source": "GlobeNewswire",
+      "published_at": "2026-07-01T14:34:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "50631626",
+      "category": "台湾・中台関係",
+      "title": "Adhesion Barrier Market worth $1.11 billion by 2031 | MarketsandMarkets™",
+      "summary": "接着防止剤市場は2026年の約7億8000万ドルから2031年には11億1000万ドルに成長し、年平均成長率は7.3%と予測されている。このように医療関連製品の需要が着実に増加していることが示唆されている。",
+      "url": "https://www.prnewswire.com/news-releases/adhesion-barrier-market-worth-1-11-billion-by-2031--marketsandmarkets-302815653.html",
+      "source": "PRNewswire",
+      "published_at": "2026-07-01T14:30:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "33694815",
+      "category": "台湾・中台関係",
+      "title": "3 inbound flights to Mumbai diverted amid heavy rain",
+      "summary": "ムンバイへ向かう3便が水曜日の大雨と悪天候のため他の空港へ迂回した。インディゴ航空のベンガルール便を含む複数の便が悪天候の影響を受け、安全上の理由から目的地を変更することを余儀なくされた。",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/3-inbound-flights-to-mumbai-diverted-amid-heavy-rain/articleshow/132117420.cms",
+      "source": "The Times of India",
+      "published_at": "2026-07-01T14:28:01+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "77473986",
+      "category": "台湾・中台関係",
+      "title": "Jay Prakash gets interim bail in alleged flat encroachment case",
+      "summary": "カルカッタ高等裁判所は水曜日、不動産不法占拠事件の容疑でトリナムール・コングレス党の幹部ジェイ・プラカシュ・マジュムダルに対して仮保釈を認めた。同氏は不動産関連の違法行為の疑いで逮捕されていたが、裁判所の判断により一時的な釈放が認可されることとなった。",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/jay-prakash-gets-interim-bail-in-alleged-flat-encroachment-case/articleshow/132117403.cms",
+      "source": "The Times of India",
+      "published_at": "2026-07-01T14:26:23+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "91306330",
+      "category": "台湾・中台関係",
+      "title": "Residents clean HR&CE temple tank in Woraiyur",
+      "summary": "ティルチラパッリ市のウォライユール地区第23ワードの住民たちが、市議会議員とともに資金を募り、宗教財産局が管理する寺院の貯水池を清掃した。地域住民が自発的に協力して、長年放置されていた施設の改善に取り組んだ。",
+      "url": "https://timesofindia.indiatimes.com/city/trichy/residents-clean-hrce-temple-tank-in-woraiyur/articleshow/132117383.cms",
+      "source": "The Times of India",
+      "published_at": "2026-07-01T14:23:37+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "14571835",
+      "category": "台湾・中台関係",
+      "title": "May vehicle, tractor sales show upward curve in state",
+      "summary": "5月の車両およびトラクター販売が上昇傾向を示しており、消費者心理の改善、経済活動の強化、農村部への投資増加を示唆している。ジャムシェドプル地域での自動車販売の増加は、州全体で堅調な経済状況が進行していることを反映している。この動向は、地域経済の回復力と購買力の向上を意味するものとして注目されている。",
+      "url": "https://timesofindia.indiatimes.com/city/ranchi/may-vehicle-tractor-sales-show-upward-curve-in-state/articleshow/132117371.cms",
+      "source": "The Times of India",
+      "published_at": "2026-07-01T14:22:43+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "35812792",
+      "category": "台湾・中台関係",
+      "title": "China urges US to maintain constructive strategic stability relationship",
+      "summary": "中国は米国に対して建設的で戦略的に安定した関係を維持するよう促した。米中関係における安定性の強調は緊張を緩和する可能性があり、世界市場と外交関係に影響を与える可能性がある。",
+      "url": "https://cryptobriefing.com/china-urges-us-to-maintain-constructive-strategic-stability-relationship/",
       "source": "Crypto Briefing",
-      "published_at": "2026-07-01T11:15:50+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "73353295",
-      "category": "台湾・中台関係",
-      "title": "Factory activity strong in June despite war-driven costs",
-      "summary": "ユーロ圏の製造業活動は6月に2022年初頭以来の最好の四半期を終え、アジアの生産者はAIブームに支えられた強い成長を見せた。米国とイスラエルによるイラン紛争の影響による懸念がある中で、ビジネス調査は製造業の回復力を示す結果となった。",
-      "url": "https://www.rte.ie/news/business/2026/0701/1581247-euro-zone-and-asian-pmis/",
-      "source": "RTE",
-      "published_at": "2026-07-01T10:59:30+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "84169245",
-      "category": "台湾・中台関係",
-      "title": "India Should Stop Panicking About Trump",
-      "summary": "インドの政治家たちは米国とのトランプ大統領の関係について感情的に反応する傾向があるが、米印関係の戦略的な基盤はより安定しており、両国の地政学的な利益が一致しているため過度に懸念する必要はない。インドが対中国戦略やインド太平洋地域での影響力強化という長期的な目標を考えると、米国との同盟関係は揺るぎないものとなっている。感情的な反応よりも、インドは米国との関係の戦略的な価値に焦点を当て、冷静に対応することが重要である。",
-      "url": "http://foreignpolicy.com/2026/07/01/india-trump-modi-united-states-china-geopolitics-brics-quad/",
-      "source": "Foreign Policy",
-      "published_at": "2026-07-01T09:26:05+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "16335279",
-      "category": "台湾・中台関係",
-      "title": "VPN for TikTok: How to Choose & Use One Safely in 2026",
-      "summary": "TikTokにアクセスするためにVPNを使用する方法と選び方に関するガイドです。TikTokは10億以上のアクティブユーザーを持つ最も人気のあるソーシャルメディアプラットフォームの一つであり、VPNを使うことでどこからでもサイトにアクセスすることができます。このガイドでは、TikTokに最適なVPNを紹介し、安全に利用するための情報を提供しています。",
-      "url": "https://www.addictivetips.com/vpn/access-tiktok-anywhere-vpn/",
-      "source": "Addictivetips.com",
-      "published_at": "2026-07-01T08:53:05+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "35752886",
-      "category": "台湾・中台関係",
-      "title": "Malaysia Airlines Enrich Status Match For Air India & Garuda Indonesia Frequent Fliers",
-      "summary": "マレーシア航空がエンリッチステータスマッチプログラムを開始し、エア・インディアとガルーダ・インドネシアのマイレージ会員がマレーシア航空のステータスに有料で切り替えることができるようになった。このプログラムは特定国の非マレーシア国籍者がエア・インディアまたはガルーダ・インドネシアでステータスを保有している場合に利用可能である。",
-      "url": "https://loyaltylobby.com/2026/07/01/malaysia-airlines-enrich-status-match-for-air-india-garuda-indonesia-frequent-fliers/",
-      "source": "Loyaltylobby.com",
-      "published_at": "2026-07-01T07:58:59+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "40833568",
-      "category": "台湾・中台関係",
-      "title": "AI hardware demand keeps Asia’s factories humming as the Iran war bites",
-      "summary": "アジアの工場は6月も成長を続けており、その主な要因は世界的なAIハードウェア需要の急速な拡大である。チップ、サーバー、データセンター機器への強い需要が注文帳を満杯に保ち、イラン戦争などの地政学的リスクにもかかわらず生産活動が活発に続いている。",
-      "url": "https://thenextweb.com/news/asian-factories-ai-boom-june-pmi/",
-      "source": "The Next Web",
-      "published_at": "2026-07-01T07:44:30+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "77523805",
-      "category": "台湾・中台関係",
-      "title": "Xi casts Communist Party as key to steering China through ‘high winds, rough seas’",
-      "summary": "中国の習近平国家主席は7月1日の共産党創立105周年を記念する演説で、共産党が中国を困難な時代へ導く鍵であると強調し、台湾との統一という北京の長年の目標を改めて表明した。",
-      "url": "https://www.channelnewsasia.com/east-asia/china-xi-jinping-speech-communist-party-105th-anniversary-6221996",
-      "source": "CNA",
-      "published_at": "2026-07-01T07:40:21+00:00",
+      "published_at": "2026-07-01T14:21:50+00:00",
       "lang": "en"
     }
   ]
