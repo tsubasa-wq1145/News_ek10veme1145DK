@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T15:10:55.815133+00:00",
+  "updated_at": "2026-07-03T23:10:00.179442+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -45,7 +45,77 @@
   "digest": [],
   "news": [
     {
-      "id": "29315373",
+      "id": "10928270",
+      "category": "経済・ビジネス（日本）",
+      "title": "NYマムダニ市長 独立記念日前に 移民の役割など強調し政権批判",
+      "summary": "ニューヨークのマムダニ市長は、米国建国250年の独立記念日を前に演説を行い、米国の歴史における移民の重要な役割と多様性を強調しながら、トランプ政権の移民政策を批判しました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168611000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-03T22:17:30+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "93724314",
+      "category": "経済・ビジネス（日本）",
+      "title": "日英伊共同開発の次期戦闘機 合弁企業と契約延長 開発本格化へ",
+      "summary": "日本とイギリス、イタリアが共同開発する次期戦闘機について、3か国の国際機関が設計を担う合弁企業との契約を来年末まで延長しました。イギリスの財政事情による懸念もありましたが、この契約延長により2035年の配備を目指した開発が本格化する見込みです。",
+      "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168621000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-03T22:15:58+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "56985597",
+      "category": "経済・ビジネス（日本）",
+      "title": "アメリカ建国250年 トランプ大統領実績強調 政治利用批判も",
+      "summary": "アメリカが4日に建国250年の独立記念日を迎え、全米各地で記念行事が開催される中、トランプ大統領が自身の実績を強調して行事を政治利用しているという批判が相次いでいる。祝賀ムード一方で、アメリカ国内の分断が国内外に印象づけられる状況となっている。",
+      "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168551000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-03T22:13:19+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "22391182",
+      "category": "経済・ビジネス（日本）",
+      "title": "ロシア 爆発でウクライナ将校起訴も 支援続けるドイツを批判",
+      "summary": "ロシア大統領府の報道官がドイツを批判し、ドイツがウクライナ軍の元将校を起訴したにもかかわらずウクライナへの支援を続けていることに対して、ロシアとドイツを結ぶ海底天然ガスパイプライン爆発事件に関連して異議を唱えました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168461000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-03T21:03:30+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "55175560",
+      "category": "経済・ビジネス（日本）",
+      "title": "イラン ハメネイ師の葬儀準備進む 各国の要人も次々に到着",
+      "summary": "イランの前最高指導者ハメネイ師の葬儀を前に、テヘランには中東各国や中国を含むおよそ100か国から要人が次々と到着している。葬儀の準備が進行中で、国際的な関心が高まっている。",
+      "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168431000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-03T20:33:36+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "43652010",
+      "category": "経済・ビジネス（日本）",
+      "title": "猛暑のフランス エアコン設置めぐり政策論争にも発展",
+      "summary": "ヨーロッパが記録的な熱波に襲われる中、フランスではエアコンの普及率が24％に留まっており、設置の是非が政策論争へと発展している。",
+      "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168511000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-03T19:56:25+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "27944880",
+      "category": "経済・ビジネス（日本）",
+      "title": "南米ペルー大統領選 フジモリ元大統領長女ケイコ氏勝利宣言",
+      "summary": "南米ペルーの大統領選決選投票でフジモリ元大統領の長女ケイコ・フジモリ氏が当選し、選挙管理当局が正式に発表しました。ケイコ氏は勝利を宣言しています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168561000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-03T19:27:10+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "81553703",
       "category": "経済・ビジネス（日本）",
       "title": "ヨーロッパ飛来の無人機“ロシアの可能性高い”英シンクタンク",
       "summary": "イギリスのシンクタンクが公表した報告書によると、ロシアがおととし以降、無人機を使ってヨーロッパ各地を偵察していた可能性が極めて高いことが明らかになりました。",
@@ -55,77 +125,17 @@
       "lang": "ja"
     },
     {
-      "id": "34287576",
-      "category": "経済・ビジネス（日本）",
-      "title": "高市首相 インド訪問から帰国",
-      "summary": "高市総理大臣がインド訪問から帰国し、日本時間3日夜に羽田空港に到着しました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260703/k10015168521000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-03T14:07:41+00:00",
-      "lang": "ja"
+      "id": "42450999",
+      "category": "経済・ビジネス（世界）",
+      "title": "'Start work at 11' - but will other bosses be as flexible over England's 1am match?",
+      "summary": "イングランドの午前1時の試合に向けて、一部の企業が従業員に午前11時からの勤務開始を認める柔軟な対応を取っているが、他の雇用主も同様に対応するかは不確実な状況にある。雇用主らは従業員の勤務の融通性を認めるよう「常識」の発揮が呼びかけられており、この対応がどの程度広がるかが注目されている。",
+      "url": "https://www.bbc.co.uk/news/articles/c8x27k180x8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-03T16:13:14+00:00",
+      "lang": "en"
     },
     {
-      "id": "51140566",
-      "category": "経済・ビジネス（日本）",
-      "title": "関西財界代表団 10月に中国訪問で調整 日中関係悪化する中",
-      "summary": "日中関係が悪化する中、関西経済界の代表団がことし10月の中国訪問を調整中であることが明らかになった。中国政府幹部との会談を想定しているが、具体的な成果は不透明であり、調整状況を見ながら最終判断する予定である。",
-      "url": "http://www3.nhk.or.jp/news/html/20260703/k10015168381000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-03T12:39:59+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "54929687",
-      "category": "経済・ビジネス（日本）",
-      "title": "イラン前最高指導者ハメネイ師の葬儀準備進む 葬儀は4日から",
-      "summary": "イランの前最高指導者ハメネイ師の葬儀準備がテヘランで進められており、4日から9日にかけて執り行われる予定です。イラン側は葬儀期間中のいかなる攻撃も容認しないと、アメリカとイスラエルを牽制しています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260703/k10015168131000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-03T10:04:49+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "35117168",
-      "category": "経済・ビジネス（日本）",
-      "title": "ベネズエラ地震 発生8日目に“奇跡”の救助 死者は2500人超に",
-      "summary": "ベネズエラで先月発生したマグニチュード7を超える地震による死者が2500人を超える一方で、発生から8日目に地下に閉じ込められていた40代男性が救出される奇跡的な救助が行われました。現地では引き続き救助活動が進められています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260703/k10015167841000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-03T09:22:31+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "89288975",
-      "category": "経済・ビジネス（日本）",
-      "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月3日の動き）",
-      "summary": "ロシアのウクライナ軍事侵攻が続いており、ウクライナ各地でロシア軍とウクライナ軍の戦闘が進行中です。多数の市民が国外への避難を余儀なくされており、戦闘状況と国際外交の動向が刻々と変化しています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260703/k10015140531000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-03T09:18:18+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "27449982",
-      "category": "経済・ビジネス（日本）",
-      "title": "特殊詐欺対策 タイが新システムで日本などと連携強化",
-      "summary": "タイの警察が日本やアメリカなどと連携して特殊詐欺対策に当たる新システムの運用を開始し、詐欺グループの拠点特定と不正資金の追跡を強化する取り組みが始まった。東南アジアで日本人を含む詐欺グループの摘発が相次ぐ中での対策である。",
-      "url": "http://www3.nhk.or.jp/news/html/20260703/k10015168121000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-03T08:34:34+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "16323606",
-      "category": "経済・ビジネス（日本）",
-      "title": "ペルシャ湾内の日本関係船舶 新たに1隻がホルムズ海峡通過",
-      "summary": "ペルシャ湾内にとどまっていた日本関係船舶のうち、新たに1隻がホルムズ海峡を通過したことが金子国土交通大臣により明らかになった。乗組員の健康状態や船体に異常はないとされている。",
-      "url": "http://www3.nhk.or.jp/news/html/20260703/k10015168021000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-03T04:05:30+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "19847832",
+      "id": "84600222",
       "category": "経済・ビジネス（世界）",
       "title": "Instagram running ads promoting child sexual abuse material in India, BBC finds",
       "summary": "BBCの調査により、インスタグラムがインドで児童への性的虐待に関する広告を配信していることが判明した。これらの広告は「レイプ」や「児童動画」を含む用語を使用し、メッセージングアプリのテレグラムのコンテンツにリンクしている。インスタグラムはこのような有害な広告の配信を許可することで、児童性虐待素材の流通を助長している状況が報告されている。",
@@ -135,17 +145,7 @@
       "lang": "en"
     },
     {
-      "id": "44644982",
-      "category": "経済・ビジネス（世界）",
-      "title": "'Start work at 11' - but will other bosses be as flexible over England's 1am match?",
-      "summary": "イングランドの午前1時の試合に向けて、一部の企業が従業員に午前11時からの勤務開始を認める柔軟な対応を取っているが、他の雇用主も同様に対応するかは不確実な状況にある。雇用主らは従業員の勤務の融通性を認めるよう「常識」の発揮が呼びかけられており、この対応がどの程度広がるかが注目されている。",
-      "url": "https://www.bbc.co.uk/news/articles/c8x27k180x8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-03T14:53:51+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "37778384",
+      "id": "22036349",
       "category": "経済・ビジネス（世界）",
       "title": "Burnham says there is some room for movement on tax",
       "summary": "バーナムは税金問題について若干の調整の余地があると述べているが、次期首相候補である彼は労働党の付加価値税、所得税、国民保険料を引き上げないという公約には固執すると述べている。",
@@ -155,7 +155,7 @@
       "lang": "en"
     },
     {
-      "id": "41740383",
+      "id": "90652717",
       "category": "経済・ビジネス（世界）",
       "title": "'Less than 10% sheep': How millions may have unknowingly eaten goat, skin and fat kebabs",
       "summary": "英国の食品当局の調査により、ラム肉と表示されて販売されていたケバブの多くが、実は山羊肉や皮、脂肪を含む代替品で製造されていたことが判明した。この事件は2013年の馬肉ラザニャスキャンダルと比較されており、数百万人が意図せず異なる肉を消費していた可能性がある。食品表示の不正と消費者詐欺に関する懸念が改めて浮上している。",
@@ -165,7 +165,7 @@
       "lang": "en"
     },
     {
-      "id": "65546175",
+      "id": "55506490",
       "category": "経済・ビジネス（世界）",
       "title": "No-gift policy for Taylor Swift, but how much should you give at a wedding?",
       "summary": "ウェディングリストに代わって現金での贈り物をリクエストするカップルが増えている一方で、ゲストの間では適切な金額について意見が分かれている。調査によると、ゲストは結婚式への贈り物として平均400ポンドまでを贈ることを考えており、この金額設定は招待客とカップルの関係の深さや経済状況によって異なる傾向がある。",
@@ -175,7 +175,7 @@
       "lang": "en"
     },
     {
-      "id": "48440890",
+      "id": "39183621",
       "category": "経済・ビジネス（世界）",
       "title": "Tackle workplace sickness to unlock hidden growth, former John Lewis boss says",
       "summary": "元ジョン・ルイス会長は、職場での病欠問題に対処することが経済成長の鍵であると述べており、すでに英国の大手企業250社以上が彼の「ブリテンを働かせよう」タスクフォースに参加している。職場の健康管理と従業員のウェルネスの向上により、隠れた経済成長の可能性が引き出されると主張している。",
@@ -185,7 +185,7 @@
       "lang": "en"
     },
     {
-      "id": "31737627",
+      "id": "51482057",
       "category": "経済・ビジネス（世界）",
       "title": "AI is 'not smart' so what's next in artificial intelligence?",
       "summary": "最先端のAI研究者ヤン・ルカンは、より柔軟なAIシステムを開発するスタートアップを立ち上げており、現在のAIは「賢くない」という課題に対する次のステップを模索している。",
@@ -195,7 +195,7 @@
       "lang": "en"
     },
     {
-      "id": "18365345",
+      "id": "50185502",
       "category": "経済・ビジネス（世界）",
       "title": "Pubs allowed to stay open until 5am on Monday for England Mexico match",
       "summary": "イングランドが午前1時に試合を迎えるワールドカップの試合に向けて、政府がパブの営業時間延長を認める可能性が出てきた。政府は当初、ワールドカップのためにライセンス法をさらに緩和しないと述べていたが、方針を変える可能性が示唆されている。この決定は、深夜の試合を観戦したいパブの顧客と事業者の要望に応えるものとなる可能性がある。",
@@ -205,7 +205,47 @@
       "lang": "en"
     },
     {
-      "id": "78555459",
+      "id": "29850975",
+      "category": "テクノロジー・AI",
+      "title": "The only AI glossary you’ll need this year",
+      "summary": "AIの急速な発展に伴い、多くの新しい用語やスラングが登場しており、このことばの辞書では今年必要となる重要な単語やフレーズの定義を提供している。AIに関連する業界の理解を深めるため、よく使われる用語の説明をまとめたもので、読者がAI関連の議論や情報をより理解しやすくすることを目的としている。",
+      "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-03T21:20:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "13743089",
+      "category": "テクノロジー・AI",
+      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+      "summary": "ブラウザ戦争はもはや検索エンジンについてではなく、ChromeとSafariに対抗する優れた代替ブラウザが多く登場している。今日利用可能なトップクラスの代替ブラウザのいくつかを概説する記事である。現在、ユーザーはプライバシー保護やカスタマイズ性など様々な基準でブラウザを選択する傾向が強まっている。",
+      "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-03T18:43:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "65669178",
+      "category": "テクノロジー・AI",
+      "title": "The Dune keypad device can be your meeting controller and more",
+      "summary": "Duneというキーパッドデバイスは3つのボタンを備えており、利用しているアプリケーションに応じてその機能が自動的に変わります。例えばZoomなどのミーティングアプリケーション使用時には、マイクのオン・オフ、ビデオのオン・オフ、ウィンドウを前面に表示するなどの機能が割り当てられます。このデバイスによって、ユーザーはキーボードやマウスから手を離さずにミーティングを効率的に操作できるようになります。",
+      "url": "https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-03T18:28:30+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "67622540",
+      "category": "テクノロジー・AI",
+      "title": "Chevy built an all-American EV truck — why is nobody buying it?",
+      "summary": "シボレーが開発したアメリカンEVトラック「シルバラード EV」は実用的な電動ピックアップトラックの第一段階の製品だが、販売が伸び悩んでいる現状にある。本記事は同車の改善点を検討し、市場での競争力を高めるための課題を探っている。",
+      "url": "https://techcrunch.com/2026/07/03/chevy-built-an-all-american-ev-truck-why-is-nobody-buying-it/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-03T16:30:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "22386055",
       "category": "テクノロジー・AI",
       "title": "Anthropic wants to develop its own drugs",
       "summary": "Anthropic社は先週開催された「The Briefing: AI for Science」イベントで、科学者向けの新しい「AI workbench」であるClaude Scienceを発表しました。このツールは分散されたツールとデータセットを一つの環境に統合し、図表とビジュアルを自動生成する機能を備えています。既に強力なAIモデルとコーディングツールで業界を支配しているAnthropicは、医薬品開発を含む科学研究の効率化を目指してこのプラットフォームを展開しています。",
@@ -215,7 +255,7 @@
       "lang": "en"
     },
     {
-      "id": "90640149",
+      "id": "29620154",
       "category": "テクノロジー・AI",
       "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
       "summary": "Midjourneyが開発中の医療用スキャナーの舞台裏映像が公開されましたが、その実効性についての証拠はまだ示されていません。同AIスタートアップは、スパに配置し医療を変革することを目指す、安価で詳細な無放射線イメージング技術を備えた超音波スキャナーについての約20分間のツアー動画をリリースしました。しかし、このデバイスが実際に機能することを示す具体的な証拠はまだ提示されていません。",
@@ -225,7 +265,7 @@
       "lang": "en"
     },
     {
-      "id": "68944216",
+      "id": "58477904",
       "category": "テクノロジー・AI",
       "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
       "summary": "NSO Groupの顧客である政府機関が、スパイウェア業界の調査を担当するEU委員会に所属していたヨーロッパの政治家の携帯電話をペガサススパイウェアで盗聴していたことが判明した。スパイウェアの悪用を調査していた政治家本人が、その同じスパイウェアの標的になっていたという深刻な事態である。",
@@ -235,7 +275,7 @@
       "lang": "en"
     },
     {
-      "id": "63019947",
+      "id": "12019627",
       "category": "テクノロジー・AI",
       "title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
       "summary": "オーストラリアのスタートアップ・バトルフィールドへの応募期限は7月6日に迫っており、この期限を逃すと応募の機会は失われる。スタートアップがこのプログラムに参加を希望する場合は、今すぐ応募を行う必要がある。",
@@ -245,123 +285,83 @@
       "lang": "en"
     },
     {
-      "id": "73532623",
-      "category": "テクノロジー・AI",
-      "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
-      "summary": "メタのマーク・ザッカーバーグCEOが社内会議で、AIエージェント開発が予想よりも進展していないことを職員に伝えた。ザッカーバーグは当初の期待ほど急速な進歩が見られず、AI開発の課題に直面していると述べたと報告されている。同社は引き続きAI技術の開発に注力する方針を示している。",
-      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-02T23:38:10+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "25823776",
-      "category": "テクノロジー・AI",
-      "title": "Private space pilots are flying orbital missions for the US Space Force",
-      "summary": "民間の宇宙パイロットたちが米宇宙軍の軌道上ミッションを実施しており、True AnomalyとRocket Labが米軍のために戦闘機のような衛星への接近飛行を行っている。この取り組みは宇宙防衛能力を強化し、民間企業と軍事部門の協力を深める重要なステップとなっている。",
-      "url": "https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-02T23:01:06+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "63642972",
-      "category": "テクノロジー・AI",
-      "title": "Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
-      "summary": "Thiel Capital出身のジャック・セルビーがアリゾナでの人脈を活かし、Etchedなど注目のスタートアップへの出資を獲得している。彼が立ち上げたベンチャーキャピタル企業Copper Sky Capitalは現在3億ドル規模の第2号ファンドの資金調達を進めており、規制当局への届け出によって明かされた。",
-      "url": "https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-02T21:57:10+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "44408923",
-      "category": "テクノロジー・AI",
-      "title": "IQM, Europe’s first public quantum company, admits the future of the tech is uncertain",
-      "summary": "フィンランド発祥のフルスタック型量子コンピュータ企業IQMは本日、約19億ドルの評価額でナスダックに上場し、ヨーロッパ初の公開量子企業となりました。同社は量子技術の将来に対して不確実性があることを認めています。IQMの上場は、急速に発展する量子コンピュータ分野においてヨーロッパの企業が国際市場で重要な足がかりを築いたことを示しています。",
-      "url": "https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-02T20:42:48+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "77855757",
+      "id": "30446611",
       "category": "台湾・中台関係",
-      "title": "5G NTN Market Surges to $45.55 billion at a CAGR 30.8% by 2031 | Report by MarketsandMarkets™",
-      "summary": "5G NTN（非地上系ネットワーク）市場は2026年の119億1000万ドルから2031年に455億5000万ドルまで拡大し、年平均成長率30.8%で急速に成長すると予想されている。この成長は衛星通信技術の需要増加と5G網の拡張に支えられている。市場調査機関MarketsandMarketsが発表した報告書によると、非地上系ネットワークが通信インフラの重要な要素として注目を集めている。",
-      "url": "https://www.globenewswire.com/news-release/2026/07/02/3321419/0/en/5G-NTN-Market-Surges-to-45-55-billion-at-a-CAGR-30-8-by-2031-Report-by-MarketsandMarkets.html",
+      "title": "Automotive Testing, Inspection and Certification TIC Market Size/Share Worth USD 64.8 Billion by 2035 at a 7.6% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth, SWOT)",
+      "summary": "自動車検査・認証（TIC）市場は2024年時点で約286億ドルの規模であり、2035年には648億ドルに達すると予測されており、その間の年平均成長率は7.6%となる見込みである。この成長は電動車の普及、規制要件の強化、品質管理の重要性の増加によって推進されている。調査報告書は市場の展開状況、主要企業、トレンド、予測を含む220ページ以上の詳細な分析を提供している。",
+      "url": "https://www.globenewswire.com/news-release/2026/07/02/3321532/0/en/Automotive-Testing-Inspection-and-Certification-TIC-Market-Size-Share-Worth-USD-64-8-Billion-by-2035-at-a-7-6-CAGR-Custom-Market-Insights-Analysis-Outlook-Leaders-Report-Trends-For.html",
       "source": "GlobeNewswire",
-      "published_at": "2026-07-02T14:34:00+00:00",
+      "published_at": "2026-07-02T19:30:00+00:00",
       "lang": "en"
     },
     {
-      "id": "68543677",
+      "id": "19498178",
       "category": "台湾・中台関係",
-      "title": "Predictive Analytics and AI Tools Propel Revolution in Talent Acquisition Industry",
-      "summary": "予測分析と人工知能ツールが採用業界に革命をもたらしており、予測分析、自動化された採用プラットフォーム、リモートワークの傾向によって急速な成長が見込まれています。主な機会としてはAIベースの候補者マッチング、グローバルな人材採用、個別対応の採用活動が挙げられ、これらは採用プロセスの効率化と最適化を推進しています。",
-      "url": "https://www.globenewswire.com/news-release/2026/07/02/3321410/28124/en/Predictive-Analytics-and-AI-Tools-Propel-Revolution-in-Talent-Acquisition-Industry.html",
-      "source": "GlobeNewswire",
-      "published_at": "2026-07-02T14:27:00+00:00",
+      "title": "South Korea, Taiwan stocks fall as investors reassess AI bets; FX muted",
+      "summary": "韓国とタイワンの株式市場が下落している。投資家がAI関連銘柄の評価を見直す中、半導体セクターの過剰生産能力への懸念がKOSPIとTSMCの株価を急落させている。一方、外国為替市場は大きな変動を見せていない。",
+      "url": "https://www.thehindubusinessline.com/markets/south-korea-taiwan-stocks-fall-as-investors-reassess-ai-bets-fx-muted/article71175608.ece",
+      "source": "BusinessLine",
+      "published_at": "2026-07-02T18:00:15+00:00",
       "lang": "en"
     },
     {
-      "id": "65172243",
+      "id": "62784890",
       "category": "台湾・中台関係",
-      "title": "Explosive Growth in Edge AI Market: From $21.84 Billion in 2025 to $81.71 Billion by 2030",
-      "summary": "エッジAI市場は2025年の218億4000万ドルから2030年には817億1000万ドルへと急速に拡大しており、小売業界ではスマートストアと接続デバイスの拡張、リアルタイム分析の需要、個人化されたショッピング体験、運用効率化が主な成長機会となっている。デバイス上でのAI処理とスマートインベントリー管理などの技術革新がこの成長を牽引している。",
-      "url": "https://www.globenewswire.com/news-release/2026/07/02/3321399/28124/en/Explosive-Growth-in-Edge-AI-Market-From-21-84-Billion-in-2025-to-81-71-Billion-by-2030.html",
-      "source": "GlobeNewswire",
-      "published_at": "2026-07-02T14:15:00+00:00",
+      "title": "8 ways that U.S.-style democracy stands out globally",
+      "summary": "米国が今年独立宣言250周年を迎える中、米国の政治体制が世界の他105の民主主義国家と異なる8つの特徴が紹介されている。米国は大統領制と議院内閣制の混合型システムや、強力な司法権、州と連邦の分権構造など、他国にない独自の民主的特性を備えており、これらが米国民主主義をグローバルに際立たせている存在となっている。",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/02/8-ways-that-us-style-democracy-stands-out-globally/",
+      "source": "Pew Research Center",
+      "published_at": "2026-07-02T17:23:32+00:00",
       "lang": "en"
     },
     {
-      "id": "45098355",
+      "id": "98500398",
       "category": "台湾・中台関係",
-      "title": "Supermicro denies that its offices were raided by Taiwanese authorities in Nvidia GPU smuggling case — company says that it coordinated with the police and provided access to investigated employees’ workstations and gadgets",
-      "summary": "スーパーマイクロは台湾当局によるオフィス捜索を否定し、同社がNvidia GPU密輸事件の調査に関連して警察と協力し、捜査対象の従業員のワークステーションと機器へのアクセスを自発的に提供したと述べている。同社は、機関ではなく個人が密輸に関して調査対象であることを警察と確認しており、当局との協力姿勢を強調している。",
-      "url": "https://www.tomshardware.com/desktops/servers/supermicro-denies-that-its-offices-were-raided-by-taiwanese-authorities-in-nvidia-gpu-smuggling-case-company-says-that-it-coordinated-with-the-police-and-provided-access-to-investigated-employees-workstations-and-gadgets",
-      "source": "Tom's Hardware UK",
-      "published_at": "2026-07-02T14:10:56+00:00",
+      "title": "Russia’s economy is ‘sputtering,’ and Putin’s wartime spending model has pushed the country to an ‘economic, political, and military abyss’",
+      "summary": "ロシア経済は失速しており、プーチン大統領の戦時支出モデルが国を経済的、政治的、軍事的な危機に追い込んでいる。プーチン大統領はウクライナでの戦争を乗り切るため、軍事ケインズ主義に基づいた経済体制を構築したが、その限界が露呈し始めている。軍事費の膨張による経済負担が深刻化し、ロシアは多方面での困難に直面している。",
+      "url": "https://fortune.com/2026/07/02/putin-russia-economy-economic-mmilitary-abyss-csis-report/",
+      "source": "Fortune",
+      "published_at": "2026-07-02T17:22:36+00:00",
       "lang": "en"
     },
     {
-      "id": "83498714",
+      "id": "28690447",
       "category": "台湾・中台関係",
-      "title": "Why Poor Gut Health Can Lead to Parkinson’s and How to Avoid It",
-      "summary": "研究者らは、パーキンソン病関連の腸内微生物叢の変化が診断の数年前から現れることを発見した。パーキンソン病のパターンに最も近い腸内細菌を持つ人々は、便秘、気分の変化、その他の初期警告サインをより多く示していた。腸内環境の悪化がパーキンソン病発症に先行する可能性があり、腸内微生物叢の監視が早期発見や予防に重要であることが示唆された。",
-      "url": "https://www.globalresearch.ca/poor-gut-health-parkinsons-how-to-avoid-it/5932126",
-      "source": "Globalresearch.ca",
-      "published_at": "2026-07-02T14:04:33+00:00",
+      "title": "Czech-Taiwan Ties Are Cooling in Rhetoric, Not Reality",
+      "summary": "チェコの新政権は台湾に対する修辞的なトーンを変更したが、両国関係の実質的な内容はほぼ維持されている。チェコは台湾との関係を冷え込ませているように見えるが、実際には経済関係や文化交流などの実質的な結びつきは継続している。この変化は、より中国との関係に配慮した外交戦略への転換を示唆するものである。",
+      "url": "https://thediplomat.com/2026/07/czech-taiwan-ties-are-cooling-in-rhetoric-not-reality/",
+      "source": "The Diplomat",
+      "published_at": "2026-07-02T17:16:00+00:00",
       "lang": "en"
     },
     {
-      "id": "48669301",
+      "id": "89260324",
       "category": "台湾・中台関係",
-      "title": "Delayed health-seeking behavior and its associated factors among cancer patients in Ethiopia: A systematic review and meta-analysis, 2025",
-      "summary": "エチオピアのがん患者における遅延した健康相談行動とその関連要因に関する系統的レビューとメタ分析の研究によると、がん患者が医療機関への受診を遅延させる行動は、特にエチオピアのような低リソース設定地域で晩期診断や予後悪化、高い死亡率につながる主要な要因となっている。この研究は、遅延した健康相談行動の規模と決定要因に関するエビデンスをまとめたもので、限定的な情報しか得られていない現状に対応する試みである。",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352869",
-      "source": "Plos.org",
-      "published_at": "2026-07-02T14:00:00+00:00",
+      "title": "Understanding China’s Party-State Intelligence System",
+      "summary": "中国の党国家インテリジェンスシステムについて、「社会全体」と表現することは不正確であり、民族系中国人への差別につながるリスクがあるという指摘がなされている。このような広い表現は、中国の複雑なスパイ活動の仕組みを過度に簡略化し、無実の人々を巻き込むリスクが存在することを警告している。中国の情報工作は特定の党国家機構と協力者に限定されており、すべての社会構成員が関与しているわけではないと指摘されている。",
+      "url": "https://thediplomat.com/2026/07/understanding-chinas-party-state-intelligence-system/",
+      "source": "The Diplomat",
+      "published_at": "2026-07-02T16:47:00+00:00",
       "lang": "en"
     },
     {
-      "id": "57243910",
+      "id": "91708970",
       "category": "台湾・中台関係",
-      "title": "GULF Successfully Closes Oversubscribed US$600 Million Offshore Syndicated Term Loan, Expanding International Funding Access",
-      "summary": "ガルフ・デベロップメント・パブリック・カンパニー・リミテッド（GULF）は、6億ドルのオフショア シンジケートローン施設の調達に成功し、国際的な資金調達へのアクセスを拡大した。同融資は需要が供給を上回る状況で募集が完了し、企業の財務基盤強化と海外での事業展開を支援するものである。",
-      "url": "https://financialpost.com/globe-newswire/gulf-successfully-closes-oversubscribed-us600-million-offshore-syndicated-term-loan-expanding-international-funding-access",
-      "source": "Financial Post",
-      "published_at": "2026-07-02T13:30:56+00:00",
+      "title": "US Marines deploy Iron Dome system to Japan amid China tensions",
+      "summary": "米海兵隊がアイアンドーム防空システムを日本に配備し、中国との緊張を背景に地域の軍事的緊張が高まっている。この配備は潜在的な軍事紛争のリスクを増加させ、米中間の外交関係に影響を与える可能性がある。米国の防衛力強化により、アジア太平洋地域の安全保障環境がさらに複雑化するとみられている。",
+      "url": "https://cryptobriefing.com/us-marines-deploy-iron-dome-system-to-japan-amid-china-tensions/",
+      "source": "Crypto Briefing",
+      "published_at": "2026-07-02T16:43:59+00:00",
       "lang": "en"
     },
     {
-      "id": "98037039",
+      "id": "89283090",
       "category": "台湾・中台関係",
-      "title": "GULF Successfully Closes Oversubscribed US$600 Million Offshore Syndicated Term Loan, Expanding International Funding Access",
-      "summary": "ガルフ・デベロップメント・パブリック・カンパニー・リミテッド（GULF）は、6億米ドルのオフショア・シンジケート・ターム・ローンの調達に成功し、国際的な資金調達へのアクセスを拡大した。この融資は需要が供給を上回る状況で完全に引き受けられ、GULFの海外での資金調達能力と信用力を示すものとなった。",
-      "url": "https://www.globenewswire.com/news-release/2026/07/02/3321366/0/en/GULF-Successfully-Closes-Oversubscribed-US-600-Million-Offshore-Syndicated-Term-Loan-Expanding-International-Funding-Access.html",
-      "source": "GlobeNewswire",
-      "published_at": "2026-07-02T13:27:00+00:00",
+      "title": "Fantasia 2026 Shorts: Beauty in The Light, The Dark, Out There And in Each Other in Shorts Programme",
+      "summary": "ファンタジア映画祭の2026年ショートフィルム部門は、200本以上の短編映画を集めた豊富なラインアップを特徴としており、光と闇、外部の世界、そして人間関係の美しさをテーマにした多様な作品が含まれている。最高の映画祭は長編映画だけでなく短編映画においても優れた作品と映画制作者を集めており、ファンタジアのショートフィルムプログラムはそれ自体が独立した大きな存在となっている。",
+      "url": "https://screenanarchy.com/2026/07/fantasia-2026-shorts.html",
+      "source": "Screenanarchy.com",
+      "published_at": "2026-07-02T15:51:31+00:00",
       "lang": "en"
     }
   ]
