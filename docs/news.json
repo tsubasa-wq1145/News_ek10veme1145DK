@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T23:13:36.349465+00:00",
+  "updated_at": "2026-07-03T06:34:51.864508+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -45,7 +45,47 @@
   "digest": [],
   "news": [
     {
-      "id": "92054385",
+      "id": "87208437",
+      "category": "経済・ビジネス（日本）",
+      "title": "ペルシャ湾内の日本関係船舶 新たに1隻がホルムズ海峡通過",
+      "summary": "ペルシャ湾内にとどまっていた日本関係船舶のうち、新たに1隻がホルムズ海峡を通過したことが金子国土交通大臣により明らかになった。乗組員の健康状態や船体に異常はないとされている。",
+      "url": "http://www3.nhk.or.jp/news/html/20260703/k10015168021000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-03T04:05:30+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "64734752",
+      "category": "経済・ビジネス（日本）",
+      "title": "ベネズエラ地震 発生8日目に“奇跡”の救助 死者は2500人超に",
+      "summary": "ベネズエラで先月発生したマグニチュード7を超える地震による死者が2500人を超える一方で、発生から8日目に地下に閉じ込められていた40代男性が救出される奇跡的な救助が行われました。現地では引き続き救助活動が進められています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260703/k10015167841000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-03T03:26:13+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "19248591",
+      "category": "経済・ビジネス（日本）",
+      "title": "覆面作家・雨穴さんの「変な絵」 ダガー賞翻訳部門 受賞逃す",
+      "summary": "英国推理作家協会賞のダガー賞の翻訳部門の受賞作品が発表され、ユーチューバーで覆面作家の雨穴さんの「変な絵」は最終候補に残ったものの受賞を逃しました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260703/k10015167871000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-03T02:05:16+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "33579379",
+      "category": "経済・ビジネス（日本）",
+      "title": "ドイツ検察 ノルドストリーム爆発でウクライナ軍元将校を起訴",
+      "summary": "ドイツ検察がロシアとドイツを結ぶノルドストリームの爆破事件に関連し、ウクライナ軍の元将校を起訴しました。検察はこの元将校がウクライナ政府機関の指示を受けてパイプラインを破壊する計画を立案したと指摘しています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260703/k10015167761000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-02T23:53:29+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "58138577",
       "category": "経済・ビジネス（日本）",
       "title": "パワー半導体最大手 ドイツ東部に新工場完成 生産能力倍増",
       "summary": "パワー半導体大手のドイツメーカーが東部に新工場を完成させ、EV やデータセンター向けの生産能力を倍増させることを発表した。この投資により国内での半導体生産体制が強化され、需要増加への対応が可能になる。",
@@ -55,7 +95,7 @@
       "lang": "ja"
     },
     {
-      "id": "55880516",
+      "id": "43723018",
       "category": "経済・ビジネス（日本）",
       "title": "テスラ 欧州や中国で需要回復か ガソリン価格高騰も追い風に",
       "summary": "テスラの先月までの3か月間の世界新車販売台数が前年同期比24.9％増加し、中東情勢によるガソリン価格高騰がEVへの需要拡大につながったと見られている。欧州と中国での需要回復が寄与しており、EV市場の成長が加速している。",
@@ -65,7 +105,7 @@
       "lang": "ja"
     },
     {
-      "id": "65983632",
+      "id": "91720614",
       "category": "経済・ビジネス（日本）",
       "title": "ダウ平均株価 最高値を更新 FRBの利上げ観測後退で",
       "summary": "ニューヨーク株式市場でFRBの早期利上げ観測が後退したことにより買い注文が増加し、ダウ平均株価は前日比で約600ドル上昇して過去最高値を更新した。",
@@ -75,7 +115,7 @@
       "lang": "ja"
     },
     {
-      "id": "40480912",
+      "id": "40434590",
       "category": "経済・ビジネス（日本）",
       "title": "アルバニア リゾート建設計画の抗議デモ拡大 首相辞任も求める",
       "summary": "アルバニアで、クシュナー氏が関わる高級リゾート建設計画に反対する大規模抗議デモが1ヶ月以上続いており、政治への不信感から首相の辞任要求へと訴えが拡大している。",
@@ -85,47 +125,27 @@
       "lang": "ja"
     },
     {
-      "id": "48463499",
-      "category": "経済・ビジネス（日本）",
-      "title": "日印首脳会談で2兆円規模の投資発表 国内経済活性化の狙い",
-      "summary": "インドを訪れた高市総理大臣がモディ首相と会談し、日本企業による2兆円規模の投資を含む約130件の企業間協力文書を発表しました。成長市場であるインドへの投資拡大を通じて日本経済の活性化を目指しています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260703/k10015167611000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-02T20:50:01+00:00",
-      "lang": "ja"
+      "id": "39397050",
+      "category": "経済・ビジネス（世界）",
+      "title": "Goat and skin in millions of 'lamb' kebabs compared to horsemeat lasagne scandal",
+      "summary": "英国の食品当局の調査により、ラム肉と表示されて販売されていたケバブの多くが、実は山羊肉や皮、脂肪を含む代替品で製造されていたことが判明した。この事件は2013年の馬肉ラザニャスキャンダルと比較されており、数百万人が意図せず異なる肉を消費していた可能性がある。食品表示の不正と消費者詐欺に関する懸念が改めて浮上している。",
+      "url": "https://www.bbc.co.uk/news/articles/ce95y1zlzyxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-03T05:14:17+00:00",
+      "lang": "en"
     },
     {
-      "id": "39524538",
-      "category": "経済・ビジネス（日本）",
-      "title": "ウクライナ政府 ロシア軍の攻撃 被害の深刻さを各国大使に訴え",
-      "summary": "ウクライナ政府はロシア軍による首都キーウへの大規模攻撃で20人以上が死亡したことを受けて、各国の外交官に対して現場で被害の深刻さを直接訴えました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260703/k10015167671000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-02T20:11:30+00:00",
-      "lang": "ja"
+      "id": "31646053",
+      "category": "経済・ビジネス（世界）",
+      "title": "Instagram running ads promoting child sexual abuse material in India, BBC finds",
+      "summary": "BBCの調査により、インスタグラムがインドで児童への性的虐待に関する広告を配信していることが判明した。これらの広告は「レイプ」や「児童動画」を含む用語を使用し、メッセージングアプリのテレグラムのコンテンツにリンクしている。インスタグラムはこのような有害な広告の配信を許可することで、児童性虐待素材の流通を助長している状況が報告されている。",
+      "url": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-03T03:50:18+00:00",
+      "lang": "en"
     },
     {
-      "id": "84166035",
-      "category": "経済・ビジネス（日本）",
-      "title": "WHO クルーズ船でのハンタウイルス集団感染の収束を宣言",
-      "summary": "世界保健機関（WHO）のテドロス事務局長が、クルーズ船で発生したハンタウイルスの集団感染の収束を宣言しました。これにより、同船での感染拡大は終息したと見なされることになります。",
-      "url": "http://www3.nhk.or.jp/news/html/20260703/k10015167711000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-02T20:08:53+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "64558864",
-      "category": "経済・ビジネス（日本）",
-      "title": "中国当局に拘束された香港の書店の元店長 台湾で死去",
-      "summary": "中国当局に拘束されていた香港の書店元店長・林栄基さんが台湾で亡くなり、台湾の頼清徳総統は彼の勇気を称えるメッセージをSNSに投稿しました。林さんは中国共産党に批判的な書籍を販売する書店に携わっていました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260703/k10015167701000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-02T20:06:47+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "57888179",
+      "id": "39606688",
       "category": "経済・ビジネス（世界）",
       "title": "AI is 'not smart' so what's next in artificial intelligence?",
       "summary": "最先端のAI研究者ヤン・ルカンは、より柔軟なAIシステムを開発するスタートアップを立ち上げており、現在のAIは「賢くない」という課題に対する次のステップを模索している。",
@@ -135,7 +155,7 @@
       "lang": "en"
     },
     {
-      "id": "20830276",
+      "id": "37847569",
       "category": "経済・ビジネス（世界）",
       "title": "'We give up to £400': How much should you gift at a wedding?",
       "summary": "ウェディングリストに代わって現金での贈り物をリクエストするカップルが増えている一方で、ゲストの間では適切な金額について意見が分かれている。調査によると、ゲストは結婚式への贈り物として平均400ポンドまでを贈ることを考えており、この金額設定は招待客とカップルの関係の深さや経済状況によって異なる傾向がある。",
@@ -145,7 +165,7 @@
       "lang": "en"
     },
     {
-      "id": "77253608",
+      "id": "35161287",
       "category": "経済・ビジネス（世界）",
       "title": "Pubs allowed to stay open until 5am for England Mexico match",
       "summary": "イングランドが午前1時に試合を迎えるワールドカップの試合に向けて、政府がパブの営業時間延長を認める可能性が出てきた。政府は当初、ワールドカップのためにライセンス法をさらに緩和しないと述べていたが、方針を変える可能性が示唆されている。この決定は、深夜の試合を観戦したいパブの顧客と事業者の要望に応えるものとなる可能性がある。",
@@ -155,17 +175,7 @@
       "lang": "en"
     },
     {
-      "id": "35064474",
-      "category": "経済・ビジネス（世界）",
-      "title": "Goat and skin in millions of 'lamb' kebabs compared to horsemeat lasagne scandal",
-      "summary": "英国の食品当局の調査により、ラム肉と表示されて販売されていたケバブの多くが、実は山羊肉や皮、脂肪を含む代替品で製造されていたことが判明した。この事件は2013年の馬肉ラザニャスキャンダルと比較されており、数百万人が意図せず異なる肉を消費していた可能性がある。食品表示の不正と消費者詐欺に関する懸念が改めて浮上している。",
-      "url": "https://www.bbc.co.uk/news/articles/ce95y1zlzyxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-02T20:34:14+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "95693940",
+      "id": "67153609",
       "category": "経済・ビジネス（世界）",
       "title": "Ryanair warns of 'queue chaos' from new EU border system",
       "summary": "ベルリン空港の責任者は、EUの新しい出入国システムにより、夏休みの時期に空港での長い待ち時間が発生することは「耐えられない」と警告している。新システムの導入により、旅行者は従来以上の遅延に直面することが予想されており、特に観光シーズンの混雑時には深刻な問題となる可能性があると指摘されている。",
@@ -175,7 +185,7 @@
       "lang": "en"
     },
     {
-      "id": "45335329",
+      "id": "10298490",
       "category": "経済・ビジネス（世界）",
       "title": "World Cup boom falters as US hospitality jobs fall in June",
       "summary": "ワールドカップの開催に伴う雇用増加の期待が後退し、6月の米国ホスピタリティ産業の雇用が減少した。当初はトーナメント開催による雇用拡大の兆候が見られていたものの、実際には逆の結果となったことが示唆されている。",
@@ -185,7 +195,7 @@
       "lang": "en"
     },
     {
-      "id": "92796916",
+      "id": "16315045",
       "category": "経済・ビジネス（世界）",
       "title": "Car finance compensation payments delayed until next year",
       "summary": "自動車ローンの手数料配分に関する問題で、数百万人が補償を受ける可能性があるが、その支払いは来年まで遅延することが明らかになった。貸付業者とディーラー間の委託手数料の仕組みが消費者に不利だったとして、補償対象者の特定と支払い手続きに時間を要している。規制当局は問題の解決に向けて対応を進めているが、補償金受領まで数ヶ月の待機が必要となる見通しである。",
@@ -195,17 +205,37 @@
       "lang": "en"
     },
     {
-      "id": "30009803",
-      "category": "経済・ビジネス（世界）",
-      "title": "Diesel sees biggest monthly fall in 26 years. What's happening to fuel prices?",
-      "summary": "イランとの紛争により燃料価格は一時的に上昇したが、平和への期待が高まるにつれて急速に低下している。ディーゼル燃料は26年間で最大の月間下落を記録し、地政学的な緊張の緩和が燃料市場に大きな影響を与えていることを示している。",
-      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-01T23:01:32+00:00",
+      "id": "62112040",
+      "category": "テクノロジー・AI",
+      "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
+      "summary": "NSO Groupの顧客である政府機関が、スパイウェア業界の調査を担当するEU委員会に所属していたヨーロッパの政治家の携帯電話をペガサススパイウェアで盗聴していたことが判明した。スパイウェアの悪用を調査していた政治家本人が、その同じスパイウェアの標的になっていたという深刻な事態である。",
+      "url": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-03T05:05:00+00:00",
       "lang": "en"
     },
     {
-      "id": "86634123",
+      "id": "54843716",
+      "category": "テクノロジー・AI",
+      "title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
+      "summary": "オーストラリアのスタートアップ・バトルフィールドへの応募期限は7月6日に迫っており、この期限を逃すと応募の機会は失われる。スタートアップがこのプログラムに参加を希望する場合は、今すぐ応募を行う必要がある。",
+      "url": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-03T00:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "51564927",
+      "category": "テクノロジー・AI",
+      "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+      "summary": "メタのマーク・ザッカーバーグCEOが社内会議で、AIエージェント開発が予想よりも進展していないことを職員に伝えた。ザッカーバーグは当初の期待ほど急速な進歩が見られず、AI開発の課題に直面していると述べたと報告されている。同社は引き続きAI技術の開発に注力する方針を示している。",
+      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-02T23:38:10+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "53533580",
       "category": "テクノロジー・AI",
       "title": "Private space pilots are flying orbital missions for the US Space Force",
       "summary": "民間の宇宙パイロットたちが米宇宙軍の軌道上ミッションを実施しており、True AnomalyとRocket Labが米軍のために戦闘機のような衛星への接近飛行を行っている。この取り組みは宇宙防衛能力を強化し、民間企業と軍事部門の協力を深める重要なステップとなっている。",
@@ -215,7 +245,7 @@
       "lang": "en"
     },
     {
-      "id": "88327098",
+      "id": "61056216",
       "category": "テクノロジー・AI",
       "title": "Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
       "summary": "Thiel Capital出身のジャック・セルビーがアリゾナでの人脈を活かし、Etchedなど注目のスタートアップへの出資を獲得している。彼が立ち上げたベンチャーキャピタル企業Copper Sky Capitalは現在3億ドル規模の第2号ファンドの資金調達を進めており、規制当局への届け出によって明かされた。",
@@ -225,7 +255,7 @@
       "lang": "en"
     },
     {
-      "id": "19442509",
+      "id": "39310542",
       "category": "テクノロジー・AI",
       "title": "IQM, Europe’s first public quantum company, admits the future of the tech is uncertain",
       "summary": "フィンランド発祥のフルスタック型量子コンピュータ企業IQMは本日、約19億ドルの評価額でナスダックに上場し、ヨーロッパ初の公開量子企業となりました。同社は量子技術の将来に対して不確実性があることを認めています。IQMの上場は、急速に発展する量子コンピュータ分野においてヨーロッパの企業が国際市場で重要な足がかりを築いたことを示しています。",
@@ -235,7 +265,7 @@
       "lang": "en"
     },
     {
-      "id": "58921576",
+      "id": "51432204",
       "category": "テクノロジー・AI",
       "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
       "summary": "ニュージャージー州を拠点とするサンドイッチチェーン「ジャージーマイクス」の新規公開株式（IPO）文書を確認したところ、サンドイッチ店であるにもかかわらずAI（人工知能）について言及されていた。これは企業がAIの誇大広告に乗じて、実質的な関連性がない場合でもAIを事業説明に含める傾向が蔓延していることを示す事例であり、AI関連の過度なヒプノーシス現象が業界全体に広がっていることを象徴している。",
@@ -245,7 +275,7 @@
       "lang": "en"
     },
     {
-      "id": "14560142",
+      "id": "56699037",
       "category": "テクノロジー・AI",
       "title": "A warning sign about AI’s real cost, courtesy of Google and Amazon",
       "summary": "Googleとアマゾンなどのテック企業がAI技術の導入に伴い、電力消費が大幅に増加しているため、カーボンニュートラルの達成が困難になっているという警告が示されている。AI開発には膨大な電力が必要とされており、これらの企業が掲げた脱炭素化の誓約の実現に大きな障害となっている。この問題は、急速に拡大するAI産業において、環境への真の代償がどれほど大きいかを示す重要な事例として注目されている。",
@@ -255,113 +285,83 @@
       "lang": "en"
     },
     {
-      "id": "36170086",
-      "category": "テクノロジー・AI",
-      "title": "Meta quietly launches vibe-coded gaming app Pocket",
-      "summary": "Metaはテキストプロンプトを使用して、ユーザーが対話型のミニゲームを生成・共有できる実験的なAIアプリ「Pocket」を静かに開始しました。このアプリは、自然言語入力によってゲームを自動生成する機能を備えており、ユーザーが簡単にゲームを作成できるようにしています。Metaは現在、このアプリの機能拡張や利用者反応の確認を進めているとみられます。",
-      "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-02T18:44:02+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "76542507",
-      "category": "テクノロジー・AI",
-      "title": "Travel app Hopper to pay $35M in FTC settlement over ‘unfairly’ charging hidden fees",
-      "summary": "旅行アプリのHopperが、隠れた手数料を隠すために欺瞞的な「ダークパターン」を使用し、サービスの費用と利益について旅行者を誤解させたというFTC（米連邦取引委員会）の主張を解決するため、3500万ドルの支払いに同意しました。Hopperはユーザーに対して実際の費用を隠し、サービスの利点について虚偽の情報を提供していたとされており、この決定はテック企業による消費者欺瞞慣行への取り締まり強化を示しています。",
-      "url": "https://techcrunch.com/2026/07/02/travel-app-hopper-to-pay-35m-in-ftc-settlement-over-unfairly-charging-hidden-fees/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-02T18:39:14+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "29614216",
-      "category": "テクノロジー・AI",
-      "title": "Anthropic is discussing a new custom chip with Samsung",
-      "summary": "AnthropicはSamsungとの間で新しいカスタムチップの開発について協議を進めており、これはOpenAIがBroadcomとのパートナーシップで独自のAIチップを発表してから約1週間後のニュースである。",
-      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-02T18:31:09+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "51241087",
+      "id": "79105765",
       "category": "台湾・中台関係",
-      "title": "Spirited Away Stage Play Announces World Tour for 2026-2028",
-      "summary": "スタジオジブリの「千と千尋の神隠し」の舞台化作品が2026年から2028年にかけて世界ツアーを開催することが発表された。ツアーはトロント、ロサンゼルス、ロンドン、台北、東京など複数の主要都市で上演される予定である。",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-01/spirited-away-stage-play-announces-world-tour-for-2026-2028/.239191",
-      "source": "Anime News Network",
-      "published_at": "2026-07-01T20:30:00+00:00",
+      "title": "China’s new ethnic unity law extends its legal reach overseas",
+      "summary": "中国が新たな民族団結法を制定し、その法的効力を海外にも拡大させている。活動家らは、この法律が民族調和を促進するのではなく、国境を越えた抑圧を正当化する可能性があると指摘している。中国政府の海外における少数民族や異議を唱える者への監視や弾圧の強化につながる懸念がある。",
+      "url": "https://www.aljazeera.com/news/2026/7/2/chinas-new-ethnic-unity-law-extends-its-legal-reach-overseas",
+      "source": "Al Jazeera English",
+      "published_at": "2026-07-02T06:30:21+00:00",
       "lang": "en"
     },
     {
-      "id": "51133251",
+      "id": "35166002",
       "category": "台湾・中台関係",
-      "title": "Global Accounts Receivable Automation Market Size/Share Worth USD 16.01 Billion by 2035 at a 13.08% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, SWOT Analysis)",
-      "summary": "世界の売掛金自動化市場は2025年に約46億8000万ドルと評価され、2035年までに160億1000万ドルに達すると予想されており、年平均成長率は13.08%となる見通しです。この市場拡大は企業の業務効率化やデジタル化推進による需要増加が主な要因とされています。",
-      "url": "https://www.globenewswire.com/news-release/2026/07/01/3321013/0/en/Global-Accounts-Receivable-Automation-Market-Size-Share-Worth-USD-16-01-Billion-by-2035-at-a-13-08-CAGR-Custom-Market-Insights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segme.html",
-      "source": "GlobeNewswire",
-      "published_at": "2026-07-01T20:30:00+00:00",
+      "title": "Data dive: Kill switch and catch-up – can Europe close the sovereignty gap?",
+      "summary": "米国がAIの「キルスイッチ」を操作できることを示す中、EUと英国は主権技術に関する一連の施策を展開している。国家主導の産業政策が、2兆ドルの収益ギャップを埋めることができるかが問われている。欧州は米国のテクノロジー支配に対抗するため、独立した技術基盤の構築と産業育成を急いでいる。",
+      "url": "https://www.computerweekly.com/news/366645336/Data-dive-Kill-switch-and-catch-up-can-Europe-close-the-sovereignty-gap",
+      "source": "ComputerWeekly.com",
+      "published_at": "2026-07-02T06:15:00+00:00",
       "lang": "en"
     },
     {
-      "id": "11915137",
+      "id": "25488707",
       "category": "台湾・中台関係",
-      "title": "China Hawks, Tech Investors And Former Lawmakers: Meet Hegseth’s New Picks For Top Pentagon Board",
-      "summary": "ペンタゴン国防長官ピート・ヘグセスは、国防総省を指導するための新しいチームを招集しました。このチームには中国強硬派、テクノロジー投資家、および元下院議員が含まれており、米国の防衛戦略に大きな影響を与える可能性があります。ヘグセスの人事選択は、より強硬な対外政策姿勢と民間セクターの専門知識の統合を示唆しています。",
-      "url": "https://dailycaller.com/2026/07/01/pete-hegseth-defense-policy-board-picks/",
-      "source": "The Daily Caller",
-      "published_at": "2026-07-01T20:26:03+00:00",
+      "title": "Super Micro reports two Taiwan staff detained in AI server smuggling probe",
+      "summary": "スーパーマイクロコンピュータは、AI サーバーの密輸疑惑に関連して台湾の従業員2名が拘束されたことを報告した。この調査は技術貿易における地政学的緊張を浮き彫りにしており、世界的な AI サプライチェーンと投資家信頼に悪影響を及ぼす可能性がある。",
+      "url": "https://cryptobriefing.com/super-micro-taiwan-staff-detained-ai-server-probe/",
+      "source": "Crypto Briefing",
+      "published_at": "2026-07-02T06:13:46+00:00",
       "lang": "en"
     },
     {
-      "id": "23737918",
+      "id": "48069740",
       "category": "台湾・中台関係",
-      "title": "Forget the $900 PS5 Pro: This $250 Handheld Is the Smartest Way to Play PlayStation Games",
-      "summary": "ソニーが高価なPS5 Proの代わりとなる選択肢として、アップデートされたPlayStation Portalが注目されている。250ドルの価格で、ゲーム機本体を購入することなくPS5のタイトルをプレイできる最も経済的な方法として評価されており、ソニーが物理ディスク生産を終了する中で、デジタルゲーム購入へのシフトが進む状況下での賢明な選択肢となっている。",
-      "url": "https://uk.pcmag.com/gaming-systems/165969/forget-the-900-ps5-pro-this-250-handheld-is-the-smartest-way-to-play-playstation-games",
-      "source": "PCMag.com",
-      "published_at": "2026-07-01T18:48:39+00:00",
+      "title": "Asian stocks mostly decline on a sell-off of chip shares",
+      "summary": "アジア株式市場はコンピュータチップ株の大量売却により、ウォール街の下落に連動して総じて下落している。半導体セクターの急速な売却が市場全体の下げ圧力となり、投資家のリスク回避姿勢を反映している。この動きはテクノロジー関連銘柄への懸念の広がりを示唆している。",
+      "url": "https://abcnews.com/US/wireStory/asian-stocks-decline-sell-off-chip-shares-134399630",
+      "source": "Abcnews.com",
+      "published_at": "2026-07-02T06:13:21+00:00",
       "lang": "en"
     },
     {
-      "id": "45509003",
+      "id": "65539806",
       "category": "台湾・中台関係",
-      "title": "U.S. Manufacturing Grows Amid Strong Demand, Declining Inflationary Pressures",
-      "summary": "6月の米国製造業は新規受注と工場生産が継続的に拡大し、インフレ圧力が緩和する中で成長を遂行している。需要の堅調さと物価上昇圧力の低下により、製造業セクターは良好な状況を維持している。",
-      "url": "https://www.breitbart.com/economy/2026/07/01/u-s-manufacturing-grows-amid-strong-demand-declining-inflationary-pressures/",
-      "source": "Breitbart News",
-      "published_at": "2026-07-01T17:41:01+00:00",
+      "title": "Trouble keeps finding Supermicro as strange server shipments attract police attention in Taiwan and Singapore",
+      "summary": "スーパーマイクロ・コンピュータシステムズが台湾とシンガポールで不可解なサーバー出荷に関連し、警察の注目を集めている。違法なGPU取引の疑いで4200万ドル相当の住宅が押収されたと報じられており、同社は継続的なトラブルに直面している。この事件はスーパーマイクロの評判と事業に新たなリスクをもたらしている。",
+      "url": "https://www.theregister.com/legal/2026/07/02/trouble-keeps-finding-supermicro-as-strange-server-shipments-attract-police-attention-in-taiwan-and-singapore/5265520",
+      "source": "Theregister.com",
+      "published_at": "2026-07-02T06:02:32+00:00",
       "lang": "en"
     },
     {
-      "id": "19134731",
+      "id": "70101917",
       "category": "台湾・中台関係",
-      "title": "Dr. Silver Kung's Debut Memoir Silver Linings Earns a Spot on the USA Today Best Seller List",
-      "summary": "シーグフリード・キャピタルの創設者兼会長であるシルバー・クン博士の初の自叙伝「Silver Linings」がUSA Todayのベストセラーリストにランクインしました。クン博士は1000万ドルの家族債務を相続した状態から、32億ドルの資産運用会社を設立するまでの強力な経営人生を共有しており、この著作は彼の傑出した経営手腕と人生の転機を描いています。",
-      "url": "https://www.prnewswire.com/news-releases/dr-silver-kungs-debut-memoir-silver-linings-earns-a-spot-on-the-usa-today-best-seller-list-302816145.html",
-      "source": "PRNewswire",
-      "published_at": "2026-07-01T17:23:00+00:00",
+      "title": "Taiwan needs to become a ‘hornet’s nest’ of drones, US diplomat says",
+      "summary": "米国の台湾代表レイモンド・グリーン氏は、ドローンが台湾の防衛力を大幅に強化する「ゲームチェンジャー」となる機会だと述べ、台湾がドローンの集中拠点となることの重要性を強調した。同氏の発言は、限定的な軍事力を補完するための革新的防衛戦略としてドローン技術活用の必要性を示唆している。",
+      "url": "https://www.aljazeera.com/news/2026/7/2/taiwan-needs-to-become-a-hornets-nest-of-drones-us-diplomat-says",
+      "source": "Al Jazeera English",
+      "published_at": "2026-07-02T05:40:48+00:00",
       "lang": "en"
     },
     {
-      "id": "74620565",
+      "id": "58045971",
       "category": "台湾・中台関係",
-      "title": "China’s EUV Lithography Progress: Parsing Signal From Noise",
-      "summary": "中国は主要な半導体製造装置の製造を目指す中で、3つの具体的な障壁に直面している。これらの分野における進展を監視することで、西側諸国はより良いチップおよびAI政策を策定できるようになるだろう。",
-      "url": "https://thediplomat.com/2026/07/chinas-euv-lithography-progress-parsing-signal-from-noise/",
-      "source": "The Diplomat",
-      "published_at": "2026-07-01T16:33:00+00:00",
+      "title": "Chinese and US risks mean EU chip sector faces a 'bleak future'",
+      "summary": "EU（欧州連合）のチップ産業は、米国の技術への依存と中国への輸出制限リスクにより、厳しい状況に直面している。欧州最大企業ASMLが米国の圧力で中国への製造装置輸出を禁止される可能性があり、設計ソフトウェアなど重要な技術も米国に依存している。こうした脆弱性により、EUのチップ産業の将来は悲観的な見通しとなっている。",
+      "url": "https://economictimes.indiatimes.com/tech/technology/chinese-and-us-risks-mean-eu-chip-sector-faces-a-bleak-future/articleshow/132129384.cms",
+      "source": "The Times of India",
+      "published_at": "2026-07-02T05:04:09+00:00",
       "lang": "en"
     },
     {
-      "id": "37110427",
+      "id": "71008965",
       "category": "台湾・中台関係",
-      "title": "Perfect start for your Asian adventure  Full-service flights from Budapest to Hong Kong from €498",
-      "summary": "ブダペストから香港への往復便がエアチャイナで498ユーロから利用でき、預け荷物、機内食、エンターテイメントが含まれたフルサービス運賃となっている。アジアで最も刺激的な都市の一つである香港への手頃で充実した旅行プランとなっている。",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-to-hong-kong-e498/",
-      "source": "Fly4free.com",
-      "published_at": "2026-07-01T16:00:25+00:00",
+      "title": "Takaichi Turns To India As Diet Tensions Build At Home",
+      "summary": "高市早苗首相は7月2日のインド訪問を通じて、外交政策、経済安全保障、戦略的投資を日本の政治課題の中心に据えながら、野党は国会での手続きと未解決の問題を巡って政府への圧力を継続している。首相のインド訪問は、両国間の関係強化と経済協力の深化を目指すものであり、アジア太平洋地域での戦略的地位の確立に向けた日本の姿勢を示している。",
+      "url": "https://newsonjapan.com/article/149843.php",
+      "source": "Newsonjapan.com",
+      "published_at": "2026-07-02T04:56:15+00:00",
       "lang": "en"
     }
   ]
