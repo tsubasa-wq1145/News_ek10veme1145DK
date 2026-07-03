@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T06:34:51.864508+00:00",
+  "updated_at": "2026-07-03T11:26:48.583641+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -45,7 +45,47 @@
   "digest": [],
   "news": [
     {
-      "id": "87208437",
+      "id": "49186344",
+      "category": "経済・ビジネス（日本）",
+      "title": "イラン前最高指導者ハメネイ師の葬儀準備進む 葬儀は4日から",
+      "summary": "イランの前最高指導者ハメネイ師の葬儀準備がテヘランで進められており、4日から9日にかけて執り行われる予定です。イラン側は葬儀期間中のいかなる攻撃も容認しないと、アメリカとイスラエルを牽制しています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260703/k10015168131000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-03T10:04:49+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "74928686",
+      "category": "経済・ビジネス（日本）",
+      "title": "ベネズエラ地震 発生8日目に“奇跡”の救助 死者は2500人超に",
+      "summary": "ベネズエラで先月発生したマグニチュード7を超える地震による死者が2500人を超える一方で、発生から8日目に地下に閉じ込められていた40代男性が救出される奇跡的な救助が行われました。現地では引き続き救助活動が進められています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260703/k10015167841000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-03T09:22:31+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "31607810",
+      "category": "経済・ビジネス（日本）",
+      "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月3日の動き）",
+      "summary": "ロシアのウクライナ軍事侵攻が続いており、ウクライナ各地でロシア軍とウクライナ軍の戦闘が進行中です。多数の市民が国外への避難を余儀なくされており、戦闘状況と国際外交の動向が刻々と変化しています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260703/k10015140531000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-03T09:18:18+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "45301548",
+      "category": "経済・ビジネス（日本）",
+      "title": "特殊詐欺対策 タイが新システムで日本などと連携強化",
+      "summary": "タイの警察が日本やアメリカなどと連携して特殊詐欺対策に当たる新システムの運用を開始し、詐欺グループの拠点特定と不正資金の追跡を強化する取り組みが始まった。東南アジアで日本人を含む詐欺グループの摘発が相次ぐ中での対策である。",
+      "url": "http://www3.nhk.or.jp/news/html/20260703/k10015168121000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-03T08:34:34+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "85845241",
       "category": "経済・ビジネス（日本）",
       "title": "ペルシャ湾内の日本関係船舶 新たに1隻がホルムズ海峡通過",
       "summary": "ペルシャ湾内にとどまっていた日本関係船舶のうち、新たに1隻がホルムズ海峡を通過したことが金子国土交通大臣により明らかになった。乗組員の健康状態や船体に異常はないとされている。",
@@ -55,17 +95,7 @@
       "lang": "ja"
     },
     {
-      "id": "64734752",
-      "category": "経済・ビジネス（日本）",
-      "title": "ベネズエラ地震 発生8日目に“奇跡”の救助 死者は2500人超に",
-      "summary": "ベネズエラで先月発生したマグニチュード7を超える地震による死者が2500人を超える一方で、発生から8日目に地下に閉じ込められていた40代男性が救出される奇跡的な救助が行われました。現地では引き続き救助活動が進められています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260703/k10015167841000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-03T03:26:13+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "19248591",
+      "id": "27554751",
       "category": "経済・ビジネス（日本）",
       "title": "覆面作家・雨穴さんの「変な絵」 ダガー賞翻訳部門 受賞逃す",
       "summary": "英国推理作家協会賞のダガー賞の翻訳部門の受賞作品が発表され、ユーチューバーで覆面作家の雨穴さんの「変な絵」は最終候補に残ったものの受賞を逃しました。",
@@ -75,7 +105,7 @@
       "lang": "ja"
     },
     {
-      "id": "33579379",
+      "id": "22855443",
       "category": "経済・ビジネス（日本）",
       "title": "ドイツ検察 ノルドストリーム爆発でウクライナ軍元将校を起訴",
       "summary": "ドイツ検察がロシアとドイツを結ぶノルドストリームの爆破事件に関連し、ウクライナ軍の元将校を起訴しました。検察はこの元将校がウクライナ政府機関の指示を受けてパイプラインを破壊する計画を立案したと指摘しています。",
@@ -85,7 +115,7 @@
       "lang": "ja"
     },
     {
-      "id": "58138577",
+      "id": "16921825",
       "category": "経済・ビジネス（日本）",
       "title": "パワー半導体最大手 ドイツ東部に新工場完成 生産能力倍増",
       "summary": "パワー半導体大手のドイツメーカーが東部に新工場を完成させ、EV やデータセンター向けの生産能力を倍増させることを発表した。この投資により国内での半導体生産体制が強化され、需要増加への対応が可能になる。",
@@ -95,47 +125,57 @@
       "lang": "ja"
     },
     {
-      "id": "43723018",
-      "category": "経済・ビジネス（日本）",
-      "title": "テスラ 欧州や中国で需要回復か ガソリン価格高騰も追い風に",
-      "summary": "テスラの先月までの3か月間の世界新車販売台数が前年同期比24.9％増加し、中東情勢によるガソリン価格高騰がEVへの需要拡大につながったと見られている。欧州と中国での需要回復が寄与しており、EV市場の成長が加速している。",
-      "url": "http://www3.nhk.or.jp/news/html/20260703/k10015167681000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-02T21:55:34+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "91720614",
-      "category": "経済・ビジネス（日本）",
-      "title": "ダウ平均株価 最高値を更新 FRBの利上げ観測後退で",
-      "summary": "ニューヨーク株式市場でFRBの早期利上げ観測が後退したことにより買い注文が増加し、ダウ平均株価は前日比で約600ドル上昇して過去最高値を更新した。",
-      "url": "http://www3.nhk.or.jp/news/html/20260703/k10015167731000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-02T21:09:57+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "40434590",
-      "category": "経済・ビジネス（日本）",
-      "title": "アルバニア リゾート建設計画の抗議デモ拡大 首相辞任も求める",
-      "summary": "アルバニアで、クシュナー氏が関わる高級リゾート建設計画に反対する大規模抗議デモが1ヶ月以上続いており、政治への不信感から首相の辞任要求へと訴えが拡大している。",
-      "url": "http://www3.nhk.or.jp/news/html/20260703/k10015167241000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-02T21:04:44+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "39397050",
+      "id": "66255953",
       "category": "経済・ビジネス（世界）",
-      "title": "Goat and skin in millions of 'lamb' kebabs compared to horsemeat lasagne scandal",
+      "title": "'Less than 10% sheep': How millions may have unknowingly eaten goat, skin and fat kebabs",
       "summary": "英国の食品当局の調査により、ラム肉と表示されて販売されていたケバブの多くが、実は山羊肉や皮、脂肪を含む代替品で製造されていたことが判明した。この事件は2013年の馬肉ラザニャスキャンダルと比較されており、数百万人が意図せず異なる肉を消費していた可能性がある。食品表示の不正と消費者詐欺に関する懸念が改めて浮上している。",
       "url": "https://www.bbc.co.uk/news/articles/ce95y1zlzyxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published_at": "2026-07-03T05:14:17+00:00",
+      "published_at": "2026-07-03T11:24:03+00:00",
       "lang": "en"
     },
     {
-      "id": "31646053",
+      "id": "82871158",
+      "category": "経済・ビジネス（世界）",
+      "title": "No-gift policy for Taylor Swift, but how much should you give at a wedding?",
+      "summary": "ウェディングリストに代わって現金での贈り物をリクエストするカップルが増えている一方で、ゲストの間では適切な金額について意見が分かれている。調査によると、ゲストは結婚式への贈り物として平均400ポンドまでを贈ることを考えており、この金額設定は招待客とカップルの関係の深さや経済状況によって異なる傾向がある。",
+      "url": "https://www.bbc.co.uk/news/articles/c78yj9p0m91o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-03T10:46:34+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "27519920",
+      "category": "経済・ビジネス（世界）",
+      "title": "Tackle workplace sickness to unlock hidden growth, former John Lewis boss says",
+      "summary": "元ジョン・ルイス会長は、職場での病欠問題に対処することが経済成長の鍵であると述べており、すでに英国の大手企業250社以上が彼の「ブリテンを働かせよう」タスクフォースに参加している。職場の健康管理と従業員のウェルネスの向上により、隠れた経済成長の可能性が引き出されると主張している。",
+      "url": "https://www.bbc.co.uk/news/articles/cq61j11r577o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-03T09:50:56+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "56611700",
+      "category": "経済・ビジネス（世界）",
+      "title": "Burnham says there is some room for movement on tax",
+      "summary": "バーナムは税金問題について若干の調整の余地があると述べているが、次期首相候補である彼は労働党の付加価値税、所得税、国民保険料を引き上げないという公約には固執すると述べている。",
+      "url": "https://www.bbc.co.uk/news/articles/c5yz9j7v0z6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-03T07:40:21+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "14444785",
+      "category": "経済・ビジネス（世界）",
+      "title": "Security staff to go on strike at Aberdeen Airport",
+      "summary": "アバディーン空港で手荷物検査スタッフがUnite労働組合の呼びかけにより月曜日からストライキを開始し、同組合は大幅な遅延が生じる可能性があると警告している。このストライキにはセキュリティスタッフが参加する予定で、空港の運営に支障が出ることが予想される。",
+      "url": "https://www.bbc.co.uk/news/articles/c39y3expgk3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-03T07:14:32+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "61517325",
       "category": "経済・ビジネス（世界）",
       "title": "Instagram running ads promoting child sexual abuse material in India, BBC finds",
       "summary": "BBCの調査により、インスタグラムがインドで児童への性的虐待に関する広告を配信していることが判明した。これらの広告は「レイプ」や「児童動画」を含む用語を使用し、メッセージングアプリのテレグラムのコンテンツにリンクしている。インスタグラムはこのような有害な広告の配信を許可することで、児童性虐待素材の流通を助長している状況が報告されている。",
@@ -145,7 +185,7 @@
       "lang": "en"
     },
     {
-      "id": "39606688",
+      "id": "90477084",
       "category": "経済・ビジネス（世界）",
       "title": "AI is 'not smart' so what's next in artificial intelligence?",
       "summary": "最先端のAI研究者ヤン・ルカンは、より柔軟なAIシステムを開発するスタートアップを立ち上げており、現在のAIは「賢くない」という課題に対する次のステップを模索している。",
@@ -155,19 +195,9 @@
       "lang": "en"
     },
     {
-      "id": "37847569",
+      "id": "71517249",
       "category": "経済・ビジネス（世界）",
-      "title": "'We give up to £400': How much should you gift at a wedding?",
-      "summary": "ウェディングリストに代わって現金での贈り物をリクエストするカップルが増えている一方で、ゲストの間では適切な金額について意見が分かれている。調査によると、ゲストは結婚式への贈り物として平均400ポンドまでを贈ることを考えており、この金額設定は招待客とカップルの関係の深さや経済状況によって異なる傾向がある。",
-      "url": "https://www.bbc.co.uk/news/articles/c78yj9p0m91o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-02T23:01:24+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "35161287",
-      "category": "経済・ビジネス（世界）",
-      "title": "Pubs allowed to stay open until 5am for England Mexico match",
+      "title": "Pubs allowed to stay open until 5am on Monday for England Mexico match",
       "summary": "イングランドが午前1時に試合を迎えるワールドカップの試合に向けて、政府がパブの営業時間延長を認める可能性が出てきた。政府は当初、ワールドカップのためにライセンス法をさらに緩和しないと述べていたが、方針を変える可能性が示唆されている。この決定は、深夜の試合を観戦したいパブの顧客と事業者の要望に応えるものとなる可能性がある。",
       "url": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -175,37 +205,7 @@
       "lang": "en"
     },
     {
-      "id": "67153609",
-      "category": "経済・ビジネス（世界）",
-      "title": "Ryanair warns of 'queue chaos' from new EU border system",
-      "summary": "ベルリン空港の責任者は、EUの新しい出入国システムにより、夏休みの時期に空港での長い待ち時間が発生することは「耐えられない」と警告している。新システムの導入により、旅行者は従来以上の遅延に直面することが予想されており、特に観光シーズンの混雑時には深刻な問題となる可能性があると指摘されている。",
-      "url": "https://www.bbc.co.uk/news/articles/c8x2y74wp9eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-02T17:17:36+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "10298490",
-      "category": "経済・ビジネス（世界）",
-      "title": "World Cup boom falters as US hospitality jobs fall in June",
-      "summary": "ワールドカップの開催に伴う雇用増加の期待が後退し、6月の米国ホスピタリティ産業の雇用が減少した。当初はトーナメント開催による雇用拡大の兆候が見られていたものの、実際には逆の結果となったことが示唆されている。",
-      "url": "https://www.bbc.co.uk/news/articles/cr471w6ykxno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-02T13:36:04+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "16315045",
-      "category": "経済・ビジネス（世界）",
-      "title": "Car finance compensation payments delayed until next year",
-      "summary": "自動車ローンの手数料配分に関する問題で、数百万人が補償を受ける可能性があるが、その支払いは来年まで遅延することが明らかになった。貸付業者とディーラー間の委託手数料の仕組みが消費者に不利だったとして、補償対象者の特定と支払い手続きに時間を要している。規制当局は問題の解決に向けて対応を進めているが、補償金受領まで数ヶ月の待機が必要となる見通しである。",
-      "url": "https://www.bbc.co.uk/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-02T12:26:03+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "62112040",
+      "id": "39888288",
       "category": "テクノロジー・AI",
       "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
       "summary": "NSO Groupの顧客である政府機関が、スパイウェア業界の調査を担当するEU委員会に所属していたヨーロッパの政治家の携帯電話をペガサススパイウェアで盗聴していたことが判明した。スパイウェアの悪用を調査していた政治家本人が、その同じスパイウェアの標的になっていたという深刻な事態である。",
@@ -215,7 +215,7 @@
       "lang": "en"
     },
     {
-      "id": "54843716",
+      "id": "62574260",
       "category": "テクノロジー・AI",
       "title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
       "summary": "オーストラリアのスタートアップ・バトルフィールドへの応募期限は7月6日に迫っており、この期限を逃すと応募の機会は失われる。スタートアップがこのプログラムに参加を希望する場合は、今すぐ応募を行う必要がある。",
@@ -225,7 +225,7 @@
       "lang": "en"
     },
     {
-      "id": "51564927",
+      "id": "41353544",
       "category": "テクノロジー・AI",
       "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
       "summary": "メタのマーク・ザッカーバーグCEOが社内会議で、AIエージェント開発が予想よりも進展していないことを職員に伝えた。ザッカーバーグは当初の期待ほど急速な進歩が見られず、AI開発の課題に直面していると述べたと報告されている。同社は引き続きAI技術の開発に注力する方針を示している。",
@@ -235,7 +235,7 @@
       "lang": "en"
     },
     {
-      "id": "53533580",
+      "id": "64880614",
       "category": "テクノロジー・AI",
       "title": "Private space pilots are flying orbital missions for the US Space Force",
       "summary": "民間の宇宙パイロットたちが米宇宙軍の軌道上ミッションを実施しており、True AnomalyとRocket Labが米軍のために戦闘機のような衛星への接近飛行を行っている。この取り組みは宇宙防衛能力を強化し、民間企業と軍事部門の協力を深める重要なステップとなっている。",
@@ -245,7 +245,7 @@
       "lang": "en"
     },
     {
-      "id": "61056216",
+      "id": "88786476",
       "category": "テクノロジー・AI",
       "title": "Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
       "summary": "Thiel Capital出身のジャック・セルビーがアリゾナでの人脈を活かし、Etchedなど注目のスタートアップへの出資を獲得している。彼が立ち上げたベンチャーキャピタル企業Copper Sky Capitalは現在3億ドル規模の第2号ファンドの資金調達を進めており、規制当局への届け出によって明かされた。",
@@ -255,7 +255,7 @@
       "lang": "en"
     },
     {
-      "id": "39310542",
+      "id": "62905176",
       "category": "テクノロジー・AI",
       "title": "IQM, Europe’s first public quantum company, admits the future of the tech is uncertain",
       "summary": "フィンランド発祥のフルスタック型量子コンピュータ企業IQMは本日、約19億ドルの評価額でナスダックに上場し、ヨーロッパ初の公開量子企業となりました。同社は量子技術の将来に対して不確実性があることを認めています。IQMの上場は、急速に発展する量子コンピュータ分野においてヨーロッパの企業が国際市場で重要な足がかりを築いたことを示しています。",
@@ -265,7 +265,7 @@
       "lang": "en"
     },
     {
-      "id": "51432204",
+      "id": "36612256",
       "category": "テクノロジー・AI",
       "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
       "summary": "ニュージャージー州を拠点とするサンドイッチチェーン「ジャージーマイクス」の新規公開株式（IPO）文書を確認したところ、サンドイッチ店であるにもかかわらずAI（人工知能）について言及されていた。これは企業がAIの誇大広告に乗じて、実質的な関連性がない場合でもAIを事業説明に含める傾向が蔓延していることを示す事例であり、AI関連の過度なヒプノーシス現象が業界全体に広がっていることを象徴している。",
@@ -275,7 +275,7 @@
       "lang": "en"
     },
     {
-      "id": "56699037",
+      "id": "46371268",
       "category": "テクノロジー・AI",
       "title": "A warning sign about AI’s real cost, courtesy of Google and Amazon",
       "summary": "Googleとアマゾンなどのテック企業がAI技術の導入に伴い、電力消費が大幅に増加しているため、カーボンニュートラルの達成が困難になっているという警告が示されている。AI開発には膨大な電力が必要とされており、これらの企業が掲げた脱炭素化の誓約の実現に大きな障害となっている。この問題は、急速に拡大するAI産業において、環境への真の代償がどれほど大きいかを示す重要な事例として注目されている。",
@@ -285,83 +285,83 @@
       "lang": "en"
     },
     {
-      "id": "79105765",
+      "id": "89708171",
       "category": "台湾・中台関係",
-      "title": "China’s new ethnic unity law extends its legal reach overseas",
-      "summary": "中国が新たな民族団結法を制定し、その法的効力を海外にも拡大させている。活動家らは、この法律が民族調和を促進するのではなく、国境を越えた抑圧を正当化する可能性があると指摘している。中国政府の海外における少数民族や異議を唱える者への監視や弾圧の強化につながる懸念がある。",
-      "url": "https://www.aljazeera.com/news/2026/7/2/chinas-new-ethnic-unity-law-extends-its-legal-reach-overseas",
-      "source": "Al Jazeera English",
-      "published_at": "2026-07-02T06:30:21+00:00",
+      "title": "Super Micro says two Taiwan staff detained in probe involving its AI servers",
+      "summary": "Super Microのアメリカ本社が台湾の裁判所から、Nvidiaチップを使用したAIサーバーが違法に中国へ流出した疑いに関する調査の一環として、台湾人従業員2名の拘留を命じられたと発表した。基隆地方裁判所がこの2名を拘留し、台湾の輸出規制違反の疑いが高まっている。この事件はアメリカと台湾間の規制順守と供給チェーン管理に関する懸念を浮き彫りにしている。",
+      "url": "https://thenextweb.com/news/super-micro-says-two-taiwan-staff-detained-in-probe-involving-its-ai-servers/",
+      "source": "The Next Web",
+      "published_at": "2026-07-02T10:33:38+00:00",
       "lang": "en"
     },
     {
-      "id": "35166002",
+      "id": "27752595",
       "category": "台湾・中台関係",
-      "title": "Data dive: Kill switch and catch-up – can Europe close the sovereignty gap?",
-      "summary": "米国がAIの「キルスイッチ」を操作できることを示す中、EUと英国は主権技術に関する一連の施策を展開している。国家主導の産業政策が、2兆ドルの収益ギャップを埋めることができるかが問われている。欧州は米国のテクノロジー支配に対抗するため、独立した技術基盤の構築と産業育成を急いでいる。",
-      "url": "https://www.computerweekly.com/news/366645336/Data-dive-Kill-switch-and-catch-up-can-Europe-close-the-sovereignty-gap",
-      "source": "ComputerWeekly.com",
-      "published_at": "2026-07-02T06:15:00+00:00",
+      "title": "China and US risks leave Europe’s chip sector facing a bleak future, report warns",
+      "summary": "欧州安全保障研究所とフランスのシンク・タンクが共同で発表した報告書によると、欧州の半導体産業は中国の輸出規制と米国技術への依存増加に挟まれ、暗い未来に直面している。欧州は両大国の地政学的緊張の影響を受け、戦略的に重要な半導体産業の自立性を失うリスクにさらされている。報告書は欧州が独立した技術能力を確保するための急速な対応が必要であると警告している。",
+      "url": "https://thenextweb.com/news/eu-chip-sector-bleak-future-china-us-risks-report/",
+      "source": "The Next Web",
+      "published_at": "2026-07-02T09:42:14+00:00",
       "lang": "en"
     },
     {
-      "id": "25488707",
+      "id": "68915533",
       "category": "台湾・中台関係",
-      "title": "Super Micro reports two Taiwan staff detained in AI server smuggling probe",
-      "summary": "スーパーマイクロコンピュータは、AI サーバーの密輸疑惑に関連して台湾の従業員2名が拘束されたことを報告した。この調査は技術貿易における地政学的緊張を浮き彫りにしており、世界的な AI サプライチェーンと投資家信頼に悪影響を及ぼす可能性がある。",
-      "url": "https://cryptobriefing.com/super-micro-taiwan-staff-detained-ai-server-probe/",
-      "source": "Crypto Briefing",
-      "published_at": "2026-07-02T06:13:46+00:00",
+      "title": "Your Electronics Are About to Get Way More Expensive",
+      "summary": "AI産業の急速な成長とイラン情勢の緊張化により、半導体への需要が過去最高水準に達しており、これがスマートフォンなどの電子機器の価格上昇につながっている。チップの供給逼迫と需要増加のダブルパンチにより、消費者が購入する際の負担が大きくなることが予想される。",
+      "url": "https://slate.com/business/2026/07/ai-car-phone-expensive-iran.html",
+      "source": "Slate Magazine",
+      "published_at": "2026-07-02T09:40:00+00:00",
       "lang": "en"
     },
     {
-      "id": "48069740",
+      "id": "51075261",
       "category": "台湾・中台関係",
-      "title": "Asian stocks mostly decline on a sell-off of chip shares",
-      "summary": "アジア株式市場はコンピュータチップ株の大量売却により、ウォール街の下落に連動して総じて下落している。半導体セクターの急速な売却が市場全体の下げ圧力となり、投資家のリスク回避姿勢を反映している。この動きはテクノロジー関連銘柄への懸念の広がりを示唆している。",
-      "url": "https://abcnews.com/US/wireStory/asian-stocks-decline-sell-off-chip-shares-134399630",
-      "source": "Abcnews.com",
-      "published_at": "2026-07-02T06:13:21+00:00",
+      "title": "Generative AI Solutions to Revolutionize Fraud Detection Systems Amidst Growing Threats",
+      "summary": "生成AIは機械学習とクラウド技術の進化を活かした詐欺防止、デジタル決済と国際取引の増加への対応、AI駆動型ソリューションの採用により、詐欺管理市場に革新的な変化をもたらしている。これらの技術は増加する詐欺の脅威に対抗するための重要な機会を提供し、金融機関や企業のセキュリティ体制の強化に貢献している。",
+      "url": "https://www.globenewswire.com/news-release/2026/07/02/3321192/28124/en/Generative-AI-Solutions-to-Revolutionize-Fraud-Detection-Systems-Amidst-Growing-Threats.html",
+      "source": "GlobeNewswire",
+      "published_at": "2026-07-02T09:36:00+00:00",
       "lang": "en"
     },
     {
-      "id": "65539806",
+      "id": "34922636",
       "category": "台湾・中台関係",
-      "title": "Trouble keeps finding Supermicro as strange server shipments attract police attention in Taiwan and Singapore",
-      "summary": "スーパーマイクロ・コンピュータシステムズが台湾とシンガポールで不可解なサーバー出荷に関連し、警察の注目を集めている。違法なGPU取引の疑いで4200万ドル相当の住宅が押収されたと報じられており、同社は継続的なトラブルに直面している。この事件はスーパーマイクロの評判と事業に新たなリスクをもたらしている。",
-      "url": "https://www.theregister.com/legal/2026/07/02/trouble-keeps-finding-supermicro-as-strange-server-shipments-attract-police-attention-in-taiwan-and-singapore/5265520",
-      "source": "Theregister.com",
-      "published_at": "2026-07-02T06:02:32+00:00",
+      "title": "How AI is Revolutionizing Patient Engagement: Market to Hit $24.74 Billion by 2030",
+      "summary": "AIを活用した患者エンゲージメント市場は2030年までに247億4000万ドルに成長すると予測されており、個別化されたヘルスケアソリューション、AI駆動のバーチャルヘルスアシスタント、クラウドベースプラットフォームなどが主な成長機会となっている。この市場の拡大は、AI技術の進歩、個別化されたケアへの関心の高まり、戦略的なデジタル変革によって牽引されている。",
+      "url": "https://www.globenewswire.com/news-release/2026/07/02/3321191/28124/en/How-AI-is-Revolutionizing-Patient-Engagement-Market-to-Hit-24-74-Billion-by-2030.html",
+      "source": "GlobeNewswire",
+      "published_at": "2026-07-02T09:35:00+00:00",
       "lang": "en"
     },
     {
-      "id": "70101917",
+      "id": "61451825",
       "category": "台湾・中台関係",
-      "title": "Taiwan needs to become a ‘hornet’s nest’ of drones, US diplomat says",
-      "summary": "米国の台湾代表レイモンド・グリーン氏は、ドローンが台湾の防衛力を大幅に強化する「ゲームチェンジャー」となる機会だと述べ、台湾がドローンの集中拠点となることの重要性を強調した。同氏の発言は、限定的な軍事力を補完するための革新的防衛戦略としてドローン技術活用の必要性を示唆している。",
-      "url": "https://www.aljazeera.com/news/2026/7/2/taiwan-needs-to-become-a-hornets-nest-of-drones-us-diplomat-says",
-      "source": "Al Jazeera English",
-      "published_at": "2026-07-02T05:40:48+00:00",
+      "title": "AI in Inventory Management Market Report 2026",
+      "summary": "AI在庫管理市場は、電子商取引の成長、倉庫自動化の需要、ERP導入、小売業の拡大から利益を得る主要な機会を有しており、AI予測、スマート倉庫、自動補充、フリート最適化がの重要なトレンドとなっている。",
+      "url": "https://www.globenewswire.com/news-release/2026/07/02/3321190/28124/en/AI-in-Inventory-Management-Market-Report-2026.html",
+      "source": "GlobeNewswire",
+      "published_at": "2026-07-02T09:34:00+00:00",
       "lang": "en"
     },
     {
-      "id": "58045971",
+      "id": "52592347",
       "category": "台湾・中台関係",
-      "title": "Chinese and US risks mean EU chip sector faces a 'bleak future'",
-      "summary": "EU（欧州連合）のチップ産業は、米国の技術への依存と中国への輸出制限リスクにより、厳しい状況に直面している。欧州最大企業ASMLが米国の圧力で中国への製造装置輸出を禁止される可能性があり、設計ソフトウェアなど重要な技術も米国に依存している。こうした脆弱性により、EUのチップ産業の将来は悲観的な見通しとなっている。",
-      "url": "https://economictimes.indiatimes.com/tech/technology/chinese-and-us-risks-mean-eu-chip-sector-faces-a-bleak-future/articleshow/132129384.cms",
-      "source": "The Times of India",
-      "published_at": "2026-07-02T05:04:09+00:00",
+      "title": "Global Ghost Kitchens Market Poised for Unprecedented Growth With $204 Billion Valuation by 2030",
+      "summary": "ゴーストキッチン市場はオンライン食品配達の需要増加、コスト効率、利便性を背景に、2030年までに2040億ドルの評価額に達する見通しである。自動化されたキッチン運営、複数ブランドモデル、インフルエンサー主導のバーチャルブランドなどが成長機会となり、アジア太平洋地域がこの市場の主導役を担うと予想されている。",
+      "url": "https://www.globenewswire.com/news-release/2026/07/02/3321188/28124/en/Global-Ghost-Kitchens-Market-Poised-for-Unprecedented-Growth-With-204-Billion-Valuation-by-2030.html",
+      "source": "GlobeNewswire",
+      "published_at": "2026-07-02T09:33:00+00:00",
       "lang": "en"
     },
     {
-      "id": "71008965",
+      "id": "76773558",
       "category": "台湾・中台関係",
-      "title": "Takaichi Turns To India As Diet Tensions Build At Home",
-      "summary": "高市早苗首相は7月2日のインド訪問を通じて、外交政策、経済安全保障、戦略的投資を日本の政治課題の中心に据えながら、野党は国会での手続きと未解決の問題を巡って政府への圧力を継続している。首相のインド訪問は、両国間の関係強化と経済協力の深化を目指すものであり、アジア太平洋地域での戦略的地位の確立に向けた日本の姿勢を示している。",
-      "url": "https://newsonjapan.com/article/149843.php",
-      "source": "Newsonjapan.com",
-      "published_at": "2026-07-02T04:56:15+00:00",
+      "title": "Automation Outsourcing Global Market Report 2026",
+      "summary": "自動化アウトソーシング市場は、業務効率化とAI駆動型ソリューションへの需要増加により急速に拡大しており、インテリジェント自動化、クラウドベースのプラットフォーム、RPA（ロボティック・プロセス・オートメーション）サービスの採用が様々な業界で主な成長機会となっている。",
+      "url": "https://www.globenewswire.com/news-release/2026/07/02/3321187/28124/en/Automation-Outsourcing-Global-Market-Report-2026.html",
+      "source": "GlobeNewswire",
+      "published_at": "2026-07-02T09:32:00+00:00",
       "lang": "en"
     }
   ]
