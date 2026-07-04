@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T14:29:01.404714+00:00",
+  "updated_at": "2026-07-04T23:02:00.301856+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -45,17 +45,67 @@
   "digest": [],
   "news": [
     {
-      "id": "23907426",
+      "id": "38224082",
+      "category": "経済・ビジネス（日本）",
+      "title": "アメリカ建国250年 各地で祝賀イベント 政権に抗議の声も",
+      "summary": "アメリカが建国250年の独立記念日を迎え、各地で祝賀イベントが開催されました。一方で民主主義や自由が脅かされているとしてトランプ政権への抗議の声も同時に上がっています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260705/k10015168981000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-04T22:58:56+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "35350540",
+      "category": "経済・ビジネス（日本）",
+      "title": "イラン ハメネイ師葬儀続く “米と1週間 協議中断合意”報道も",
+      "summary": "イランの前最高指導者ハメネイ師の葬儀が行われており、米国とイランは一連の行事終了まで戦闘終結協議を1週間中断することに合意したと伝えられている。イラン側は参列の各国要人との会談を進めている。",
+      "url": "http://www3.nhk.or.jp/news/html/20260705/k10015168971000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-04T22:37:08+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "42328534",
+      "category": "経済・ビジネス（日本）",
+      "title": "ゼレンスキー大統領 ロシアによる東部要衝の掌握主張を否定",
+      "summary": "ウクライナのゼレンスキー大統領は、ロシアがドネツク州の要衝を掌握したとの発表を否定し、事実ではないと主張しました。ウクライナは対抗措置として、ロシアの石油関連施設への攻撃を実施し、今後も対抗していく姿勢を示しています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260705/k10015169001000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-04T21:36:59+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "12803561",
+      "category": "経済・ビジネス（日本）",
+      "title": "【詳細】ロシア ウクライナに軍事侵攻（7月4日の動き）",
+      "summary": "ロシアによるウクライナへの軍事侵攻が継続しており、各地でロシア軍とウクライナ軍の戦闘が激化している。多数の市民が国外への避難を余儀なくされており、戦闘状況と関係国の外交動向が刻々と変わっている状況が報告されている。",
+      "url": "http://www3.nhk.or.jp/news/html/20260705/k10015140541000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-04T20:55:16+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "46848392",
+      "category": "経済・ビジネス（日本）",
+      "title": "中国 台湾東海域パトロール「常態的に実施」台湾当局は非難",
+      "summary": "中国海警局は台湾東海域でのパトロールを常態的に実施すると発表し、管轄権の主張を強めようとしています。これに対し、台湾当局は中国が台湾の海域における主権的権利を持たないとして強く非難しています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260705/k10015168911000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-04T20:12:24+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "67850702",
       "category": "経済・ビジネス（日本）",
       "title": "カボベルデ どんな国？W杯で大躍進 日本と意外なつながりも",
       "summary": "カボベルデはサッカーワールドカップで初出場ながら決勝トーナメントに進出し、連覇をねらうアルゼンチンに延長戦で敗れるなど大躍進を遂げた。アフリカ大西洋沿岸の10の島々からなる国で、面積は滋賀県程度、約59万人が暮らしており、古くから日本と深い関係がある。",
       "url": "http://www3.nhk.or.jp/news/html/20260704/k10015169011000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-07-04T13:26:04+00:00",
+      "published_at": "2026-07-04T15:20:31+00:00",
       "lang": "ja"
     },
     {
-      "id": "41034746",
+      "id": "83336615",
       "category": "経済・ビジネス（日本）",
       "title": "建国250年 トランプ大統領 独立記念日前に演説 党派色強い内容",
       "summary": "アメリカのトランプ大統領は独立記念日を前にサウスダコタ州で演説し、民主党を念頭に「共産主義を速やかに打破する」と述べるなど党派色の強い内容を展開しました。アメリカメディアは、11月の中間選挙に向けたウォームアップのような演説だと報じています。",
@@ -65,7 +115,7 @@
       "lang": "ja"
     },
     {
-      "id": "44296127",
+      "id": "70302302",
       "category": "経済・ビジネス（日本）",
       "title": "イラン 前最高指導者ハメネイ師の葬儀始まる 大勢の市民が追悼",
       "summary": "イランの前最高指導者ハメネイ師の葬儀が首都テヘランで行われ、多くの市民が追悼のために集まりました。ハメネイ師はアメリカとイスラエルの攻撃により本年2月に殺害されていました。",
@@ -75,57 +125,7 @@
       "lang": "ja"
     },
     {
-      "id": "89896337",
-      "category": "経済・ビジネス（日本）",
-      "title": "チベット人が国連本部前で焼身自殺 中国の民族政策への抗議か",
-      "summary": "ニューヨークの国連本部前でチベット出身の男性が焼身自殺を図り、中国の民族政策に対する抗議の意思表示とみられています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168811000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-04T07:15:32+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "21550810",
-      "category": "経済・ビジネス（日本）",
-      "title": "「新婚です」テイラー・スウィフトさん NFL選手と結婚を発表",
-      "summary": "世界的人気歌手のテイラー・スウィフトさんがNFL選手のトラビス・ケルシー選手と結婚を発表し、ニューヨークでは著名人を集めた大規模な祝賀イベントが開催されました。この発表はアメリカのメディアで大きく報道されています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168781000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-04T06:14:13+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "44455433",
-      "category": "経済・ビジネス（日本）",
-      "title": "ベネズエラ地震 日本の国際緊急援助隊が現地に向け出発",
-      "summary": "南米ベネズエラで6月に発生した地震により2600人以上が死亡したため、日本の国際緊急援助隊の医療チームが羽田空港から現地へ向けて出発しました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168711000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-04T02:51:02+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "49830597",
-      "category": "経済・ビジネス（日本）",
-      "title": "プーチン大統領 ウクライナ東部要衝掌握受け侵攻継続意向示す",
-      "summary": "ロシアのプーチン大統領は、東部ドネツク州の要衝をロシア軍が掌握したとの報告を受け、ドネツク州全体の解放に向けた鍵となると主張しました。プーチン大統領はウクライナへの侵攻を継続する意向を強調しています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168661000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-04T02:03:47+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "38597990",
-      "category": "経済・ビジネス（日本）",
-      "title": "【動画解説】なぜ？40度超えも 欧州で記録的熱波",
-      "summary": "ヨーロッパでは6月中旬から記録的な熱波に見舞われ、フランスやドイツで40度を超える高温が観測されています。WHO事務局長は6月21日以降、例年より1300人以上の死者が増加していることを発表し、各国に対策強化を呼びかけています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168651000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-03T23:42:50+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "74491287",
+      "id": "20626568",
       "category": "経済・ビジネス（世界）",
       "title": "'Start work at 11' - but will other bosses be as flexible over England's 1am match?",
       "summary": "イングランドの午前1時の試合に向けて、一部の企業が従業員に午前11時からの勤務開始を認める柔軟な対応を取っているが、他の雇用主も同様に対応するかは不確実な状況にある。雇用主らは従業員の勤務の融通性を認めるよう「常識」の発揮が呼びかけられており、この対応がどの程度広がるかが注目されている。",
@@ -135,7 +135,7 @@
       "lang": "en"
     },
     {
-      "id": "89567060",
+      "id": "36797373",
       "category": "経済・ビジネス（世界）",
       "title": "Instagram running ads promoting child sexual abuse material in India, BBC finds",
       "summary": "BBCの調査により、インスタグラムがインドで児童への性的虐待に関する広告を配信していることが判明した。これらの広告は「レイプ」や「児童動画」を含む用語を使用し、メッセージングアプリのテレグラムのコンテンツにリンクしている。インスタグラムはこのような有害な広告の配信を許可することで、児童性虐待素材の流通を助長している状況が報告されている。",
@@ -145,7 +145,7 @@
       "lang": "en"
     },
     {
-      "id": "54240120",
+      "id": "78677593",
       "category": "経済・ビジネス（世界）",
       "title": "Burnham says there is some room for movement on tax",
       "summary": "バーナムは税金問題について若干の調整の余地があると述べているが、次期首相候補である彼は労働党の付加価値税、所得税、国民保険料を引き上げないという公約には固執すると述べている。",
@@ -155,7 +155,7 @@
       "lang": "en"
     },
     {
-      "id": "91729493",
+      "id": "94136780",
       "category": "経済・ビジネス（世界）",
       "title": "'Less than 10% sheep': How millions may have unknowingly eaten goat, skin and fat kebabs",
       "summary": "英国の食品当局の調査により、ラム肉と表示されて販売されていたケバブの多くが、実は山羊肉や皮、脂肪を含む代替品で製造されていたことが判明した。この事件は2013年の馬肉ラザニャスキャンダルと比較されており、数百万人が意図せず異なる肉を消費していた可能性がある。食品表示の不正と消費者詐欺に関する懸念が改めて浮上している。",
@@ -165,7 +165,7 @@
       "lang": "en"
     },
     {
-      "id": "84831624",
+      "id": "38564058",
       "category": "経済・ビジネス（世界）",
       "title": "No-gift policy for Taylor Swift, but how much should you give at a wedding?",
       "summary": "ウェディングリストに代わって現金での贈り物をリクエストするカップルが増えている一方で、ゲストの間では適切な金額について意見が分かれている。調査によると、ゲストは結婚式への贈り物として平均400ポンドまでを贈ることを考えており、この金額設定は招待客とカップルの関係の深さや経済状況によって異なる傾向がある。",
@@ -175,7 +175,7 @@
       "lang": "en"
     },
     {
-      "id": "45323252",
+      "id": "27642537",
       "category": "経済・ビジネス（世界）",
       "title": "Tackle workplace sickness to unlock hidden growth, former John Lewis boss says",
       "summary": "元ジョン・ルイス会長は、職場での病欠問題に対処することが経済成長の鍵であると述べており、すでに英国の大手企業250社以上が彼の「ブリテンを働かせよう」タスクフォースに参加している。職場の健康管理と従業員のウェルネスの向上により、隠れた経済成長の可能性が引き出されると主張している。",
@@ -185,7 +185,7 @@
       "lang": "en"
     },
     {
-      "id": "73765944",
+      "id": "59482533",
       "category": "経済・ビジネス（世界）",
       "title": "AI is 'not smart' so what's next in artificial intelligence?",
       "summary": "最先端のAI研究者ヤン・ルカンは、より柔軟なAIシステムを開発するスタートアップを立ち上げており、現在のAIは「賢くない」という課題に対する次のステップを模索している。",
@@ -195,7 +195,7 @@
       "lang": "en"
     },
     {
-      "id": "12420674",
+      "id": "61862089",
       "category": "経済・ビジネス（世界）",
       "title": "Pubs allowed to stay open until 5am on Monday for England Mexico match",
       "summary": "イングランドが午前1時に試合を迎えるワールドカップの試合に向けて、政府がパブの営業時間延長を認める可能性が出てきた。政府は当初、ワールドカップのためにライセンス法をさらに緩和しないと述べていたが、方針を変える可能性が示唆されている。この決定は、深夜の試合を観戦したいパブの顧客と事業者の要望に応えるものとなる可能性がある。",
@@ -205,7 +205,47 @@
       "lang": "en"
     },
     {
-      "id": "33144037",
+      "id": "58361869",
+      "category": "テクノロジー・AI",
+      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "summary": "Googleの新しいCMでは、もし建国の父たちがGoogle Workspaceにアクセスできていたら、独立宣言がどのように書かれていたかを想像している。このCMは、独立宣言署名から250年後の現在、AIを含むGoogleのツールがいかに創作プロセスを支援できるかを示すもので、歴史的な文書とモダンなテクノロジーの融合を楽しくユーモアのある形で表現している。",
+      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-04T20:55:25+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "87676846",
+      "category": "テクノロジー・AI",
+      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "summary": "Midjourneyはハリウッドスタジオ3社との法的紛争の一環として、これらのスタジオが自社でどのようにAIを使用しているかを明かすよう強制しようとしている。Midjourneyはこの開示により、スタジオ側の二重基準を指摘し、自社のAI利用慣行が正当であることを主張する戦略とみられている。この動きはAIとコンテンツ使用権をめぐる業界内の緊張が高まる中での展開となっている。",
+      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-04T18:00:05+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "78225265",
+      "category": "テクノロジー・AI",
+      "title": "Alibaba reportedly bans employees from using Claude Code",
+      "summary": "アリババがClaudeコードを高リスクソフトウェアに分類し、従業員の使用を禁止したと報じられている。この決定により、同社の従業員はこのAIコード生成ツールを仕事で利用することができなくなった。",
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-04T16:32:08+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "85961440",
+      "category": "テクノロジー・AI",
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "summary": "Mistral AIは2023年の設立以来、大規模な資金調達を実現しており、オープンソースのAIモデルを提供することで「最先端のAIを誰もが利用できるようにする」という野心的な目標を掲げています。OpenAIの競合企業として位置付けられるMistral AIは、民主化されたAI技術の普及を目指しています。",
+      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-04T15:51:32+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "13057476",
       "category": "テクノロジー・AI",
       "title": "The fanfiction community is at war with AI — and itself",
       "summary": "ファンフィクション・コミュニティが生成AI使用作品の排除を目指す新たな運動を開始したが、その検出方法は不確実であり、多くの執筆者が誤って対象になる可能性がある。ClaudeやChatGPTなどのAIツール使用に対する広範な反感がある一方で、これらのツール自体が議論の焦点となっており、コミュニティ内部での見解の相違も深刻な状況となっている。",
@@ -215,153 +255,113 @@
       "lang": "en"
     },
     {
-      "id": "73020042",
+      "id": "59547740",
       "category": "テクノロジー・AI",
-      "title": "The only AI glossary you’ll need this year",
-      "summary": "AIの急速な発展に伴い、多くの新しい用語やスラングが登場しており、このことばの辞書では今年必要となる重要な単語やフレーズの定義を提供している。AIに関連する業界の理解を深めるため、よく使われる用語の説明をまとめたもので、読者がAI関連の議論や情報をより理解しやすくすることを目的としている。",
-      "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-03T21:20:00+00:00",
+      "title": "Forget AI Stocks: This Defense Giant Has Raised Its Dividend Each of the Last 10 Years and Currently Pays a 2.75% Yield",
+      "summary": "ここ10年間毎年配当を引き上げている防衛関連大手企業が、現在2.75%の利回りで配当を支払っており、AI株ばかりに注目する投資家にとって有力な選択肢となっている。防衛セクターの企業は景気変動に強く安定した配当成長を提供する傾向があり、長期的な収入重視の投資家に適している。AI関連企業への投資ブームの中で、こうした配当利回りの高い防衛関連企業は見過ごされがちだが、安定した収益源として再評価される可能性がある。",
+      "url": "https://biztoc.com/x/15e4b6b32cba7303",
+      "source": "Biztoc.com",
+      "published_at": "2026-07-03T22:55:40+00:00",
       "lang": "en"
     },
     {
-      "id": "75368575",
+      "id": "61490636",
       "category": "テクノロジー・AI",
-      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
-      "summary": "ブラウザ戦争はもはや検索エンジンについてではなく、ChromeとSafariに対抗する優れた代替ブラウザが多く登場している。今日利用可能なトップクラスの代替ブラウザのいくつかを概説する記事である。現在、ユーザーはプライバシー保護やカスタマイズ性など様々な基準でブラウザを選択する傾向が強まっている。",
-      "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-03T18:43:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "59336924",
-      "category": "テクノロジー・AI",
-      "title": "The Dune keypad device can be your meeting controller and more",
-      "summary": "Duneというキーパッドデバイスは3つのボタンを備えており、利用しているアプリケーションに応じてその機能が自動的に変わります。例えばZoomなどのミーティングアプリケーション使用時には、マイクのオン・オフ、ビデオのオン・オフ、ウィンドウを前面に表示するなどの機能が割り当てられます。このデバイスによって、ユーザーはキーボードやマウスから手を離さずにミーティングを効率的に操作できるようになります。",
-      "url": "https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-03T18:28:30+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "56015887",
-      "category": "テクノロジー・AI",
-      "title": "Chevy built an all-American EV truck — why is nobody buying it?",
-      "summary": "シボレーが開発したアメリカンEVトラック「シルバラード EV」は実用的な電動ピックアップトラックの第一段階の製品だが、販売が伸び悩んでいる現状にある。本記事は同車の改善点を検討し、市場での競争力を高めるための課題を探っている。",
-      "url": "https://techcrunch.com/2026/07/03/chevy-built-an-all-american-ev-truck-why-is-nobody-buying-it/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-03T16:30:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "84968648",
-      "category": "テクノロジー・AI",
-      "title": "Amazon emissions surge as AI infrastructure expansion outpaces efficiency gains",
-      "summary": "アマゾンの温室効果ガス排出量は昨年16%増加し、過去最高を記録した。AI インフラの拡張に伴う電力消費が34%増加したことが主な原因であり、エネルギー効率の改善では排出量増加に追いつけなかった。同社は再生可能エネルギーへの投資を続けているものの、急速な AI 技術導入による電力需要の急増が環境目標の達成を困難にしている。",
-      "url": "https://4sysops.com/archives/amazon-emissions-surge-as-ai-infrastructure-expansion-outpaces-efficiency-gains/",
-      "source": "4sysops.com",
-      "published_at": "2026-07-03T14:23:16+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "69482604",
-      "category": "テクノロジー・AI",
-      "title": "Other Barks & Bites for Friday, July 3: Google White Paper Says Only AI Outputs Infringe Copyright; CJEU Upholds €4.1B Fine for Android Abuses; and CAFC Orders Remand to Review Indefiniteness Ruling Under Dyfan",
-      "summary": "Googleの白書がAIの出力のみが著作権侵害に該当すると主張しており、EU司法裁判所がAndroidの独占禁止法違反に対する41億ユーロの罰金を支持し、米連邦巡回控訴裁判所がDyfan基準の下で不明確性判断の再審理を命じた。また英国最高裁がAppleの5億2千万ドルの4G特許ライセンス料率に関する判決控訴の口頭弁論を行い、米連邦巡回控訴裁判所がTrackTechに関するデラウェア地区裁の判決を差し戻した。",
-      "url": "https://ipwatchdog.com/?p=203207",
-      "source": "IPWatchdog.com",
-      "published_at": "2026-07-03T14:15:09+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "17184619",
-      "category": "テクノロジー・AI",
-      "title": "SAP freezes hiring and travel to shovel cash into AI",
-      "summary": "ヨーロッパ最大のソフトウェア企業SAPは、AI分野への投資を加速させるため採用凍結と非必須出張の一時停止を発表しました。同社は限られた資金をAI開発に集中させるため、経営費の削減に踏み切り、この方針は水曜夜の従業員向け内部メールで通知されました。SAPはAI市場での競争力強化を目指し、経営資源の再配分を実行しています。",
-      "url": "https://thenextweb.com/news/sap-hiring-travel-freeze-ai-push/",
-      "source": "The Next Web",
-      "published_at": "2026-07-03T14:14:55+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "25864019",
-      "category": "台湾・中台関係",
-      "title": "Display Module Market worth $159.81 billion by 2032 - Exclusive Report by MarketsandMarkets™",
-      "summary": "ディスプレイモジュール市場は2026年の1369億1000万ドルから2032年には1598億1000万ドルへ成長し、年平均成長率は2.6%と予測されている。MarketsandMarkets™の報告書によると、この市場は今後6年間で着実な拡大が見込まれており、170のマーケットデータテーブルと60の図表を含む詳細な分析が提供されている。",
-      "url": "https://www.prnewswire.com/news-releases/display-module-market-worth-159-81-billion-by-2032---exclusive-report-by-marketsandmarkets-302817483.html",
+      "title": "Menu Order AI Appoints Krishna Kumar as Chief Operating Officer",
+      "summary": "Menu Order AIは、エンタープライズ成長の加速化、レストランパートナーシップの拡大、AI技術の革新を推進するため、AI・テクノロジー分野のベテラン経営者クリシュナ・クマール氏をチーフ・オペレーティング・オフィサー（COO）に任命した。同社は2026年7月3日にこの人事を発表し、組織体制の強化を図っている。",
+      "url": "https://www.prnewswire.com/news-releases/menu-order-ai-appoints-krishna-kumar-as-chief-operating-officer-302817831.html",
       "source": "PRNewswire",
-      "published_at": "2026-07-03T14:15:00+00:00",
+      "published_at": "2026-07-03T22:29:00+00:00",
       "lang": "en"
     },
     {
-      "id": "62573479",
-      "category": "台湾・中台関係",
-      "title": "Notable links: July 3, 2026",
-      "summary": "2026年7月3日の注目すべきリンクは、AI、監視、オープンテクノロジー、およびビジネスとしてのニュースという4つの主要なテーマに焦点を当てている。これらのテーマは、現在の技術動向と社会的課題の重要な側面を示唆している。具体的な記事内容は提供されていないが、デジタル時代における重要な議論領域を代表している。",
-      "url": "https://werd.io/notable-links-july-3-2026/",
-      "source": "Werd.io",
-      "published_at": "2026-07-03T14:09:16+00:00",
+      "id": "59917514",
+      "category": "テクノロジー・AI",
+      "title": "AI is changing how clients find lawyers and also reshaping legal marketing",
+      "summary": "AI技術により、依頼者が弁護士を探す方法が変わり、法律事務所のマーケティング戦略も大きく変わろうとしている。成功する法律事務所は、伝統的な法律専門知識と、人間のユーザーとAIシステムの両方に理解できる強力なデジタルプレゼンスを組み合わせることが重要になると考えられている。",
+      "url": "https://www.digitaljournal.com/article/ai-is-changing-how-clients-find-lawyers-and-also-reshaping-legal-marketing/",
+      "source": "Digital Journal",
+      "published_at": "2026-07-03T22:23:30+00:00",
       "lang": "en"
     },
     {
-      "id": "52575401",
+      "id": "75736000",
       "category": "台湾・中台関係",
-      "title": "US and Japan lead Valiant Shield 2026 amid Chinese, Russian naval patrols",
-      "summary": "米国と日本が主導するヴァリアント・シールド2026演習は、中国とロシアの海軍哨戒活動の中で実施されており、地域の軍事態勢の強化と戦略的競争の激化を示している。この演習は地域の安定性に影響を与え、紛争に対する市場認識にも影響を及ぼしている。",
-      "url": "https://cryptobriefing.com/us-and-japan-lead-valiant-shield-2026-amid-chinese-russian-naval-patrols/",
-      "source": "Crypto Briefing",
-      "published_at": "2026-07-03T12:14:42+00:00",
+      "title": "Conformal Coatings Market worth $2.19 billion by 2031 - Exclusive Report by MarketsandMarkets™",
+      "summary": "コンフォーマルコーティング市場は2031年までに21億9000万ドル規模に成長すると予測されており、アクリル、シリコン、エポキシ、ウレタン、パリレンなどの種類が消費者向け電子機器、自動車、航空宇宙防衛産業などの幅広い産業で使用されている。この市場拡大は電子機器の防湿・防塵性能向上の需要増加が主な要因となっている。",
+      "url": "https://www.prnewswire.com/news-releases/conformal-coatings-market-worth-2-19-billion-by-2031---exclusive-report-by-marketsandmarkets-302817494.html",
+      "source": "PRNewswire",
+      "published_at": "2026-07-03T22:40:00+00:00",
       "lang": "en"
     },
     {
-      "id": "69483500",
+      "id": "54657829",
       "category": "台湾・中台関係",
-      "title": "Explosive Growth Predicted: AI in Interior Design Market to Surpass $4 Billion by 2030 Amid Rising Smart Home Demand",
-      "summary": "インテリアデザイン業界におけるAI活用市場は、スマートホーム需要の拡大に伴い2030年までに40億ドルを超える急成長が予測されている。パーソナライズされたスマートホームデザイン、AR/VR統合、サステナビリティへの対応が主な成長機会であり、消費者のカスタマイズやスマートリビングソリューションへの需要増加とAI設計ツールの技術進展がこの市場拡大を推進している。",
-      "url": "https://www.globenewswire.com/news-release/2026/07/03/3321819/28124/en/Explosive-Growth-Predicted-AI-in-Interior-Design-Market-to-Surpass-4-Billion-by-2030-Amid-Rising-Smart-Home-Demand.html",
-      "source": "GlobeNewswire",
-      "published_at": "2026-07-03T12:03:00+00:00",
+      "title": "Conformal Coatings Market worth $2.19 billion by 2031 - Exclusive Report by MarketsandMarkets™",
+      "summary": "コンフォーマルコーティング市場は2031年までに21億9000万ドルに達すると予測されており、アクリル、シリコン、エポキシ、ウレタン、パリレンなどの種類が消費者向け電子機器、自動車、航空宇宙・防衛産業など様々な業界で使用されている。電子機器の防湿・防腐食性能への需要増加が市場拡大を牽引しており、MarketsandMarketsの調査報告書が詳細な市場分析を提供している。",
+      "url": "https://www.prnewswire.co.uk/news-releases/conformal-coatings-market-worth-2-19-billion-by-2031---exclusive-report-by-marketsandmarkets-302817486.html",
+      "source": "PR Newswire UK",
+      "published_at": "2026-07-03T22:40:00+00:00",
       "lang": "en"
     },
     {
-      "id": "70433695",
+      "id": "45031371",
       "category": "台湾・中台関係",
-      "title": "Exponential Growth Forecasted for AI in Contract Management Market: From $1.51 Billion in 2025 to $4.25 Billion by 2030",
-      "summary": "契約管理におけるAI市場は2025年の15億1000万ドルから2030年には42億5000万ドルへ急速な成長が予測されており、デジタル変革やクラウドソリューション、AI技術の革新が拡大を牽引している。自動化されたワークフロー、コンプライアンス、リスク管理を通じた効率性の向上が主な成長機会とされている。",
-      "url": "https://www.globenewswire.com/news-release/2026/07/03/3321818/28124/en/Exponential-Growth-Forecasted-for-AI-in-Contract-Management-Market-From-1-51-Billion-in-2025-to-4-25-Billion-by-2030.html",
-      "source": "GlobeNewswire",
-      "published_at": "2026-07-03T12:02:00+00:00",
+      "title": "Is China’s new ethnic unity law a step towards forced assimilation?",
+      "summary": "中国の新しい民族団結法は強制的な同化への一歩なのかという議論が生じている。政府はこの法律が共有の国家的アイデンティティを構築するのに役立つと主張しているが、少数民族の自治権や文化的独自性が制限される可能性について懸念する声もある。この法律がどの程度まで実施され、実際にどのような影響をもたらすかについては、国際社会からの注視が続いている。",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/3/is-chinas-new-ethnic-unity-law-a-step-towards-forced-assimilation-2",
+      "source": "Al Jazeera English",
+      "published_at": "2026-07-03T19:59:27+00:00",
       "lang": "en"
     },
     {
-      "id": "17931232",
+      "id": "28876570",
       "category": "台湾・中台関係",
-      "title": "A New COVID Subvariant Is Driving a Global Wave: Find Out Whether It Has Reached Your State",
-      "summary": "新型コロナウイルスの新しいサブバリアント「ニンバス」（NB.1.8.1）が米国で優勢株となり、現在約43%の症例を占めており、10州で下水中のウイルス濃度が高い水準に達しているため、感染リスクの高い層への影響が懸念されている。",
-      "url": "https://www.medicaldaily.com/nb181-nimbus-covid-variant-us-states-summer-2026-cdc-475910",
-      "source": "Medical Daily",
-      "published_at": "2026-07-03T12:00:32+00:00",
+      "title": "Conroy's 'dead cat' reminds us Labor has tough calls ahead",
+      "summary": "アルバネーゼ政府は動乱の6ヶ月間を経て、困難な財政上および政治的決定に直面している。コンロイ氏の「死んだ猫」の発言は、労働党政府がこれからも難しい選択を迫られることを思い起こさせている。政府は経済的課題と政治的圧力のバランスを取りながら、重要な政策判断をしていく必要があるという状況が浮き彫りになっている。",
+      "url": "https://www.abc.net.au/news/2026-07-04/pat-conroy-defence-aukus-labor-conference-economy-history-wars/106775108",
+      "source": "ABC News (AU)",
+      "published_at": "2026-07-03T19:00:00+00:00",
       "lang": "en"
     },
     {
-      "id": "35559872",
+      "id": "67997623",
       "category": "台湾・中台関係",
-      "title": "With the Taipei Biennial Ahead, Cecilia Alemani Reflects On What Makes an Exhibition Feel Alive",
-      "summary": "台北ビエンナーレを控えて、キュレーターのセシリア・アレマーニは展覧会を生き生きとさせるものについて思索している。台北美術館が主催し2027年に開催される第15回台北ビエンナーレはアレマーニがアジアで手がける初めての展覧会となる。",
-      "url": "https://observer.com/2026/07/arts-interview-curator-cecilia-alemani-taipei-biennial/",
-      "source": "Observer",
-      "published_at": "2026-07-03T12:00:26+00:00",
+      "title": "Cathay Pacific: New York – Taipei, Taiwan. $928. Roundtrip, including all Taxes",
+      "summary": "キャセイパシフィック航空がニューヨークから台北への往復航空券を928ドル（税金込み）で販売している。11月23日から30日までの旅行日程を例としており、より詳しい運賃の空席情報については「料金の空席状況」と「予約方法」を確認する必要がある。台北への格安セール航空券のオファーとなっている。",
+      "url": "https://www.theflightdeal.com/2026/07/03/cathay-pacific-new-york-taipei-taiwan-928-roundtrip-including-all-taxes/",
+      "source": "Theflightdeal.com",
+      "published_at": "2026-07-03T17:53:00+00:00",
       "lang": "en"
     },
     {
-      "id": "79502797",
+      "id": "63965271",
       "category": "台湾・中台関係",
-      "title": "China commends Honduran FM's remarks on one-China principle: FM",
-      "summary": "ホンジュラスの外交官がワン・チャイナ原則に関する肯定的な発言を行ったことに対して、中国外交部は高く評価すると発表しました。中国は、ワン・チャイナ原則が国際社会の普遍的コンセンサスであり基本的な規範であると強調しており、ホンジュラスの立場を歓迎しています。この発言は中国と中米地域との外交関係強化を示すものです。",
-      "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260703-globaltimes01.htm",
-      "source": "Globalsecurity.org",
-      "published_at": "2026-07-03T12:00:00+00:00",
+      "title": "Dissident Hong Kong bookseller Lam Wing-kee dies aged 70",
+      "summary": "中国に批判的な著作を販売して北京に抵抗していた香港の反体制派書店主ラム・ウィング・キーが肺がんで亡くなり、70歳でした。彼は香港の言論の自由と出版の自由を守るための活動で知られており、中国政府の圧力にも屈しませんでした。ラムの死は、香港の民主化運動と表現の自由を巡る継続的な闘争を象徴する出来事となっています。",
+      "url": "https://www.bbc.co.uk/news/articles/cwy0wy0nenvo",
+      "source": "BBC News",
+      "published_at": "2026-07-03T16:31:40+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "42020693",
+      "category": "台湾・中台関係",
+      "title": "TotalEnergies Offers Millions of Barrels of Iraqi Crude to Asian Buyers",
+      "summary": "トタルエネルジーズがイラク産バサラ・ミディアムおよびバサラ・ヘビークルードを今月と来月のアジア向け即時納入として数百万バレル提供している。トレーダーが複数の売却提案を受けたことで、湾岸の主要産油国であるイラクの原油供給動向に変化が生じている可能性が示唆されている。",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-Offers-Millions-of-Barrels-of-Iraqi-Crude-to-Asian-Buyers.html",
+      "source": "OilPrice.com",
+      "published_at": "2026-07-03T15:30:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "58193973",
+      "category": "台湾・中台関係",
+      "title": "3 iShares ETFs to Buy Now as South Korea and Taiwan Soar Past 100% Gains in 2026",
+      "summary": "2026年の北東アジア株式相場は、世界最先端の半導体を製造する韓国と台湾が主導し、両国の株式が100%を超える上昇率を達成している。この好調なパフォーマンスに乗じて、iShares MSCIシリーズなど複数の関連ETFが投資対象として注目されており、半導体産業の成長に賭ける投資家にとって購入の機会となっている。",
+      "url": "https://247wallst.com/investing/2026/07/03/3-ishares-etfs-to-buy-now-as-south-korea-and-taiwan-soar-past-100-gains-in-2026/",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-07-03T15:13:18+00:00",
       "lang": "en"
     }
   ]
