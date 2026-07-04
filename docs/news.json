@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T23:10:00.179442+00:00",
+  "updated_at": "2026-07-04T06:22:22.373894+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -45,7 +45,67 @@
   "digest": [],
   "news": [
     {
-      "id": "10928270",
+      "id": "34749635",
+      "category": "経済・ビジネス（日本）",
+      "title": "「新婚です」テイラー・スウィフトさん NFL選手と結婚を発表",
+      "summary": "世界的人気歌手のテイラー・スウィフトさんがNFL選手のトラビス・ケルシー選手と結婚を発表し、ニューヨークでは著名人を集めた大規模な祝賀イベントが開催されました。この発表はアメリカのメディアで大きく報道されています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168781000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-04T06:14:13+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "44303129",
+      "category": "経済・ビジネス（日本）",
+      "title": "建国250年 トランプ大統領 独立記念日前に演説 党派色強い内容",
+      "summary": "アメリカのトランプ大統領は独立記念日を前にサウスダコタ州で演説し、民主党を念頭に「共産主義を速やかに打破する」と述べるなど党派色の強い内容を展開しました。アメリカメディアは、11月の中間選挙に向けたウォームアップのような演説だと報じています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168671000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-04T06:09:22+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "77550223",
+      "category": "経済・ビジネス（日本）",
+      "title": "イラン 前最高指導者ハメネイ師の葬儀始まる 大勢の市民が追悼",
+      "summary": "イランの前最高指導者ハメネイ師の葬儀が首都テヘランで行われ、多くの市民が追悼のために集まりました。ハメネイ師はアメリカとイスラエルの攻撃により本年2月に殺害されていました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168741000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-04T05:48:59+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "69673751",
+      "category": "経済・ビジネス（日本）",
+      "title": "ベネズエラ地震 日本の国際緊急援助隊が現地に向け出発",
+      "summary": "南米ベネズエラで6月に発生した地震により2600人以上が死亡したため、日本の国際緊急援助隊の医療チームが羽田空港から現地へ向けて出発しました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168711000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-04T02:51:02+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "31909266",
+      "category": "経済・ビジネス（日本）",
+      "title": "プーチン大統領 ウクライナ東部要衝掌握受け侵攻継続意向示す",
+      "summary": "ロシアのプーチン大統領は、東部ドネツク州の要衝をロシア軍が掌握したとの報告を受け、ドネツク州全体の解放に向けた鍵となると主張しました。プーチン大統領はウクライナへの侵攻を継続する意向を強調しています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168661000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-04T02:03:47+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "50084989",
+      "category": "経済・ビジネス（日本）",
+      "title": "【動画解説】なぜ？40度超えも 欧州で記録的熱波",
+      "summary": "ヨーロッパでは6月中旬から記録的な熱波に見舞われ、フランスやドイツで40度を超える高温が観測されています。WHO事務局長は6月21日以降、例年より1300人以上の死者が増加していることを発表し、各国に対策強化を呼びかけています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168651000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-03T23:42:50+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "76863007",
       "category": "経済・ビジネス（日本）",
       "title": "NYマムダニ市長 独立記念日前に 移民の役割など強調し政権批判",
       "summary": "ニューヨークのマムダニ市長は、米国建国250年の独立記念日を前に演説を行い、米国の歴史における移民の重要な役割と多様性を強調しながら、トランプ政権の移民政策を批判しました。",
@@ -55,7 +115,7 @@
       "lang": "ja"
     },
     {
-      "id": "93724314",
+      "id": "30720916",
       "category": "経済・ビジネス（日本）",
       "title": "日英伊共同開発の次期戦闘機 合弁企業と契約延長 開発本格化へ",
       "summary": "日本とイギリス、イタリアが共同開発する次期戦闘機について、3か国の国際機関が設計を担う合弁企業との契約を来年末まで延長しました。イギリスの財政事情による懸念もありましたが、この契約延長により2035年の配備を目指した開発が本格化する見込みです。",
@@ -65,67 +125,7 @@
       "lang": "ja"
     },
     {
-      "id": "56985597",
-      "category": "経済・ビジネス（日本）",
-      "title": "アメリカ建国250年 トランプ大統領実績強調 政治利用批判も",
-      "summary": "アメリカが4日に建国250年の独立記念日を迎え、全米各地で記念行事が開催される中、トランプ大統領が自身の実績を強調して行事を政治利用しているという批判が相次いでいる。祝賀ムード一方で、アメリカ国内の分断が国内外に印象づけられる状況となっている。",
-      "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168551000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-03T22:13:19+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "22391182",
-      "category": "経済・ビジネス（日本）",
-      "title": "ロシア 爆発でウクライナ将校起訴も 支援続けるドイツを批判",
-      "summary": "ロシア大統領府の報道官がドイツを批判し、ドイツがウクライナ軍の元将校を起訴したにもかかわらずウクライナへの支援を続けていることに対して、ロシアとドイツを結ぶ海底天然ガスパイプライン爆発事件に関連して異議を唱えました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168461000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-03T21:03:30+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "55175560",
-      "category": "経済・ビジネス（日本）",
-      "title": "イラン ハメネイ師の葬儀準備進む 各国の要人も次々に到着",
-      "summary": "イランの前最高指導者ハメネイ師の葬儀を前に、テヘランには中東各国や中国を含むおよそ100か国から要人が次々と到着している。葬儀の準備が進行中で、国際的な関心が高まっている。",
-      "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168431000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-03T20:33:36+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "43652010",
-      "category": "経済・ビジネス（日本）",
-      "title": "猛暑のフランス エアコン設置めぐり政策論争にも発展",
-      "summary": "ヨーロッパが記録的な熱波に襲われる中、フランスではエアコンの普及率が24％に留まっており、設置の是非が政策論争へと発展している。",
-      "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168511000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-03T19:56:25+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "27944880",
-      "category": "経済・ビジネス（日本）",
-      "title": "南米ペルー大統領選 フジモリ元大統領長女ケイコ氏勝利宣言",
-      "summary": "南米ペルーの大統領選決選投票でフジモリ元大統領の長女ケイコ・フジモリ氏が当選し、選挙管理当局が正式に発表しました。ケイコ氏は勝利を宣言しています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168561000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-03T19:27:10+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "81553703",
-      "category": "経済・ビジネス（日本）",
-      "title": "ヨーロッパ飛来の無人機“ロシアの可能性高い”英シンクタンク",
-      "summary": "イギリスのシンクタンクが公表した報告書によると、ロシアがおととし以降、無人機を使ってヨーロッパ各地を偵察していた可能性が極めて高いことが明らかになりました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260703/k10015168541000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-03T14:46:24+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "42450999",
+      "id": "79526142",
       "category": "経済・ビジネス（世界）",
       "title": "'Start work at 11' - but will other bosses be as flexible over England's 1am match?",
       "summary": "イングランドの午前1時の試合に向けて、一部の企業が従業員に午前11時からの勤務開始を認める柔軟な対応を取っているが、他の雇用主も同様に対応するかは不確実な状況にある。雇用主らは従業員の勤務の融通性を認めるよう「常識」の発揮が呼びかけられており、この対応がどの程度広がるかが注目されている。",
@@ -135,7 +135,7 @@
       "lang": "en"
     },
     {
-      "id": "84600222",
+      "id": "48671147",
       "category": "経済・ビジネス（世界）",
       "title": "Instagram running ads promoting child sexual abuse material in India, BBC finds",
       "summary": "BBCの調査により、インスタグラムがインドで児童への性的虐待に関する広告を配信していることが判明した。これらの広告は「レイプ」や「児童動画」を含む用語を使用し、メッセージングアプリのテレグラムのコンテンツにリンクしている。インスタグラムはこのような有害な広告の配信を許可することで、児童性虐待素材の流通を助長している状況が報告されている。",
@@ -145,7 +145,7 @@
       "lang": "en"
     },
     {
-      "id": "22036349",
+      "id": "52275453",
       "category": "経済・ビジネス（世界）",
       "title": "Burnham says there is some room for movement on tax",
       "summary": "バーナムは税金問題について若干の調整の余地があると述べているが、次期首相候補である彼は労働党の付加価値税、所得税、国民保険料を引き上げないという公約には固執すると述べている。",
@@ -155,7 +155,7 @@
       "lang": "en"
     },
     {
-      "id": "90652717",
+      "id": "26274745",
       "category": "経済・ビジネス（世界）",
       "title": "'Less than 10% sheep': How millions may have unknowingly eaten goat, skin and fat kebabs",
       "summary": "英国の食品当局の調査により、ラム肉と表示されて販売されていたケバブの多くが、実は山羊肉や皮、脂肪を含む代替品で製造されていたことが判明した。この事件は2013年の馬肉ラザニャスキャンダルと比較されており、数百万人が意図せず異なる肉を消費していた可能性がある。食品表示の不正と消費者詐欺に関する懸念が改めて浮上している。",
@@ -165,7 +165,7 @@
       "lang": "en"
     },
     {
-      "id": "55506490",
+      "id": "69989278",
       "category": "経済・ビジネス（世界）",
       "title": "No-gift policy for Taylor Swift, but how much should you give at a wedding?",
       "summary": "ウェディングリストに代わって現金での贈り物をリクエストするカップルが増えている一方で、ゲストの間では適切な金額について意見が分かれている。調査によると、ゲストは結婚式への贈り物として平均400ポンドまでを贈ることを考えており、この金額設定は招待客とカップルの関係の深さや経済状況によって異なる傾向がある。",
@@ -175,7 +175,7 @@
       "lang": "en"
     },
     {
-      "id": "39183621",
+      "id": "28420856",
       "category": "経済・ビジネス（世界）",
       "title": "Tackle workplace sickness to unlock hidden growth, former John Lewis boss says",
       "summary": "元ジョン・ルイス会長は、職場での病欠問題に対処することが経済成長の鍵であると述べており、すでに英国の大手企業250社以上が彼の「ブリテンを働かせよう」タスクフォースに参加している。職場の健康管理と従業員のウェルネスの向上により、隠れた経済成長の可能性が引き出されると主張している。",
@@ -185,7 +185,7 @@
       "lang": "en"
     },
     {
-      "id": "51482057",
+      "id": "72835886",
       "category": "経済・ビジネス（世界）",
       "title": "AI is 'not smart' so what's next in artificial intelligence?",
       "summary": "最先端のAI研究者ヤン・ルカンは、より柔軟なAIシステムを開発するスタートアップを立ち上げており、現在のAIは「賢くない」という課題に対する次のステップを模索している。",
@@ -195,7 +195,7 @@
       "lang": "en"
     },
     {
-      "id": "50185502",
+      "id": "76449039",
       "category": "経済・ビジネス（世界）",
       "title": "Pubs allowed to stay open until 5am on Monday for England Mexico match",
       "summary": "イングランドが午前1時に試合を迎えるワールドカップの試合に向けて、政府がパブの営業時間延長を認める可能性が出てきた。政府は当初、ワールドカップのためにライセンス法をさらに緩和しないと述べていたが、方針を変える可能性が示唆されている。この決定は、深夜の試合を観戦したいパブの顧客と事業者の要望に応えるものとなる可能性がある。",
@@ -205,7 +205,7 @@
       "lang": "en"
     },
     {
-      "id": "29850975",
+      "id": "67785311",
       "category": "テクノロジー・AI",
       "title": "The only AI glossary you’ll need this year",
       "summary": "AIの急速な発展に伴い、多くの新しい用語やスラングが登場しており、このことばの辞書では今年必要となる重要な単語やフレーズの定義を提供している。AIに関連する業界の理解を深めるため、よく使われる用語の説明をまとめたもので、読者がAI関連の議論や情報をより理解しやすくすることを目的としている。",
@@ -215,7 +215,7 @@
       "lang": "en"
     },
     {
-      "id": "13743089",
+      "id": "22298115",
       "category": "テクノロジー・AI",
       "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
       "summary": "ブラウザ戦争はもはや検索エンジンについてではなく、ChromeとSafariに対抗する優れた代替ブラウザが多く登場している。今日利用可能なトップクラスの代替ブラウザのいくつかを概説する記事である。現在、ユーザーはプライバシー保護やカスタマイズ性など様々な基準でブラウザを選択する傾向が強まっている。",
@@ -225,7 +225,7 @@
       "lang": "en"
     },
     {
-      "id": "65669178",
+      "id": "78757237",
       "category": "テクノロジー・AI",
       "title": "The Dune keypad device can be your meeting controller and more",
       "summary": "Duneというキーパッドデバイスは3つのボタンを備えており、利用しているアプリケーションに応じてその機能が自動的に変わります。例えばZoomなどのミーティングアプリケーション使用時には、マイクのオン・オフ、ビデオのオン・オフ、ウィンドウを前面に表示するなどの機能が割り当てられます。このデバイスによって、ユーザーはキーボードやマウスから手を離さずにミーティングを効率的に操作できるようになります。",
@@ -235,7 +235,7 @@
       "lang": "en"
     },
     {
-      "id": "67622540",
+      "id": "83022179",
       "category": "テクノロジー・AI",
       "title": "Chevy built an all-American EV truck — why is nobody buying it?",
       "summary": "シボレーが開発したアメリカンEVトラック「シルバラード EV」は実用的な電動ピックアップトラックの第一段階の製品だが、販売が伸び悩んでいる現状にある。本記事は同車の改善点を検討し、市場での競争力を高めるための課題を探っている。",
@@ -245,7 +245,7 @@
       "lang": "en"
     },
     {
-      "id": "22386055",
+      "id": "72467367",
       "category": "テクノロジー・AI",
       "title": "Anthropic wants to develop its own drugs",
       "summary": "Anthropic社は先週開催された「The Briefing: AI for Science」イベントで、科学者向けの新しい「AI workbench」であるClaude Scienceを発表しました。このツールは分散されたツールとデータセットを一つの環境に統合し、図表とビジュアルを自動生成する機能を備えています。既に強力なAIモデルとコーディングツールで業界を支配しているAnthropicは、医薬品開発を含む科学研究の効率化を目指してこのプラットフォームを展開しています。",
@@ -255,7 +255,7 @@
       "lang": "en"
     },
     {
-      "id": "29620154",
+      "id": "61833195",
       "category": "テクノロジー・AI",
       "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
       "summary": "Midjourneyが開発中の医療用スキャナーの舞台裏映像が公開されましたが、その実効性についての証拠はまだ示されていません。同AIスタートアップは、スパに配置し医療を変革することを目指す、安価で詳細な無放射線イメージング技術を備えた超音波スキャナーについての約20分間のツアー動画をリリースしました。しかし、このデバイスが実際に機能することを示す具体的な証拠はまだ提示されていません。",
@@ -265,103 +265,93 @@
       "lang": "en"
     },
     {
-      "id": "58477904",
+      "id": "14618110",
       "category": "テクノロジー・AI",
-      "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
-      "summary": "NSO Groupの顧客である政府機関が、スパイウェア業界の調査を担当するEU委員会に所属していたヨーロッパの政治家の携帯電話をペガサススパイウェアで盗聴していたことが判明した。スパイウェアの悪用を調査していた政治家本人が、その同じスパイウェアの標的になっていたという深刻な事態である。",
-      "url": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-03T05:05:00+00:00",
+      "title": "Elon Musk's SpaceX showcases Grok-powered smartphone built to reshape AI interaction",
+      "summary": "SpaceXがGrok搭載のスマートフォンをデモ公開し、AI相互作用の方式を革新する可能性を示唆した。このデバイスは投資家向けのデモンストレーションで披露されたが、すでに競争が激しいスマートフォン市場での実現可能性について疑問が生じている。ElonMuskが主導するこのプロジェクトは、AI機能を統合した新しいハンドヘルドデバイスとして注目を集めている。",
+      "url": "https://www.tweaktown.com/news/112463/elon-musks-spacex-showcases-grok-powered-smartphone-built-to-reshape-ai-interaction/index.html",
+      "source": "TweakTown",
+      "published_at": "2026-07-03T06:10:07+00:00",
       "lang": "en"
     },
     {
-      "id": "12019627",
+      "id": "16506514",
       "category": "テクノロジー・AI",
-      "title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
-      "summary": "オーストラリアのスタートアップ・バトルフィールドへの応募期限は7月6日に迫っており、この期限を逃すと応募の機会は失われる。スタートアップがこのプログラムに参加を希望する場合は、今すぐ応募を行う必要がある。",
-      "url": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-03T00:00:00+00:00",
+      "title": "“More Than a Human Can Bear:” On Israel’s Systematic Sexualized Violence and the Silence That Enables It",
+      "summary": "パレスチナフェミニスト集合体が、パレスチナ人に対して行われた性的暴力とジェンダーに基づく暴力に関する200ページの報告書を発表しました。5ヶ月間の調査を経て、女性、男性、子ども、高齢者など様々な証言者が同様の被害を証言しており、この報告書はイスラエルによる組織的な性的暴力とそれを可能にしている沈黙の問題を記録しています。",
+      "url": "https://www.counterpunch.org/2026/07/03/more-than-a-human-can-bear-on-israels-systematic-sexualized-violence-and-the-silence-that-enables-it/",
+      "source": "CounterPunch",
+      "published_at": "2026-07-03T06:07:58+00:00",
       "lang": "en"
     },
     {
-      "id": "30446611",
+      "id": "43788846",
       "category": "台湾・中台関係",
-      "title": "Automotive Testing, Inspection and Certification TIC Market Size/Share Worth USD 64.8 Billion by 2035 at a 7.6% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth, SWOT)",
-      "summary": "自動車検査・認証（TIC）市場は2024年時点で約286億ドルの規模であり、2035年には648億ドルに達すると予測されており、その間の年平均成長率は7.6%となる見込みである。この成長は電動車の普及、規制要件の強化、品質管理の重要性の増加によって推進されている。調査報告書は市場の展開状況、主要企業、トレンド、予測を含む220ページ以上の詳細な分析を提供している。",
-      "url": "https://www.globenewswire.com/news-release/2026/07/02/3321532/0/en/Automotive-Testing-Inspection-and-Certification-TIC-Market-Size-Share-Worth-USD-64-8-Billion-by-2035-at-a-7-6-CAGR-Custom-Market-Insights-Analysis-Outlook-Leaders-Report-Trends-For.html",
+      "title": "RI food products secure $5M potential deals at Taipei Show 2026",
+      "summary": "インドネシアの食品製品は2026年台北ショーで500万ドル相当の潜在的な取引を確保しました。通商省によると、インドネシアの食品製品業者らがこのイベントを通じて約895億ルピアに相当する取引の可能性を獲得し、国際市場での販売機会を拡大することができました。このような国際見本市での成功は、インドネシア食品産業の競争力強化と海外への輸出拡大に貢献しています。",
+      "url": "https://en.antaranews.com/news/421424/ri-food-products-secure-5m-potential-deals-at-taipei-show-2026",
+      "source": "Antaranews.com",
+      "published_at": "2026-07-03T05:51:56+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "88637144",
+      "category": "台湾・中台関係",
+      "title": "Taiwan’s leader pays tribute to Hong Kong bookseller Lam Wing-kee after his death - South China Morning Post",
+      "summary": "台湾の指導者が、亡くなった香港の書店主ラム・ウィングキーへの追悼の意を表明しました。ラム氏は香港で政治的に敏感な書籍を扱う書店の経営者として知られており、中国当局による出版の自由への圧力に対抗してきた人物です。台湾指導部はラム氏の言論の自由と民主主義のための貢献を高く評価し、その遺志を継ぐことを誓っています。",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184287596",
+      "source": "Slashdot.org",
+      "published_at": "2026-07-03T05:32:58+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "51521065",
+      "category": "台湾・中台関係",
+      "title": "[Latest] Global Gauze Bandage Rolls Market Size/Share Worth USD 3.19 Billion by 2035 at a 4.97% CAGR: Healthcare Foresights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
+      "summary": "世界的なガーゼ包帯ロール市場は2025年に約19億6000万ドルと評価されており、年間複合成長率4.97%で2035年までに31億9000万ドルに達すると予想されている。Healthcare Foresightsの市場調査報告書によると、ガーゼ包帯製品への需要は医療分野での継続的な必要性に支えられて着実に成長していく見込みである。この220ページ以上の詳細なレポートは市場の動向、主要企業、セグメント分析、成長要因などを網羅している。",
+      "url": "https://www.globenewswire.com/news-release/2026/07/03/3321633/0/en/Latest-Global-Gauze-Bandage-Rolls-Market-Size-Share-Worth-USD-3-19-Billion-by-2035-at-a-4-97-CAGR-Healthcare-Foresights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segmentation.html",
       "source": "GlobeNewswire",
-      "published_at": "2026-07-02T19:30:00+00:00",
+      "published_at": "2026-07-03T04:30:00+00:00",
       "lang": "en"
     },
     {
-      "id": "19498178",
+      "id": "57325638",
       "category": "台湾・中台関係",
-      "title": "South Korea, Taiwan stocks fall as investors reassess AI bets; FX muted",
-      "summary": "韓国とタイワンの株式市場が下落している。投資家がAI関連銘柄の評価を見直す中、半導体セクターの過剰生産能力への懸念がKOSPIとTSMCの株価を急落させている。一方、外国為替市場は大きな変動を見せていない。",
-      "url": "https://www.thehindubusinessline.com/markets/south-korea-taiwan-stocks-fall-as-investors-reassess-ai-bets-fx-muted/article71175608.ece",
-      "source": "BusinessLine",
-      "published_at": "2026-07-02T18:00:15+00:00",
+      "title": "Ex-HK bookseller Lam Wing-kee, detained by China in 2015, dies in Taiwan at 70",
+      "summary": "香港の書店「銅鑼湾書店」の元店主ラム・ウィングキー氏が台湾で70歳で死亡した。ラム氏は2015年に中国当局に拘束された5人のうちの一人で、その後の拘束経験について詳しく証言していた。彼の死亡は香港の言論の自由と出版の自由に関わる歴史的な事件の証人の喪失を意味する。",
+      "url": "https://www.npr.org/2026/07/03/g-s1-131904/ex-hk-bookseller-lam-wing-kee-detained-by-china-in-2015-dies-in-taiwan-at-70",
+      "source": "NPR",
+      "published_at": "2026-07-03T04:25:07+00:00",
       "lang": "en"
     },
     {
-      "id": "62784890",
+      "id": "88091257",
       "category": "台湾・中台関係",
-      "title": "8 ways that U.S.-style democracy stands out globally",
-      "summary": "米国が今年独立宣言250周年を迎える中、米国の政治体制が世界の他105の民主主義国家と異なる8つの特徴が紹介されている。米国は大統領制と議院内閣制の混合型システムや、強力な司法権、州と連邦の分権構造など、他国にない独自の民主的特性を備えており、これらが米国民主主義をグローバルに際立たせている存在となっている。",
-      "url": "https://www.pewresearch.org/short-reads/2026/07/02/8-ways-that-us-style-democracy-stands-out-globally/",
-      "source": "Pew Research Center",
-      "published_at": "2026-07-02T17:23:32+00:00",
+      "title": "Hong Kong bookseller Lam Wing-kee, symbol of speech freedom fight, dies",
+      "summary": "香港の書籍販売業者ラム・ウィング・キーが台湾で亡くなりました。彼は北京の言論の自由への弾圧に対する抵抗の象徴でした。70歳のラムは去年がんの再発を患い、木曜夜に入院中に亡くなりました。",
+      "url": "https://apnews.com/article/lam-wingkee-hong-kong-bookseller-dies-taiwan-63dbcc38a62ae1145e592ff4e57e2a53",
+      "source": "Associated Press",
+      "published_at": "2026-07-03T03:55:10+00:00",
       "lang": "en"
     },
     {
-      "id": "98500398",
+      "id": "30849231",
       "category": "台湾・中台関係",
-      "title": "Russia’s economy is ‘sputtering,’ and Putin’s wartime spending model has pushed the country to an ‘economic, political, and military abyss’",
-      "summary": "ロシア経済は失速しており、プーチン大統領の戦時支出モデルが国を経済的、政治的、軍事的な危機に追い込んでいる。プーチン大統領はウクライナでの戦争を乗り切るため、軍事ケインズ主義に基づいた経済体制を構築したが、その限界が露呈し始めている。軍事費の膨張による経済負担が深刻化し、ロシアは多方面での困難に直面している。",
-      "url": "https://fortune.com/2026/07/02/putin-russia-economy-economic-mmilitary-abyss-csis-report/",
-      "source": "Fortune",
-      "published_at": "2026-07-02T17:22:36+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "28690447",
-      "category": "台湾・中台関係",
-      "title": "Czech-Taiwan Ties Are Cooling in Rhetoric, Not Reality",
-      "summary": "チェコの新政権は台湾に対する修辞的なトーンを変更したが、両国関係の実質的な内容はほぼ維持されている。チェコは台湾との関係を冷え込ませているように見えるが、実際には経済関係や文化交流などの実質的な結びつきは継続している。この変化は、より中国との関係に配慮した外交戦略への転換を示唆するものである。",
-      "url": "https://thediplomat.com/2026/07/czech-taiwan-ties-are-cooling-in-rhetoric-not-reality/",
-      "source": "The Diplomat",
-      "published_at": "2026-07-02T17:16:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "89260324",
-      "category": "台湾・中台関係",
-      "title": "Understanding China’s Party-State Intelligence System",
-      "summary": "中国の党国家インテリジェンスシステムについて、「社会全体」と表現することは不正確であり、民族系中国人への差別につながるリスクがあるという指摘がなされている。このような広い表現は、中国の複雑なスパイ活動の仕組みを過度に簡略化し、無実の人々を巻き込むリスクが存在することを警告している。中国の情報工作は特定の党国家機構と協力者に限定されており、すべての社会構成員が関与しているわけではないと指摘されている。",
-      "url": "https://thediplomat.com/2026/07/understanding-chinas-party-state-intelligence-system/",
-      "source": "The Diplomat",
-      "published_at": "2026-07-02T16:47:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "91708970",
-      "category": "台湾・中台関係",
-      "title": "US Marines deploy Iron Dome system to Japan amid China tensions",
-      "summary": "米海兵隊がアイアンドーム防空システムを日本に配備し、中国との緊張を背景に地域の軍事的緊張が高まっている。この配備は潜在的な軍事紛争のリスクを増加させ、米中間の外交関係に影響を与える可能性がある。米国の防衛力強化により、アジア太平洋地域の安全保障環境がさらに複雑化するとみられている。",
-      "url": "https://cryptobriefing.com/us-marines-deploy-iron-dome-system-to-japan-amid-china-tensions/",
+      "title": "Taiwan faces potential Chinese blockade, invasion amid rising tensions: Reuters",
+      "summary": "台湾周辺の緊張の高まりは地域の安全保障を不安定にし、世界市場に影響を与え、地政学的同盟関係を大きく変える可能性があると報じられています。中国による海上封鎖や軍事侵攻の可能性が指摘される中、この情勢は国際的な経済や政治に深刻な影響をもたらす懸念が高まっています。",
+      "url": "https://cryptobriefing.com/taiwan-faces-potential-chinese-blockade-invasion-amid-rising-tensions-reuters/",
       "source": "Crypto Briefing",
-      "published_at": "2026-07-02T16:43:59+00:00",
+      "published_at": "2026-07-03T03:22:58+00:00",
       "lang": "en"
     },
     {
-      "id": "89283090",
+      "id": "89797581",
       "category": "台湾・中台関係",
-      "title": "Fantasia 2026 Shorts: Beauty in The Light, The Dark, Out There And in Each Other in Shorts Programme",
-      "summary": "ファンタジア映画祭の2026年ショートフィルム部門は、200本以上の短編映画を集めた豊富なラインアップを特徴としており、光と闇、外部の世界、そして人間関係の美しさをテーマにした多様な作品が含まれている。最高の映画祭は長編映画だけでなく短編映画においても優れた作品と映画制作者を集めており、ファンタジアのショートフィルムプログラムはそれ自体が独立した大きな存在となっている。",
-      "url": "https://screenanarchy.com/2026/07/fantasia-2026-shorts.html",
-      "source": "Screenanarchy.com",
-      "published_at": "2026-07-02T15:51:31+00:00",
+      "title": "Omnicom Health Hong Kong Launches 'Catch-up Now' HPV Vaccination Campaign – Archyde",
+      "summary": "オムニコム・ヘルス・香港は、7月15日の期限を控えてHPVワクチン接種キャンペーン「Catch-up Now」を開始し、特定の対象者の間での予防接種率向上を目指している。このキャンペーンは、HPVワクチンの接種を促進し、子宮頸がんなどのHPV関連疾患の予防を図るための啓発活動である。",
+      "url": "https://www.archyde.com/omnicom-health-hong-kong-launches-catch-up-now-hpv-vaccination-campaign/",
+      "source": "Archyde.com",
+      "published_at": "2026-07-03T02:11:58+00:00",
       "lang": "en"
     }
   ]
