@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T14:42:52.532973+00:00",
+  "updated_at": "2026-07-05T23:06:06.798361+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -45,7 +45,67 @@
   "digest": [],
   "news": [
     {
-      "id": "84087977",
+      "id": "98102927",
+      "category": "経済・ビジネス（日本）",
+      "title": "ベネズエラ地震 死者3000人超 住宅・インフラ被害6兆円近くに",
+      "summary": "南米ベネズエラで先月発生したマグニチュード7を超える地震により、死者が3000人を超え、住宅を失った人が1万7000人余りに上りました。被害額は6兆円近くに達し、被災者への支援が急務となっています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169651000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-05T23:03:02+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "61474234",
+      "category": "経済・ビジネス（日本）",
+      "title": "【動画】Pickup NEWS(7月6日）",
+      "summary": "7月6日のピックアップニュースは、これまでに入った複数のニュースをまとめて1分間の動画で紹介する内容です。",
+      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169511000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-05T21:39:37+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "74415086",
+      "category": "経済・ビジネス（日本）",
+      "title": "モスクワ国際バレエコンクール グジェレフ瞭舞さんが金賞",
+      "summary": "世界の主要なバレエコンクールの一つであるモスクワ国際バレエコンクールで、東京都出身のグジェレフ瞭舞さんが男性シニア部門ソロで1位に選ばれ、金賞を受賞しました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169561000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-05T20:58:11+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "63546678",
+      "category": "経済・ビジネス（日本）",
+      "title": "ロシア軍の東部要衝掌握は「誇張」米戦争研究所の分析",
+      "summary": "ロシアがウクライナ東部の要衝掌握を発表していることについて、米シンクタンクは戦場の実態と一致しないと指摘し、ロシア軍が成果を誇張していると分析している。",
+      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169591000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-05T20:54:43+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "37142480",
+      "category": "経済・ビジネス（日本）",
+      "title": "ハメネイ師葬儀 5日は後継者モジタバ師姿見せず 兄弟は参列",
+      "summary": "イランの前最高指導者ハメネイ師の葬儀が行われ、後継者の息子モジタバ・ハメネイ師の兄弟3人が参列しましたが、モジタバ師本人の姿は現地メディアで報じられていません。",
+      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169571000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-05T20:36:25+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "89101761",
+      "category": "経済・ビジネス（日本）",
+      "title": "OPECプラスの7か国 8月に日量18万バレル余の増産発表",
+      "summary": "サウジアラビアを含むOPECプラス7か国が8月に日量18万バレル余りの増産を発表しました。米国とイランの戦闘終結に向けた覚書署名後、原油先物価格が下落傾向にある中での増産決定であり、さらなる価格低下につながる可能性があります。",
+      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169531000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-05T19:49:24+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "68357613",
       "category": "経済・ビジネス（日本）",
       "title": "高市首相 ペルー大統領選 勝利宣言のケイコ・フジモリ氏に祝辞",
       "summary": "高市総理大臣が南米ペルーの大統領選挙で勝利を宣言したケイコ・フジモリ氏に祝辞を送りました。",
@@ -55,7 +115,7 @@
       "lang": "ja"
     },
     {
-      "id": "32401648",
+      "id": "54254597",
       "category": "経済・ビジネス（日本）",
       "title": "イラン ハメネイ師葬儀続く 「抵抗の枢軸」とも連帯確認か",
       "summary": "イランの前最高指導者ハメネイ師の葬儀が5日間続いており、アラグチ外相がレバノンのヒズボラ幹部と会談して「抵抗の枢軸」としての連帯を確認したとみられます。",
@@ -65,67 +125,17 @@
       "lang": "ja"
     },
     {
-      "id": "47051148",
-      "category": "経済・ビジネス（日本）",
-      "title": "フランス40度超 過酷な屋根裏部屋暮らし 歴史的屋根も暑さ増幅",
-      "summary": "フランスのパリが記録的な熱波に見舞われており、パリの特徴である亜鉛製の屋根が熱を吸収して室内温度が40度を超え、屋根裏部屋に住む住民が過酷な生活環境に直面している。歴史的な景観を保つための屋根材が逆に室内の暑さを増幅させており、住民からは対策の必要性を求める声が上がっている。",
-      "url": "http://www3.nhk.or.jp/news/html/20260705/k10015169311000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-05T08:33:54+00:00",
-      "lang": "ja"
+      "id": "71306571",
+      "category": "経済・ビジネス（世界）",
+      "title": "EasyJet reaches 'agreement in principle' over potential takeover",
+      "summary": "格安航空会社イージージェットは、米国の投資会社カッスルレイクからの買収提案に対して基本的な合意に達した。同社は過去4度にわたってカッスルレイクからの買収提案を拒否していたが、今回新たな段階に進むことになった。この合意により、イージージェットの所有権構造が大きく変わる可能性がある。",
+      "url": "https://www.bbc.co.uk/news/articles/cgjxx7ngz51o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-05T17:30:55+00:00",
+      "lang": "en"
     },
     {
-      "id": "69350285",
-      "category": "経済・ビジネス（日本）",
-      "title": "トランプ大統領演説 アメリカ建国250年を誇る 対立勢力批判も",
-      "summary": "トランプ大統領はアメリカ建国250年の祝賀行事で演説し、「最高の時代はこれからで、アメリカの黄金時代の幕開けに過ぎない」と国の将来への自信を表明するとともに、民主党などの対立勢力を批判しました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260705/k10015169121000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-05T08:25:26+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "22829668",
-      "category": "経済・ビジネス（日本）",
-      "title": "中国とロシアの海軍が合同演習実施へ 中国国防省",
-      "summary": "中国国防省は中国とロシアの海軍が7月に青島付近で合同演習を実施すると発表した。演習終了後は一部が太平洋に向かい合同パトロールを行う予定で、両国は軍事面での連携を強化している。",
-      "url": "http://www3.nhk.or.jp/news/html/20260705/k10015169331000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-05T07:20:23+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "27265148",
-      "category": "経済・ビジネス（日本）",
-      "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月5日の動き）",
-      "summary": "ロシアによるウクライナへの軍事侵攻が継続しており、各地でロシア軍とウクライナ軍の戦闘が続く中、多くの市民が国外への避難を余儀なくされている。7月5日の戦況や関係各国の外交動向など、ウクライナ情勢をめぐる最新情報が随時更新される。",
-      "url": "http://www3.nhk.or.jp/news/html/20260705/k10015140551000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-05T05:57:12+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "44271128",
-      "category": "経済・ビジネス（日本）",
-      "title": "ロシア ウクライナ両首脳がトランプ大統領と電話会談",
-      "summary": "ロシアとウクライナの両首脳がトランプ大統領と個別に電話会談を行い、ウクライナ情勢について意見交換した。両国は今月7日からトルコで開催されるNATO首脳会議を控えており、アメリカの支持を得たいねらいがあるとみられている。",
-      "url": "http://www3.nhk.or.jp/news/html/20260705/k10015169271000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-05T05:55:35+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "69737983",
-      "category": "経済・ビジネス（日本）",
-      "title": "北朝鮮 キム総書記 新型駆逐艦の巡航ミサイル発射実験を視察",
-      "summary": "北朝鮮のキム・ジョンウン総書記が新型駆逐艦からの巡航ミサイル発射実験を視察し、海軍力の増強を推し進める方針を示した。",
-      "url": "http://www3.nhk.or.jp/news/html/20260705/k10015169131000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-05T02:34:19+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "27821377",
+      "id": "58717693",
       "category": "経済・ビジネス（世界）",
       "title": "'Start work at 11' - but will other bosses be as flexible over England's 1am match?",
       "summary": "イングランドの午前1時の試合に向けて、一部の企業が従業員に午前11時からの勤務開始を認める柔軟な対応を取っているが、他の雇用主も同様に対応するかは不確実な状況にある。雇用主らは従業員の勤務の融通性を認めるよう「常識」の発揮が呼びかけられており、この対応がどの程度広がるかが注目されている。",
@@ -135,7 +145,7 @@
       "lang": "en"
     },
     {
-      "id": "83353144",
+      "id": "30597894",
       "category": "経済・ビジネス（世界）",
       "title": "Clay, kilns and the cost of survival for tile makers",
       "summary": "タイルメーカーの生存費用に関する記事から、陶土、窯、そして継承と現代化のバランスについて述べられています。いくつかの企業は伝統的な製造方法を守りながら、経済的圧力に直面する他の企業は生き残りをかけて事業の近代化を進めている状況が紹介されています。伝統的な手法の維持とビジネスの持続可能性の間で、タイル製造業者たちが直面する課題が浮き彫りになっています。",
@@ -145,7 +155,7 @@
       "lang": "en"
     },
     {
-      "id": "51475275",
+      "id": "36784261",
       "category": "経済・ビジネス（世界）",
       "title": "What Sky buying ITV could mean for your favourite shows",
       "summary": "スカイがITVのテレビおよびストリーミングチャンネルを買収することが間もなく発表される見通しです。この買収により、スカイはITVの人気番組へのコンテンツ支配権を強化し、視聴者が利用できる番組構成が大きく変わる可能性があります。買収後、既存のITV番組の配信方法や利用可能性に影響が生じる可能性があり、視聴者にとって重要な変化となるでしょう。",
@@ -155,7 +165,7 @@
       "lang": "en"
     },
     {
-      "id": "75734916",
+      "id": "65500620",
       "category": "経済・ビジネス（世界）",
       "title": "What could new rights for unmarried couples mean for your money?",
       "summary": "イングランドとウェールズで同棲中のカップルが別れた場合、政府の新しい提案により、より多くの保護を受けることができる可能性がある。現在、同棲カップルは法律上の保護がほとんどないが、この改革により財産分割や扶養に関する権利が認められる見通しである。この変更は多くのカップルの経済状況に大きな影響を与えることになるだろう。",
@@ -165,17 +175,7 @@
       "lang": "en"
     },
     {
-      "id": "87781695",
-      "category": "経済・ビジネス（世界）",
-      "title": "Burnham says there is some room for movement on tax",
-      "summary": "バーナムは税金問題について若干の調整の余地があると述べているが、次期首相候補である彼は労働党の付加価値税、所得税、国民保険料を引き上げないという公約には固執すると述べている。",
-      "url": "https://www.bbc.co.uk/news/articles/c5yz9j7v0z6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-03T12:44:09+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "18807207",
+      "id": "73191702",
       "category": "経済・ビジネス（世界）",
       "title": "No-gift policy for Taylor Swift, but how much should you give at a wedding?",
       "summary": "ウェディングリストに代わって現金での贈り物をリクエストするカップルが増えている一方で、ゲストの間では適切な金額について意見が分かれている。調査によると、ゲストは結婚式への贈り物として平均400ポンドまでを贈ることを考えており、この金額設定は招待客とカップルの関係の深さや経済状況によって異なる傾向がある。",
@@ -185,7 +185,7 @@
       "lang": "en"
     },
     {
-      "id": "75525302",
+      "id": "47057338",
       "category": "経済・ビジネス（世界）",
       "title": "Tackle workplace sickness to unlock hidden growth, former John Lewis boss says",
       "summary": "元ジョン・ルイス会長は、職場での病欠問題に対処することが経済成長の鍵であると述べており、すでに英国の大手企業250社以上が彼の「ブリテンを働かせよう」タスクフォースに参加している。職場の健康管理と従業員のウェルネスの向上により、隠れた経済成長の可能性が引き出されると主張している。",
@@ -195,7 +195,7 @@
       "lang": "en"
     },
     {
-      "id": "88175085",
+      "id": "60892730",
       "category": "経済・ビジネス（世界）",
       "title": "Pubs allowed to stay open until 5am on Monday for England Mexico match",
       "summary": "イングランドが午前1時に試合を迎えるワールドカップの試合に向けて、政府がパブの営業時間延長を認める可能性が出てきた。政府は当初、ワールドカップのためにライセンス法をさらに緩和しないと述べていたが、方針を変える可能性が示唆されている。この決定は、深夜の試合を観戦したいパブの顧客と事業者の要望に応えるものとなる可能性がある。",
@@ -205,7 +205,57 @@
       "lang": "en"
     },
     {
-      "id": "44775556",
+      "id": "67888443",
+      "category": "テクノロジー・AI",
+      "title": "Some of the nation’s rich are letting AI teach their kids",
+      "summary": "アメリカの富裕層の一部が、従来の学校の代わりにAIを使って子どもたちに教育を受けさせています。一般的なアメリカ人はAIを信頼していませんが、Forge PrepやAlphaなどの企業は、AI家庭教師サービスを提供することで、富裕家庭の教育ニーズに対応しています。この動向は、従来の教育システムに対する富裕層の新たなアプローチを示しています。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+      "source": "AI | The Verge",
+      "published_at": "2026-07-05T22:30:54+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "73862097",
+      "category": "テクノロジー・AI",
+      "title": "Uber’s European expansion plans may have hit a speed bump",
+      "summary": "Uberは2月にヨーロッパの7つの新市場への2026年の進出計画を発表していたが、そのうち5つの進出が現在保留されているとのことである。この遅延によりUberのヨーロッパ拡大戦略は当初の予定より遅れることになり、企業の成長目標に影響を与える可能性がある。",
+      "url": "https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-05T21:35:17+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "69154151",
+      "category": "テクノロジー・AI",
+      "title": "Trump memecoin investors lost $3.8 billion, analysis finds",
+      "summary": "トランプ大統領のメムコイン「$TRUMP」に投資した約100万人が総額38億ドルの損失を被った一方で、トランプ本人は6億3,600万ドルの利益を得ていることが分析により判明した。このメムコインは投資家と発行者の間で大きな利益格差が生じている状況となっている。",
+      "url": "https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-05T20:29:05+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "27292756",
+      "category": "テクノロジー・AI",
+      "title": "Amazon will stop accepting new customers for Mechanical Turk",
+      "summary": "Amazonは新規顧客の受け入れを停止してMechanical Turkを段階的に廃止する方針を明らかにしました。同社のクラウドソーシングプラットフォームであるMechanical Turkは、小規模なタスク作業者に仕事を提供してきましたが、今後新規登録ができなくなり、サービスの終了が近づいています。",
+      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-05T17:43:36+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "54244686",
+      "category": "テクノロジー・AI",
+      "title": "5 desk gadgets that can make your workday better",
+      "summary": "適切なデスク用ガジェットは、机の上を整理し、集中力を高め、日々の作業に便利さをもたらすことができる。オフィス環境を改善し、生産性を向上させるために、机の周りに配置するだけで効果的なツールが存在する。これらのガジェットを活用することで、より快適で効率的な仕事環境を実現できる。",
+      "url": "https://techcrunch.com/2026/07/05/5-desk-gadgets-that-can-make-your-workday-better/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-05T15:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "65180163",
       "category": "テクノロジー・AI",
       "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
       "summary": "グーグルの新しい広告は、アメリカの建国の父たちがAIを活用して独立宣言を起草する場面を想像したもので、視聴者から不評を買っている。グーグルワークスペースとジェミニというAIツールを使って歴史的文書を作成する様子が描かれており、多くの人々がこのコンセプトを不適切で不快に感じている。この広告は現代のコラボレーションツールが歴史的な瞬間を改善できるという考え方に対する批判を引き起こしている。",
@@ -215,7 +265,7 @@
       "lang": "en"
     },
     {
-      "id": "80545156",
+      "id": "79108829",
       "category": "テクノロジー・AI",
       "title": "What is Bending Spoons? The little-known AOL and Vimeo owner that’s now public",
       "summary": "ベンディング・スプーンズはイタリアを拠点とする投資・技術企業で、AOLやVimeoを含む複数の企業を買収しており、10億人以上のユーザーにサービスを提供しているにもかかわらず、一般的には認知度が低い。同社は最近上場し、デジタルメディアとソフトウェア企業への投資を通じて急速に成長している。",
@@ -225,7 +275,7 @@
       "lang": "en"
     },
     {
-      "id": "75177704",
+      "id": "19622406",
       "category": "テクノロジー・AI",
       "title": "Almost 90 new unicorns have been minted so far this year — here they are",
       "summary": "2024年の初め以来、ほぼ90社の新しいユニコーン企業が誕生し、AI技術への投資家の熱狂によって毎月さらに多くのスタートアップが時価総額10億ドル以上のユニコーン企業へと成長している。この急速な成長は、特にAI分野における革新的な企業への投資が加速していることを示している。ユニコーン企業の増加ペースは、現在の投資トレンドがいかに急速に変化しているかを反映している。",
@@ -235,57 +285,57 @@
       "lang": "en"
     },
     {
-      "id": "33527075",
-      "category": "テクノロジー・AI",
-      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
-      "summary": "Googleの新しいCMでは、もし建国の父たちがGoogle Workspaceにアクセスできていたら、独立宣言がどのように書かれていたかを想像している。このCMは、独立宣言署名から250年後の現在、AIを含むGoogleのツールがいかに創作プロセスを支援できるかを示すもので、歴史的な文書とモダンなテクノロジーの融合を楽しくユーモアのある形で表現している。",
-      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-04T20:55:25+00:00",
+      "id": "76723221",
+      "category": "台湾・中台関係",
+      "title": "Germany’s Second Chance for Growth Rebound Starts Now",
+      "summary": "ドイツが今後数週間で発表する経済データがイラン情勢の累積的な影響を示し、ヨーロッパ最大の経済であるドイツを活性化させるための政府の新たな取り組みが本格化する。ドイツは景気回復の第二の機会を得ようとしており、今がその開始時期となっている。",
+      "url": "https://financialpost.com/pmn/business-pmn/germanys-second-chance-for-growth-rebound-starts-now",
+      "source": "Financial Post",
+      "published_at": "2026-07-04T20:35:35+00:00",
       "lang": "en"
     },
     {
-      "id": "48604275",
-      "category": "テクノロジー・AI",
-      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
-      "summary": "Midjourneyはハリウッドスタジオ3社との法的紛争の一環として、これらのスタジオが自社でどのようにAIを使用しているかを明かすよう強制しようとしている。Midjourneyはこの開示により、スタジオ側の二重基準を指摘し、自社のAI利用慣行が正当であることを主張する戦略とみられている。この動きはAIとコンテンツ使用権をめぐる業界内の緊張が高まる中での展開となっている。",
-      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-04T18:00:05+00:00",
+      "id": "13408565",
+      "category": "台湾・中台関係",
+      "title": "Hong Kong now handles more than half of China’s chip imports",
+      "summary": "香港は現在、中国の半導体輸入の半分以上を取り扱う主要なハブとなっており、2026年1月から5月の中国の2390億ドルの半導体輸入のうち、香港を経由する取引が記録的な水準に達している。香港は高度な技術製品の中国への出入口として中心的な役割を果たしており、チップ貿易における支配的な地位を強化している。",
+      "url": "https://thenextweb.com/news/hong-kong-china-ai-chip-trade-hub/",
+      "source": "The Next Web",
+      "published_at": "2026-07-04T17:29:40+00:00",
       "lang": "en"
     },
     {
-      "id": "16740769",
-      "category": "テクノロジー・AI",
-      "title": "Alibaba reportedly bans employees from using Claude Code",
-      "summary": "アリババがClaudeコードを高リスクソフトウェアに分類し、従業員の使用を禁止したと報じられている。この決定により、同社の従業員はこのAIコード生成ツールを仕事で利用することができなくなった。",
-      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-04T16:32:08+00:00",
+      "id": "50535033",
+      "category": "台湾・中台関係",
+      "title": "Former U.S. Transportation Secretary Elaine Chao Jets to Beijing to Meet Top CCP Official Just 3 Days After Mitch McConnell’s Cardiac Arrest Hospitalization – China Ties Under Fire Again",
+      "summary": "前米運輸長官エレイン・チャオが2026年6月17日に北京を訪問し、中国の韓正副主席と会談した。これは夫のミッチ・マコネル上院議員が心停止で入院してからわずか3日後のことで、チャオの中国との関係が再び批判の対象となっている。",
+      "url": "https://freerepublic.com/focus/f-bloggers/4386653/posts",
+      "source": "Freerepublic.com",
+      "published_at": "2026-07-04T16:42:30+00:00",
       "lang": "en"
     },
     {
-      "id": "78524394",
-      "category": "テクノロジー・AI",
-      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-      "summary": "Mistral AIは2023年の設立以来、大規模な資金調達を実現しており、オープンソースのAIモデルを提供することで「最先端のAIを誰もが利用できるようにする」という野心的な目標を掲げています。OpenAIの競合企業として位置付けられるMistral AIは、民主化されたAI技術の普及を目指しています。",
-      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-04T15:51:32+00:00",
+      "id": "44203842",
+      "category": "台湾・中台関係",
+      "title": "China Launches Coast Guard Patrol East Of Taiwan Despite International Pushback",
+      "summary": "中国は国際的な反発にもかかわらず、台湾東部で海上保安庁の巡視活動を開始したと発表した。この新たな巡視は、台湾沖に配置されていた海上保安庁タスクフォースの交代に伴うものである。中国による台湾周辺での活動強化は、地域の緊張をさらに高める可能性があり、国際社会からの懸念を招いている。",
+      "url": "https://gcaptain.com/china-launches-coast-guard-patrol-east-of-taiwan-despite-international-pushback/",
+      "source": "gcaptain.com",
+      "published_at": "2026-07-04T15:02:44+00:00",
       "lang": "en"
     },
     {
-      "id": "81106076",
-      "category": "テクノロジー・AI",
-      "title": "Missed the First Wave of Artificial Intelligence (AI) Stocks? These 2 Aggressive Plays Are Your Second-Chance Buys",
-      "summary": "人工知能（AI）関連銘柄の初期段階で大きな利益を得たNvidiaやBroadcom、台湾セミコンダクターなどの成功事例を逃した投資家のために、記事は第二波のAI投資チャンスとなるより積極的な2つの銘柄を紹介している。AI産業の急速な成長に伴い、これらの新たな投資先は初期のメガキャップ銘柄に次ぐ好機として位置づけられている。",
-      "url": "https://biztoc.com/x/853c1cd8ac64660b",
-      "source": "Biztoc.com",
-      "published_at": "2026-07-04T14:39:36+00:00",
+      "id": "11298999",
+      "category": "台湾・中台関係",
+      "title": "Engineers from 4 countries & India’s young workforce help launch CG Semi’s OSAT facility in Gujarat",
+      "summary": "インド・グジャラート州のサナンドにおいて、4カ国のエンジニアとインドの若い労働力により、CG Semi社のOSAT（後工程）施設が稼働を開始した。モディ首相は、マイクロン、ケイネスセミコン、CG Semi社による半導体施設の相次ぐ立上げがインド国内の半導体製造クラスターの出現を示していると述べた。",
+      "url": "https://www.thehindubusinessline.com/info-tech/engineers-from-4-countries-indias-young-workforce-help-launch-cg-semis-osat-facility-in-gujarat/article71182983.ece",
+      "source": "BusinessLine",
+      "published_at": "2026-07-04T14:55:00+00:00",
       "lang": "en"
     },
     {
-      "id": "79437266",
+      "id": "52067281",
       "category": "台湾・中台関係",
       "title": "ETtech Explainer: What the Tata Electronics hack exposed about Apple and Tesla",
       "summary": "インド系製造業大手タタ・エレクトロニクスへのランサムウェア攻撃により、AppleとTeslaの機密文書がダークウェブに流出した。流出したファイルには次世代iPhone 18 Proモデルのコンポーネント情報が含まれており、Appleのサプライチェーンの重要な詳細が露呈した。このセキュリティ侵害事件は、大手技術企業がサプライヤーのサイバーセキュリティリスクに直面していることを浮き彫りにしている。",
@@ -295,7 +345,7 @@
       "lang": "en"
     },
     {
-      "id": "11111036",
+      "id": "73528748",
       "category": "台湾・中台関係",
       "title": "Indian toy market holds strong growth potential: China Toy Association Chair",
       "summary": "インドの玩具市場は継続的な成長の可能性を持っており、中国、台湾、香港からの代表団がインドの玩具展示会を訪問し、インドの業界関係者との協力機会について探討したと中国玩具協会の会長が述べた。",
@@ -305,63 +355,13 @@
       "lang": "en"
     },
     {
-      "id": "90438497",
+      "id": "15723165",
       "category": "台湾・中台関係",
       "title": "China Coast Guard conducts routine patrols east of China's Taiwan Island; regularized law-enforcement operation necessary to defend rights, restore order: expert",
       "summary": "中国海警局のスポークスマン江略氏は、同局がこのほど台湾島東方の海域で通常の法執行パトロール活動を実施したと発表し、専門家はこうした定期的な海上法執行活動が中国の権益を守り秩序を回復するために必要であると指摘している。",
       "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260704-globaltimes01.htm",
       "source": "Globalsecurity.org",
       "published_at": "2026-07-04T12:00:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "79851007",
-      "category": "台湾・中台関係",
-      "title": "China launches coast guard patrol east of Taiwan despite international pushback - Reuters",
-      "summary": "中国が台湾東部での海上警察による巡視活動を開始しており、国際社会の反発があるにもかかわらず、この動きは続いているとロイターが報じています。台湾侵攻には軍事史上前例のない三つの条件をクリアする必要があり、習近平指導部は待たずに台湾危機を引き起こす可能性があるという複数の見方が出ています。",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184303190",
-      "source": "Slashdot.org",
-      "published_at": "2026-07-04T07:52:29+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "85872100",
-      "category": "台湾・中台関係",
-      "title": "China launches coast guard patrol east of Taiwan",
-      "summary": "中国は台湾の東側で海上保安庁による巡視活動を開始した。中国の海上保安庁は、この海域で「法執行パトロール」を実施し、中国の管轄水域としている地域での巡視を強化すると声明で述べている。",
-      "url": "https://www.channelnewsasia.com/east-asia/china-coast-guard-patrol-east-taiwan-6231786",
-      "source": "CNA",
-      "published_at": "2026-07-04T07:39:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "49239718",
-      "category": "台湾・中台関係",
-      "title": "China launches coast guard patrol east of Taiwan despite international pushback",
-      "summary": "中国は国際的な反発にもかかわらず、台湾東部で沿岸警備隊の新たな巡視活動を開始したと発表した。この行動は台湾周辺海域での中国の支配力強化の意思を示すものであり、地域の緊張をさらに高める可能性がある。国際社会からの批判を受けながらも、中国は同地域での活動を継続する姿勢を示している。",
-      "url": "https://www.yahoo.com/news/world/articles/china-launches-coast-guard-patrol-042127562.html",
-      "source": "Yahoo Entertainment",
-      "published_at": "2026-07-04T07:00:26+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "53606191",
-      "category": "台湾・中台関係",
-      "title": "China launches coast guard patrol east of Taiwan despite international pushback",
-      "summary": "中国は台湾東部での新たな沿岸警備隊パトロール開始を発表し、台湾沖での存在が台北の怒りと西側諸国の懸念を招いていた従来の任務部隊に代わるものとなっている。この動きは国際的な反発にもかかわらず実施されており、地域の緊張がさらに高まる可能性を示唆している。中国の行動は台湾周辺での活動強化の一環であり、両岸関係の複雑さを浮き彫りにしている。",
-      "url": "https://biztoc.com/x/81e7820171a4453e",
-      "source": "Biztoc.com",
-      "published_at": "2026-07-04T05:14:12+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "36730626",
-      "category": "台湾・中台関係",
-      "title": "China launches coast guard patrol east of Taiwan amid regional tensions",
-      "summary": "中国が台湾東部で沿岸警備隊のパトロールを開始し、地域の緊張が高まっています。これらのパトロールは台湾海峡における紛争リスクと軍事エスカレーションの可能性に対する市場認識に影響を与えており、地域の安定性に対する懸念が深まっています。",
-      "url": "https://cryptobriefing.com/china-launches-coast-guard-patrol-east-of-taiwan-amid-regional-tensions/",
-      "source": "Crypto Briefing",
-      "published_at": "2026-07-04T04:31:51+00:00",
       "lang": "en"
     }
   ]
