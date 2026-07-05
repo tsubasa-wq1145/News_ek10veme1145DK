@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T06:42:50.344368+00:00",
+  "updated_at": "2026-07-05T10:58:57.109247+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -45,7 +45,37 @@
   "digest": [],
   "news": [
     {
-      "id": "84730879",
+      "id": "86915898",
+      "category": "経済・ビジネス（日本）",
+      "title": "フランス40度超 過酷な屋根裏部屋暮らし 歴史的屋根も暑さ増幅",
+      "summary": "フランスのパリが記録的な熱波に見舞われており、パリの特徴である亜鉛製の屋根が熱を吸収して室内温度が40度を超え、屋根裏部屋に住む住民が過酷な生活環境に直面している。歴史的な景観を保つための屋根材が逆に室内の暑さを増幅させており、住民からは対策の必要性を求める声が上がっている。",
+      "url": "http://www3.nhk.or.jp/news/html/20260705/k10015169311000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-05T08:33:54+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "27524911",
+      "category": "経済・ビジネス（日本）",
+      "title": "トランプ大統領演説 アメリカ建国250年を誇る 対立勢力批判も",
+      "summary": "トランプ大統領はアメリカ建国250年の祝賀行事で演説し、「最高の時代はこれからで、アメリカの黄金時代の幕開けに過ぎない」と国の将来への自信を表明するとともに、民主党などの対立勢力を批判しました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260705/k10015169121000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-05T08:25:26+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "59242874",
+      "category": "経済・ビジネス（日本）",
+      "title": "中国とロシアの海軍が合同演習実施へ 中国国防省",
+      "summary": "中国国防省は中国とロシアの海軍が7月に青島付近で合同演習を実施すると発表した。演習終了後は一部が太平洋に向かい合同パトロールを行う予定で、両国は軍事面での連携を強化している。",
+      "url": "http://www3.nhk.or.jp/news/html/20260705/k10015169331000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-05T07:20:23+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "25191749",
       "category": "経済・ビジネス（日本）",
       "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月5日の動き）",
       "summary": "ロシアによるウクライナへの軍事侵攻が継続しており、各地でロシア軍とウクライナ軍の戦闘が続く中、多くの市民が国外への避難を余儀なくされている。7月5日の戦況や関係各国の外交動向など、ウクライナ情勢をめぐる最新情報が随時更新される。",
@@ -55,7 +85,7 @@
       "lang": "ja"
     },
     {
-      "id": "28787503",
+      "id": "81110059",
       "category": "経済・ビジネス（日本）",
       "title": "ロシア ウクライナ両首脳がトランプ大統領と電話会談",
       "summary": "ロシアとウクライナの両首脳がトランプ大統領と個別に電話会談を行い、ウクライナ情勢について意見交換した。両国は今月7日からトルコで開催されるNATO首脳会議を控えており、アメリカの支持を得たいねらいがあるとみられている。",
@@ -65,7 +95,7 @@
       "lang": "ja"
     },
     {
-      "id": "84450785",
+      "id": "41236847",
       "category": "経済・ビジネス（日本）",
       "title": "北朝鮮 キム総書記 新型駆逐艦の巡航ミサイル発射実験を視察",
       "summary": "北朝鮮のキム・ジョンウン総書記が新型駆逐艦からの巡航ミサイル発射実験を視察し、海軍力の増強を推し進める方針を示した。",
@@ -75,7 +105,7 @@
       "lang": "ja"
     },
     {
-      "id": "30768713",
+      "id": "53110249",
       "category": "経済・ビジネス（日本）",
       "title": "アメリカ建国250年 各地で祝賀イベント 政権に抗議の声も",
       "summary": "アメリカが建国250年の独立記念日を迎え、各地で祝賀イベントが開催されました。一方で民主主義や自由が脅かされているとしてトランプ政権への抗議の声も同時に上がっています。",
@@ -85,7 +115,7 @@
       "lang": "ja"
     },
     {
-      "id": "76541517",
+      "id": "34651381",
       "category": "経済・ビジネス（日本）",
       "title": "イラン ハメネイ師葬儀続く “米と1週間 協議中断合意”報道も",
       "summary": "イランの前最高指導者ハメネイ師の葬儀が行われており、米国とイランは一連の行事終了まで戦闘終結協議を1週間中断することに合意したと伝えられている。イラン側は参列の各国要人との会談を進めている。",
@@ -95,37 +125,7 @@
       "lang": "ja"
     },
     {
-      "id": "92077116",
-      "category": "経済・ビジネス（日本）",
-      "title": "ゼレンスキー大統領 ロシアによる東部要衝の掌握主張を否定",
-      "summary": "ウクライナのゼレンスキー大統領は、ロシアがドネツク州の要衝を掌握したとの発表を否定し、事実ではないと主張しました。ウクライナは対抗措置として、ロシアの石油関連施設への攻撃を実施し、今後も対抗していく姿勢を示しています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260705/k10015169001000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-04T21:36:59+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "49346816",
-      "category": "経済・ビジネス（日本）",
-      "title": "【詳細】ロシア ウクライナに軍事侵攻（7月4日の動き）",
-      "summary": "ロシアによるウクライナへの軍事侵攻が継続しており、各地でロシア軍とウクライナ軍の戦闘が激化している。多数の市民が国外への避難を余儀なくされており、戦闘状況と関係国の外交動向が刻々と変わっている状況が報告されている。",
-      "url": "http://www3.nhk.or.jp/news/html/20260705/k10015140541000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-04T20:55:16+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "57770605",
-      "category": "経済・ビジネス（日本）",
-      "title": "中国 台湾東海域パトロール「常態的に実施」台湾当局は非難",
-      "summary": "中国海警局は台湾東海域でのパトロールを常態的に実施すると発表し、管轄権の主張を強めようとしています。これに対し、台湾当局は中国が台湾の海域における主権的権利を持たないとして強く非難しています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260705/k10015168911000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-04T20:12:24+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "26031821",
+      "id": "89644583",
       "category": "経済・ビジネス（世界）",
       "title": "'Start work at 11' - but will other bosses be as flexible over England's 1am match?",
       "summary": "イングランドの午前1時の試合に向けて、一部の企業が従業員に午前11時からの勤務開始を認める柔軟な対応を取っているが、他の雇用主も同様に対応するかは不確実な状況にある。雇用主らは従業員の勤務の融通性を認めるよう「常識」の発揮が呼びかけられており、この対応がどの程度広がるかが注目されている。",
@@ -135,7 +135,7 @@
       "lang": "en"
     },
     {
-      "id": "21684109",
+      "id": "38756096",
       "category": "経済・ビジネス（世界）",
       "title": "Instagram running ads promoting child sexual abuse material in India, BBC finds",
       "summary": "BBCの調査により、インスタグラムがインドで児童への性的虐待に関する広告を配信していることが判明した。これらの広告は「レイプ」や「児童動画」を含む用語を使用し、メッセージングアプリのテレグラムのコンテンツにリンクしている。インスタグラムはこのような有害な広告の配信を許可することで、児童性虐待素材の流通を助長している状況が報告されている。",
@@ -145,7 +145,7 @@
       "lang": "en"
     },
     {
-      "id": "67234407",
+      "id": "71924515",
       "category": "経済・ビジネス（世界）",
       "title": "Burnham says there is some room for movement on tax",
       "summary": "バーナムは税金問題について若干の調整の余地があると述べているが、次期首相候補である彼は労働党の付加価値税、所得税、国民保険料を引き上げないという公約には固執すると述べている。",
@@ -155,7 +155,7 @@
       "lang": "en"
     },
     {
-      "id": "19309489",
+      "id": "12431972",
       "category": "経済・ビジネス（世界）",
       "title": "'Less than 10% sheep': How millions may have unknowingly eaten goat, skin and fat kebabs",
       "summary": "英国の食品当局の調査により、ラム肉と表示されて販売されていたケバブの多くが、実は山羊肉や皮、脂肪を含む代替品で製造されていたことが判明した。この事件は2013年の馬肉ラザニャスキャンダルと比較されており、数百万人が意図せず異なる肉を消費していた可能性がある。食品表示の不正と消費者詐欺に関する懸念が改めて浮上している。",
@@ -165,7 +165,7 @@
       "lang": "en"
     },
     {
-      "id": "53610136",
+      "id": "57745671",
       "category": "経済・ビジネス（世界）",
       "title": "No-gift policy for Taylor Swift, but how much should you give at a wedding?",
       "summary": "ウェディングリストに代わって現金での贈り物をリクエストするカップルが増えている一方で、ゲストの間では適切な金額について意見が分かれている。調査によると、ゲストは結婚式への贈り物として平均400ポンドまでを贈ることを考えており、この金額設定は招待客とカップルの関係の深さや経済状況によって異なる傾向がある。",
@@ -175,7 +175,7 @@
       "lang": "en"
     },
     {
-      "id": "69616538",
+      "id": "75511160",
       "category": "経済・ビジネス（世界）",
       "title": "Tackle workplace sickness to unlock hidden growth, former John Lewis boss says",
       "summary": "元ジョン・ルイス会長は、職場での病欠問題に対処することが経済成長の鍵であると述べており、すでに英国の大手企業250社以上が彼の「ブリテンを働かせよう」タスクフォースに参加している。職場の健康管理と従業員のウェルネスの向上により、隠れた経済成長の可能性が引き出されると主張している。",
@@ -185,7 +185,7 @@
       "lang": "en"
     },
     {
-      "id": "16514983",
+      "id": "25787988",
       "category": "経済・ビジネス（世界）",
       "title": "AI is 'not smart' so what's next in artificial intelligence?",
       "summary": "最先端のAI研究者ヤン・ルカンは、より柔軟なAIシステムを開発するスタートアップを立ち上げており、現在のAIは「賢くない」という課題に対する次のステップを模索している。",
@@ -195,7 +195,7 @@
       "lang": "en"
     },
     {
-      "id": "23896331",
+      "id": "62736621",
       "category": "経済・ビジネス（世界）",
       "title": "Pubs allowed to stay open until 5am on Monday for England Mexico match",
       "summary": "イングランドが午前1時に試合を迎えるワールドカップの試合に向けて、政府がパブの営業時間延長を認める可能性が出てきた。政府は当初、ワールドカップのためにライセンス法をさらに緩和しないと述べていたが、方針を変える可能性が示唆されている。この決定は、深夜の試合を観戦したいパブの顧客と事業者の要望に応えるものとなる可能性がある。",
@@ -205,7 +205,7 @@
       "lang": "en"
     },
     {
-      "id": "89917417",
+      "id": "66847655",
       "category": "テクノロジー・AI",
       "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
       "summary": "Googleの新しいCMでは、もし建国の父たちがGoogle Workspaceにアクセスできていたら、独立宣言がどのように書かれていたかを想像している。このCMは、独立宣言署名から250年後の現在、AIを含むGoogleのツールがいかに創作プロセスを支援できるかを示すもので、歴史的な文書とモダンなテクノロジーの融合を楽しくユーモアのある形で表現している。",
@@ -215,7 +215,7 @@
       "lang": "en"
     },
     {
-      "id": "63201952",
+      "id": "30088140",
       "category": "テクノロジー・AI",
       "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
       "summary": "Midjourneyはハリウッドスタジオ3社との法的紛争の一環として、これらのスタジオが自社でどのようにAIを使用しているかを明かすよう強制しようとしている。Midjourneyはこの開示により、スタジオ側の二重基準を指摘し、自社のAI利用慣行が正当であることを主張する戦略とみられている。この動きはAIとコンテンツ使用権をめぐる業界内の緊張が高まる中での展開となっている。",
@@ -225,7 +225,7 @@
       "lang": "en"
     },
     {
-      "id": "89858858",
+      "id": "16891535",
       "category": "テクノロジー・AI",
       "title": "Alibaba reportedly bans employees from using Claude Code",
       "summary": "アリババがClaudeコードを高リスクソフトウェアに分類し、従業員の使用を禁止したと報じられている。この決定により、同社の従業員はこのAIコード生成ツールを仕事で利用することができなくなった。",
@@ -235,7 +235,7 @@
       "lang": "en"
     },
     {
-      "id": "23706153",
+      "id": "26605459",
       "category": "テクノロジー・AI",
       "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
       "summary": "Mistral AIは2023年の設立以来、大規模な資金調達を実現しており、オープンソースのAIモデルを提供することで「最先端のAIを誰もが利用できるようにする」という野心的な目標を掲げています。OpenAIの競合企業として位置付けられるMistral AIは、民主化されたAI技術の普及を目指しています。",
@@ -245,7 +245,7 @@
       "lang": "en"
     },
     {
-      "id": "46342789",
+      "id": "64023675",
       "category": "テクノロジー・AI",
       "title": "The fanfiction community is at war with AI — and itself",
       "summary": "ファンフィクション・コミュニティが生成AI使用作品の排除を目指す新たな運動を開始したが、その検出方法は不確実であり、多くの執筆者が誤って対象になる可能性がある。ClaudeやChatGPTなどのAIツール使用に対する広範な反感がある一方で、これらのツール自体が議論の焦点となっており、コミュニティ内部での見解の相違も深刻な状況となっている。",
@@ -255,37 +255,67 @@
       "lang": "en"
     },
     {
-      "id": "38779264",
+      "id": "79883382",
       "category": "テクノロジー・AI",
-      "title": "Someone used a Raspberry Pi 5 to give Claude Fable 5 a robot body, because that's not worrying or anything",
-      "summary": "Raspberry Pi 5を使用してAnthropic社のAIモデル「Claude」にロボットボディを与えた人物がいるというニュースで、高性能なAIモデルと小型コンピュータを組み合わせることで実際に行動可能なロボットが実現された。この試みはAIの物理的な実装例として注目される一方で、自律的に動作するAIロボットの出現に対する懸念も生じている。タイトルの皮肉なトーンから、こうした技術進展に対して一定の警戒感が示されていることがうかがえる。",
-      "url": "https://www.xda-developers.com/someone-used-a-raspberry-pi-5-to-give-claude-fable-5-a-robot-body-because-thats-not-worrying-or-anything/",
-      "source": "XDA Developers",
-      "published_at": "2026-07-04T06:41:58+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "43288313",
-      "category": "テクノロジー・AI",
-      "title": "Absolute Catwoman #2 Preview: Nine Lives, One Vendetta",
-      "summary": "キャットウーマンが新たな報復の目的を持って動き出す姿を描いた「Absolute Catwoman #2」のプレビューが公開された。本作品は、キャットウーマンが自らの九つの人生を使いながら、一つの重要な復讐を遂行する物語となっている。AI支配下のコミック情報サイトが提供する本プレビューでは、キャットウーマンの複雑な動機と戦略的な行動が明かされている。",
-      "url": "https://bleedingcool.com/comics/absolute-catwoman-2-preview-nine-lives-one-vendetta/",
-      "source": "Bleeding Cool News",
-      "published_at": "2026-07-04T06:31:09+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "88781290",
-      "category": "テクノロジー・AI",
-      "title": "AI boom reshapes FX markets through equity hedging flows",
-      "summary": "AI関連株の急騰がヘッジング需要を通じて外為市場に大きな影響を与えており、これが従来の経済ファンダメンタルズよりも強い影響力を持つようになってきたことが、バンク・オブ・アメリカの分析で明らかになった。グローバル投資家によるFXヘッジが通貨市場の変動を左右する重要な要因となっているということである。",
-      "url": "https://biztoc.com/x/4031d279761f2b6d",
+      "title": "The AI Boom Has a Power Problem. These Industrial Stocks Are Cashing In",
+      "summary": "AI産業の急速な成長に伴い、データセンターの膨大な電力需要が供給を上回る課題が生じており、この需要に応えるため電力インフラを強化する必要性から、電力関連の産業株が注目を集めている。既存および新規建設中のデータセンターの長期的な電力確保は喫緊の課題となっており、電力供給能力の拡大に関連する企業の株価上昇につながっている。",
+      "url": "https://biztoc.com/x/cae7af5b2f175947",
       "source": "Biztoc.com",
-      "published_at": "2026-07-04T06:15:05+00:00",
+      "published_at": "2026-07-04T10:50:31+00:00",
       "lang": "en"
     },
     {
-      "id": "21683330",
+      "id": "68830418",
+      "category": "テクノロジー・AI",
+      "title": "GM lays off over 1,000 workers at Detroit plant, adds 50 robots: ‘We are in a fight for humanity.’ Progress or betrayal?",
+      "summary": "ゼネラルモーターズ（GM）がデトロイト工場で1,000人以上の従業員をレイオフし、50台のロボットを導入した。GMは競争力維持のため自動化が必要だと主張しているが、大量の失業を招くとして批判を浴びている。人工知能と自動化の進展が雇用と経済格差にもたらす影響について、進歩か裏切りかの議論が続いている。",
+      "url": "https://finance.yahoo.com/technology/ai/articles/gm-lays-off-over-1-104500251.html",
+      "source": "Yahoo Entertainment",
+      "published_at": "2026-07-04T10:45:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "92645449",
+      "category": "テクノロジー・AI",
+      "title": "Is Micron Turning Into a Steadier Growth Stock?",
+      "summary": "マイクロン・テクノロジーの株価は過去1年間で755%以上上昇しており、AI産業の急速な拡大に伴いメモリチップの需要が急増し、メモリ価格の上昇により同社の利益が増加している。メモリチップはAI構築における重要なボトルネックとなっており、マイクロンは安定した成長企業へと転換する可能性を示唆している。",
+      "url": "https://biztoc.com/x/6c3472dbb8bee534",
+      "source": "Biztoc.com",
+      "published_at": "2026-07-04T10:34:19+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "10363943",
+      "category": "台湾・中台関係",
+      "title": "China launches coast guard patrol east of Taiwan despite international pushback - Reuters",
+      "summary": "中国が台湾東部での海上警察による巡視活動を開始しており、国際社会の反発があるにもかかわらず、この動きは続いているとロイターが報じています。台湾侵攻には軍事史上前例のない三つの条件をクリアする必要があり、習近平指導部は待たずに台湾危機を引き起こす可能性があるという複数の見方が出ています。",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184303190",
+      "source": "Slashdot.org",
+      "published_at": "2026-07-04T07:52:29+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "73577694",
+      "category": "台湾・中台関係",
+      "title": "China launches coast guard patrol east of Taiwan",
+      "summary": "中国は台湾の東側で海上保安庁による巡視活動を開始した。中国の海上保安庁は、この海域で「法執行パトロール」を実施し、中国の管轄水域としている地域での巡視を強化すると声明で述べている。",
+      "url": "https://www.channelnewsasia.com/east-asia/china-coast-guard-patrol-east-taiwan-6231786",
+      "source": "CNA",
+      "published_at": "2026-07-04T07:39:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "78262456",
+      "category": "台湾・中台関係",
+      "title": "China launches coast guard patrol east of Taiwan despite international pushback",
+      "summary": "中国は国際的な反発にもかかわらず、台湾東部で沿岸警備隊の新たな巡視活動を開始したと発表した。この行動は台湾周辺海域での中国の支配力強化の意思を示すものであり、地域の緊張をさらに高める可能性がある。国際社会からの批判を受けながらも、中国は同地域での活動を継続する姿勢を示している。",
+      "url": "https://www.yahoo.com/news/world/articles/china-launches-coast-guard-patrol-042127562.html",
+      "source": "Yahoo Entertainment",
+      "published_at": "2026-07-04T07:00:26+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "84961223",
       "category": "台湾・中台関係",
       "title": "China launches coast guard patrol east of Taiwan despite international pushback",
       "summary": "中国は台湾東部での新たな沿岸警備隊パトロール開始を発表し、台湾沖での存在が台北の怒りと西側諸国の懸念を招いていた従来の任務部隊に代わるものとなっている。この動きは国際的な反発にもかかわらず実施されており、地域の緊張がさらに高まる可能性を示唆している。中国の行動は台湾周辺での活動強化の一環であり、両岸関係の複雑さを浮き彫りにしている。",
@@ -295,7 +325,7 @@
       "lang": "en"
     },
     {
-      "id": "55058494",
+      "id": "61531102",
       "category": "台湾・中台関係",
       "title": "China launches coast guard patrol east of Taiwan amid regional tensions",
       "summary": "中国が台湾東部で沿岸警備隊のパトロールを開始し、地域の緊張が高まっています。これらのパトロールは台湾海峡における紛争リスクと軍事エスカレーションの可能性に対する市場認識に影響を与えており、地域の安定性に対する懸念が深まっています。",
@@ -305,7 +335,7 @@
       "lang": "en"
     },
     {
-      "id": "65588291",
+      "id": "34628646",
       "category": "台湾・中台関係",
       "title": "Dalal Street also smokes peace pipe, ends in green for 4th week in row",
       "summary": "インドの株式市場は原油価格の低下と地政学的センチメント改善により、4週連続で上昇を記録した。アナリストはNifty 50指数のさらなる上昇を予想しており、今後の四半期決算報告が市場をけん引するものと期待されている。",
@@ -315,7 +345,7 @@
       "lang": "en"
     },
     {
-      "id": "20966779",
+      "id": "50344610",
       "category": "台湾・中台関係",
       "title": "China’s De-Dollarization Drive Has Hit a Wall",
       "summary": "中国は再び米ドルを標的とした脱ドル化の推進を強化している。6月17日に中国人民銀行の総裁は、オフショア人民元取引のパイロットスキームを含め、世界の金融の流れを人民元へ誘導するための新たな青写真を発表した。しかし、この取り組みは国際的な抵抗や技術的課題により進展が停滞している状況にある。",
@@ -325,43 +355,13 @@
       "lang": "en"
     },
     {
-      "id": "57584641",
+      "id": "42768327",
       "category": "台湾・中台関係",
       "title": "Heartbroken girlfriend of B.C. captain tells of close call days before deadly sinking",
       "summary": "ブリティッシュコロンビア州で先週日曜日に沈没して船長が溺死した事件について、その若き船長の失意に暮れたガールフレンドが、沈没の2日前に船に乗船した際に破損したドアが開いて水が流入する危機的状況を経験していたことを明かした。",
       "url": "https://www.cbc.ca/news/canada/british-columbia/mother-of-bc-charter-boat-captain-deadly-sinking-9.7258275",
       "source": "CBC News",
       "published_at": "2026-07-04T01:43:42+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "57615605",
-      "category": "台湾・中台関係",
-      "title": "CAF-derived PAI-1 serves as an EGFR ligand and fuels KRAS-mutant pancreatic cancer",
-      "summary": "癌関連線維芽細胞由来のPAI-1はEGFRリガンドとして機能し、KRAS変異を持つ膵臓がんの進行を促進することが明らかになった。通常、EGFR阻害療法はKRAS変異腫瘍では効果が限定的だが、本研究はこの治療抵抗性メカニズムの新たな理解を提供する重要な知見である。",
-      "url": "https://www.nature.com/articles/s41467-026-75132-3",
-      "source": "Nature.com",
-      "published_at": "2026-07-04T00:00:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "68451964",
-      "category": "台湾・中台関係",
-      "title": "Conformal Coatings Market worth $2.19 billion by 2031 - Exclusive Report by MarketsandMarkets™",
-      "summary": "コンフォーマルコーティング市場は2031年までに21億9000万ドル規模に成長すると予測されており、アクリル、シリコン、エポキシ、ウレタン、パリレンなどの種類が消費者向け電子機器、自動車、航空宇宙防衛産業などの幅広い産業で使用されている。この市場拡大は電子機器の防湿・防塵性能向上の需要増加が主な要因となっている。",
-      "url": "https://www.prnewswire.com/news-releases/conformal-coatings-market-worth-2-19-billion-by-2031---exclusive-report-by-marketsandmarkets-302817494.html",
-      "source": "PRNewswire",
-      "published_at": "2026-07-03T22:40:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "31082191",
-      "category": "台湾・中台関係",
-      "title": "Conformal Coatings Market worth $2.19 billion by 2031 - Exclusive Report by MarketsandMarkets™",
-      "summary": "コンフォーマルコーティング市場は2031年までに21億9000万ドルに達すると予測されており、アクリル、シリコン、エポキシ、ウレタン、パリレンなどの種類が消費者向け電子機器、自動車、航空宇宙・防衛産業など様々な業界で使用されている。電子機器の防湿・防腐食性能への需要増加が市場拡大を牽引しており、MarketsandMarketsの調査報告書が詳細な市場分析を提供している。",
-      "url": "https://www.prnewswire.co.uk/news-releases/conformal-coatings-market-worth-2-19-billion-by-2031---exclusive-report-by-marketsandmarkets-302817486.html",
-      "source": "PR Newswire UK",
-      "published_at": "2026-07-03T22:40:00+00:00",
       "lang": "en"
     }
   ]
