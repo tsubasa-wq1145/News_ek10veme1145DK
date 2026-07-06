@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T12:37:04.910717+00:00",
+  "updated_at": "2026-07-06T16:20:43.263297+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -45,17 +45,27 @@
   "digest": [],
   "news": [
     {
-      "id": "88309159",
+      "id": "51507176",
       "category": "経済・ビジネス（日本）",
       "title": "中国軍が太平洋の公海上へ潜水艦発射型戦略ミサイルの発射実験",
       "summary": "中国海軍の戦略原子力潜水艦が太平洋の公海に向けて訓練用の模擬弾頭を搭載した潜水艦発射型戦略ミサイルを1発発射し、予定の海域に着弾させました。中国はこのミサイル発射実験は年間の軍事訓練計画の一部で、事前に関係国に通告済みであり、国際法に合致し、特定国や目標を標的としたものではないと説明しています。",
       "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169931000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-07-06T12:24:10+00:00",
+      "published_at": "2026-07-06T13:46:14+00:00",
       "lang": "ja"
     },
     {
-      "id": "24853262",
+      "id": "70927082",
+      "category": "経済・ビジネス（日本）",
+      "title": "フィリピン議会上院でサラ・ドゥテルテ副大統領の弾劾裁判開始",
+      "summary": "フィリピンの議会上院でサラ・ドゥテルテ副大統領に対する弾劾裁判が開始され、機密費の不正使用などが問われています。裁判の結果によっては、サラ氏が2028年の大統領選挙に立候補できなくなる可能性があります。",
+      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015170271000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-06T13:40:53+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "54643348",
       "category": "経済・ビジネス（日本）",
       "title": "イラン ハメネイ師の大規模な葬列 モジタバ師が姿見せるか注目",
       "summary": "イランの前最高指導者ハメネイ師がアメリカとイスラエルの攻撃で殺害され、テヘラン各地で大規模な葬列が行われています。後継者として注目される息子のモジタバ・ハメネイ師の動向が伝えられておらず、9日まで続く葬儀に出席するかが注視されています。",
@@ -65,7 +75,7 @@
       "lang": "ja"
     },
     {
-      "id": "70248563",
+      "id": "67262569",
       "category": "経済・ビジネス（日本）",
       "title": "オーストラリア フィジーと同盟関係へ 中国に対抗か",
       "summary": "オーストラリアとフィジーが相互防衛を定めた安全保障条約に署名し、両国関係を同盟に格上げすることで合意しました。この動きは南太ПО洋で影響力を強めている中国への対抗が狙いとみられています。",
@@ -75,7 +85,7 @@
       "lang": "ja"
     },
     {
-      "id": "61326553",
+      "id": "85198927",
       "category": "経済・ビジネス（日本）",
       "title": "ハマス ガザ地区の行政当局を解散と発表 先行きは不透明",
       "summary": "イスラム組織ハマスがガザ地区の行政当局を解散すると発表し、トランプ大統領の和平計画に基づいてパレスチナ人専門家による委員会に権限を移譲するとしています。しかしハマスの武装解除については明言されておらず、権限移譲先の委員会がガザ地区に入れない状況など、和平実現に向けた具体的な課題が残っており先行きは不確実です。",
@@ -85,7 +95,7 @@
       "lang": "ja"
     },
     {
-      "id": "83761782",
+      "id": "10326133",
       "category": "経済・ビジネス（日本）",
       "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月6日の動き）",
       "summary": "ロシアによるウクライナへの軍事侵攻が継続しており、ウクライナ各地でロシア軍とウクライナ軍の戦闘が続いている。多くの市民が国外への避難を余儀なくされており、この記事では7月6日の戦闘状況と関係各国の外交動向について随時更新する。",
@@ -95,7 +105,7 @@
       "lang": "ja"
     },
     {
-      "id": "31248427",
+      "id": "41214052",
       "category": "経済・ビジネス（日本）",
       "title": "茂木外相 きょうからトルコ訪問 NATO関連行事など出席へ",
       "summary": "茂木外務大臣が6日からトルコを訪問し、NATOのルッテ事務総長との会合に高市総理大臣の代理として出席するほか、日米韓3か国の外相会談などに参加する予定です。",
@@ -105,7 +115,7 @@
       "lang": "ja"
     },
     {
-      "id": "45837719",
+      "id": "12396081",
       "category": "経済・ビジネス（日本）",
       "title": "韓国で「サッカー革新委員会」発足 W杯1次リーグ敗退受け",
       "summary": "韓国がW杯北中米大会での1次リーグ敗退を受けて、政府主導で「サッカー革新委員会」を発足させ、協会改革と代表チームの強化に取り組むことになった。代表監督の選考過程の不透明さなど、様々な批判が上がっており、今後の改革の行方が注目される。",
@@ -115,27 +125,27 @@
       "lang": "ja"
     },
     {
-      "id": "51626967",
-      "category": "経済・ビジネス（日本）",
-      "title": "米スミソニアン博物館“急進的”と批判 ホワイトハウス報告書",
-      "summary": "ホワイトハウスがスミソニアン博物館を急進的なイデオロギーに支配されていると批判する報告書を発表した。トランプ政権が「愛国的な」歴史観を強要しようとして、博物館への圧力を強めているとメディアから指摘されている。",
-      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169971000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-06T06:27:09+00:00",
-      "lang": "ja"
+      "id": "42148500",
+      "category": "経済・ビジネス（世界）",
+      "title": "Microsoft cuts 4,800 jobs and shrinks Xbox in 'significant restructure'",
+      "summary": "マイクロソフトが約4,800人の従業員を削減し、Xboxの事業規模を縮小する大規模な事業再編を実施している。これは同社全従業員の約2.1%に相当し、このうち1,600人がXbox部門での削減となっている。同社は経営効率化と戦略的な事業転換を進める中での人員調整という判断である。",
+      "url": "https://www.bbc.co.uk/news/articles/c36yy27rnpeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-06T15:18:53+00:00",
+      "lang": "en"
     },
     {
-      "id": "91685896",
+      "id": "15393668",
       "category": "経済・ビジネス（世界）",
       "title": "ITV hits such as I'm a Celebrity to stay free to watch after Sky takeover",
       "summary": "ITVはメディア・エンターテインメント部門をスカイに16億ポンドで売却し、両放送局はこの取引により世界的なストリーミング大手に対する強力なライバルが誕生すると述べている。",
       "url": "https://www.bbc.co.uk/news/articles/cx2wwgeg041o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published_at": "2026-07-06T12:09:05+00:00",
+      "published_at": "2026-07-06T14:40:04+00:00",
       "lang": "en"
     },
     {
-      "id": "47045045",
+      "id": "45191109",
       "category": "経済・ビジネス（世界）",
       "title": "Wegovy weight loss pill now available in UK - here's what you need to know",
       "summary": "ウェゴビーの製造元による1日1回の錠剤がイギリスの薬局で個人購入できるようになった。この新しい経口薬は注射型の体重減少治療に続く選択肢として提供されており、肥満治療の選択肢が広がることが期待されている。",
@@ -145,7 +155,7 @@
       "lang": "en"
     },
     {
-      "id": "27017893",
+      "id": "40149997",
       "category": "経済・ビジネス（世界）",
       "title": "EasyJet agrees 'in principle' to £5.2bn takeover deal",
       "summary": "格安航空会社イージージェットは、米国の投資会社カッスルレイクからの買収提案に対して基本的な合意に達した。同社は過去4度にわたってカッスルレイクからの買収提案を拒否していたが、今回新たな段階に進むことになった。この合意により、イージージェットの所有権構造が大きく変わる可能性がある。",
@@ -155,7 +165,7 @@
       "lang": "en"
     },
     {
-      "id": "59352013",
+      "id": "68949597",
       "category": "経済・ビジネス（世界）",
       "title": "What Sky buying ITV could mean for your favourite shows",
       "summary": "スカイがITVのテレビおよびストリーミングチャンネルを買収することが間もなく発表される見通しです。この買収により、スカイはITVの人気番組へのコンテンツ支配権を強化し、視聴者が利用できる番組構成が大きく変わる可能性があります。買収後、既存のITV番組の配信方法や利用可能性に影響が生じる可能性があり、視聴者にとって重要な変化となるでしょう。",
@@ -165,7 +175,7 @@
       "lang": "en"
     },
     {
-      "id": "89194635",
+      "id": "46852839",
       "category": "経済・ビジネス（世界）",
       "title": "Backlash after China bubble tea firm ordered to pay Louis Vuitton $1.5m",
       "summary": "中国の裁判所がタピオカティーチェーン「モリティー」がルイ・ヴィトンの4枚花びら設計を侵害したと判定し、同社に150万ドルの支払いを命じた判決に対してネット上で反発が起きている。ルイ・ヴィトンの商標登録された花のデザインとモリティーのロゴデザインが実際には大きく異なることから、不当な判決だという批判の声が上がっている。この事件は大企業による知的財産権侵害の主張に対する中国消費者の懸念を浮き彫りにしている。",
@@ -175,7 +185,7 @@
       "lang": "en"
     },
     {
-      "id": "68889764",
+      "id": "10675468",
       "category": "経済・ビジネス（世界）",
       "title": "Three things you can do to stop EU border checks at the airport costing you",
       "summary": "EUの新しいデジタル国境管理システムにより、今年の夏は空港での検査待ち行列が予想されており、これを回避するために事前にオンラインで必要な情報を登録し、パスポートの有効性を確認し、荷物を事前にチェックするという3つの対策を講じることが推奨されている。",
@@ -185,17 +195,7 @@
       "lang": "en"
     },
     {
-      "id": "60607611",
-      "category": "経済・ビジネス（世界）",
-      "title": "'Start work at 11' - but will other bosses be as flexible over England's 1am match?",
-      "summary": "イングランドの午前1時の試合に向けて、一部の企業が従業員に午前11時からの勤務開始を認める柔軟な対応を取っているが、他の雇用主も同様に対応するかは不確実な状況にある。雇用主らは従業員の勤務の融通性を認めるよう「常識」の発揮が呼びかけられており、この対応がどの程度広がるかが注目されている。",
-      "url": "https://www.bbc.co.uk/news/articles/c8x27k180x8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-05T13:55:34+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "37156943",
+      "id": "35912043",
       "category": "経済・ビジネス（世界）",
       "title": "No-gift policy for Taylor Swift, but how much should you give at a wedding?",
       "summary": "ウェディングリストに代わって現金での贈り物をリクエストするカップルが増えている一方で、ゲストの間では適切な金額について意見が分かれている。調査によると、ゲストは結婚式への贈り物として平均400ポンドまでを贈ることを考えており、この金額設定は招待客とカップルの関係の深さや経済状況によって異なる傾向がある。",
@@ -205,7 +205,57 @@
       "lang": "en"
     },
     {
-      "id": "37404710",
+      "id": "59676159",
+      "category": "テクノロジー・AI",
+      "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
+      "summary": "マイクロソフトは月曜日、世界中の従業員約4,800人（全体の2.1%）を削減し、これはAIが職を奪うという懸念を高める一連の人員削減の最新事例となった。特にXboxと商用営業部門が大きな打撃を受ける。",
+      "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-06T15:32:43+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "40417342",
+      "category": "テクノロジー・AI",
+      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
+      "summary": "Redditはスパム問題に対抗するため、大規模言語モデル（LLM）を活用している。皮肉なことに、LLM技術の普及によってスパムが大幅に増加したため、Redditを含むプラットフォームは同じAI技術を使ってこの問題に対処する必要に迫られている。AI時代において、プラットフォームはスパムを削減するため、火に火を注ぐ戦略を採らざるを得ない状況になっている。",
+      "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-06T15:22:08+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "86808219",
+      "category": "テクノロジー・AI",
+      "title": "Canadian spy agency says it hacked drug traffickers, extremists and a ransomware gang last year",
+      "summary": "カナダの情報機関が2023年、違法薬物密売人、過激派勢力、身代金要求型マルウェア集団を対象にハッキング作戦を実施したことが公開された。この作戦はカナダと同盟国が直面する重要な安全保障上の脅威を浮き彫りにしており、情報機関の年次報告書で開示されている。",
+      "url": "https://techcrunch.com/2026/07/06/canadian-spy-agency-says-it-hacked-drug-traffickers-extremists-and-a-ransomware-gang-last-year/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-06T14:43:59+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "41348561",
+      "category": "テクノロジー・AI",
+      "title": "How to reserve and change your WhatsApp username",
+      "summary": "WhatsAppはユーザーがフル展開前にユーザー名を予約できるようにしたもので、この機能がライブになるとスマートフォン番号を共有せずに接続することが可能になります。これにより、プライバシーを保ちながらメッセージングを利用できるようになり、ユーザーはあらかじめ希望するユーザー名を確保することで、本格的な展開時に備えることができます。",
+      "url": "https://techcrunch.com/2026/07/06/how-to-reserve-and-change-your-whatsapp-username/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-06T14:15:30+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "41479239",
+      "category": "テクノロジー・AI",
+      "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
+      "summary": "パリを拠点とするスタートアップハブのStation Fは、フランスの億万長者ザビエル・ニール氏によって設立され、AI分野の有望なスタートアップの踏み台となるべく、F/aiアクセレレータープログラムの新版を準備している。このプログラムを通じて、ヨーロッパで最も急速に成長するAIスタートアップの発射台としての立場をさらに強化しようとしている。",
+      "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-06T13:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "13401504",
       "category": "テクノロジー・AI",
       "title": "Smart glasses maker Even Realities hits $1B valuation with $150M funding led by Meituan, Tencent",
       "summary": "カメラレスのスマートグラスを開発する元Apple従業員のチームによるEven Realitiesが、MeitouanとTencentが主導する1億5000万ドルの資金調達ラウンドで10億ドルの評価額に達した。同社はカメラを使用しない先進的なスマートグラス技術の開発に注力しており、アジアを中心とした大手企業からの支援を受けて事業拡大を目指している。",
@@ -215,7 +265,7 @@
       "lang": "en"
     },
     {
-      "id": "86683925",
+      "id": "74747030",
       "category": "テクノロジー・AI",
       "title": "This humanoid robotics company is going public, but its CEO isn’t promising a robot in your home anytime soon",
       "summary": "アジリティ・ロボティクスは、他のヒューマノイドロボット企業のような高い企業評価を追求するのではなく、実行力に賭けて特別買収目的会社（SPAC）を通じて上場する。同社のCEOは、家庭用ロボットの実現はまだ先だと述べており、実現可能な目標に基づいた慎重なアプローチを取っている企業である。",
@@ -225,7 +275,7 @@
       "lang": "en"
     },
     {
-      "id": "14968305",
+      "id": "92380130",
       "category": "テクノロジー・AI",
       "title": "Some of the nation’s rich are letting AI teach their kids",
       "summary": "アメリカの富裕層の一部が、従来の学校の代わりにAIを使って子どもたちに教育を受けさせています。一般的なアメリカ人はAIを信頼していませんが、Forge PrepやAlphaなどの企業は、AI家庭教師サービスを提供することで、富裕家庭の教育ニーズに対応しています。この動向は、従来の教育システムに対する富裕層の新たなアプローチを示しています。",
@@ -235,57 +285,47 @@
       "lang": "en"
     },
     {
-      "id": "98150245",
-      "category": "テクノロジー・AI",
-      "title": "Uber’s European expansion plans may have hit a speed bump",
-      "summary": "Uberは2月にヨーロッパの7つの新市場への2026年の進出計画を発表していたが、そのうち5つの進出が現在保留されているとのことである。この遅延によりUberのヨーロッパ拡大戦略は当初の予定より遅れることになり、企業の成長目標に影響を与える可能性がある。",
-      "url": "https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-05T21:35:17+00:00",
+      "id": "44297049",
+      "category": "台湾・中台関係",
+      "title": "Micron Technology Stock Prediction 2026: Could MU Reach $2,000 Within a Year?",
+      "summary": "マイクロン・テクノロジーの株式は人工知能需要に支えられた半導体セクターの優良銘柄として、高帯域幅メモリとDRAM製品の需要拡大の恩恵を受けて好調に推移している。2026年7月初旬時点での株価動向と市場予測から、年内に2000ドルに到達する可能性が分析されている。同社のAI関連ビジネスの成長見通しと業績予測が投資家の注目を集めている。",
+      "url": "https://www.successful-blog.com/1/micron-technology-stock/",
+      "source": "Successful-blog.com",
+      "published_at": "2026-07-05T16:01:52+00:00",
       "lang": "en"
     },
     {
-      "id": "23646772",
-      "category": "テクノロジー・AI",
-      "title": "Trump memecoin investors lost $3.8 billion, analysis finds",
-      "summary": "トランプ大統領のメムコイン「$TRUMP」に投資した約100万人が総額38億ドルの損失を被った一方で、トランプ本人は6億3,600万ドルの利益を得ていることが分析により判明した。このメムコインは投資家と発行者の間で大きな利益格差が生じている状況となっている。",
-      "url": "https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-05T20:29:05+00:00",
+      "id": "75172439",
+      "category": "台湾・中台関係",
+      "title": "Rate hike readjustment and AI hardware momentum: What to watch this week",
+      "summary": "今週は経済指標が少なく、投資家が決算シーズンの開始に向けて準備する中、市場は通常の枠を超えた動きをする余地がある。金利引き上げの調整とAIハードウェアの勢いが注視される中、企業決算が市場の重要な焦点となる見通しである。",
+      "url": "https://finance.yahoo.com/economy/article/rate-hike-readjustment-and-ai-hardware-momentum-what-to-watch-this-week-160059243.html",
+      "source": "Yahoo Entertainment",
+      "published_at": "2026-07-05T16:00:59+00:00",
       "lang": "en"
     },
     {
-      "id": "47836555",
-      "category": "テクノロジー・AI",
-      "title": "Amazon will stop accepting new customers for Mechanical Turk",
-      "summary": "Amazonは新規顧客の受け入れを停止してMechanical Turkを段階的に廃止する方針を明らかにしました。同社のクラウドソーシングプラットフォームであるMechanical Turkは、小規模なタスク作業者に仕事を提供してきましたが、今後新規登録ができなくなり、サービスの終了が近づいています。",
-      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-05T17:43:36+00:00",
+      "id": "14845153",
+      "category": "台湾・中台関係",
+      "title": "SL Science Holding Limited Stock Volatility Sparks Investor Debate Following Nasdaq Debut",
+      "summary": "SL Science Holding Limitedがナスダックに上場した際、株価の大きな変動が見られ、投資家の議論を呼んでいます。同社は固形腫瘍を対象とした革新的な細胞および遺伝子治療法に投資家の関心を集めていますが、バイオテクノロジー企業特有のリスクが存在しています。",
+      "url": "https://www.ibtimes.com.au/sl-science-nasdaq-debut-biotech-volatility-1871840",
+      "source": "Ibtimes.com.au",
+      "published_at": "2026-07-05T13:39:33+00:00",
       "lang": "en"
     },
     {
-      "id": "45433289",
-      "category": "テクノロジー・AI",
-      "title": "5 desk gadgets that can make your workday better",
-      "summary": "適切なデスク用ガジェットは、机の上を整理し、集中力を高め、日々の作業に便利さをもたらすことができる。オフィス環境を改善し、生産性を向上させるために、机の周りに配置するだけで効果的なツールが存在する。これらのガジェットを活用することで、より快適で効率的な仕事環境を実現できる。",
-      "url": "https://techcrunch.com/2026/07/05/5-desk-gadgets-that-can-make-your-workday-better/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-05T15:00:00+00:00",
+      "id": "89661520",
+      "category": "台湾・中台関係",
+      "title": "Viatris (VTRS): Most Undervalued NASDAQ Stocks to Buy Right Now",
+      "summary": "ビアトリス(NASDAQ:VTRS)は、現在買うべき最も過小評価されたナスダック銘柄10社の1つである。同社は6月29日にP段階の臨床試験における良好なトップラインの結果を発表した。ビアトリスは医薬品業界で競争力を持つ企業として評価されており、現在の株価は本来の価値よりも低く設定されていると考えられている。",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/viatris-vtrs-most-undervalued-nasdaq-130413039.html",
+      "source": "Yahoo Entertainment",
+      "published_at": "2026-07-05T13:04:13+00:00",
       "lang": "en"
     },
     {
-      "id": "39022187",
-      "category": "テクノロジー・AI",
-      "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
-      "summary": "グーグルの新しい広告は、アメリカの建国の父たちがAIを活用して独立宣言を起草する場面を想像したもので、視聴者から不評を買っている。グーグルワークスペースとジェミニというAIツールを使って歴史的文書を作成する様子が描かれており、多くの人々がこのコンセプトを不適切で不快に感じている。この広告は現代のコラボレーションツールが歴史的な瞬間を改善できるという考え方に対する批判を引き起こしている。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
-      "source": "AI | The Verge",
-      "published_at": "2026-07-05T14:23:11+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "40844660",
+      "id": "23457648",
       "category": "台湾・中台関係",
       "title": "Scrutinising the Unpardonable: The AUKUS Public Inquiry So Far",
       "summary": "オーストラリア、イギリス、アメリカの三国間防衛協力協定であるAUKUSは、政策・戦略・予算配分の歴史において、限定的で不十分な思考による最も無分別で不合理なプロジェクトの一つと見なされるだろう。AUKUS公開調査の進行状況について、この協定の問題点が検証されている。",
@@ -295,7 +335,7 @@
       "lang": "en"
     },
     {
-      "id": "35008682",
+      "id": "48691250",
       "category": "台湾・中台関係",
       "title": "Taiwan says China has 'no right to comment' on reported Perth office",
       "summary": "台湾の外交部は日曜日、オーストラリアのパースに代表事務所を開設する計画に関する報道について確認を避けながらも、台湾の国際交流に干渉しようとする北京の試みを批判した。台湾は中国に対し、台湾の外交活動についてコメントする権利がないと主張している。",
@@ -305,7 +345,7 @@
       "lang": "en"
     },
     {
-      "id": "47366132",
+      "id": "29293367",
       "category": "台湾・中台関係",
       "title": "Taiwan appoints new envoys to Fiji, Peru, first representative to Phoenix",
       "summary": "台湾政府は、フィジーとペルーの新しい代表に加えて、フェニックス（アリゾナ州）への初の代表を含む新たな外交官任命を承認した。この人事は、台湾がアメリカ西部地域との関係強化と、太平洋島嶼国との外交関係を拡大する戦略的な動きを示している。フェニックスへの代表部設置により、台湾はアメリカ国内での外交拠点をさらに多角化させることになる。",
@@ -315,53 +355,13 @@
       "lang": "en"
     },
     {
-      "id": "85195197",
+      "id": "85728587",
       "category": "台湾・中台関係",
       "title": "Canada is 13th wealthiest nation in the world, according to annual global wealth rankings",
       "summary": "カナダは年間世界資産ランキングで世界で13番目に富裕な国と位置付けられており、成人人口の約55パーセントが10万米ドル以上の資産を保有しているという調査結果が発表された。",
       "url": "https://nationalpost.com/news/canada/canada-is-13th-wealthiest-nation-in-the-world-according-to-annual-global-wealth-rankings",
       "source": "National Post",
       "published_at": "2026-07-05T11:00:20+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "51814777",
-      "category": "台湾・中台関係",
-      "title": "Links 7/5/2026",
-      "summary": "2026年7月5日のニュースリンク集では、アメリカの建国250周年、銀河系の巨大合併、気候変動と不平等、ベネズエラの地震、中国の垂直農業、中東情勢、ウクライナの危機、プライバシー喪失の問題、トランプ関連の動向、イーロン・マスク関連の出来事、民主党の課題、移民問題など、世界的な主要ニュースが報道されている。",
-      "url": "https://www.nakedcapitalism.com/2026/07/links-7-5-2026.html",
-      "source": "Nakedcapitalism.com",
-      "published_at": "2026-07-05T10:55:53+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "20047340",
-      "category": "台湾・中台関係",
-      "title": "Taiwan military resumes 'anti-communist' classes for graduates, citing Chinese threat - Reuters",
-      "summary": "台湾軍は中国の脅威に対抗するため、卒業生向けの「反共産主義」クラスを再開しており、冷戦時代のイデオロギー教育を復活させている。この取り組みは台湾の軍事アカデミー卒業生に対する愛国的訓練の一環として、中国の軍事的・政治的脅威の増加に直面する中で実施されている。台湾政府は国家防衛とイデオロギー結束の強化を目的としてこの教育プログラムを復活させた。",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184314756",
-      "source": "Slashdot.org",
-      "published_at": "2026-07-05T10:32:06+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "43571083",
-      "category": "台湾・中台関係",
-      "title": "America’s battlefield dominance is under serious threat",
-      "summary": "アメリカの戦場支配力が深刻な脅威にさらされているという記事で、ドローン、人工知能、低価格技術による急速な戦争形態の変化を指摘しており、ウクライナが大量のドローンと無人ボートを使用して高額な軍事資産を無力化している事例が強調されている。",
-      "url": "https://economictimes.indiatimes.com/news/defence/americas-battlefield-dominance-is-under-serious-threat/articleshow/132193035.cms",
-      "source": "The Times of India",
-      "published_at": "2026-07-05T09:03:28+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "20947648",
-      "category": "台湾・中台関係",
-      "title": "China raises pressure on Taiwan with expanded coast guard patrols",
-      "summary": "中国は台湾周辺での沿岸警備隊の巡回を拡大させており、地域の緊張が高まり、軍事的準備態勢の強化と市場への懸念が生じている。この中国による圧力強化は、台湾海峡の不安定性を増す要因として注視されている。",
-      "url": "https://cryptobriefing.com/china-raises-pressure-on-taiwan-with-expanded-coast-guard-patrols/",
-      "source": "Crypto Briefing",
-      "published_at": "2026-07-05T08:26:58+00:00",
       "lang": "en"
     }
   ]
