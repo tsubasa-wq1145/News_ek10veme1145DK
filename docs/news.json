@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T16:20:43.263297+00:00",
+  "updated_at": "2026-07-06T23:13:10.005223+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -45,87 +45,87 @@
   "digest": [],
   "news": [
     {
-      "id": "51507176",
+      "id": "91144014",
       "category": "経済・ビジネス（日本）",
-      "title": "中国軍が太平洋の公海上へ潜水艦発射型戦略ミサイルの発射実験",
-      "summary": "中国海軍の戦略原子力潜水艦が太平洋の公海に向けて訓練用の模擬弾頭を搭載した潜水艦発射型戦略ミサイルを1発発射し、予定の海域に着弾させました。中国はこのミサイル発射実験は年間の軍事訓練計画の一部で、事前に関係国に通告済みであり、国際法に合致し、特定国や目標を標的としたものではないと説明しています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169931000.html",
+      "title": "Ｗ杯1次リーグ敗退の韓国 サッカー協会の会長が辞任",
+      "summary": "サッカーワールドカップ北中米大会で1次リーグ敗退した韓国で、責任をとって韓国サッカー協会の会長が辞任した。代表監督の選考過程が不透明だとして批判が相次いでおり、論争が続いている。",
+      "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170441000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-07-06T13:46:14+00:00",
+      "published_at": "2026-07-06T21:42:45+00:00",
       "lang": "ja"
     },
     {
-      "id": "70927082",
+      "id": "16745394",
       "category": "経済・ビジネス（日本）",
-      "title": "フィリピン議会上院でサラ・ドゥテルテ副大統領の弾劾裁判開始",
-      "summary": "フィリピンの議会上院でサラ・ドゥテルテ副大統領に対する弾劾裁判が開始され、機密費の不正使用などが問われています。裁判の結果によっては、サラ氏が2028年の大統領選挙に立候補できなくなる可能性があります。",
-      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015170271000.html",
+      "title": "英テレビ局スカイ 国内民放ITVの放送・動画配信事業買収へ",
+      "summary": "イギリスの大手テレビ局スカイが国内民放大手の放送・動画配信事業を最大約3500億円で買収すると発表し、これはイギリスメディア史上最大級の買収案件とされています。動画配信大手との競争激化に対抗するため、事業規模の拡大を狙った決定です。",
+      "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170471000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-07-06T13:40:53+00:00",
+      "published_at": "2026-07-06T21:41:57+00:00",
       "lang": "ja"
     },
     {
-      "id": "54643348",
+      "id": "20272209",
       "category": "経済・ビジネス（日本）",
-      "title": "イラン ハメネイ師の大規模な葬列 モジタバ師が姿見せるか注目",
-      "summary": "イランの前最高指導者ハメネイ師がアメリカとイスラエルの攻撃で殺害され、テヘラン各地で大規模な葬列が行われています。後継者として注目される息子のモジタバ・ハメネイ師の動向が伝えられておらず、9日まで続く葬儀に出席するかが注視されています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169901000.html",
+      "title": "ダウ平均株価が再び最高値 AI期待で半導体などに買い戻し",
+      "summary": "ニューヨーク株式市場でAI関連銘柄への買い戻しが進み、ダウ平均株価は150ドル以上上昇して初めて5万3000ドル台に達し、2営業日連続で最高値を更新しました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170501000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-07-06T12:15:32+00:00",
+      "published_at": "2026-07-06T21:40:55+00:00",
       "lang": "ja"
     },
     {
-      "id": "67262569",
+      "id": "29083800",
       "category": "経済・ビジネス（日本）",
-      "title": "オーストラリア フィジーと同盟関係へ 中国に対抗か",
-      "summary": "オーストラリアとフィジーが相互防衛を定めた安全保障条約に署名し、両国関係を同盟に格上げすることで合意しました。この動きは南太ПО洋で影響力を強めている中国への対抗が狙いとみられています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015170211000.html",
+      "title": "キーウで15人死亡 ゼレンスキー氏 各国に防空強化決定呼びかけ",
+      "summary": "ウクライナの首都キーウでロシア軍による大規模攻撃により15人が死亡し、ゼレンスキー大統領はNATO首脳会議を前に加盟国に対してウクライナの防空システム強化に向けた決定を求めました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170481000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-07-06T12:09:45+00:00",
+      "published_at": "2026-07-06T21:21:29+00:00",
       "lang": "ja"
     },
     {
-      "id": "85198927",
+      "id": "42536336",
       "category": "経済・ビジネス（日本）",
-      "title": "ハマス ガザ地区の行政当局を解散と発表 先行きは不透明",
-      "summary": "イスラム組織ハマスがガザ地区の行政当局を解散すると発表し、トランプ大統領の和平計画に基づいてパレスチナ人専門家による委員会に権限を移譲するとしています。しかしハマスの武装解除については明言されておらず、権限移譲先の委員会がガザ地区に入れない状況など、和平実現に向けた具体的な課題が残っており先行きは不確実です。",
-      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015170241000.html",
+      "title": "経団連会長 “中国への訪問団派遣へ中国側と対話進める”",
+      "summary": "経団連の筒井会長は、現在実現の見通しが立っていない経済界の代表らによる中国派遣について、実現に向けて中国側との対話を進める考えを示しました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170221000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-07-06T11:52:34+00:00",
+      "published_at": "2026-07-06T20:41:48+00:00",
       "lang": "ja"
     },
     {
-      "id": "10326133",
+      "id": "30376224",
       "category": "経済・ビジネス（日本）",
-      "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月6日の動き）",
-      "summary": "ロシアによるウクライナへの軍事侵攻が継続しており、ウクライナ各地でロシア軍とウクライナ軍の戦闘が続いている。多くの市民が国外への避難を余儀なくされており、この記事では7月6日の戦闘状況と関係各国の外交動向について随時更新する。",
-      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015140741000.html",
+      "title": "中国が潜水艦からミサイル発射 関係国などから懸念の声",
+      "summary": "中国海軍は6日、戦略原子力潜水艦から太平洋の公海上にミサイルを発射しました。中国は事前通知と国際法への適合性を主張していますが、日本を含む関係国から懸念の声が上がっています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170341000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-07-06T11:06:14+00:00",
+      "published_at": "2026-07-06T20:36:15+00:00",
       "lang": "ja"
     },
     {
-      "id": "41214052",
+      "id": "10111267",
       "category": "経済・ビジネス（日本）",
-      "title": "茂木外相 きょうからトルコ訪問 NATO関連行事など出席へ",
-      "summary": "茂木外務大臣が6日からトルコを訪問し、NATOのルッテ事務総長との会合に高市総理大臣の代理として出席するほか、日米韓3か国の外相会談などに参加する予定です。",
-      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015170131000.html",
+      "title": "トランプ大統領 FIFA会長に再検討求めるも「指示はせず」",
+      "summary": "トランプ米大統領がワールドカップ北中米大会でアメリカ代表選手のレッドカード処分に関し、FIFA会長に電話で判定の再検討を求めていたことを認めました。ただし大統領は「指示をしたわけではない」と述べ、決定への直接的な介入は否定しています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170451000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-07-06T10:39:56+00:00",
+      "published_at": "2026-07-06T20:35:30+00:00",
       "lang": "ja"
     },
     {
-      "id": "12396081",
+      "id": "50373271",
       "category": "経済・ビジネス（日本）",
-      "title": "韓国で「サッカー革新委員会」発足 W杯1次リーグ敗退受け",
-      "summary": "韓国がW杯北中米大会での1次リーグ敗退を受けて、政府主導で「サッカー革新委員会」を発足させ、協会改革と代表チームの強化に取り組むことになった。代表監督の選考過程の不透明さなど、様々な批判が上がっており、今後の改革の行方が注目される。",
-      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169981000.html",
+      "title": "NATO首脳会議 米が防衛への関与減らすなか結束示せるか焦点",
+      "summary": "NATO首脳会議がトルコのアンカラで7日から2日間開催され、米国がヨーロッパ防衛への関与を減らす中で、他の加盟国がより大きな役割を担うことが確認される見通しです。NATOが組織としての結束を示せるかが焦点となります。",
+      "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170231000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-07-06T08:51:56+00:00",
+      "published_at": "2026-07-06T20:34:39+00:00",
       "lang": "ja"
     },
     {
-      "id": "42148500",
+      "id": "42195961",
       "category": "経済・ビジネス（世界）",
       "title": "Microsoft cuts 4,800 jobs and shrinks Xbox in 'significant restructure'",
       "summary": "マイクロソフトが約4,800人の従業員を削減し、Xboxの事業規模を縮小する大規模な事業再編を実施している。これは同社全従業員の約2.1%に相当し、このうち1,600人がXbox部門での削減となっている。同社は経営効率化と戦略的な事業転換を進める中での人員調整という判断である。",
@@ -135,7 +135,7 @@
       "lang": "en"
     },
     {
-      "id": "15393668",
+      "id": "28916233",
       "category": "経済・ビジネス（世界）",
       "title": "ITV hits such as I'm a Celebrity to stay free to watch after Sky takeover",
       "summary": "ITVはメディア・エンターテインメント部門をスカイに16億ポンドで売却し、両放送局はこの取引により世界的なストリーミング大手に対する強力なライバルが誕生すると述べている。",
@@ -145,7 +145,7 @@
       "lang": "en"
     },
     {
-      "id": "45191109",
+      "id": "88071391",
       "category": "経済・ビジネス（世界）",
       "title": "Wegovy weight loss pill now available in UK - here's what you need to know",
       "summary": "ウェゴビーの製造元による1日1回の錠剤がイギリスの薬局で個人購入できるようになった。この新しい経口薬は注射型の体重減少治療に続く選択肢として提供されており、肥満治療の選択肢が広がることが期待されている。",
@@ -155,7 +155,7 @@
       "lang": "en"
     },
     {
-      "id": "40149997",
+      "id": "41348734",
       "category": "経済・ビジネス（世界）",
       "title": "EasyJet agrees 'in principle' to £5.2bn takeover deal",
       "summary": "格安航空会社イージージェットは、米国の投資会社カッスルレイクからの買収提案に対して基本的な合意に達した。同社は過去4度にわたってカッスルレイクからの買収提案を拒否していたが、今回新たな段階に進むことになった。この合意により、イージージェットの所有権構造が大きく変わる可能性がある。",
@@ -165,7 +165,7 @@
       "lang": "en"
     },
     {
-      "id": "68949597",
+      "id": "42745962",
       "category": "経済・ビジネス（世界）",
       "title": "What Sky buying ITV could mean for your favourite shows",
       "summary": "スカイがITVのテレビおよびストリーミングチャンネルを買収することが間もなく発表される見通しです。この買収により、スカイはITVの人気番組へのコンテンツ支配権を強化し、視聴者が利用できる番組構成が大きく変わる可能性があります。買収後、既存のITV番組の配信方法や利用可能性に影響が生じる可能性があり、視聴者にとって重要な変化となるでしょう。",
@@ -175,7 +175,7 @@
       "lang": "en"
     },
     {
-      "id": "46852839",
+      "id": "41504043",
       "category": "経済・ビジネス（世界）",
       "title": "Backlash after China bubble tea firm ordered to pay Louis Vuitton $1.5m",
       "summary": "中国の裁判所がタピオカティーチェーン「モリティー」がルイ・ヴィトンの4枚花びら設計を侵害したと判定し、同社に150万ドルの支払いを命じた判決に対してネット上で反発が起きている。ルイ・ヴィトンの商標登録された花のデザインとモリティーのロゴデザインが実際には大きく異なることから、不当な判決だという批判の声が上がっている。この事件は大企業による知的財産権侵害の主張に対する中国消費者の懸念を浮き彫りにしている。",
@@ -185,7 +185,7 @@
       "lang": "en"
     },
     {
-      "id": "10675468",
+      "id": "49129883",
       "category": "経済・ビジネス（世界）",
       "title": "Three things you can do to stop EU border checks at the airport costing you",
       "summary": "EUの新しいデジタル国境管理システムにより、今年の夏は空港での検査待ち行列が予想されており、これを回避するために事前にオンラインで必要な情報を登録し、パスポートの有効性を確認し、荷物を事前にチェックするという3つの対策を講じることが推奨されている。",
@@ -195,7 +195,7 @@
       "lang": "en"
     },
     {
-      "id": "35912043",
+      "id": "34631900",
       "category": "経済・ビジネス（世界）",
       "title": "No-gift policy for Taylor Swift, but how much should you give at a wedding?",
       "summary": "ウェディングリストに代わって現金での贈り物をリクエストするカップルが増えている一方で、ゲストの間では適切な金額について意見が分かれている。調査によると、ゲストは結婚式への贈り物として平均400ポンドまでを贈ることを考えており、この金額設定は招待客とカップルの関係の深さや経済状況によって異なる傾向がある。",
@@ -205,7 +205,77 @@
       "lang": "en"
     },
     {
-      "id": "59676159",
+      "id": "67458420",
+      "category": "テクノロジー・AI",
+      "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+      "summary": "Vercel最高経営責任者のギレルモ・ラウチ氏は、生産環境を最適化する際には、価格対性能のバランスを重視する必要があると述べており、これはAIモデルとエージェント機能を分離すべきという議論に関連している。ラウチ氏の発言は、AIインフラストラクチャの設計において、コスト効率と性能を両立させることの重要性を強調している。",
+      "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-06T19:49:10+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "54816963",
+      "category": "テクノロジー・AI",
+      "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
+      "summary": "iOS 27ベータ版の最新アップデートにより、ユーザーはSiriの話す速度と表現力をカスタマイズできるようになった。このアップデートはAppleがSiriを生成型AIを中心に再構築し、より自然で個人的に感じられるようにする取り組みの一環である。",
+      "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-06T19:01:59+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "20096198",
+      "category": "テクノロジー・AI",
+      "title": "Every major tech layoff in 2026 that has name-checked AI",
+      "summary": "2026年にAIを理由に大規模なリストラを発表した主要テック企業の一覧が、時系列の逆順でまとめられている。本記事は、AI導入に伴う人員削減を公表した大手技術企業の動向を追跡し、各企業がAIを構造改革の主な要因として挙げている状況をまとめたものである。",
+      "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-06T18:35:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "96073253",
+      "category": "テクノロジー・AI",
+      "title": "Amazon competitor Bookshop.org says Kobo eReader support will happen this year after all",
+      "summary": "Amazonの競合企業であるBookshop.orgは、Kobo電子書籍リーダーのサポートが今年中に実現すると発表した。同社は以前にこのパートナーシップを延期していたが、TechCrunchに対してビジネス条件の合意に達し、統合作業を進めていることを明かした。",
+      "url": "https://techcrunch.com/2026/07/06/amazon-competitor-bookshop-org-says-kobo-e-reader-support-will-happen-this-year-after-all/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-06T18:12:01+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "74023730",
+      "category": "テクノロジー・AI",
+      "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
+      "summary": "Googleのプライバシー設定が最近変更され、同社は画像、ファイル、音声・動画記録などのユーザーデータをより多く保存でき、これらがAIモデルの改善に利用されるようになった。ユーザーはこの設定を無効にしてデータ利用をオプトアウトすることが可能であるが、Googleの新しいプライバシーポリシーにより、より多くの個人情報がAI学習に使用される可能性がある。ユーザーは自分のデータがどのように使用されるかを理解し、必要に応じて設定を変更することが重要である。",
+      "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-06T17:04:58+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "21270785",
+      "category": "テクノロジー・AI",
+      "title": "Apple brings back card payments for Apple Account purchases in India after a four-year hiatus",
+      "summary": "Apple が、インドの決済規制に対応した後、4年の中断を経てインドでの Apple Account 購入時にカード決済を段階的に再開している。これまでインドではデジタル決済規制により Apple がカード決済サービスを提供できなかったが、現在は国内の決済枠組みに適応した形式での再導入が進められている。",
+      "url": "https://techcrunch.com/2026/07/06/apple-brings-back-card-payments-for-apple-account-purchases-in-india-after-a-four-year-hiatus/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-06T16:21:03+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "19189316",
+      "category": "テクノロジー・AI",
+      "title": "I spy",
+      "summary": "ネットフリックスの「A Man on the Inside」を視聴した筆者は、ハリウッドが初めてスマートグラスの実際の文化的問題を描いたと指摘している。これまでハリウッドはスマートグラスに対して現実離れた期待値を設定してきたが、このドラマはスマートグラスが現在抱える根本的な課題を意図的かどうかにせよ浮き彫りにしているという。",
+      "url": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
+      "source": "AI | The Verge",
+      "published_at": "2026-07-06T16:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "79833318",
       "category": "テクノロジー・AI",
       "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
       "summary": "マイクロソフトは月曜日、世界中の従業員約4,800人（全体の2.1%）を削減し、これはAIが職を奪うという懸念を高める一連の人員削減の最新事例となった。特にXboxと商用営業部門が大きな打撃を受ける。",
@@ -215,77 +285,37 @@
       "lang": "en"
     },
     {
-      "id": "40417342",
-      "category": "テクノロジー・AI",
-      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
-      "summary": "Redditはスパム問題に対抗するため、大規模言語モデル（LLM）を活用している。皮肉なことに、LLM技術の普及によってスパムが大幅に増加したため、Redditを含むプラットフォームは同じAI技術を使ってこの問題に対処する必要に迫られている。AI時代において、プラットフォームはスパムを削減するため、火に火を注ぐ戦略を採らざるを得ない状況になっている。",
-      "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-06T15:22:08+00:00",
+      "id": "22334661",
+      "category": "台湾・中台関係",
+      "title": "American Decline, Chinese Exposure | Sinification: June 2026",
+      "summary": "本文抜粋が断片的であり完全な内容がないため、正確な翻訳と要約ができません。タイトルに基づくと、本記事はアメリカの衰退と中国の台頭、特に台湾問題を含む米中関係の動向、および中東・ヨーロッパ・東アジア・ロシアなど複数地域での地政学的変化、経済・技術・重要鉱物などの多角的な影響を扱っているものと考えられます。完全な本文をご提供いただければ、正確な翻訳と要約が可能です。",
+      "url": "https://sinocism.com/p/american-decline-chinese-exposure",
+      "source": "Sinocism.com",
+      "published_at": "2026-07-05T22:31:12+00:00",
       "lang": "en"
     },
     {
-      "id": "86808219",
-      "category": "テクノロジー・AI",
-      "title": "Canadian spy agency says it hacked drug traffickers, extremists and a ransomware gang last year",
-      "summary": "カナダの情報機関が2023年、違法薬物密売人、過激派勢力、身代金要求型マルウェア集団を対象にハッキング作戦を実施したことが公開された。この作戦はカナダと同盟国が直面する重要な安全保障上の脅威を浮き彫りにしており、情報機関の年次報告書で開示されている。",
-      "url": "https://techcrunch.com/2026/07/06/canadian-spy-agency-says-it-hacked-drug-traffickers-extremists-and-a-ransomware-gang-last-year/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-06T14:43:59+00:00",
+      "id": "87796698",
+      "category": "台湾・中台関係",
+      "title": "Will Sanford, Tanner Bradley placed on USA Baseball Collegiate National Team",
+      "summary": "ウィル・サンフォードとタナー・ブラッドリーはこの夏、USA野球カレッジナショナルチームでダックスを代表することになった。二人の選手は同チームに選出され、国際大会で米国を代表して競技する機会を得た。",
+      "url": "https://duckswire.usatoday.com/story/sports/college/ducks/baseball/2026/07/05/oregon-baseball-will-sanford-tanner-bradley-usa-cnt/90813725007/",
+      "source": "USA Today",
+      "published_at": "2026-07-05T21:29:38+00:00",
       "lang": "en"
     },
     {
-      "id": "41348561",
-      "category": "テクノロジー・AI",
-      "title": "How to reserve and change your WhatsApp username",
-      "summary": "WhatsAppはユーザーがフル展開前にユーザー名を予約できるようにしたもので、この機能がライブになるとスマートフォン番号を共有せずに接続することが可能になります。これにより、プライバシーを保ちながらメッセージングを利用できるようになり、ユーザーはあらかじめ希望するユーザー名を確保することで、本格的な展開時に備えることができます。",
-      "url": "https://techcrunch.com/2026/07/06/how-to-reserve-and-change-your-whatsapp-username/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-06T14:15:30+00:00",
+      "id": "14578642",
+      "category": "台湾・中台関係",
+      "title": "3 iShares ETFs Crushing the S&P 500 by 30 Points in 2026",
+      "summary": "新興市場（中国除く）に焦点を当てた3つのiShares上場投資信託（ETF）が、2026年に標準普通株500種指数（S&P 500）を30ポイント以上上回るパフォーマンスを達成している。これらのファンドは中国を除いた新興市場への投資機会に注目が集まる中で、市場で支配的な地位を占めており、S&P 500との間で有意義なパフォーマンス差を生み出している。",
+      "url": "https://247wallst.com/investing/2026/07/05/3-ishares-etfs-crushing-the-sp-500-by-30-points-in-2026/",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-07-05T19:10:14+00:00",
       "lang": "en"
     },
     {
-      "id": "41479239",
-      "category": "テクノロジー・AI",
-      "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
-      "summary": "パリを拠点とするスタートアップハブのStation Fは、フランスの億万長者ザビエル・ニール氏によって設立され、AI分野の有望なスタートアップの踏み台となるべく、F/aiアクセレレータープログラムの新版を準備している。このプログラムを通じて、ヨーロッパで最も急速に成長するAIスタートアップの発射台としての立場をさらに強化しようとしている。",
-      "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-06T13:00:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "13401504",
-      "category": "テクノロジー・AI",
-      "title": "Smart glasses maker Even Realities hits $1B valuation with $150M funding led by Meituan, Tencent",
-      "summary": "カメラレスのスマートグラスを開発する元Apple従業員のチームによるEven Realitiesが、MeitouanとTencentが主導する1億5000万ドルの資金調達ラウンドで10億ドルの評価額に達した。同社はカメラを使用しない先進的なスマートグラス技術の開発に注力しており、アジアを中心とした大手企業からの支援を受けて事業拡大を目指している。",
-      "url": "https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-06T09:00:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "74747030",
-      "category": "テクノロジー・AI",
-      "title": "This humanoid robotics company is going public, but its CEO isn’t promising a robot in your home anytime soon",
-      "summary": "アジリティ・ロボティクスは、他のヒューマノイドロボット企業のような高い企業評価を追求するのではなく、実行力に賭けて特別買収目的会社（SPAC）を通じて上場する。同社のCEOは、家庭用ロボットの実現はまだ先だと述べており、実現可能な目標に基づいた慎重なアプローチを取っている企業である。",
-      "url": "https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-06T06:05:29+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "92380130",
-      "category": "テクノロジー・AI",
-      "title": "Some of the nation’s rich are letting AI teach their kids",
-      "summary": "アメリカの富裕層の一部が、従来の学校の代わりにAIを使って子どもたちに教育を受けさせています。一般的なアメリカ人はAIを信頼していませんが、Forge PrepやAlphaなどの企業は、AI家庭教師サービスを提供することで、富裕家庭の教育ニーズに対応しています。この動向は、従来の教育システムに対する富裕層の新たなアプローチを示しています。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
-      "source": "AI | The Verge",
-      "published_at": "2026-07-05T22:30:54+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "44297049",
+      "id": "47500739",
       "category": "台湾・中台関係",
       "title": "Micron Technology Stock Prediction 2026: Could MU Reach $2,000 Within a Year?",
       "summary": "マイクロン・テクノロジーの株式は人工知能需要に支えられた半導体セクターの優良銘柄として、高帯域幅メモリとDRAM製品の需要拡大の恩恵を受けて好調に推移している。2026年7月初旬時点での株価動向と市場予測から、年内に2000ドルに到達する可能性が分析されている。同社のAI関連ビジネスの成長見通しと業績予測が投資家の注目を集めている。",
@@ -295,7 +325,7 @@
       "lang": "en"
     },
     {
-      "id": "75172439",
+      "id": "74798026",
       "category": "台湾・中台関係",
       "title": "Rate hike readjustment and AI hardware momentum: What to watch this week",
       "summary": "今週は経済指標が少なく、投資家が決算シーズンの開始に向けて準備する中、市場は通常の枠を超えた動きをする余地がある。金利引き上げの調整とAIハードウェアの勢いが注視される中、企業決算が市場の重要な焦点となる見通しである。",
@@ -305,7 +335,7 @@
       "lang": "en"
     },
     {
-      "id": "14845153",
+      "id": "67722194",
       "category": "台湾・中台関係",
       "title": "SL Science Holding Limited Stock Volatility Sparks Investor Debate Following Nasdaq Debut",
       "summary": "SL Science Holding Limitedがナスダックに上場した際、株価の大きな変動が見られ、投資家の議論を呼んでいます。同社は固形腫瘍を対象とした革新的な細胞および遺伝子治療法に投資家の関心を集めていますが、バイオテクノロジー企業特有のリスクが存在しています。",
@@ -315,53 +345,13 @@
       "lang": "en"
     },
     {
-      "id": "89661520",
+      "id": "18816142",
       "category": "台湾・中台関係",
       "title": "Viatris (VTRS): Most Undervalued NASDAQ Stocks to Buy Right Now",
       "summary": "ビアトリス(NASDAQ:VTRS)は、現在買うべき最も過小評価されたナスダック銘柄10社の1つである。同社は6月29日にP段階の臨床試験における良好なトップラインの結果を発表した。ビアトリスは医薬品業界で競争力を持つ企業として評価されており、現在の株価は本来の価値よりも低く設定されていると考えられている。",
       "url": "https://finance.yahoo.com/markets/stocks/articles/viatris-vtrs-most-undervalued-nasdaq-130413039.html",
       "source": "Yahoo Entertainment",
       "published_at": "2026-07-05T13:04:13+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "23457648",
-      "category": "台湾・中台関係",
-      "title": "Scrutinising the Unpardonable: The AUKUS Public Inquiry So Far",
-      "summary": "オーストラリア、イギリス、アメリカの三国間防衛協力協定であるAUKUSは、政策・戦略・予算配分の歴史において、限定的で不十分な思考による最も無分別で不合理なプロジェクトの一つと見なされるだろう。AUKUS公開調査の進行状況について、この協定の問題点が検証されている。",
-      "url": "https://www.globalresearch.ca/aukus-public-inquiry-so-far/5932414",
-      "source": "Globalresearch.ca",
-      "published_at": "2026-07-05T12:16:45+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "48691250",
-      "category": "台湾・中台関係",
-      "title": "Taiwan says China has 'no right to comment' on reported Perth office",
-      "summary": "台湾の外交部は日曜日、オーストラリアのパースに代表事務所を開設する計画に関する報道について確認を避けながらも、台湾の国際交流に干渉しようとする北京の試みを批判した。台湾は中国に対し、台湾の外交活動についてコメントする権利がないと主張している。",
-      "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260705-cna01.htm",
-      "source": "Globalsecurity.org",
-      "published_at": "2026-07-05T12:00:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "29293367",
-      "category": "台湾・中台関係",
-      "title": "Taiwan appoints new envoys to Fiji, Peru, first representative to Phoenix",
-      "summary": "台湾政府は、フィジーとペルーの新しい代表に加えて、フェニックス（アリゾナ州）への初の代表を含む新たな外交官任命を承認した。この人事は、台湾がアメリカ西部地域との関係強化と、太平洋島嶼国との外交関係を拡大する戦略的な動きを示している。フェニックスへの代表部設置により、台湾はアメリカ国内での外交拠点をさらに多角化させることになる。",
-      "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260705-cna02.htm",
-      "source": "Globalsecurity.org",
-      "published_at": "2026-07-05T12:00:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "85728587",
-      "category": "台湾・中台関係",
-      "title": "Canada is 13th wealthiest nation in the world, according to annual global wealth rankings",
-      "summary": "カナダは年間世界資産ランキングで世界で13番目に富裕な国と位置付けられており、成人人口の約55パーセントが10万米ドル以上の資産を保有しているという調査結果が発表された。",
-      "url": "https://nationalpost.com/news/canada/canada-is-13th-wealthiest-nation-in-the-world-according-to-annual-global-wealth-rankings",
-      "source": "National Post",
-      "published_at": "2026-07-05T11:00:20+00:00",
       "lang": "en"
     }
   ]
