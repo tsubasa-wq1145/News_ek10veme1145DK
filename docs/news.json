@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T07:15:02.735113+00:00",
+  "updated_at": "2026-07-06T12:37:04.910717+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -45,7 +45,77 @@
   "digest": [],
   "news": [
     {
-      "id": "20253999",
+      "id": "88309159",
+      "category": "経済・ビジネス（日本）",
+      "title": "中国軍が太平洋の公海上へ潜水艦発射型戦略ミサイルの発射実験",
+      "summary": "中国海軍の戦略原子力潜水艦が太平洋の公海に向けて訓練用の模擬弾頭を搭載した潜水艦発射型戦略ミサイルを1発発射し、予定の海域に着弾させました。中国はこのミサイル発射実験は年間の軍事訓練計画の一部で、事前に関係国に通告済みであり、国際法に合致し、特定国や目標を標的としたものではないと説明しています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169931000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-06T12:24:10+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "24853262",
+      "category": "経済・ビジネス（日本）",
+      "title": "イラン ハメネイ師の大規模な葬列 モジタバ師が姿見せるか注目",
+      "summary": "イランの前最高指導者ハメネイ師がアメリカとイスラエルの攻撃で殺害され、テヘラン各地で大規模な葬列が行われています。後継者として注目される息子のモジタバ・ハメネイ師の動向が伝えられておらず、9日まで続く葬儀に出席するかが注視されています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169901000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-06T12:15:32+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "70248563",
+      "category": "経済・ビジネス（日本）",
+      "title": "オーストラリア フィジーと同盟関係へ 中国に対抗か",
+      "summary": "オーストラリアとフィジーが相互防衛を定めた安全保障条約に署名し、両国関係を同盟に格上げすることで合意しました。この動きは南太ПО洋で影響力を強めている中国への対抗が狙いとみられています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015170211000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-06T12:09:45+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "61326553",
+      "category": "経済・ビジネス（日本）",
+      "title": "ハマス ガザ地区の行政当局を解散と発表 先行きは不透明",
+      "summary": "イスラム組織ハマスがガザ地区の行政当局を解散すると発表し、トランプ大統領の和平計画に基づいてパレスチナ人専門家による委員会に権限を移譲するとしています。しかしハマスの武装解除については明言されておらず、権限移譲先の委員会がガザ地区に入れない状況など、和平実現に向けた具体的な課題が残っており先行きは不確実です。",
+      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015170241000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-06T11:52:34+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "83761782",
+      "category": "経済・ビジネス（日本）",
+      "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月6日の動き）",
+      "summary": "ロシアによるウクライナへの軍事侵攻が継続しており、ウクライナ各地でロシア軍とウクライナ軍の戦闘が続いている。多くの市民が国外への避難を余儀なくされており、この記事では7月6日の戦闘状況と関係各国の外交動向について随時更新する。",
+      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015140741000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-06T11:06:14+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "31248427",
+      "category": "経済・ビジネス（日本）",
+      "title": "茂木外相 きょうからトルコ訪問 NATO関連行事など出席へ",
+      "summary": "茂木外務大臣が6日からトルコを訪問し、NATOのルッテ事務総長との会合に高市総理大臣の代理として出席するほか、日米韓3か国の外相会談などに参加する予定です。",
+      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015170131000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-06T10:39:56+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "45837719",
+      "category": "経済・ビジネス（日本）",
+      "title": "韓国で「サッカー革新委員会」発足 W杯1次リーグ敗退受け",
+      "summary": "韓国がW杯北中米大会での1次リーグ敗退を受けて、政府主導で「サッカー革新委員会」を発足させ、協会改革と代表チームの強化に取り組むことになった。代表監督の選考過程の不透明さなど、様々な批判が上がっており、今後の改革の行方が注目される。",
+      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169981000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-06T08:51:56+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "51626967",
       "category": "経済・ビジネス（日本）",
       "title": "米スミソニアン博物館“急進的”と批判 ホワイトハウス報告書",
       "summary": "ホワイトハウスがスミソニアン博物館を急進的なイデオロギーに支配されていると批判する報告書を発表した。トランプ政権が「愛国的な」歴史観を強要しようとして、博物館への圧力を強めているとメディアから指摘されている。",
@@ -55,87 +125,37 @@
       "lang": "ja"
     },
     {
-      "id": "88661983",
-      "category": "経済・ビジネス（日本）",
-      "title": "中国海軍 戦略ミサイル1発発射 訓練用模擬弾頭搭載 新華社通信",
-      "summary": "中国海軍の戦略原子力潜水艦が太平洋の公海に向けて訓練用の模擬弾頭を搭載した潜水艦発射型戦略ミサイルを1発発射し、予定の海域に着弾させました。中国はこのミサイル発射実験は年間の軍事訓練計画の一部で、事前に関係国に通告済みであり、国際法に合致し、特定国や目標を標的としたものではないと説明しています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169931000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-06T05:40:13+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "74748714",
-      "category": "経済・ビジネス（日本）",
-      "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月6日の動き）",
-      "summary": "ロシアによるウクライナへの軍事侵攻が継続しており、ウクライナ各地でロシア軍とウクライナ軍の戦闘が続いている。多くの市民が国外への避難を余儀なくされており、この記事では7月6日の戦闘状況と関係各国の外交動向について随時更新する。",
-      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015140741000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-06T05:22:40+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "16696973",
-      "category": "経済・ビジネス（日本）",
-      "title": "ベネズエラ地震 死者3000人超 住宅・インフラ被害6兆円近くに",
-      "summary": "南米ベネズエラで先月発生したマグニチュード7を超える地震により、死者が3000人を超え、住宅を失った人が1万7000人余りに上りました。被害額は6兆円近くに達し、被災者への支援が急務となっています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169651000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-05T23:03:02+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "41272954",
-      "category": "経済・ビジネス（日本）",
-      "title": "モスクワ国際バレエコンクール グジェレフ瞭舞さんが金賞",
-      "summary": "世界の主要なバレエコンクールの一つであるモスクワ国際バレエコンクールで、東京都出身のグジェレフ瞭舞さんが男性シニア部門ソロで1位に選ばれ、金賞を受賞しました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169561000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-05T20:58:11+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "12690890",
-      "category": "経済・ビジネス（日本）",
-      "title": "ロシア軍の東部要衝掌握は「誇張」米戦争研究所の分析",
-      "summary": "ロシアがウクライナ東部の要衝掌握を発表していることについて、米シンクタンクは戦場の実態と一致しないと指摘し、ロシア軍が成果を誇張していると分析している。",
-      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169591000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-05T20:54:43+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "78879541",
-      "category": "経済・ビジネス（日本）",
-      "title": "ハメネイ師葬儀 5日は後継者モジタバ師姿見せず 兄弟は参列",
-      "summary": "イランの前最高指導者ハメネイ師の葬儀が行われ、後継者の息子モジタバ・ハメネイ師の兄弟3人が参列しましたが、モジタバ師本人の姿は現地メディアで報じられていません。",
-      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169571000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-05T20:36:25+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "32027275",
-      "category": "経済・ビジネス（日本）",
-      "title": "OPECプラスの7か国 8月に日量18万バレル余の増産発表",
-      "summary": "サウジアラビアを含むOPECプラス7か国が8月に日量18万バレル余りの増産を発表しました。米国とイランの戦闘終結に向けた覚書署名後、原油先物価格が下落傾向にある中での増産決定であり、さらなる価格低下につながる可能性があります。",
-      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169531000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-05T19:49:24+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "31914262",
+      "id": "91685896",
       "category": "経済・ビジネス（世界）",
-      "title": "ITV sells media and entertainment arm to Sky for £1.6bn",
+      "title": "ITV hits such as I'm a Celebrity to stay free to watch after Sky takeover",
       "summary": "ITVはメディア・エンターテインメント部門をスカイに16億ポンドで売却し、両放送局はこの取引により世界的なストリーミング大手に対する強力なライバルが誕生すると述べている。",
       "url": "https://www.bbc.co.uk/news/articles/cx2wwgeg041o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published_at": "2026-07-06T07:00:31+00:00",
+      "published_at": "2026-07-06T12:09:05+00:00",
       "lang": "en"
     },
     {
-      "id": "68892383",
+      "id": "47045045",
+      "category": "経済・ビジネス（世界）",
+      "title": "Wegovy weight loss pill now available in UK - here's what you need to know",
+      "summary": "ウェゴビーの製造元による1日1回の錠剤がイギリスの薬局で個人購入できるようになった。この新しい経口薬は注射型の体重減少治療に続く選択肢として提供されており、肥満治療の選択肢が広がることが期待されている。",
+      "url": "https://www.bbc.co.uk/news/articles/czj8w4pjd4yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-06T11:09:54+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "27017893",
+      "category": "経済・ビジネス（世界）",
+      "title": "EasyJet agrees 'in principle' to £5.2bn takeover deal",
+      "summary": "格安航空会社イージージェットは、米国の投資会社カッスルレイクからの買収提案に対して基本的な合意に達した。同社は過去4度にわたってカッスルレイクからの買収提案を拒否していたが、今回新たな段階に進むことになった。この合意により、イージージェットの所有権構造が大きく変わる可能性がある。",
+      "url": "https://www.bbc.co.uk/news/articles/cgjxx7ngz51o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-06T09:41:59+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "59352013",
       "category": "経済・ビジネス（世界）",
       "title": "What Sky buying ITV could mean for your favourite shows",
       "summary": "スカイがITVのテレビおよびストリーミングチャンネルを買収することが間もなく発表される見通しです。この買収により、スカイはITVの人気番組へのコンテンツ支配権を強化し、視聴者が利用できる番組構成が大きく変わる可能性があります。買収後、既存のITV番組の配信方法や利用可能性に影響が生じる可能性があり、視聴者にとって重要な変化となるでしょう。",
@@ -145,7 +165,7 @@
       "lang": "en"
     },
     {
-      "id": "72172018",
+      "id": "89194635",
       "category": "経済・ビジネス（世界）",
       "title": "Backlash after China bubble tea firm ordered to pay Louis Vuitton $1.5m",
       "summary": "中国の裁判所がタピオカティーチェーン「モリティー」がルイ・ヴィトンの4枚花びら設計を侵害したと判定し、同社に150万ドルの支払いを命じた判決に対してネット上で反発が起きている。ルイ・ヴィトンの商標登録された花のデザインとモリティーのロゴデザインが実際には大きく異なることから、不当な判決だという批判の声が上がっている。この事件は大企業による知的財産権侵害の主張に対する中国消費者の懸念を浮き彫りにしている。",
@@ -155,17 +175,7 @@
       "lang": "en"
     },
     {
-      "id": "51904935",
-      "category": "経済・ビジネス（世界）",
-      "title": "Wegovy weight loss pill now available in UK - here's what you need to know",
-      "summary": "ウェゴビーの製造元による1日1回の錠剤がイギリスの薬局で個人購入できるようになった。この新しい経口薬は注射型の体重減少治療に続く選択肢として提供されており、肥満治療の選択肢が広がることが期待されている。",
-      "url": "https://www.bbc.co.uk/news/articles/czj8w4pjd4yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-06T00:06:42+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "29744928",
+      "id": "68889764",
       "category": "経済・ビジネス（世界）",
       "title": "Three things you can do to stop EU border checks at the airport costing you",
       "summary": "EUの新しいデジタル国境管理システムにより、今年の夏は空港での検査待ち行列が予想されており、これを回避するために事前にオンラインで必要な情報を登録し、パスポートの有効性を確認し、荷物を事前にチェックするという3つの対策を講じることが推奨されている。",
@@ -175,17 +185,7 @@
       "lang": "en"
     },
     {
-      "id": "48016466",
-      "category": "経済・ビジネス（世界）",
-      "title": "EasyJet reaches 'agreement in principle' over potential takeover",
-      "summary": "格安航空会社イージージェットは、米国の投資会社カッスルレイクからの買収提案に対して基本的な合意に達した。同社は過去4度にわたってカッスルレイクからの買収提案を拒否していたが、今回新たな段階に進むことになった。この合意により、イージージェットの所有権構造が大きく変わる可能性がある。",
-      "url": "https://www.bbc.co.uk/news/articles/cgjxx7ngz51o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-05T17:30:55+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "52060077",
+      "id": "60607611",
       "category": "経済・ビジネス（世界）",
       "title": "'Start work at 11' - but will other bosses be as flexible over England's 1am match?",
       "summary": "イングランドの午前1時の試合に向けて、一部の企業が従業員に午前11時からの勤務開始を認める柔軟な対応を取っているが、他の雇用主も同様に対応するかは不確実な状況にある。雇用主らは従業員の勤務の融通性を認めるよう「常識」の発揮が呼びかけられており、この対応がどの程度広がるかが注目されている。",
@@ -195,7 +195,7 @@
       "lang": "en"
     },
     {
-      "id": "51021079",
+      "id": "37156943",
       "category": "経済・ビジネス（世界）",
       "title": "No-gift policy for Taylor Swift, but how much should you give at a wedding?",
       "summary": "ウェディングリストに代わって現金での贈り物をリクエストするカップルが増えている一方で、ゲストの間では適切な金額について意見が分かれている。調査によると、ゲストは結婚式への贈り物として平均400ポンドまでを贈ることを考えており、この金額設定は招待客とカップルの関係の深さや経済状況によって異なる傾向がある。",
@@ -205,7 +205,17 @@
       "lang": "en"
     },
     {
-      "id": "29155350",
+      "id": "37404710",
+      "category": "テクノロジー・AI",
+      "title": "Smart glasses maker Even Realities hits $1B valuation with $150M funding led by Meituan, Tencent",
+      "summary": "カメラレスのスマートグラスを開発する元Apple従業員のチームによるEven Realitiesが、MeitouanとTencentが主導する1億5000万ドルの資金調達ラウンドで10億ドルの評価額に達した。同社はカメラを使用しない先進的なスマートグラス技術の開発に注力しており、アジアを中心とした大手企業からの支援を受けて事業拡大を目指している。",
+      "url": "https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-06T09:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "86683925",
       "category": "テクノロジー・AI",
       "title": "This humanoid robotics company is going public, but its CEO isn’t promising a robot in your home anytime soon",
       "summary": "アジリティ・ロボティクスは、他のヒューマノイドロボット企業のような高い企業評価を追求するのではなく、実行力に賭けて特別買収目的会社（SPAC）を通じて上場する。同社のCEOは、家庭用ロボットの実現はまだ先だと述べており、実現可能な目標に基づいた慎重なアプローチを取っている企業である。",
@@ -215,7 +225,7 @@
       "lang": "en"
     },
     {
-      "id": "90460072",
+      "id": "14968305",
       "category": "テクノロジー・AI",
       "title": "Some of the nation’s rich are letting AI teach their kids",
       "summary": "アメリカの富裕層の一部が、従来の学校の代わりにAIを使って子どもたちに教育を受けさせています。一般的なアメリカ人はAIを信頼していませんが、Forge PrepやAlphaなどの企業は、AI家庭教師サービスを提供することで、富裕家庭の教育ニーズに対応しています。この動向は、従来の教育システムに対する富裕層の新たなアプローチを示しています。",
@@ -225,7 +235,7 @@
       "lang": "en"
     },
     {
-      "id": "23979723",
+      "id": "98150245",
       "category": "テクノロジー・AI",
       "title": "Uber’s European expansion plans may have hit a speed bump",
       "summary": "Uberは2月にヨーロッパの7つの新市場への2026年の進出計画を発表していたが、そのうち5つの進出が現在保留されているとのことである。この遅延によりUberのヨーロッパ拡大戦略は当初の予定より遅れることになり、企業の成長目標に影響を与える可能性がある。",
@@ -235,7 +245,7 @@
       "lang": "en"
     },
     {
-      "id": "71546078",
+      "id": "23646772",
       "category": "テクノロジー・AI",
       "title": "Trump memecoin investors lost $3.8 billion, analysis finds",
       "summary": "トランプ大統領のメムコイン「$TRUMP」に投資した約100万人が総額38億ドルの損失を被った一方で、トランプ本人は6億3,600万ドルの利益を得ていることが分析により判明した。このメムコインは投資家と発行者の間で大きな利益格差が生じている状況となっている。",
@@ -245,7 +255,7 @@
       "lang": "en"
     },
     {
-      "id": "88697022",
+      "id": "47836555",
       "category": "テクノロジー・AI",
       "title": "Amazon will stop accepting new customers for Mechanical Turk",
       "summary": "Amazonは新規顧客の受け入れを停止してMechanical Turkを段階的に廃止する方針を明らかにしました。同社のクラウドソーシングプラットフォームであるMechanical Turkは、小規模なタスク作業者に仕事を提供してきましたが、今後新規登録ができなくなり、サービスの終了が近づいています。",
@@ -255,7 +265,7 @@
       "lang": "en"
     },
     {
-      "id": "35455599",
+      "id": "45433289",
       "category": "テクノロジー・AI",
       "title": "5 desk gadgets that can make your workday better",
       "summary": "適切なデスク用ガジェットは、机の上を整理し、集中力を高め、日々の作業に便利さをもたらすことができる。オフィス環境を改善し、生産性を向上させるために、机の周りに配置するだけで効果的なツールが存在する。これらのガジェットを活用することで、より快適で効率的な仕事環境を実現できる。",
@@ -265,7 +275,7 @@
       "lang": "en"
     },
     {
-      "id": "32627984",
+      "id": "39022187",
       "category": "テクノロジー・AI",
       "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
       "summary": "グーグルの新しい広告は、アメリカの建国の父たちがAIを活用して独立宣言を起草する場面を想像したもので、視聴者から不評を買っている。グーグルワークスペースとジェミニというAIツールを使って歴史的文書を作成する様子が描かれており、多くの人々がこのコンセプトを不適切で不快に感じている。この広告は現代のコラボレーションツールが歴史的な瞬間を改善できるという考え方に対する批判を引き起こしている。",
@@ -275,93 +285,83 @@
       "lang": "en"
     },
     {
-      "id": "11411423",
-      "category": "テクノロジー・AI",
-      "title": "What is Bending Spoons? The little-known AOL and Vimeo owner that’s now public",
-      "summary": "ベンディング・スプーンズはイタリアを拠点とする投資・技術企業で、AOLやVimeoを含む複数の企業を買収しており、10億人以上のユーザーにサービスを提供しているにもかかわらず、一般的には認知度が低い。同社は最近上場し、デジタルメディアとソフトウェア企業への投資を通じて急速に成長している。",
-      "url": "https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-05T13:33:32+00:00",
+      "id": "40844660",
+      "category": "台湾・中台関係",
+      "title": "Scrutinising the Unpardonable: The AUKUS Public Inquiry So Far",
+      "summary": "オーストラリア、イギリス、アメリカの三国間防衛協力協定であるAUKUSは、政策・戦略・予算配分の歴史において、限定的で不十分な思考による最も無分別で不合理なプロジェクトの一つと見なされるだろう。AUKUS公開調査の進行状況について、この協定の問題点が検証されている。",
+      "url": "https://www.globalresearch.ca/aukus-public-inquiry-so-far/5932414",
+      "source": "Globalresearch.ca",
+      "published_at": "2026-07-05T12:16:45+00:00",
       "lang": "en"
     },
     {
-      "id": "59751639",
+      "id": "35008682",
       "category": "台湾・中台関係",
-      "title": "Taiwan restores anti-communist military classes",
-      "summary": "台湾国防部は、中国からの軍事的脅威と浸透工作の増加を理由に、軍事アカデミー卒業生を対象とした「反共愛国教育」クラスを復活させた。このクラスは冷戦終結後に廃止されていたが、中国の軍事的圧力が強まる中での再導入となっている。台湾は国家安全保障強化の一環として、軍人の思想教育と愛国心育成に重点を置く方針を示している。",
-      "url": "https://biztoc.com/x/18a3c581d605a8da",
-      "source": "Biztoc.com",
-      "published_at": "2026-07-05T06:04:17+00:00",
+      "title": "Taiwan says China has 'no right to comment' on reported Perth office",
+      "summary": "台湾の外交部は日曜日、オーストラリアのパースに代表事務所を開設する計画に関する報道について確認を避けながらも、台湾の国際交流に干渉しようとする北京の試みを批判した。台湾は中国に対し、台湾の外交活動についてコメントする権利がないと主張している。",
+      "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260705-cna01.htm",
+      "source": "Globalsecurity.org",
+      "published_at": "2026-07-05T12:00:00+00:00",
       "lang": "en"
     },
     {
-      "id": "57162497",
+      "id": "47366132",
       "category": "台湾・中台関係",
-      "title": "Equity mutual funds delivered up to 8% return last week; international funds led. Check top 10 performers",
-      "summary": "先週（6月29日から7月4日）の株式投資信託の運用成績は最大8%のリターンを達成し、セクター別および テーマ別ファンド、特に国際ファンドがリターンランキングをリードした。ACE MFのデータによると、国際ファンドを含むセクター別・テーマ別ファンドが好調で、上位10ファンドの大半がこれらのカテゴリーで占められている。",
-      "url": "https://m.economictimes.com/mf/analysis/equity-mutual-funds-delivered-up-to-8-return-last-week-international-funds-led-check-top-10-performers/weekly-summary/slideshow/132191596.cms",
-      "source": "Economictimes.com",
-      "published_at": "2026-07-05T06:00:33+00:00",
+      "title": "Taiwan appoints new envoys to Fiji, Peru, first representative to Phoenix",
+      "summary": "台湾政府は、フィジーとペルーの新しい代表に加えて、フェニックス（アリゾナ州）への初の代表を含む新たな外交官任命を承認した。この人事は、台湾がアメリカ西部地域との関係強化と、太平洋島嶼国との外交関係を拡大する戦略的な動きを示している。フェニックスへの代表部設置により、台湾はアメリカ国内での外交拠点をさらに多角化させることになる。",
+      "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260705-cna02.htm",
+      "source": "Globalsecurity.org",
+      "published_at": "2026-07-05T12:00:00+00:00",
       "lang": "en"
     },
     {
-      "id": "59422292",
+      "id": "85195197",
       "category": "台湾・中台関係",
-      "title": "Taiwan military resumes 'anti-communist' classes for graduates, citing Chinese threat",
-      "summary": "台湾国防部は中国の脅威の高まりを理由に、25年ぶりに軍事学校の卒業生向けに「反共」愛国教育クラスを再開した。国防部は卒業生が国家安全保障の危機と自らの使命を理解することの重要性を強調しており、この措置は台湾海峡の緊張がさらに高まっていることを示している。",
-      "url": "https://economictimes.indiatimes.com/news/defence/taiwan-military-resumes-anti-communist-classes-for-graduates-citing-chinese-threat/articleshow/132191352.cms",
+      "title": "Canada is 13th wealthiest nation in the world, according to annual global wealth rankings",
+      "summary": "カナダは年間世界資産ランキングで世界で13番目に富裕な国と位置付けられており、成人人口の約55パーセントが10万米ドル以上の資産を保有しているという調査結果が発表された。",
+      "url": "https://nationalpost.com/news/canada/canada-is-13th-wealthiest-nation-in-the-world-according-to-annual-global-wealth-rankings",
+      "source": "National Post",
+      "published_at": "2026-07-05T11:00:20+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "51814777",
+      "category": "台湾・中台関係",
+      "title": "Links 7/5/2026",
+      "summary": "2026年7月5日のニュースリンク集では、アメリカの建国250周年、銀河系の巨大合併、気候変動と不平等、ベネズエラの地震、中国の垂直農業、中東情勢、ウクライナの危機、プライバシー喪失の問題、トランプ関連の動向、イーロン・マスク関連の出来事、民主党の課題、移民問題など、世界的な主要ニュースが報道されている。",
+      "url": "https://www.nakedcapitalism.com/2026/07/links-7-5-2026.html",
+      "source": "Nakedcapitalism.com",
+      "published_at": "2026-07-05T10:55:53+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "20047340",
+      "category": "台湾・中台関係",
+      "title": "Taiwan military resumes 'anti-communist' classes for graduates, citing Chinese threat - Reuters",
+      "summary": "台湾軍は中国の脅威に対抗するため、卒業生向けの「反共産主義」クラスを再開しており、冷戦時代のイデオロギー教育を復活させている。この取り組みは台湾の軍事アカデミー卒業生に対する愛国的訓練の一環として、中国の軍事的・政治的脅威の増加に直面する中で実施されている。台湾政府は国家防衛とイデオロギー結束の強化を目的としてこの教育プログラムを復活させた。",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184314756",
+      "source": "Slashdot.org",
+      "published_at": "2026-07-05T10:32:06+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "43571083",
+      "category": "台湾・中台関係",
+      "title": "America’s battlefield dominance is under serious threat",
+      "summary": "アメリカの戦場支配力が深刻な脅威にさらされているという記事で、ドローン、人工知能、低価格技術による急速な戦争形態の変化を指摘しており、ウクライナが大量のドローンと無人ボートを使用して高額な軍事資産を無力化している事例が強調されている。",
+      "url": "https://economictimes.indiatimes.com/news/defence/americas-battlefield-dominance-is-under-serious-threat/articleshow/132193035.cms",
       "source": "The Times of India",
-      "published_at": "2026-07-05T05:46:34+00:00",
+      "published_at": "2026-07-05T09:03:28+00:00",
       "lang": "en"
     },
     {
-      "id": "58150506",
+      "id": "20947648",
       "category": "台湾・中台関係",
-      "title": "Bleak warning for Australia that major conflict in the Pacific is a possibility as soon as next year: 'Put the war paint on'",
-      "summary": "オーストラリアの国防当局者マイク・ペッツーロ氏は、太平洋地域での大規模紛争の可能性が来年にも迫っており、オーストラリアは「戦争に向けた準備を整える必要がある」と警告している。同氏の発言は、地域の緊張が急速に高まっていることを示唆しており、オーストラリア政府に対して防衛態勢の強化を促している。",
-      "url": "https://www.dailymail.com/news/article-15953585/china-taiwan-war-pacific-australia.html",
-      "source": "Dailymail.com",
-      "published_at": "2026-07-05T03:44:55+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "88706319",
-      "category": "台湾・中台関係",
-      "title": "Germany’s Second Chance for Growth Rebound Starts Now",
-      "summary": "ドイツが今後数週間で発表する経済データがイラン情勢の累積的な影響を示し、ヨーロッパ最大の経済であるドイツを活性化させるための政府の新たな取り組みが本格化する。ドイツは景気回復の第二の機会を得ようとしており、今がその開始時期となっている。",
-      "url": "https://financialpost.com/pmn/business-pmn/germanys-second-chance-for-growth-rebound-starts-now",
-      "source": "Financial Post",
-      "published_at": "2026-07-04T20:35:35+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "72812933",
-      "category": "台湾・中台関係",
-      "title": "Hong Kong now handles more than half of China’s chip imports",
-      "summary": "香港は現在、中国の半導体輸入の半分以上を取り扱う主要なハブとなっており、2026年1月から5月の中国の2390億ドルの半導体輸入のうち、香港を経由する取引が記録的な水準に達している。香港は高度な技術製品の中国への出入口として中心的な役割を果たしており、チップ貿易における支配的な地位を強化している。",
-      "url": "https://thenextweb.com/news/hong-kong-china-ai-chip-trade-hub/",
-      "source": "The Next Web",
-      "published_at": "2026-07-04T17:29:40+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "22852636",
-      "category": "台湾・中台関係",
-      "title": "Former U.S. Transportation Secretary Elaine Chao Jets to Beijing to Meet Top CCP Official Just 3 Days After Mitch McConnell’s Cardiac Arrest Hospitalization – China Ties Under Fire Again",
-      "summary": "前米運輸長官エレイン・チャオが2026年6月17日に北京を訪問し、中国の韓正副主席と会談した。これは夫のミッチ・マコネル上院議員が心停止で入院してからわずか3日後のことで、チャオの中国との関係が再び批判の対象となっている。",
-      "url": "https://freerepublic.com/focus/f-bloggers/4386653/posts",
-      "source": "Freerepublic.com",
-      "published_at": "2026-07-04T16:42:30+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "71414430",
-      "category": "台湾・中台関係",
-      "title": "China Launches Coast Guard Patrol East Of Taiwan Despite International Pushback",
-      "summary": "中国は国際的な反発にもかかわらず、台湾東部で海上保安庁の巡視活動を開始したと発表した。この新たな巡視は、台湾沖に配置されていた海上保安庁タスクフォースの交代に伴うものである。中国による台湾周辺での活動強化は、地域の緊張をさらに高める可能性があり、国際社会からの懸念を招いている。",
-      "url": "https://gcaptain.com/china-launches-coast-guard-patrol-east-of-taiwan-despite-international-pushback/",
-      "source": "gcaptain.com",
-      "published_at": "2026-07-04T15:02:44+00:00",
+      "title": "China raises pressure on Taiwan with expanded coast guard patrols",
+      "summary": "中国は台湾周辺での沿岸警備隊の巡回を拡大させており、地域の緊張が高まり、軍事的準備態勢の強化と市場への懸念が生じている。この中国による圧力強化は、台湾海峡の不安定性を増す要因として注視されている。",
+      "url": "https://cryptobriefing.com/china-raises-pressure-on-taiwan-with-expanded-coast-guard-patrols/",
+      "source": "Crypto Briefing",
+      "published_at": "2026-07-05T08:26:58+00:00",
       "lang": "en"
     }
   ]
