@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T11:38:40.680730+00:00",
+  "updated_at": "2026-07-07T15:43:57.273327+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -45,7 +45,77 @@
   "digest": [],
   "news": [
     {
-      "id": "78757197",
+      "id": "45386516",
+      "category": "経済・ビジネス（日本）",
+      "title": "在中国の日本大使館が注意喚起 軍民両用品目の輸出管理強化で",
+      "summary": "中国政府が軍民両用品目の日本への輸出管理を強化する中で、日本人2人がレアアースの輸出に関連して逮捕されたことを受け、北京の日本大使館が企業などに注意を喚起した。",
+      "url": "http://www3.nhk.or.jp/news/html/20260707/k10015171321000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-07T14:36:09+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "74597954",
+      "category": "経済・ビジネス（日本）",
+      "title": "カンボジアの公務員に贈賄か 東京の設備会社役員らを略式起訴",
+      "summary": "東京の設備工事会社の役員らが、カンボジアの子会社売却に関する登記手続きを迅速に進めてもらう目的で、現地の公務員に約11万円相当の現金を贈って不正競争防止法違反の疑いで書類送検されました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170891000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-07T12:51:27+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "20073739",
+      "category": "経済・ビジネス（日本）",
+      "title": "米大統領 NATO首脳会議出席へ イラン・ウクライナ情勢など焦点",
+      "summary": "トランプ大統領がNATO首脳会議に出席するためトルコに到着し、イラン情勢やウクライナ情勢などについて、どのような対応を示すかが注目されている。",
+      "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170641000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-07T12:47:27+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "71226633",
+      "category": "経済・ビジネス（日本）",
+      "title": "NATO首脳会議まもなく開幕へ 各国が防衛力の強化を表明",
+      "summary": "NATO首脳会議がトルコで開催され、アメリカがヨーロッパの防衛への関与を減らす中、ヨーロッパの加盟国とカナダが防衛力の強化に向けた取り組みを相次いで表明している。",
+      "url": "http://www3.nhk.or.jp/news/html/20260707/k10015171161000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-07T12:38:35+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "63462091",
+      "category": "経済・ビジネス（日本）",
+      "title": "日クウェート外相 ホルムズ航行への費用徴収に反対で一致",
+      "summary": "茂木外務大臣がトルコ訪問中にクウェート外相と会談し、ホルムズ海峡の航行に対するいかなる費用徴収にも反対することで合意しました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260707/k10015171191000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-07T11:49:12+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "66946764",
+      "category": "経済・ビジネス（日本）",
+      "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月7日の動き）",
+      "summary": "ロシアによるウクライナへの軍事侵攻が続いており、各地でロシア軍とウクライナ軍の戦闘が激化して多数の市民が国外へ避難している。7日のウクライナ情勢について戦闘状況と関係国の外交動向を随時更新で報道する。",
+      "url": "http://www3.nhk.or.jp/news/html/20260707/k10015140761000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-07T11:48:43+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "77596479",
+      "category": "経済・ビジネス（日本）",
+      "title": "「美しい妹」との高市総理発言は通訳受けたもの 木原官房長官",
+      "summary": "高市総理がインド首脳会談後の会見でモディ首相から「美しい妹」と呼ばれたと述べた件について、木原官房長官は実際には「美しい」という表現は含まれておらず、同時通訳を受けた結果の発言だったと説明しました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260707/k10015171041000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-07T11:45:28+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "75524425",
       "category": "経済・ビジネス（日本）",
       "title": "仏大統領訪問中のシリア ダマスカス中心部で2回爆発 18人けが",
       "summary": "シリアの首都ダマスカス中心部で2回の爆発が発生し、18人がけがをしました。訪問中のフランスのマクロン大統領は無事が確認され、シャラア暫定大統領と会談しており、治安部隊が発見した爆発物の処理中に爆発が起きたとみられています。",
@@ -55,97 +125,27 @@
       "lang": "ja"
     },
     {
-      "id": "38130247",
-      "category": "経済・ビジネス（日本）",
-      "title": "ゼレンスキー大統領 米の迎撃ミサイルのライセンス生産に期待",
-      "summary": "ウクライナのゼレンスキー大統領は、防空能力の低下を認めながら、ロシア軍のミサイル攻撃に対抗するためアメリカ製迎撃ミサイルのウクライナでのライセンス生産を望んでおり、7日から始まるNATO首脳会議での米国の前向きな姿勢に期待を示しています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260707/k10015171001000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-07T08:38:37+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "37586560",
-      "category": "経済・ビジネス（日本）",
-      "title": "中国で大荒れの天気 湖北省で11人死亡 300人以上けが",
-      "summary": "中国で台風などの影響による大荒れの天気が続いており、湖北省では竜巻が発生して11人が死亡、300人以上がけがをするなど、各地で被害が広がっている。",
-      "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170921000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-07T08:33:24+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "91817151",
-      "category": "経済・ビジネス（日本）",
-      "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月7日の動き）",
-      "summary": "ロシアによるウクライナへの軍事侵攻が続いており、各地でロシア軍とウクライナ軍の戦闘が激化して多数の市民が国外へ避難している。7日のウクライナ情勢について戦闘状況と関係国の外交動向を随時更新で報道する。",
-      "url": "http://www3.nhk.or.jp/news/html/20260707/k10015140761000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-07T07:01:42+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "36517579",
-      "category": "経済・ビジネス（日本）",
-      "title": "韓国 サムスン電子 4月～6月営業利益は前年同期比 約19倍",
-      "summary": "サムスン電子は4月～6月期の営業利益が前年同期比約19倍となり、四半期ベースで過去最高を更新しました。AI需要の拡大に伴う半導体事業の好調が業績を大きく押し上げたと考えられます。",
-      "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170841000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-07T06:21:23+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "66186291",
-      "category": "経済・ビジネス（日本）",
-      "title": "米国務省“中国核戦力増強は世界の懸念”潜水艦からの発射受け",
-      "summary": "中国の戦略原子力潜水艦が大陸間弾道ミサイル級の模擬弾頭搭載ミサイルを発射したことについて、米国務省は中国の核戦力増強が地域および世界にとって大きな懸念であると指摘しました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170651000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-07T06:02:27+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "98145149",
-      "category": "経済・ビジネス（日本）",
-      "title": "カンボジアの公務員に贈賄か 東京の設備会社役員らを書類送検",
-      "summary": "東京の設備工事会社の役員らが、カンボジアの子会社売却に関する登記手続きを迅速に進めてもらう目的で、現地の公務員に約11万円相当の現金を贈って不正競争防止法違反の疑いで書類送検されました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170891000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-07T05:32:01+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "48885083",
-      "category": "経済・ビジネス（日本）",
-      "title": "サッカーW杯アメリカ代表 処分猶予の選手 ベルギー戦先発出場",
-      "summary": "サッカーワールドカップ北中米大会でレッドカード処分の出場停止を猶予されたアメリカ代表のバログン選手が、決勝トーナメント2回戦のベルギー戦で先発出場した。",
-      "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170531000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-07T05:20:30+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "54476688",
+      "id": "37858158",
       "category": "経済・ビジネス（世界）",
       "title": "One million more UK homeowners set  to face higher mortgages",
       "summary": "英国で約100万人の住宅所有者が今後2年間に新しいローン契約に切り替える際、平均して月額45ポンド以上の追加負担に直面することになる見通しです。金利上昇により、住宅ローン返済額が大幅に増加する状況が深刻化しています。",
       "url": "https://www.bbc.co.uk/news/articles/cze9kpxx6d8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published_at": "2026-07-07T11:35:29+00:00",
+      "published_at": "2026-07-07T15:18:00+00:00",
       "lang": "en"
     },
     {
-      "id": "78611681",
+      "id": "93336475",
       "category": "経済・ビジネス（世界）",
-      "title": "E-bike injury payouts top £110m and push up insurance premiums",
-      "summary": "電動バイク関連の傷害保険金支払いが1億1000万ポンドを超え、保険料の上昇を招いている。マイクロモビリティ車両による傷害請求が初めて提出されてからわずか7年で、この金額に達した。急速に普及した電動バイクなどの利用増加に伴い、事故件数の増加と保険コストの上昇が進んでいる状況を示している。",
-      "url": "https://www.bbc.co.uk/news/articles/c05y9pe5p1jo?at_medium=RSS&at_campaign=rss",
+      "title": "Online gamblers betting more than £1,000 to face new checks",
+      "summary": "英国のギャンブル規制当局は、24時間以内にオンラインで1,000ポンド以上を賭けた利用者に対して、新たな評価審査を実施することを発表した。この措置は、問題のあるギャンブル行為を早期に発見し、ギャンブル依存症の防止を目的としている。",
+      "url": "https://www.bbc.co.uk/news/articles/cqj1xvy44xno?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published_at": "2026-07-07T09:57:27+00:00",
+      "published_at": "2026-07-07T14:18:25+00:00",
       "lang": "en"
     },
     {
-      "id": "56530656",
+      "id": "25992207",
       "category": "経済・ビジネス（世界）",
       "title": "Samsung profits jump 1,800% as AI chip sales soar",
       "summary": "サムスンが大規模なAIチップ販売により利益が1800%増加した。しかし火曜日に株価は大幅に下落し、一部の投資家がさらに強い業績を期待していたことが明らかになった。企業の好調な業績見通しにもかかわらず、市場の期待値が非常に高かったため株価は売られている。",
@@ -155,7 +155,7 @@
       "lang": "en"
     },
     {
-      "id": "53059558",
+      "id": "85217374",
       "category": "経済・ビジネス（世界）",
       "title": "Robots available for rent: But what can they do?",
       "summary": "ロボット技術が急速に進化しているため、多くの企業がロボットをレンタルして利用することが合理的になっている。レンタルモデルにより、高額な購入費用を避けながら最新のロボット技術にアクセスでき、企業は自社のニーズに応じて柔軟にロボットを導入できるようになっている。",
@@ -165,7 +165,7 @@
       "lang": "en"
     },
     {
-      "id": "76829348",
+      "id": "22708792",
       "category": "経済・ビジネス（世界）",
       "title": "Amazon bars breastfeeding boss from business course",
       "summary": "アマゾンが母乳育児中の経営幹部をビジネスコースから締め出したが、同社は方針の伝達が不十分だったとして謝罪した。ラシェル・ビューズ氏は子どもが現地に同伴することが許可されないと事前に告げられていたという。この事案は企業の育児支援方針に関する議論を呼び起こしている。",
@@ -175,7 +175,7 @@
       "lang": "en"
     },
     {
-      "id": "32318395",
+      "id": "61335050",
       "category": "経済・ビジネス（世界）",
       "title": "'I wear it on my middle finger': The rise of the defiant divorce ring",
       "summary": "離婚後の新たな自己表現として、女性たちが新しいリングや婚約指輪を転用した「離婚リング」を着用する傾向が世界的に広がっている。これらのリングは中指に着ける人も多く、独立心や新しい人生のスタートを象徴する反抗的なアクセサリーとして注目されている。離婚を前向きに捉え、自分自身への愛情を表現する手段として機能しており、女性のエンパワーメント文化の一部となっている。",
@@ -185,7 +185,7 @@
       "lang": "en"
     },
     {
-      "id": "41965060",
+      "id": "48650341",
       "category": "経済・ビジネス（世界）",
       "title": "Banks accused of pushing customers away from basic accounts",
       "summary": "銀行は、ホームレスや経済的困難に直面している人々など最も脆弱な顧客に対するサービス提供に失敗していると非難されている。これらの人々はオンライン申請へ誘導され、基本的な銀行口座へのアクセスから遠ざけられている。銀行は弱い立場にある顧客のニーズに対応せず、デジタルアクセスの障壁により金融包括性が損なわれている。",
@@ -195,7 +195,7 @@
       "lang": "en"
     },
     {
-      "id": "34383399",
+      "id": "31014960",
       "category": "経済・ビジネス（世界）",
       "title": "Phone contract comparisons 'amounted to mis-selling' student loans, MPs say",
       "summary": "学生ローン契約の条件が遡及的に変更される可能性があることが学生に十分に知らされていなかったとして、下院議員らは携帯電話契約の比較が学生ローンの不当販売に相当すると指摘している。新しい報告書によれば、学生たちはローン契約の条項が後から変更される可能性についての情報が不足していたという。",
@@ -205,7 +205,77 @@
       "lang": "en"
     },
     {
-      "id": "62579467",
+      "id": "32486156",
+      "category": "テクノロジー・AI",
+      "title": "X adds a video editor to encourage creators to post original content, not stolen reposts",
+      "summary": "Xは、クリエイターがオリジナルコンテンツの投稿を促進するため、iOS向けに字幕、グリーンスクリーン効果などの編集機能を備えた新しいビデオエディタとレコーダーをリリースしています。この機能により、盗用されたコンテンツの再投稿ではなく、オリジナルコンテンツの制作が容易になることを目指しています。",
+      "url": "https://techcrunch.com/2026/07/07/x-adds-a-video-editor-to-encourage-creators-to-post-original-content-not-stolen-reposts/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-07T15:19:33+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "78510364",
+      "category": "テクノロジー・AI",
+      "title": "Chemistry Ventures is raising $500M for its second fund",
+      "summary": "Chemistry Venturesはベッセマー・ベンチャー・パートナーズ、インデックス・ベンチャーズ、アンドリーセン・ホロウィッツの出身者によって設立されたベンチャーキャピタルファームで、2番目のファンドとして5億ドルの資金調達を行っている。このファンドは同社の初回ファンドに続くもので、スタートアップへの投資活動を拡大させる計画である。",
+      "url": "https://techcrunch.com/2026/07/07/chemistry-ventures-is-raising-500m-for-its-second-fund/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-07T15:02:02+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "12664954",
+      "category": "テクノロジー・AI",
+      "title": "AI law startup Norm raises $120M, hits unicorn valuation",
+      "summary": "AI法律スタートアップのNormがKhosla Venturesが主導するシリーズCラウンドで1億2000万ドルを調達し、企業評価額が12億ドルのユニコーン企業となった。同社はAI技術を活用した法務サービスを提供しており、この資金調達により事業拡大と技術開発をさらに加速させることが期待されている。",
+      "url": "https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-07T14:35:42+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "73670126",
+      "category": "テクノロジー・AI",
+      "title": "This startup pits dealerships against each other to bid on your used car",
+      "summary": "中古車販売の新興企業Bidbusが、ディーラー同士の競争入札により中古車の売却価格を引き上げるサービスを提供しており、シリーズAラウンドで1500万ドルの資金調達に成功した。このラウンドはモビリティ分野の初期段階投資ファンドIbex Investorsが主導した。Bidbusのプラットフォームでは、ユーザーが中古車をリスティングするとディーラーが買取価格を競い合う仕組みになっており、売り手にとってより良い取引条件を実現できる可能性がある。",
+      "url": "https://techcrunch.com/2026/07/07/this-startup-is-pitting-dealerships-against-each-other-to-bid-on-your-used-car/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-07T14:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "16546649",
+      "category": "テクノロジー・AI",
+      "title": "Hacktivists call out Trump by hacking and defacing US Army websites",
+      "summary": "トランプ大統領を「小児性愛者」「泥棒」と呼ぶメッセージを表示するようにハッキングされた米陸軍のウェブサイト2つが修復された。ハクティビストによるこの事件は、トランプ前大統領への政治的抗議として実行されたものと見られ、米政府機関のサイバーセキュリティの脆弱性が露呈した。",
+      "url": "https://techcrunch.com/2026/07/07/hacktivists-call-out-trump-by-hacking-and-defacing-us-army-websites/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-07T13:10:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "26374586",
+      "category": "テクノロジー・AI",
+      "title": "Solos debuts an even lighter version of its camera-less smart glasses",
+      "summary": "Solosがカメラを搭載しないより軽量なスマートグラスの新バージョンを発表しました。新型AirGo A6は前年モデルのA5（36～40グラム）から約19グラムまで軽量化され、カメラを廃止してスリムなデザインと音声操作中心のAIアシスタント機能を採用しています。",
+      "url": "https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy",
+      "source": "AI | The Verge",
+      "published_at": "2026-07-07T13:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "63823840",
+      "category": "テクノロジー・AI",
+      "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+      "summary": "Savi社は、誘拐犯が身代金を要求するなどのリアルなAI詐欺から消費者を保護することを目的としたアプリを開発しており、シードラウンドで700万ドルの資金調達に成功した後、火曜日にiPhoneとAndroid向けのアプリをローンチする予定である。",
+      "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-07T12:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "76955614",
       "category": "テクノロジー・AI",
       "title": "The first American autonomous ground vehicles are fighting in Ukraine",
       "summary": "ウクライナでアメリカ初の自動走行地上車両が戦闘に投入されている。Forterraは100台以上の自動運転車をウクライナに配備し、偵察・補給・爆発物処理などの軍事作戦をサポートしている。これらの無人車両は人的損失を減らしながら、戦場での効率的な任務遂行を可能にしている。",
@@ -215,143 +285,83 @@
       "lang": "en"
     },
     {
-      "id": "79946177",
-      "category": "テクノロジー・AI",
-      "title": "Netflix invented binge-watching. Now it may have outgrown it.",
-      "summary": "Netflixが生み出したビンジウォッチング視聴モデルが、同社の競争力としての優位性を失いつつある。最新のレポートによると、視聴者はシーズン2を見続けず、ビンジウォッチングそのものがもはや以前のような利点ではなくなっている可能性が示唆されている。動画配信市場の競争激化により、一度に全話配信する戦略の有効性が減少しているという状況を指摘している。",
-      "url": "https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-07T00:47:33+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "46838700",
-      "category": "テクノロジー・AI",
-      "title": "The ‘first’ AI-run ransomware attack still needed a human",
-      "summary": "初めてAIエージェントがランサムウェア攻撃の技術的実行を行いましたが、被害者の選定やインフラの構築、盗まれた認証情報の供給といった重要な部分は人間が担当しており、完全に自動化されたサイバー犯罪ではなかったことが明らかになりました。AIはあくまで攻撃の実行段階に限定された役割を果たしたに過ぎず、人間による指示と準備があってはじめて機能したということです。",
-      "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-06T23:56:14+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "68822648",
-      "category": "テクノロジー・AI",
-      "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
-      "summary": "SK Hynixは人工知能ブームによる好況を背景に、金曜日に数十億ドル規模の米国上場を予定している。同社はAI需要の拡大に支えられたメモリチップ市場の成長の恩恵を受けており、米国投資家がまもなく同社へのアクセスを得られるようになる。このIPOはAI関連銘柄への投資家の関心が続いていることを示している。",
-      "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-06T23:21:03+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "57942914",
-      "category": "テクノロジー・AI",
-      "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
-      "summary": "Vercel最高経営責任者のギレルモ・ラウチ氏は、生産環境を最適化する際には、価格対性能のバランスを重視する必要があると述べており、これはAIモデルとエージェント機能を分離すべきという議論に関連している。ラウチ氏の発言は、AIインフラストラクチャの設計において、コスト効率と性能を両立させることの重要性を強調している。",
-      "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-06T19:49:10+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "27576381",
-      "category": "テクノロジー・AI",
-      "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
-      "summary": "iOS 27ベータ版の最新アップデートにより、ユーザーはSiriの話す速度と表現力をカスタマイズできるようになった。このアップデートはAppleがSiriを生成型AIを中心に再構築し、より自然で個人的に感じられるようにする取り組みの一環である。",
-      "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-06T19:01:59+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "58730500",
-      "category": "テクノロジー・AI",
-      "title": "Every major tech layoff in 2026 that has name-checked AI",
-      "summary": "2026年にAIを理由に大規模なリストラを発表した主要テック企業の一覧が、時系列の逆順でまとめられている。本記事は、AI導入に伴う人員削減を公表した大手技術企業の動向を追跡し、各企業がAIを構造改革の主な要因として挙げている状況をまとめたものである。",
-      "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-06T18:35:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "76478847",
-      "category": "テクノロジー・AI",
-      "title": "Amazon competitor Bookshop.org says Kobo eReader support will happen this year after all",
-      "summary": "Amazonの競合企業であるBookshop.orgは、Kobo電子書籍リーダーのサポートが今年中に実現すると発表した。同社は以前にこのパートナーシップを延期していたが、TechCrunchに対してビジネス条件の合意に達し、統合作業を進めていることを明かした。",
-      "url": "https://techcrunch.com/2026/07/06/amazon-competitor-bookshop-org-says-kobo-e-reader-support-will-happen-this-year-after-all/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-06T18:12:01+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "82270668",
+      "id": "70620496",
       "category": "台湾・中台関係",
-      "title": "Explainable AI in Banking: Rising Demand Driven by Fraud Detection Needs and Regulatory Requirements",
-      "summary": "銀行業界における説明可能なAI（XAI）の需要が高まっており、詳細な説明責任と規制要件を満たすことが求められています。市場の主要な機会としては、コンプライアンスと規制上の信頼に対する需要の増加、AIを活用したリスクと信用ソリューションの拡大、銀行分析へのAI統合、および詐欺検出が挙げられ、モデルの解釈可能性を重視する動きが注目されています。",
-      "url": "https://www.globenewswire.com/news-release/2026/07/06/3322347/28124/en/Explainable-AI-in-Banking-Rising-Demand-Driven-by-Fraud-Detection-Needs-and-Regulatory-Requirements.html",
+      "title": "China tests ballistic missile from nuclear sub before NATO summit",
+      "summary": "中国が NATO サミット前に原子力潜水艦から弾道ミサイルの発射実験を行い、地域の緊張がエスカレートする可能性がある。この試験は NATO の戦略的決定に影響を与え、世界的な軍事力学に影響を及ぼすとみられている。",
+      "url": "https://cryptobriefing.com/china-tests-ballistic-missile-from-nuclear-sub-before-nato-summit/",
+      "source": "Crypto Briefing",
+      "published_at": "2026-07-06T14:59:03+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "49486567",
+      "category": "台湾・中台関係",
+      "title": "Pharmaceutical Regulatory Affairs in Asia: Three-Day Online Course Opens Registration for October 20–22, 2026 Early-Bird Pricing Ends September 15",
+      "summary": "アジアの医薬品規制業務に関する3日間のオンライン研修プログラムが2026年10月20日から22日に開催され、登録受付が開始された。このプログラムはアジア地域の複雑で急速に変化する規制要件への対応を支援するもので、早期割引価格は9月15日までの申し込みに適用される。規制業務の専門家がアジア各地の異なる法令遵守環境を効果的に乗り越えるための知識習得を目指している。",
+      "url": "https://www.globenewswire.com/news-release/2026/07/06/3322558/28124/en/Pharmaceutical-Regulatory-Affairs-in-Asia-Three-Day-Online-Course-Opens-Registration-for-October-20-22-2026-Early-Bird-Pricing-Ends-September-15.html",
       "source": "GlobeNewswire",
-      "published_at": "2026-07-06T11:38:00+00:00",
+      "published_at": "2026-07-06T14:55:00+00:00",
       "lang": "en"
     },
     {
-      "id": "74099815",
+      "id": "24089658",
       "category": "台湾・中台関係",
-      "title": "AI in Advertising Market Set to Skyrocket: From $11.17 Billion in 2025 to $36.34 Billion by 2030",
-      "summary": "広告業界のAI市場は2025年の117億ドルから2030年には363億ドルまで急速に成長する見込みであり、プライバシー対応ソリューション、個人化キャンペーン、リアルタイム情報への需要増加が主な機会となっている。AI駆動のクリエイティブ最適化、オムニチャネル戦略、マーケティング自動化がこの成長を牽引する主要要因である。",
-      "url": "https://www.globenewswire.com/news-release/2026/07/06/3322346/28124/en/AI-in-Advertising-Market-Set-to-Skyrocket-From-11-17-Billion-in-2025-to-36-34-Billion-by-2030.html",
+      "title": "[Latest] Global Healthcare Mobility Solutions Market Size/Share Worth USD 1411.37 Billion by 2035 at a 21.62% CAGR: Healthcare Foresights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, SWOT Analysis)",
+      "summary": "世界的なヘルスケアモビリティソリューション市場は2025年に約1993億4000万米ドルの規模を持ち、2035年までに1兆4113億7000万米ドルに達すると予測されており、年平均成長率は21.62%である。Healthcare Foresightsによる最新の市場調査報告書は220ページ以上にわたり、市場分析、見通し、主要企業、トレンド、セグメンテーション、成長率、SWOT分析などを包括的に提供している。",
+      "url": "https://www.globenewswire.com/news-release/2026/07/06/3322542/0/en/Latest-Global-Healthcare-Mobility-Solutions-Market-Size-Share-Worth-USD-1411-37-Billion-by-2035-at-a-21-62-CAGR-Healthcare-Foresights-Analysis-Outlook-Leaders-Report-Trends-Forecas.html",
       "source": "GlobeNewswire",
-      "published_at": "2026-07-06T11:37:00+00:00",
+      "published_at": "2026-07-06T14:30:00+00:00",
       "lang": "en"
     },
     {
-      "id": "37282797",
+      "id": "21063231",
       "category": "台湾・中台関係",
-      "title": "China launches strategic missile from nuclear submarine in Pacific, draws criticism from Japan, Australia",
-      "summary": "中国が太平洋で原子力潜水艦から戦略ミサイルを発射し、地域の緊張が高まる中、日本とオーストラリアから批判を受けている。この軍事行動は両国の安全保障上の懸念を強め、インド太平洋地域の不安定化につながると指摘されている。",
-      "url": "https://www.thehindubusinessline.com/news/world/china-launches-strategic-missile-from-nuclear-submarine-in-pacific-draws-criticism-from-japan-australia/article71188758.ece",
-      "source": "BusinessLine",
-      "published_at": "2026-07-06T11:01:38+00:00",
+      "title": "The message behind the missile China just shot rings loud and clear",
+      "summary": "中国が太平洋で実施した潜水艦発射弾道ミサイルの実験は、日本、オーストラリア、ニュージーランドを警戒させた。地域の安全保障情勢の変化と米国の不確実性が増す中での今回の実験は、中国の海中核戦力の増強を示すとともに、アジア太平洋地域における中国の軍事的影響力の拡大と意図を明確に示している。",
+      "url": "https://economictimes.indiatimes.com/news/defence/the-message-behind-the-missile-china-just-shot-rings-loud-and-clear/articleshow/132218287.cms",
+      "source": "The Times of India",
+      "published_at": "2026-07-06T14:16:22+00:00",
       "lang": "en"
     },
     {
-      "id": "60021703",
+      "id": "85793351",
       "category": "台湾・中台関係",
-      "title": "The U.S. Can’t ‘Yield Even an Inch’ to Xi, Top Democrat Says",
-      "summary": "民主党の有力議員タミー・ダックワース上院議員は、中国の習近平国家主席に対して「一寸たりとも譲歩するべきではない」と主張し、台湾訪問の理由を説明している。この発言は、米国が台湾問題において強硬姿勢を維持すべきだという立場を反映している。",
-      "url": "http://foreignpolicy.com/2026/07/06/senator-duckworth-taiwan-visit-china-trump-xi-jinping/",
-      "source": "Foreign Policy",
-      "published_at": "2026-07-06T11:00:05+00:00",
+      "title": "China’s Moment to Shape a New Global Order",
+      "summary": "中国は新しい国際秩序を形成する機会を得ている。トランプ前大統領とプーチン大統領の北京訪問および地政学的環境の改善により、中国は自らのビジョンを推し進めるための戦略的余裕を拡大させている。",
+      "url": "https://thediplomat.com/2026/07/chinas-moment-to-shape-a-new-global-order/",
+      "source": "The Diplomat",
+      "published_at": "2026-07-06T13:28:00+00:00",
       "lang": "en"
     },
     {
-      "id": "47173862",
+      "id": "20370052",
       "category": "台湾・中台関係",
-      "title": "China Test Fires Missile Into Pacific, Alarming Regional Powers",
-      "summary": "中国の軍がこのほど太平洋に向けて原子力潜水艦からミサイルを試験発射し、日本やオーストラリア、ニュージーランドなどの地域大国から、中国の軍事力拡張に対する批判と懸念の声が上がっている。この発射実験は中国国営メディアによって報道され、インド太平洋地域における軍事的緊張をさらに高める行為として受け止められている。",
-      "url": "https://gcaptain.com/china-test-fires-missile-into-pacific-alarming-regional-powers/",
-      "source": "gcaptain.com",
-      "published_at": "2026-07-06T10:59:45+00:00",
+      "title": "UC Bearcats Baseball outfielder gets selected for Team USA",
+      "summary": "ユニバーシティ・オブ・シンシナティ・ベアキャッツ野球部の外野手デリック・ピッツが、世界大学野球選手権でアメリカ代表として出場する28人のNCAA選手の一人に選出された。",
+      "url": "https://www.cincinnati.com/story/sports/college/university-of-cincinnati/2026/07/06/cincinnati-bearcats-baseball-outfielder-derrick-pitts-team-usa/90818328007/",
+      "source": "The Cincinnati Enquirer",
+      "published_at": "2026-07-06T12:30:17+00:00",
       "lang": "en"
     },
     {
-      "id": "44260172",
+      "id": "57897990",
       "category": "台湾・中台関係",
-      "title": "Is the U.S. Preparing to Ramp Up the Dirty Wars Against China?",
-      "summary": "中国の新しい民族統一法は同国の法的権限を拡大し、中国のインフラプロジェクトへの攻撃が増加している中、米国が中国に対する秘密工作を強化する準備をしているのではないかとの懸念が生じている。中国はこの法律により、海外での中国関連施設や投資プロジェクトに対する保護を強化し、国家主権の維持に向けた取り組みを加速させている。この動きは、米国が地政学的影響力を維持するため、より積極的な対中戦略を検討していることを示唆している。",
-      "url": "https://www.nakedcapitalism.com/2026/07/is-the-u-s-preparing-to-ramp-up-the-dirty-wars-against-china.html",
-      "source": "Nakedcapitalism.com",
-      "published_at": "2026-07-06T10:53:30+00:00",
+      "title": "From ancient texts to modern practices, Daoism provides a profound framework for understanding the world not as broken but as naturally seeking balance",
+      "summary": "道教は世界を壊れているものや救済が必要なものとして捉えるのではなく、自然に調和を求める状態にあるものとして理解する独特な枠組みを提供している。古代の文献から現代の実践に至るまで、道教の思想は世界を自然な平衡状態として認識することで、深い洞察をもたらしている。",
+      "url": "https://theconversation.com/from-ancient-texts-to-modern-practices-daoism-provides-a-profound-framework-for-understanding-the-world-not-as-broken-but-as-naturally-seeking-balance-272115",
+      "source": "The Conversation Africa",
+      "published_at": "2026-07-06T12:13:18+00:00",
       "lang": "en"
     },
     {
-      "id": "37107699",
+      "id": "40441731",
       "category": "台湾・中台関係",
-      "title": "Taiwan says China missile launch raised regional tensions",
-      "summary": "台湾は中国がミサイルを発射したことで地域の緊張が高まったと述べている。中国は最近、台湾海峡周辺での軍事活動を強化しており、台湾側はこれが地域の安定を脅かす行為だと懸念を表明している。両国間の軍事的な対立がエスカレートする可能性があり、国際社会もこの状況を注視している。",
-      "url": "https://biztoc.com/x/6f504b316263c263",
-      "source": "Biztoc.com",
-      "published_at": "2026-07-06T10:30:42+00:00",
+      "title": "PharmaEssentia Announces Health Canada Approval of BESREMi® (ropeginterferon alfa-2b) for Polycythemia Vera (PV)",
+      "summary": "ファルマエッセンシア社がカナダ保健省からポリシスチミア・ベーラ（PV）治療用の次世代インターフェロン製剤「BESREMi®」の承認を取得したと発表した。同製剤は成人PV患者の治療を対象とした医薬品である。",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/pharmaessentia-announces-health-canada-approval-of-besremi-ropeginterferon-alfa-2b-for-polycythemia-vera-pv",
+      "source": "Financial Post",
+      "published_at": "2026-07-06T12:08:24+00:00",
       "lang": "en"
     }
   ]
