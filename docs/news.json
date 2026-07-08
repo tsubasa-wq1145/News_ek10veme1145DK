@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T05:54:19.652811+00:00",
+  "updated_at": "2026-07-08T10:55:06.249126+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -45,27 +45,57 @@
   "digest": [],
   "news": [
     {
-      "id": "14386750",
+      "id": "55418223",
       "category": "経済・ビジネス（日本）",
       "title": "クロマグロ国際会議が開幕 新ルール合意で増枠できるか焦点",
       "summary": "太平洋クロマグロの資源管理に関する国際会議が長崎市で開幕し、漁獲量が急増して上限に迫っている現状の中で、水産庁は新たなルールの合意により漁獲枠の拡大を目指しています。",
       "url": "http://www3.nhk.or.jp/news/html/20260708/k10015171571000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-07-08T03:16:34+00:00",
+      "published_at": "2026-07-08T10:27:31+00:00",
       "lang": "ja"
     },
     {
-      "id": "33176675",
+      "id": "25515952",
       "category": "経済・ビジネス（日本）",
-      "title": "米軍がイラン攻撃 原油販売など認可取り消しも イランは非難",
+      "title": "トランプ大統領 イランとの停戦や覚書「終わったと思う」",
       "summary": "ホルムズ海峡の近くを通航する船舶が相次いで攻撃を受け、イランの強硬派がアメリカとの協議における海峡での影響力の低下に焦りを募らせていると指摘されている。",
       "url": "http://www3.nhk.or.jp/news/html/20260708/k10015171371000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-07-08T03:08:48+00:00",
+      "published_at": "2026-07-08T09:57:54+00:00",
       "lang": "ja"
     },
     {
-      "id": "16801184",
+      "id": "32410425",
+      "category": "経済・ビジネス（日本）",
+      "title": "パキスタン沖で貨物機が消息絶つ 乗員5人 機体捜索活動続く",
+      "summary": "パキスタン沖で7日夜、乗員5人が乗った貨物機が消息を絶ちました。地元当局が現在、機体の捜索活動を継続しています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260708/k10015172051000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-08T09:11:10+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "14897454",
+      "category": "経済・ビジネス（日本）",
+      "title": "台湾 “「第1列島線」中国による現状変更進む 連携し対応を”",
+      "summary": "台湾は、日本の南西諸島からフィリピンに至る第1列島線において、中国による現状変更が進行していると指摘し、国際社会に対して台湾との連携を求めて中国に共同で対応するよう呼びかけました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260708/k10015171841000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-08T07:31:03+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "30870945",
+      "category": "経済・ビジネス（日本）",
+      "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月8日の動き）",
+      "summary": "ロシアによるウクライナへの軍事侵攻が継続しており、ウクライナ全土でロシア軍とウクライナ軍の戦闘が続いています。多くの市民が国外への避難を余儀なくされており、戦闘状況と関係各国の外交動向が刻々と変化しています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260708/k10015140771000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-08T07:21:21+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "10188660",
       "category": "経済・ビジネス（日本）",
       "title": "ウクライナ軍「国境から約2500キロの石油精製施設を攻撃」",
       "summary": "NATO首脳会議の開催中、ウクライナ軍参謀本部は国境から約2500キロ離れたロシアの石油精製施設を攻撃したと発表した。ウクライナ側は軍事的成果をアピールすることで、さらなる軍事支援の獲得を目指しているとみられている。",
@@ -75,7 +105,7 @@
       "lang": "ja"
     },
     {
-      "id": "80461499",
+      "id": "27083768",
       "category": "経済・ビジネス（日本）",
       "title": "「SDGs目標は依然達成可能」 国連報告書で各国に行動呼びかけ",
       "summary": "国連がSDGsについての報告書を発表し、紛争や気候変動などの困難な状況下にあっても2030年までの目標達成は依然として可能だと述べました。報告書では各国に対して積極的な行動を求めています。",
@@ -85,7 +115,7 @@
       "lang": "ja"
     },
     {
-      "id": "53219968",
+      "id": "13200956",
       "category": "経済・ビジネス（日本）",
       "title": "NY中心部のビルで柱が曲がり倒壊のおそれ 周辺が封鎖される",
       "summary": "ニューヨーク・マンハッタンの中心部で改修中のビルの柱が曲がり倒壊の危険性が生じたため、市当局が周辺エリアを封鎖して住民を避難させています。",
@@ -95,37 +125,57 @@
       "lang": "ja"
     },
     {
-      "id": "23188422",
-      "category": "経済・ビジネス（日本）",
-      "title": "小泉防衛相 イギリス国防相と次期戦闘機共同開発など連携確認",
-      "summary": "小泉防衛大臣はイギリスのジャービス国防相と会談し、次期戦闘機の共同開発をはじめとした両国の防衛協力強化に向けて緊密に連携していくことを確認した。",
-      "url": "http://www3.nhk.or.jp/news/html/20260708/k10015171471000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-08T00:32:02+00:00",
-      "lang": "ja"
+      "id": "68589026",
+      "category": "経済・ビジネス（世界）",
+      "title": "Virgin Media fined after hanging up on customers trying to cancel contracts",
+      "summary": "英国の通信規制当局は、バージン・メディアが約3年間にわたって顧客からのキャンセル申し込みの電話を切断していたとして同社に罰金を科した。数百万件の電話が不適切に処理された可能性があると指摘されており、顧客が契約解除を試みた際に通話が終了させられていたことが明らかになった。この違反は顧客保護規定に対する重大な侵害と見なされた。",
+      "url": "https://www.bbc.co.uk/news/articles/c982vm2jzl1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-08T10:23:25+00:00",
+      "lang": "en"
     },
     {
-      "id": "33691049",
-      "category": "経済・ビジネス（日本）",
-      "title": "ハンガリー公共テレビ局「うそをおわび」放送が黒画面に",
-      "summary": "ハンガリーの公共テレビ局が黒い画面で謝罪文を放送し、長年のうそについて謝罪するとともにニュース放送を一時休止すると発表しました。この行動はマジャル首相による政権交代に伴うメディア刷新改革の一環と見られています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260708/k10015171461000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-08T00:30:24+00:00",
-      "lang": "ja"
+      "id": "16382522",
+      "category": "経済・ビジネス（世界）",
+      "title": "The places where it's cheaper to holiday this summer",
+      "summary": "ヨーロッパの旅行価格が上昇する中、ドバイやエジプトなどのヨーロッパ外の目的地へのパッケージ休暇は、旅行への不安が予約を減らしているため、昨年の夏より安くなっている。旅行業界では、ヨーロッパ目的地への需要が集中する一方で、非ヨーロッパ地域は競争力のある価格設定で顧客を引き付けようとしている。",
+      "url": "https://www.bbc.co.uk/news/articles/c17y81vnje5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-08T09:43:36+00:00",
+      "lang": "en"
     },
     {
-      "id": "74587595",
-      "category": "経済・ビジネス（日本）",
-      "title": "トランプ政権 イラン産原油の生産・販売認可を取り消しと発表",
-      "summary": "トランプ政権のアメリカ財務省は、一時的に認めていたイラン産原油の生産・販売認可を取り消すと発表しました。当局者はホルムズ海峡近くで船舶が攻撃を受けたことを理由に、イランの履行状況に基づいて覚書の効力が失われたと説明しています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260708/k10015171411000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-08T00:24:00+00:00",
-      "lang": "ja"
+      "id": "76903778",
+      "category": "経済・ビジネス（世界）",
+      "title": "From mouthwash to hair dye: How weight-loss jabs are changing shopping habits",
+      "summary": "減量注射の使用者が空腹感の減少を報告していることから、うがい薬からヘアダイまで様々な商品の購買習慣が変わってきている。空腹感の低下に伴い、消費者の支出パターンに顕著な変化が見られており、食品以外の製品カテゴリーへの消費シフトが起こっている。BBCはこの現象を通じて、体重減少薬がもたらす食欲抑制効果が、日常の買い物行動全体にどのような波及効果をもたらしているのかを検証している。",
+      "url": "https://www.bbc.co.uk/news/articles/cy49w2knlrdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-08T09:31:56+00:00",
+      "lang": "en"
     },
     {
-      "id": "34257499",
+      "id": "47445248",
+      "category": "経済・ビジネス（世界）",
+      "title": "Trains and emergency calls affected after major outage at Australia's largest telecoms company",
+      "summary": "オーストラリア最大の通信会社で大規模な通信障害が発生し、列車運行と緊急通報サービスに影響が出た。シドニーとメルボルンのデータセンターのサーバーが原因だが、正確な原因はまだ不明である。この障害により交通機関と公共安全機関の通信に深刻な支障が生じた。",
+      "url": "https://www.bbc.co.uk/news/articles/cgevw0d95pdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-08T07:53:37+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "14013327",
+      "category": "経済・ビジネス（世界）",
+      "title": "Australia dock workers call for 28-hour week in AI talks",
+      "summary": "オーストラリアの港湾労働組合がAIの導入試験が進む中で、労働者が自動化の脅威にさらされているとして、週28時間労働制の導入を要求している。組合は、人工知能技術が港全体で試験されるにつれ、労働者が自動化による影響を直接受ける立場にあると主張している。この動きは、AI時代における労働環境の変化に対応するための交渉の一環である。",
+      "url": "https://www.bbc.co.uk/news/articles/cd95wendvdeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-08T06:06:12+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "34616370",
       "category": "経済・ビジネス（世界）",
       "title": "Airbnb data identifies illegal social home sublets",
       "summary": "Airbnbのデータ分析により、約6,000件の社会住宅が短期レンタルプラットフォームに違法にリストされていることが判明した。これらの違法なサブレットは、低所得者向けの公共住宅を商業目的で無断転貸する行為であり、本来の住宅政策の目的を損なっている。当局はプラットフォームと協力してこうした違法な転貸を特定し、規制を強化する必要に迫られている。",
@@ -135,17 +185,7 @@
       "lang": "en"
     },
     {
-      "id": "11033132",
-      "category": "経済・ビジネス（世界）",
-      "title": "Australia dock workers call for 28-hour week in AI talks",
-      "summary": "オーストラリアの港湾労働組合がAIの導入試験が進む中で、労働者が自動化の脅威にさらされているとして、週28時間労働制の導入を要求している。組合は、人工知能技術が港全体で試験されるにつれ、労働者が自動化による影響を直接受ける立場にあると主張している。この動きは、AI時代における労働環境の変化に対応するための交渉の一環である。",
-      "url": "https://www.bbc.co.uk/news/articles/cd95wendvdeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-08T01:48:47+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "22711082",
+      "id": "70837026",
       "category": "経済・ビジネス（世界）",
       "title": "Hundreds of jobs at risk as John Lewis plans to cut some services",
       "summary": "ジョン・ルイスが一部のサービス削減を計画しており、数百人の職員が失業の危機に直面している。最終決定はまだ下されていないが、人員削減計画が承認された場合、秋に職員削減が実行される予定である。",
@@ -155,7 +195,7 @@
       "lang": "en"
     },
     {
-      "id": "26618221",
+      "id": "41227196",
       "category": "経済・ビジネス（世界）",
       "title": "Victims of 23andMe data breach to get $47m payout, judge rules",
       "summary": "遺伝子検査企業23andMeが2023年に受けたハッキングで被害を受けた利用者に対し、裁判所が4,700万ドルの支払いを認めた。同社はDNA検査キットを通じて個人の遺伝情報を収集していたが、この大規模データ流出事件で大きな批判を浴びていた。",
@@ -165,47 +205,27 @@
       "lang": "en"
     },
     {
-      "id": "10909811",
-      "category": "経済・ビジネス（世界）",
-      "title": "Package holidays to Dubai and Egypt cheaper as European prices creep up",
-      "summary": "ヨーロッパの旅行価格が上昇する中、ドバイやエジプトなどのヨーロッパ外の目的地へのパッケージ休暇は、旅行への不安が予約を減らしているため、昨年の夏より安くなっている。旅行業界では、ヨーロッパ目的地への需要が集中する一方で、非ヨーロッパ地域は競争力のある価格設定で顧客を引き付けようとしている。",
-      "url": "https://www.bbc.co.uk/news/articles/c17y81vnje5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-07T23:34:45+00:00",
+      "id": "51657188",
+      "category": "テクノロジー・AI",
+      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+      "summary": "フランスの注目AIスタートアップZMLは、チューリング賞受賞者のヤン・ルクンから支持を受けており、AI実行コストを削減する可能性のあるソフトウェア「ZML/LLMD」を無料でリリースした。このソフトウェアは複数のAIチップ全体での推論速度を向上させることを目的としている。",
+      "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-08T08:00:00+00:00",
       "lang": "en"
     },
     {
-      "id": "64652600",
-      "category": "経済・ビジネス（世界）",
-      "title": "From mouthwash to hair dye: How weight-loss jabs are changing shopping habits",
-      "summary": "減量注射の使用者が空腹感の減少を報告していることから、うがい薬からヘアダイまで様々な商品の購買習慣が変わってきている。空腹感の低下に伴い、消費者の支出パターンに顕著な変化が見られており、食品以外の製品カテゴリーへの消費シフトが起こっている。BBCはこの現象を通じて、体重減少薬がもたらす食欲抑制効果が、日常の買い物行動全体にどのような波及効果をもたらしているのかを検証している。",
-      "url": "https://www.bbc.co.uk/news/articles/cy49w2knlrdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-07T23:11:48+00:00",
+      "id": "43132598",
+      "category": "テクノロジー・AI",
+      "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+      "summary": "AI チップメーカーの SambaNova が11億ドルの企業評価額で10億ドルの資金調達を完了しました。これは Intel が同社を約16億ドルで買収しようとしていると噂されたわずか5ヶ月後のことです。SambaNova は前回のメガラウンドから短期間で大幅な企業評価額の上昇を達成し、AI チップ市場における同社の重要性を示しています。",
+      "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-08T07:16:00+00:00",
       "lang": "en"
     },
     {
-      "id": "54766971",
-      "category": "経済・ビジネス（世界）",
-      "title": "One million more UK homeowners set  to face higher mortgages",
-      "summary": "英国で約100万人の住宅所有者が今後2年間に新しいローン契約に切り替える際、平均して月額45ポンド以上の追加負担に直面することになる見通しです。金利上昇により、住宅ローン返済額が大幅に増加する状況が深刻化しています。",
-      "url": "https://www.bbc.co.uk/news/articles/cze9kpxx6d8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-07T15:18:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "27714759",
-      "category": "経済・ビジネス（世界）",
-      "title": "Online gamblers betting more than £1,000 to face new checks",
-      "summary": "英国のギャンブル規制当局は、24時間以内にオンラインで1,000ポンド以上を賭けた利用者に対して、新たな評価審査を実施することを発表した。この措置は、問題のあるギャンブル行為を早期に発見し、ギャンブル依存症の防止を目的としている。",
-      "url": "https://www.bbc.co.uk/news/articles/cqj1xvy44xno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-07T14:18:25+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "21771833",
+      "id": "35978280",
       "category": "テクノロジー・AI",
       "title": "Final extension: Startup Battlefield Australia applications now close July 20",
       "summary": "オーストラリアのスタートアップ・バトルフィールドの応募締め切りが7月20日に延長された。このプログラムは野心的なスタートアップを構築している起業家に対し、事業を前進させるために必要な人脈やリソースへの迅速なアクセスを提供するものである。",
@@ -215,7 +235,7 @@
       "lang": "en"
     },
     {
-      "id": "87475117",
+      "id": "31529514",
       "category": "テクノロジー・AI",
       "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
       "summary": "Metaが新しいAI画像生成モデル「Muse」をリリースした。このモデルは広告、インテリアデコレーション、クリエイター向けの機会など、様々な用途に活用できる。",
@@ -225,7 +245,7 @@
       "lang": "en"
     },
     {
-      "id": "82375442",
+      "id": "75514035",
       "category": "テクノロジー・AI",
       "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
       "summary": "メタ社がスーパーインテリジェンスラボ部門開発の初のAI画像生成モデル「Muse Image」を発表しており、このモデルはメタAIアプリ、Instagram、WhatsAppの画像生成ツールを搭載し、近くFacebookとMessengerにも展開される予定である。このモデルの特徴は他のInstagramユーザーをAI写真に組み込むことができる点であり、拡大するMuseファミリーのAIツールの一部となっている。",
@@ -235,7 +255,7 @@
       "lang": "en"
     },
     {
-      "id": "30101084",
+      "id": "38123423",
       "category": "テクノロジー・AI",
       "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
       "summary": "オープンソースAIの台頭はまだアンスロピックに打撃を与えていないとされているのは、オープンソースモデルと最先端ラボが同じライフサイクルの異なる段階を担当しており、互いに競合するのではなく補完関係にあるからである。つまり、フロンティアモデルは最新の技術開発を先導し、オープンソースモデルはそれらが成熟した段階で普及させるという役割分担が成立しているということを示唆している。",
@@ -245,7 +265,7 @@
       "lang": "en"
     },
     {
-      "id": "84625465",
+      "id": "10240342",
       "category": "テクノロジー・AI",
       "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
       "summary": "マイクロソフトは、独自に開発したAIモデルへの依存を高めることで、AI関連支出の削減トレンドに参加している。シリコンバレーの大手企業の中で、AI支出を削減する最新の企業となり、自社モデルの活用を通じてコスト効率を改善しようとしている動きが広がっている。",
@@ -255,7 +275,7 @@
       "lang": "en"
     },
     {
-      "id": "52623523",
+      "id": "77296671",
       "category": "テクノロジー・AI",
       "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
       "summary": "Discordは、AIモデレーション機能の不具合により、無害な画像を理由にユーザーが誤って利用禁止になっていたことを認めました。この問題は5月から発生していており、同社のチームが問題を特定して修正する前の週末にさらに200人のユーザーが禁止されていたとのことです。",
@@ -265,103 +285,83 @@
       "lang": "en"
     },
     {
-      "id": "64863165",
-      "category": "テクノロジー・AI",
-      "title": "Google’s Pixel event is set for August 12",
-      "summary": "Googleは8月12日にPixelイベントを開催し、新型Pixelデバイスを発表する予定です。このイベントでは、最新のPixelスマートフォンやその他の関連製品が紹介される見込みです。",
-      "url": "https://techcrunch.com/2026/07/07/googles-pixel-event-is-set-for-august-12/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-07T18:38:29+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "20171486",
-      "category": "テクノロジー・AI",
-      "title": "Figma acquires team behind a vibe-coding app",
-      "summary": "Figmaは、Y Combinatorから支援を受けていた企業を買収した。この企業は、バイブコーディングプラットフォームから始まり、その後エージェント作成製品を開発していた。",
-      "url": "https://techcrunch.com/2026/07/07/figma-acquires-team-behind-a-vibe-coding-app/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-07T18:37:01+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "10055393",
+      "id": "11728165",
       "category": "台湾・中台関係",
-      "title": "US leads international concern after China test-fires missile into Pacific",
-      "summary": "中国が太平洋へ長距離ミサイルの試射を行ったことを受け、米国は7月6日に中国の核兵器プログラムに対する懸念を表明した。これは中国の急速な軍事近代化の最新の動きである。米国を中心に国際的な警戒感が高まっており、中国の軍事力強化は地域の安定性に対する重大な脅威と見なされている。",
-      "url": "https://www.hurriyetdailynews.com/us-leads-international-concern-after-china-test-fires-missile-into-pacific-224076",
-      "source": "Hurriyet Daily News",
-      "published_at": "2026-07-07T05:31:00+00:00",
+      "title": "China fires submarine-launched ballistic missile into Pacific in first public test since 2024",
+      "summary": "中国が太平洋に潜水艦発射弾道ミサイルを発射し、2024年以降初の公開試験を実施した。この試験は太平洋地域の緊張の高まりを反映しており、地域の安全保障情勢と世界市場に潜在的な影響を与える可能性がある。",
+      "url": "https://cryptobriefing.com/china-submarine-ballistic-missile-pacific-test/",
+      "source": "Crypto Briefing",
+      "published_at": "2026-07-07T10:48:00+00:00",
       "lang": "en"
     },
     {
-      "id": "73120589",
+      "id": "17291758",
       "category": "台湾・中台関係",
-      "title": "At least 16 people buried following landslide in China",
-      "summary": "中国で土砂崩れが発生し、少なくとも16人が土に埋まった。同国は大雨による被害を受けており、少なくとも275人が負傷している。",
-      "url": "https://www.aljazeera.com/news/2026/7/7/at-least-people-buried-following-landslide-in-china",
-      "source": "Al Jazeera English",
-      "published_at": "2026-07-07T04:10:02+00:00",
+      "title": "AI Legal Drafting Tools Market Projected to Surge from $0.9 Billion in 2025 to $3.42 Billion by 2030",
+      "summary": "AI法務文書作成ツール市場は2025年の9億ドルから2030年には34億2000万ドルへの急速な成長が予測されており、法的プロセスの自動化需要の増加、AI搭載型契約管理の採用、自然言語処理と機械学習の進展が主要な成長要因となっている。効率性の向上やコスト削減の必要性が市場拡大を推進しており、法律業界全体でAI技術の導入が加速している。",
+      "url": "https://www.globenewswire.com/news-release/2026/07/07/3323004/28124/en/AI-Legal-Drafting-Tools-Market-Projected-to-Surge-from-0-9-Billion-in-2025-to-3-42-Billion-by-2030.html",
+      "source": "GlobeNewswire",
+      "published_at": "2026-07-07T10:39:00+00:00",
       "lang": "en"
     },
     {
-      "id": "47634316",
+      "id": "73073754",
       "category": "台湾・中台関係",
-      "title": "Global Market: China emerges as diversification bet for investors amid market volatility",
-      "summary": "世界的な市場変動と地政学的緊張の中で、グローバル投資家が中国資産を成長機会としてだけでなく、ポートフォリオ分散の手段として認識するようになっている。中国市場は世界的なボラティリティの中でも堅調さを見せており、この変化は中国債券および株式市場への新たな資金流入を促進している。人民元の強さも投資家の関心を高めている。",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-emerges-as-diversification-bet-for-investors-amid-market-volatility/articleshow/132229928.cms",
-      "source": "The Times of India",
-      "published_at": "2026-07-07T04:02:55+00:00",
+      "title": "India Resumes Iraqi Oil Imports Despite Hormuz Shipping Risks",
+      "summary": "インドの国営精油企業がホルムズ海峡経由のイラク産原油の購入を再開しており、これは世界第3位の原油輸入国であるインドが海峡の仮の再開後に中東からの供給を確保しようとしていることを示している。インドはホルムズ海峡の航行リスク軽減を受けて、中東からの原油調達戦略を転換し、イラク産原油の輸入量を増やしている。",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Resumes-Iraqi-Oil-Imports-Despite-Hormuz-Shipping-Risks.html",
+      "source": "OilPrice.com",
+      "published_at": "2026-07-07T10:30:00+00:00",
       "lang": "en"
     },
     {
-      "id": "39606241",
+      "id": "38936403",
       "category": "台湾・中台関係",
-      "title": "CRKT Drifter Liner Lock Folding Knife, by Thomas Christianson",
-      "summary": "CRKT社のドリフターライナーロック折りたたみナイフのレビュー記事です。このナイフは設計者トーマス・クリスチャンソンによるもので、レビュアーは耐久性に関する肯定的な驚きと別の否定的な驚きを経験しました。刃に施されたグレーのチタニウムナイトライドコーティングは、耐傷性に優れており、全く傷がつかない優れた耐久性を示したとのことです。",
-      "url": "https://survivalblog.com/2026/07/07/crkt-drifter-liner-lock-folding-knife-by-thomas-christianson/",
-      "source": "Survivalblog.com",
-      "published_at": "2026-07-07T02:54:50+00:00",
+      "title": "Phillies Land Phenom Pitcher After Guardians Trade",
+      "summary": "フィラデルフィア・フィリーズがクリーブランド・ガーディアンズとの静かなトレードでプロミシング右腕投手を獲得した。",
+      "url": "https://www.forbes.com/sites/peterchawaga/2026/07/07/phillies-land-phenom-pitcher-after-guardians-trade/",
+      "source": "Forbes",
+      "published_at": "2026-07-07T10:30:00+00:00",
       "lang": "en"
     },
     {
-      "id": "91809710",
+      "id": "62608398",
       "category": "台湾・中台関係",
-      "title": "China’s submarine missile test looks routine. The real story is the panic it triggered",
-      "summary": "中国の潜水艦ミサイル実験は見た目には通常の試験に見えるが、それが引き起こしたパニックが本当の問題である。すべての核保有国がミサイル試験を行っているにもかかわらず、中国の試験だけが激しい反発を招く理由は、国際社会における信頼の欠如と透明性の不足にある。中国の軍事的透明性の低さと急速な軍事力の拡大が、周辺国と国際社会に不安感を与えているという構図が浮かび上がる。",
-      "url": "https://theconversation.com/chinas-submarine-missile-test-looks-routine-the-real-story-is-the-panic-it-triggered-286947",
-      "source": "The Conversation Africa",
-      "published_at": "2026-07-07T02:50:55+00:00",
+      "title": "Real Estate Marketing Automation Software Market to Surpass $2.87 Billion by 2030 Amidst AI Integration and Multi-Channel Expansion",
+      "summary": "不動産マーケティング自動化ソフトウェア市場は2030年までに287億ドルを超える見込みで、AI統合とマルチチャネル展開により急速に成長している。成長の主な要因はデジタルマーケティング戦略、マルチチャネルソリューション、CRMイノベーションであり、AI統合、個別顧客エンゲージメント、クラウド導入などの機会が拡大している。アジア太平洋地域は技術進歩により急速な拡大が予想されている。",
+      "url": "https://www.globenewswire.com/news-release/2026/07/07/3322992/28124/en/Real-Estate-Marketing-Automation-Software-Market-to-Surpass-2-87-Billion-by-2030-Amidst-AI-Integration-and-Multi-Channel-Expansion.html",
+      "source": "GlobeNewswire",
+      "published_at": "2026-07-07T10:13:00+00:00",
       "lang": "en"
     },
     {
-      "id": "54166250",
+      "id": "73852316",
       "category": "台湾・中台関係",
-      "title": "Japan expels Chinese ships from near disputed islands",
-      "summary": "日本は尖閣諸島付近の海域から中国の海警局の船舶2隻を追放し、日中間の長年の対立がさらに激化している。この事件は係争地域をめぐる両国の緊張関係の深刻化を示しており、領土問題の解決には至っていない状況が続いている。",
-      "url": "https://punchng.com/japan-expels-chinese-ships-from-near-disputed-islands/",
-      "source": "The Punch",
-      "published_at": "2026-07-07T02:40:13+00:00",
+      "title": "AI in Food and Beverages Market Report 2026",
+      "summary": "食品・飲料産業における人工知能市場は、食品製造の自動化、AI駆動型のサプライチェーン最適化、個人向け栄養補助食品、スマート生産技術などの主要な成長機会に恵まれています。これらの市場拡大は、消費者の需要増加などの複数の要因によって推進されており、2026年にかけて急速な成長が見込まれています。",
+      "url": "https://www.globenewswire.com/news-release/2026/07/07/3322990/28124/en/AI-in-Food-and-Beverages-Market-Report-2026.html",
+      "source": "GlobeNewswire",
+      "published_at": "2026-07-07T10:11:00+00:00",
       "lang": "en"
     },
     {
-      "id": "73502387",
+      "id": "36131047",
       "category": "台湾・中台関係",
-      "title": "China has sent the world a reminder of its growing military power",
-      "summary": "中国は、太平洋地域での支配力を主張するための軍事的および核的手段を備えていることを示すため、最新の軍事試験を通じて、地域への警告として軍事力を行使する意思を世界に示した。このテストは、中国が増大する軍事力を活用して、地域内での覇権確立に向けた決意を明確にしていることを改めて世界に思い知らせるものである。",
-      "url": "https://www.abc.net.au/news/2026-07-07/china-pacific-nuclear-missile-launch-and-military-navy-warning/106888082",
-      "source": "ABC News (AU)",
-      "published_at": "2026-07-07T02:39:01+00:00",
+      "title": "AI in Life Science Analytics Market Set to Surge to $6.16 Billion by 2030: Key Growth Factors Revealed",
+      "summary": "生命科学分野のAI分析市場は2030年までに61億6000万ドルに拡大すると予測されており、臨床データの増加、デジタル臨床試験の拡大、精密診断の需要が主な成長要因となっている。AI駆動型創薬とクラウドベース分析がこの市場の重要な領域であり、北米がこの成長をけん引しているとされている。",
+      "url": "https://www.globenewswire.com/news-release/2026/07/07/3322989/28124/en/AI-in-Life-Science-Analytics-Market-Set-to-Surge-to-6-16-Billion-by-2030-Key-Growth-Factors-Revealed.html",
+      "source": "GlobeNewswire",
+      "published_at": "2026-07-07T10:10:00+00:00",
       "lang": "en"
     },
     {
-      "id": "68722539",
+      "id": "76385574",
       "category": "台湾・中台関係",
-      "title": "Taiwam showcases quantum computing breakthrough at biennial academician gathering, govt urges interdisciplinary collab",
-      "summary": "台湾の最高学術研究機関である中央研究院が7月6日から9日にかけて台北南港で第36回アカデミシアン総会を開催し、200人以上のアカデミシアンが参加した。この会合では量子コンピューティングの最新の進展が紹介されたほか、政府は学際的な協力の推進を呼びかけた。台湾は学術研究と産業応用の連携を強化することで、量子技術分野における国際競争力の向上を目指している。",
-      "url": "https://www.digitimes.com/news/a20260707PD200/academia-sinica-taiwan-president-government-development.html",
-      "source": "Digitimes",
-      "published_at": "2026-07-07T02:07:15+00:00",
+      "title": "Japan, China coast guards square off near disputed islands",
+      "summary": "日本と中国の海上保安庁の船舶が係争中の尖閣諸島付近で対峙し、双方が相手を追い出したと主張しています。この事件は東京と北京の間で高まる緊張の中で発生しており、領土問題をめぐる両国の対立が深刻化していることを示しています。",
+      "url": "https://www.dw.com/en/japan-china-coast-guards-square-off-near-disputed-islands/a-77860700",
+      "source": "DW (English)",
+      "published_at": "2026-07-07T09:30:00+00:00",
       "lang": "en"
     }
   ]
