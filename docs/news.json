@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T10:55:06.249126+00:00",
+  "updated_at": "2026-07-08T15:21:47.158629+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -45,7 +45,77 @@
   "digest": [],
   "news": [
     {
-      "id": "55418223",
+      "id": "87089359",
+      "category": "経済・ビジネス（日本）",
+      "title": "トランプ氏 迎撃ミサイル「生産権利与える」ゼレンスキー氏に",
+      "summary": "トランプ米大統領はゼレンスキー・ウクライナ大統領との首脳会談で、防空システム「パトリオット」の迎撃ミサイルについてウクライナでの生産を容認する方針を示しました。これによってウクライナは防空能力の強化と自国での製造が可能になります。",
+      "url": "http://www3.nhk.or.jp/news/html/20260708/k10015172341000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-08T14:50:39+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "17968025",
+      "category": "経済・ビジネス（日本）",
+      "title": "イラン情勢 トランプ大統領「おそらく今夜もまた攻撃する」",
+      "summary": "ホルムズ海峡の近くを通航する船舶が相次いで攻撃を受け、イランの強硬派がアメリカとの協議における海峡での影響力の低下に焦りを募らせていると指摘されている。",
+      "url": "http://www3.nhk.or.jp/news/html/20260708/k10015171371000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-08T13:28:39+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "39892744",
+      "category": "経済・ビジネス（日本）",
+      "title": "中東情勢が日本経済に影響 NW9広内キャスターが現場取材",
+      "summary": "中東情勢の不安定化が日本経済に影響を与えており、上半期の全国企業倒産件数が2年連続で5000件を超えています。NW9の広内キャスターが現地での取材を通じて、中東情勢が日本経済に及ぼす具体的な影響について調査しています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260708/k10015172261000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-08T13:19:13+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "51562710",
+      "category": "経済・ビジネス（日本）",
+      "title": "米大統領グリーンランド発言にデンマーク首相「売り物でない」",
+      "summary": "トランプ米大統領がNATO首脳会議を前にグリーンランドの領有意欲を示したことに対し、デンマーク首相は「売り物ではない」と述べて強く反発し、この発言を受け入れられないという立場を表明しました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260708/k10015172231000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-08T12:13:08+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "10126118",
+      "category": "経済・ビジネス（日本）",
+      "title": "NATO首脳会議 2日目 国防費を協議",
+      "summary": "NATO首脳会議でアメリカのヨーロッパ防衛への関与が減少する中、他の加盟国がヨーロッパの防衛により大きな役割を担うことが確認されました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260708/k10015172131000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-08T12:01:36+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "76341906",
+      "category": "経済・ビジネス（日本）",
+      "title": "NY原油先物価格 一時1バレル＝75ドル台 トランプ大統領発言で",
+      "summary": "ニューヨーク原油市場でトランプ大統領がイランとの停戦に向けた覚書について発言したことを受け、WTI先物価格が一時1バレル75ドル台となり、6月下旬以来約2週間ぶりの水準まで上昇しました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260708/k10015172181000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-08T11:41:56+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "75057935",
+      "category": "経済・ビジネス（日本）",
+      "title": "“中国ミサイル発射は大きな脅威” 自民合同会議で懸念の声",
+      "summary": "中国が模擬弾頭搭載ミサイルを発射したことを受けて、自民党が合同会議を開催し、日本とアジア地域の安全保障上の脅威について懸念の声が相次いで表明されました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260708/k10015172151000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-08T11:29:52+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "65108818",
       "category": "経済・ビジネス（日本）",
       "title": "クロマグロ国際会議が開幕 新ルール合意で増枠できるか焦点",
       "summary": "太平洋クロマグロの資源管理に関する国際会議が長崎市で開幕し、漁獲量が急増して上限に迫っている現状の中で、水産庁は新たなルールの合意により漁獲枠の拡大を目指しています。",
@@ -55,97 +125,37 @@
       "lang": "ja"
     },
     {
-      "id": "25515952",
-      "category": "経済・ビジネス（日本）",
-      "title": "トランプ大統領 イランとの停戦や覚書「終わったと思う」",
-      "summary": "ホルムズ海峡の近くを通航する船舶が相次いで攻撃を受け、イランの強硬派がアメリカとの協議における海峡での影響力の低下に焦りを募らせていると指摘されている。",
-      "url": "http://www3.nhk.or.jp/news/html/20260708/k10015171371000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-08T09:57:54+00:00",
-      "lang": "ja"
+      "id": "32289671",
+      "category": "経済・ビジネス（世界）",
+      "title": "Jackdaw owner says gas field will 'not materially influence' climate change",
+      "summary": "ガス田の所有者は、この新しい評価が業界規制当局の要件に基づいて提出されたもので、前回の提出では不十分だった複数の領域に対処するためのものであると述べた。所有者は、このガス田の開発が気候変動に実質的な影響を与えないだろうとの見方を示している。",
+      "url": "https://www.bbc.co.uk/news/articles/cly85e2z2n4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-08T12:59:00+00:00",
+      "lang": "en"
     },
     {
-      "id": "32410425",
-      "category": "経済・ビジネス（日本）",
-      "title": "パキスタン沖で貨物機が消息絶つ 乗員5人 機体捜索活動続く",
-      "summary": "パキスタン沖で7日夜、乗員5人が乗った貨物機が消息を絶ちました。地元当局が現在、機体の捜索活動を継続しています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260708/k10015172051000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-08T09:11:10+00:00",
-      "lang": "ja"
+      "id": "18258228",
+      "category": "経済・ビジネス（世界）",
+      "title": "Outcry as Meta lets users make AI images from public Instagram profile pics",
+      "summary": "メタ（旧フェイスブック）が、ユーザーの公開されたInstagramのプロフィール写真からAI生成画像を作成できる機能を導入したことに対し、プライバシー活動家から「災いの元」と批判の声が上がっている。同社はオプトアウト機能があると説明しているが、このシステムに懸念が集まっている。",
+      "url": "https://www.bbc.co.uk/news/articles/cp9lee19y1yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-08T12:28:03+00:00",
+      "lang": "en"
     },
     {
-      "id": "14897454",
-      "category": "経済・ビジネス（日本）",
-      "title": "台湾 “「第1列島線」中国による現状変更進む 連携し対応を”",
-      "summary": "台湾は、日本の南西諸島からフィリピンに至る第1列島線において、中国による現状変更が進行していると指摘し、国際社会に対して台湾との連携を求めて中国に共同で対応するよう呼びかけました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260708/k10015171841000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-08T07:31:03+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "30870945",
-      "category": "経済・ビジネス（日本）",
-      "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月8日の動き）",
-      "summary": "ロシアによるウクライナへの軍事侵攻が継続しており、ウクライナ全土でロシア軍とウクライナ軍の戦闘が続いています。多くの市民が国外への避難を余儀なくされており、戦闘状況と関係各国の外交動向が刻々と変化しています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260708/k10015140771000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-08T07:21:21+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "10188660",
-      "category": "経済・ビジネス（日本）",
-      "title": "ウクライナ軍「国境から約2500キロの石油精製施設を攻撃」",
-      "summary": "NATO首脳会議の開催中、ウクライナ軍参謀本部は国境から約2500キロ離れたロシアの石油精製施設を攻撃したと発表した。ウクライナ側は軍事的成果をアピールすることで、さらなる軍事支援の獲得を目指しているとみられている。",
-      "url": "http://www3.nhk.or.jp/news/html/20260708/k10015171491000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-08T03:04:08+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "27083768",
-      "category": "経済・ビジネス（日本）",
-      "title": "「SDGs目標は依然達成可能」 国連報告書で各国に行動呼びかけ",
-      "summary": "国連がSDGsについての報告書を発表し、紛争や気候変動などの困難な状況下にあっても2030年までの目標達成は依然として可能だと述べました。報告書では各国に対して積極的な行動を求めています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260708/k10015171511000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-08T02:05:13+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "13200956",
-      "category": "経済・ビジネス（日本）",
-      "title": "NY中心部のビルで柱が曲がり倒壊のおそれ 周辺が封鎖される",
-      "summary": "ニューヨーク・マンハッタンの中心部で改修中のビルの柱が曲がり倒壊の危険性が生じたため、市当局が周辺エリアを封鎖して住民を避難させています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260708/k10015171501000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-08T01:10:41+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "68589026",
+      "id": "22023714",
       "category": "経済・ビジネス（世界）",
       "title": "Virgin Media fined after hanging up on customers trying to cancel contracts",
       "summary": "英国の通信規制当局は、バージン・メディアが約3年間にわたって顧客からのキャンセル申し込みの電話を切断していたとして同社に罰金を科した。数百万件の電話が不適切に処理された可能性があると指摘されており、顧客が契約解除を試みた際に通話が終了させられていたことが明らかになった。この違反は顧客保護規定に対する重大な侵害と見なされた。",
       "url": "https://www.bbc.co.uk/news/articles/c982vm2jzl1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published_at": "2026-07-08T10:23:25+00:00",
+      "published_at": "2026-07-08T11:24:05+00:00",
       "lang": "en"
     },
     {
-      "id": "16382522",
-      "category": "経済・ビジネス（世界）",
-      "title": "The places where it's cheaper to holiday this summer",
-      "summary": "ヨーロッパの旅行価格が上昇する中、ドバイやエジプトなどのヨーロッパ外の目的地へのパッケージ休暇は、旅行への不安が予約を減らしているため、昨年の夏より安くなっている。旅行業界では、ヨーロッパ目的地への需要が集中する一方で、非ヨーロッパ地域は競争力のある価格設定で顧客を引き付けようとしている。",
-      "url": "https://www.bbc.co.uk/news/articles/c17y81vnje5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-08T09:43:36+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "76903778",
+      "id": "35072954",
       "category": "経済・ビジネス（世界）",
       "title": "From mouthwash to hair dye: How weight-loss jabs are changing shopping habits",
       "summary": "減量注射の使用者が空腹感の減少を報告していることから、うがい薬からヘアダイまで様々な商品の購買習慣が変わってきている。空腹感の低下に伴い、消費者の支出パターンに顕著な変化が見られており、食品以外の製品カテゴリーへの消費シフトが起こっている。BBCはこの現象を通じて、体重減少薬がもたらす食欲抑制効果が、日常の買い物行動全体にどのような波及効果をもたらしているのかを検証している。",
@@ -155,7 +165,7 @@
       "lang": "en"
     },
     {
-      "id": "47445248",
+      "id": "38578647",
       "category": "経済・ビジネス（世界）",
       "title": "Trains and emergency calls affected after major outage at Australia's largest telecoms company",
       "summary": "オーストラリア最大の通信会社で大規模な通信障害が発生し、列車運行と緊急通報サービスに影響が出た。シドニーとメルボルンのデータセンターのサーバーが原因だが、正確な原因はまだ不明である。この障害により交通機関と公共安全機関の通信に深刻な支障が生じた。",
@@ -165,7 +175,7 @@
       "lang": "en"
     },
     {
-      "id": "14013327",
+      "id": "48360173",
       "category": "経済・ビジネス（世界）",
       "title": "Australia dock workers call for 28-hour week in AI talks",
       "summary": "オーストラリアの港湾労働組合がAIの導入試験が進む中で、労働者が自動化の脅威にさらされているとして、週28時間労働制の導入を要求している。組合は、人工知能技術が港全体で試験されるにつれ、労働者が自動化による影響を直接受ける立場にあると主張している。この動きは、AI時代における労働環境の変化に対応するための交渉の一環である。",
@@ -175,17 +185,7 @@
       "lang": "en"
     },
     {
-      "id": "34616370",
-      "category": "経済・ビジネス（世界）",
-      "title": "Airbnb data identifies illegal social home sublets",
-      "summary": "Airbnbのデータ分析により、約6,000件の社会住宅が短期レンタルプラットフォームに違法にリストされていることが判明した。これらの違法なサブレットは、低所得者向けの公共住宅を商業目的で無断転貸する行為であり、本来の住宅政策の目的を損なっている。当局はプラットフォームと協力してこうした違法な転貸を特定し、規制を強化する必要に迫られている。",
-      "url": "https://www.bbc.co.uk/news/articles/c6211ng49zwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-08T05:03:28+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "70837026",
+      "id": "34783144",
       "category": "経済・ビジネス（世界）",
       "title": "Hundreds of jobs at risk as John Lewis plans to cut some services",
       "summary": "ジョン・ルイスが一部のサービス削減を計画しており、数百人の職員が失業の危機に直面している。最終決定はまだ下されていないが、人員削減計画が承認された場合、秋に職員削減が実行される予定である。",
@@ -195,7 +195,7 @@
       "lang": "en"
     },
     {
-      "id": "41227196",
+      "id": "66880784",
       "category": "経済・ビジネス（世界）",
       "title": "Victims of 23andMe data breach to get $47m payout, judge rules",
       "summary": "遺伝子検査企業23andMeが2023年に受けたハッキングで被害を受けた利用者に対し、裁判所が4,700万ドルの支払いを認めた。同社はDNA検査キットを通じて個人の遺伝情報を収集していたが、この大規模データ流出事件で大きな批判を浴びていた。",
@@ -205,7 +205,67 @@
       "lang": "en"
     },
     {
-      "id": "51657188",
+      "id": "26643327",
+      "category": "テクノロジー・AI",
+      "title": "Solo GP Ashley Smith announces second $25M fund to back startups in AI, security and more",
+      "summary": "ベンチャーキャピタリストのアシュリー・スミス氏が率いるバーミリオン・クリフス・ベンチャーズが、第2号ファンドとして2500万ドルの資金調達を完了したと発表した。このファンドはAI、セキュリティなどの分野のスタートアップに投資される予定である。",
+      "url": "https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-08T15:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "58133843",
+      "category": "テクノロジー・AI",
+      "title": "Apple to produce Made in America wireless chips with Broadcom",
+      "summary": "アップルはブロードコムと300億ドル以上の複数年契約を締結し、アップル製品向けの150億個以上のアメリカ製カスタム無線接続チップの設計・製造をブロードコムに委託することになった。この契約によりアップルは製品に搭載する無線チップの国内調達を大幅に増やし、サプライチェーンのアメリカ化を進める。",
+      "url": "https://techcrunch.com/2026/07/08/apple-to-produce-made-in-america-wireless-chips-with-broadcom/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-08T14:43:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "70891024",
+      "category": "テクノロジー・AI",
+      "title": "Venus Aerospace raises $90M Series B to build a new kind of rocket engine",
+      "summary": "Venus Aerospaceが新型ロケットエンジン開発のためにシリーズBで9000万ドルの資金調達に成功した。同社は革新的なロケットエンジン技術の開発に取り組んでおり、この資金はその実現を加速させる。新しい技術が開発されれば、業界内での需要が高まることが期待されている。",
+      "url": "https://techcrunch.com/2026/07/08/venus-aerospace-raises-90m-series-b-to-build-a-new-kind-of-rocket-engine/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-08T14:07:49+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "67864309",
+      "category": "テクノロジー・AI",
+      "title": "Blue Origin reportedly raising $10B at $130B valuation",
+      "summary": "ブルー・オリジンがコアトゥ・アセット・マネジメント、ジェフ・ベゾス本人、その他の著名な投資家から10億ドルの資金調達を行っており、調達前の企業評価額は130億ドルであるとニューヨーク・タイムズが報道した。",
+      "url": "https://techcrunch.com/2026/07/08/blue-origin-reportedly-raising-10b-at-130b-valuation/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-08T14:04:53+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "44225605",
+      "category": "テクノロジー・AI",
+      "title": "Venus Williams-backed WeWard can now lock your apps until you hit your steps",
+      "summary": "テニス選手のヴィーナス・ウィリアムズがバックアップするフランスのアプリ「WeWard」は、ユーザーが目標歩数に達するまでアプリをロックできる新機能を導入した。このアプリは歩行時間を約25パーセント増加させると主張しており、ウィリアムズはエンジェル投資家として資金提供している。ユーザーの運動習慣を促進する仕組みで、健康管理とモチベーション維持を目的としている。",
+      "url": "https://techcrunch.com/2026/07/08/venus-williams-backed-weward-can-now-lock-your-apps-until-you-hit-your-steps/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-08T13:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "77643649",
+      "category": "テクノロジー・AI",
+      "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
+      "summary": "元OpenAIの幹部ケビン・ウェイルがStoke Spaceの取締役会に就任した。この人事異動は、再利用可能なロケットがシリコンバレーの次のホットなトレンドになっていることを示唆している。",
+      "url": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-08T12:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "17937190",
       "category": "テクノロジー・AI",
       "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
       "summary": "フランスの注目AIスタートアップZMLは、チューリング賞受賞者のヤン・ルクンから支持を受けており、AI実行コストを削減する可能性のあるソフトウェア「ZML/LLMD」を無料でリリースした。このソフトウェアは複数のAIチップ全体での推論速度を向上させることを目的としている。",
@@ -215,7 +275,7 @@
       "lang": "en"
     },
     {
-      "id": "43132598",
+      "id": "42212432",
       "category": "テクノロジー・AI",
       "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
       "summary": "AI チップメーカーの SambaNova が11億ドルの企業評価額で10億ドルの資金調達を完了しました。これは Intel が同社を約16億ドルで買収しようとしていると噂されたわずか5ヶ月後のことです。SambaNova は前回のメガラウンドから短期間で大幅な企業評価額の上昇を達成し、AI チップ市場における同社の重要性を示しています。",
@@ -225,143 +285,83 @@
       "lang": "en"
     },
     {
-      "id": "35978280",
-      "category": "テクノロジー・AI",
-      "title": "Final extension: Startup Battlefield Australia applications now close July 20",
-      "summary": "オーストラリアのスタートアップ・バトルフィールドの応募締め切りが7月20日に延長された。このプログラムは野心的なスタートアップを構築している起業家に対し、事業を前進させるために必要な人脈やリソースへの迅速なアクセスを提供するものである。",
-      "url": "https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-07T22:30:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "31529514",
-      "category": "テクノロジー・AI",
-      "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
-      "summary": "Metaが新しいAI画像生成モデル「Muse」をリリースした。このモデルは広告、インテリアデコレーション、クリエイター向けの機会など、様々な用途に活用できる。",
-      "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-07T22:18:10+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "75514035",
-      "category": "テクノロジー・AI",
-      "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
-      "summary": "メタ社がスーパーインテリジェンスラボ部門開発の初のAI画像生成モデル「Muse Image」を発表しており、このモデルはメタAIアプリ、Instagram、WhatsAppの画像生成ツールを搭載し、近くFacebookとMessengerにも展開される予定である。このモデルの特徴は他のInstagramユーザーをAI写真に組み込むことができる点であり、拡大するMuseファミリーのAIツールの一部となっている。",
-      "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
-      "source": "AI | The Verge",
-      "published_at": "2026-07-07T20:31:58+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "38123423",
-      "category": "テクノロジー・AI",
-      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
-      "summary": "オープンソースAIの台頭はまだアンスロピックに打撃を与えていないとされているのは、オープンソースモデルと最先端ラボが同じライフサイクルの異なる段階を担当しており、互いに競合するのではなく補完関係にあるからである。つまり、フロンティアモデルは最新の技術開発を先導し、オープンソースモデルはそれらが成熟した段階で普及させるという役割分担が成立しているということを示唆している。",
-      "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-07T20:04:32+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "10240342",
-      "category": "テクノロジー・AI",
-      "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
-      "summary": "マイクロソフトは、独自に開発したAIモデルへの依存を高めることで、AI関連支出の削減トレンドに参加している。シリコンバレーの大手企業の中で、AI支出を削減する最新の企業となり、自社モデルの活用を通じてコスト効率を改善しようとしている動きが広がっている。",
-      "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-07T19:58:20+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "77296671",
-      "category": "テクノロジー・AI",
-      "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
-      "summary": "Discordは、AIモデレーション機能の不具合により、無害な画像を理由にユーザーが誤って利用禁止になっていたことを認めました。この問題は5月から発生していており、同社のチームが問題を特定して修正する前の週末にさらに200人のユーザーが禁止されていたとのことです。",
-      "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-07T19:28:38+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "11728165",
+      "id": "57113611",
       "category": "台湾・中台関係",
-      "title": "China fires submarine-launched ballistic missile into Pacific in first public test since 2024",
-      "summary": "中国が太平洋に潜水艦発射弾道ミサイルを発射し、2024年以降初の公開試験を実施した。この試験は太平洋地域の緊張の高まりを反映しており、地域の安全保障情勢と世界市場に潜在的な影響を与える可能性がある。",
-      "url": "https://cryptobriefing.com/china-submarine-ballistic-missile-pacific-test/",
-      "source": "Crypto Briefing",
-      "published_at": "2026-07-07T10:48:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "17291758",
-      "category": "台湾・中台関係",
-      "title": "AI Legal Drafting Tools Market Projected to Surge from $0.9 Billion in 2025 to $3.42 Billion by 2030",
-      "summary": "AI法務文書作成ツール市場は2025年の9億ドルから2030年には34億2000万ドルへの急速な成長が予測されており、法的プロセスの自動化需要の増加、AI搭載型契約管理の採用、自然言語処理と機械学習の進展が主要な成長要因となっている。効率性の向上やコスト削減の必要性が市場拡大を推進しており、法律業界全体でAI技術の導入が加速している。",
-      "url": "https://www.globenewswire.com/news-release/2026/07/07/3323004/28124/en/AI-Legal-Drafting-Tools-Market-Projected-to-Surge-from-0-9-Billion-in-2025-to-3-42-Billion-by-2030.html",
+      "title": "EtherCAT Market Size to Hit USD 4.11 Billion by 2035 | Research by SNS Insider",
+      "summary": "EtherCAT市場は2035年までに41億1000万米ドルに達すると予測されており、デバイスタイプ、コンポーネント、産業分野、導入形態、地域別に分析されています。本調査は2026年から2035年までの期間における収益トレンドとセグメント化を網羅しており、市場の成長動向を詳細に予測しています。",
+      "url": "https://www.globenewswire.com/news-release/2026/07/07/3323423/0/en/EtherCAT-Market-Size-to-Hit-USD-4-11-Billion-by-2035-Research-by-SNS-Insider.html",
       "source": "GlobeNewswire",
-      "published_at": "2026-07-07T10:39:00+00:00",
+      "published_at": "2026-07-07T14:30:00+00:00",
       "lang": "en"
     },
     {
-      "id": "73073754",
+      "id": "33400367",
       "category": "台湾・中台関係",
-      "title": "India Resumes Iraqi Oil Imports Despite Hormuz Shipping Risks",
-      "summary": "インドの国営精油企業がホルムズ海峡経由のイラク産原油の購入を再開しており、これは世界第3位の原油輸入国であるインドが海峡の仮の再開後に中東からの供給を確保しようとしていることを示している。インドはホルムズ海峡の航行リスク軽減を受けて、中東からの原油調達戦略を転換し、イラク産原油の輸入量を増やしている。",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Resumes-Iraqi-Oil-Imports-Despite-Hormuz-Shipping-Risks.html",
-      "source": "OilPrice.com",
-      "published_at": "2026-07-07T10:30:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "38936403",
-      "category": "台湾・中台関係",
-      "title": "Phillies Land Phenom Pitcher After Guardians Trade",
-      "summary": "フィラデルフィア・フィリーズがクリーブランド・ガーディアンズとの静かなトレードでプロミシング右腕投手を獲得した。",
-      "url": "https://www.forbes.com/sites/peterchawaga/2026/07/07/phillies-land-phenom-pitcher-after-guardians-trade/",
-      "source": "Forbes",
-      "published_at": "2026-07-07T10:30:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "62608398",
-      "category": "台湾・中台関係",
-      "title": "Real Estate Marketing Automation Software Market to Surpass $2.87 Billion by 2030 Amidst AI Integration and Multi-Channel Expansion",
-      "summary": "不動産マーケティング自動化ソフトウェア市場は2030年までに287億ドルを超える見込みで、AI統合とマルチチャネル展開により急速に成長している。成長の主な要因はデジタルマーケティング戦略、マルチチャネルソリューション、CRMイノベーションであり、AI統合、個別顧客エンゲージメント、クラウド導入などの機会が拡大している。アジア太平洋地域は技術進歩により急速な拡大が予想されている。",
-      "url": "https://www.globenewswire.com/news-release/2026/07/07/3322992/28124/en/Real-Estate-Marketing-Automation-Software-Market-to-Surpass-2-87-Billion-by-2030-Amidst-AI-Integration-and-Multi-Channel-Expansion.html",
+      "title": "[Latest] Global Laboratory Information System Market Size/Share Worth USD 8.33 Billion by 2035 at a 11.24% CAGR: Healthcare Foresights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
+      "summary": "医療分野の市場調査会社Healthcare Foresightsによると、世界のラボラトリー情報システム市場は2025年に約28億7000万ドルの規模となり、2035年までに年平均成長率11.24%で83億3000万ドルまで拡大すると予測されている。この220ページ以上のレポートは市場規模、シェア、トレンド、セグメンテーション、成長率、SWOT分析などを含む包括的な分析を提供している。",
+      "url": "https://www.globenewswire.com/news-release/2026/07/07/3323422/0/en/Latest-Global-Laboratory-Information-System-Market-Size-Share-Worth-USD-8-33-Billion-by-2035-at-a-11-24-CAGR-Healthcare-Foresights-Analysis-Outlook-Leaders-Report-Trends-Forecast-S.html",
       "source": "GlobeNewswire",
-      "published_at": "2026-07-07T10:13:00+00:00",
+      "published_at": "2026-07-07T14:30:00+00:00",
       "lang": "en"
     },
     {
-      "id": "73852316",
+      "id": "66934749",
       "category": "台湾・中台関係",
-      "title": "AI in Food and Beverages Market Report 2026",
-      "summary": "食品・飲料産業における人工知能市場は、食品製造の自動化、AI駆動型のサプライチェーン最適化、個人向け栄養補助食品、スマート生産技術などの主要な成長機会に恵まれています。これらの市場拡大は、消費者の需要増加などの複数の要因によって推進されており、2026年にかけて急速な成長が見込まれています。",
-      "url": "https://www.globenewswire.com/news-release/2026/07/07/3322990/28124/en/AI-in-Food-and-Beverages-Market-Report-2026.html",
-      "source": "GlobeNewswire",
-      "published_at": "2026-07-07T10:11:00+00:00",
+      "title": "Boost $300 Prepaid SIM Starter Kit 365 Days 240GB (Activate by 10/8/26 for Extra 55GB Bonus Data) $238 Delivered @ TelcoBiz",
+      "summary": "Boost Mobileの300ドルプリペイドSIMスターターキットが238ドルで販売されており、2026年8月10日までに有効化すると240GBのデータに加えて55GBのボーナスデータが付与される。SIMカードは2028年3月1日まで有効で、新規顧客またはポート顧客が対象となっている。この offer はTelcoBizで配送料金込みで提供されている。",
+      "url": "https://www.ozbargain.com.au/node/966906",
+      "source": "Ozbargain.com.au",
+      "published_at": "2026-07-07T14:19:38+00:00",
       "lang": "en"
     },
     {
-      "id": "36131047",
+      "id": "53902624",
       "category": "台湾・中台関係",
-      "title": "AI in Life Science Analytics Market Set to Surge to $6.16 Billion by 2030: Key Growth Factors Revealed",
-      "summary": "生命科学分野のAI分析市場は2030年までに61億6000万ドルに拡大すると予測されており、臨床データの増加、デジタル臨床試験の拡大、精密診断の需要が主な成長要因となっている。AI駆動型創薬とクラウドベース分析がこの市場の重要な領域であり、北米がこの成長をけん引しているとされている。",
-      "url": "https://www.globenewswire.com/news-release/2026/07/07/3322989/28124/en/AI-in-Life-Science-Analytics-Market-Set-to-Surge-to-6-16-Billion-by-2030-Key-Growth-Factors-Revealed.html",
-      "source": "GlobeNewswire",
-      "published_at": "2026-07-07T10:10:00+00:00",
+      "title": "Sodium-ion \"salt\" batteries will revolutionize electric-vehicle and grid storage",
+      "summary": "ナトリウムイオン電池は、現在主流のリチウムイオン電池の代替技術として急速に注目を集めており、電動車や電力網の蓄電システムに革命をもたらす可能性がある。ナトリウムイオン電池はリチウムイオン電池よりもはるかに安価であり、採掘コストの削減や資源の豊富さという利点がある。この新しい電池技術により、電動車の普及がさらに加速し、再生可能エネルギーの大規模な蓄電が実現しやすくなると期待されている。",
+      "url": "https://www.newscientist.com/article/2532997-salt-batteries-are-about-to-shake-up-evs-and-grid-storage/",
+      "source": "New Scientist",
+      "published_at": "2026-07-07T14:19:34+00:00",
       "lang": "en"
     },
     {
-      "id": "76385574",
+      "id": "35516630",
       "category": "台湾・中台関係",
-      "title": "Japan, China coast guards square off near disputed islands",
-      "summary": "日本と中国の海上保安庁の船舶が係争中の尖閣諸島付近で対峙し、双方が相手を追い出したと主張しています。この事件は東京と北京の間で高まる緊張の中で発生しており、領土問題をめぐる両国の対立が深刻化していることを示しています。",
-      "url": "https://www.dw.com/en/japan-china-coast-guards-square-off-near-disputed-islands/a-77860700",
-      "source": "DW (English)",
-      "published_at": "2026-07-07T09:30:00+00:00",
+      "title": "China’s Submarine-launched Ballistic Missile Test Was a Message to the Pacific",
+      "summary": "中国が太平洋で実施した潜水艦発射弾道ミサイル（SLBM）の試験は、事前通知を受けた国々のリストと試験の時期から判断すると、単なる軍事力の誇示ではなく、特定のメッセージを太平洋地域に送ることが主な目的だったと考えられる。この試験は戦略的な意図を持った政治的シグナルとして機能し、地域の主要国に対する中国の軍事的影響力と意思表示を示すものとなった。",
+      "url": "https://thediplomat.com/2026/07/chinas-submarine-launched-ballistic-missile-test-was-a-message-to-the-pacific/",
+      "source": "The Diplomat",
+      "published_at": "2026-07-07T13:41:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "21157962",
+      "category": "台湾・中台関係",
+      "title": "The Illusion of the Grand Bargain: Decoding Trump’s 2026 Beijing Summit",
+      "summary": "トランプ米大統領が9年ぶりに北京を訪問し、2期目として初めて中国を訪れた際に米中関係の外交的転換点を迎えた。この訪問は両国の緊張緩和と経済関係の再構築を目指す「大きな取引」として注目されたが、その背景には複雑な政治的・経済的計算が存在している。訪問の詳細な分析により、見た目の華々しさの背後にある現実的な課題と両国の真の意図が明らかになる。",
+      "url": "https://www.fairobserver.com/economics/the-illusion-of-the-grand-bargain-decoding-trumps-2026-beijing-summit/",
+      "source": "Fair Observer",
+      "published_at": "2026-07-07T13:08:13+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "38272486",
+      "category": "台湾・中台関係",
+      "title": "AI Demand Explodes Over 300-Fold. Zettabyte Makes the Case for Quality Compute and Taiwan's Sovereign AI Future",
+      "summary": "AI計算トークンの世界的需要が300倍以上に急増する中、グローバルAI計算企業のゼッタバイトは、計算能力を有用な成果の質で評価すべきであると主張している。同社は台湾のソブリンAI戦略の重要性を強調し、質の高い計算インフラストラクチャーの構築に焦点を当てている。",
+      "url": "https://www.prnewswire.com/news-releases/ai-demand-explodes-over-300-fold-zettabyte-makes-the-case-for-quality-compute-and-taiwans-sovereign-ai-future-302819237.html",
+      "source": "PRNewswire",
+      "published_at": "2026-07-07T12:38:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "85788970",
+      "category": "台湾・中台関係",
+      "title": "China’s Pacific SLBM Test Signals a New Phase in Undersea Nuclear Competition",
+      "summary": "中国が太平洋で潜水艦発射弾道ミサイル（SLBM）の試験を実施し、おそらくJL-3型ミサイルを使用したこの試験は、米国の独立記念日直後に行われ、中国の海上核抑止力がより一層信頼性を増していることを示している。この動きは、海底核兵器競争の新たな段階を示唆するものとなっている。",
+      "url": "https://thediplomat.com/2026/07/chinas-pacific-slbm-test-signals-a-new-phase-in-undersea-nuclear-competition/",
+      "source": "The Diplomat",
+      "published_at": "2026-07-07T12:07:00+00:00",
       "lang": "en"
     }
   ]
