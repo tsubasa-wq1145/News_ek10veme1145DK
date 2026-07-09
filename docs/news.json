@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T23:13:10.598549+00:00",
+  "updated_at": "2026-07-09T06:53:02.742251+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -45,87 +45,137 @@
   "digest": [],
   "news": [
     {
-      "id": "51514317",
+      "id": "50207292",
       "category": "経済・ビジネス（日本）",
-      "title": "トランプ大統領 ウクライナに迎撃ミサイル生産容認の考え示す",
-      "summary": "トランプ米大統領はゼレンスキー・ウクライナ大統領との首脳会談で、防空システム「パトリオット」の迎撃ミサイルについてウクライナでの生産を容認する方針を示しました。これによってウクライナは防空能力の強化と自国での製造が可能になります。",
-      "url": "http://www3.nhk.or.jp/news/html/20260708/k10015172341000.html",
+      "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月9日の動き）",
+      "summary": "ロシアによるウクライナへの軍事侵攻が続いており、ウクライナ各地でロシア軍とウクライナ軍の戦闘が激化しています。多くの市民が国外への避難を余儀なくされており、7月9日の戦闘状況と関係国の外交動向が随時更新される予定です。",
+      "url": "http://www3.nhk.or.jp/news/html/20260709/k10015140781000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-07-08T22:31:28+00:00",
+      "published_at": "2026-07-09T06:42:42+00:00",
       "lang": "ja"
     },
     {
-      "id": "12358110",
+      "id": "18402817",
       "category": "経済・ビジネス（日本）",
-      "title": "NY株式市場 ダウ 570ドル余り値下がり イラン情勢への懸念で",
-      "summary": "ニューヨーク株式市場でダウ平均株価が570ドル以上値下がりしました。これはイラン情勢への懸念と、原油価格の上昇に伴うアメリカでのインフレ再加速への警戒感が原因です。",
-      "url": "http://www3.nhk.or.jp/news/html/20260709/k10015172411000.html",
+      "title": "韓国 W杯1次リーグ敗退受け国会で聴聞会を22日に開催へ",
+      "summary": "サッカーワールドカップ北中米大会で1次リーグ敗退に終わった韓国が、国会で22日に聴聞会を開催し、代表監督の選考過程やサッカー協会の組織運営に問題がなかったかを確認する予定です。辞任したホン・ミョンボ前監督などに証人として出席を求めています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260709/k10015172771000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-07-08T22:08:00+00:00",
+      "published_at": "2026-07-09T06:28:09+00:00",
       "lang": "ja"
     },
     {
-      "id": "19739775",
+      "id": "11118217",
       "category": "経済・ビジネス（日本）",
-      "title": "米中央軍 イランに対し追加攻撃 両国の協議いっそう不透明に",
+      "title": "トランプ大統領 “攻撃は短期的なもの” 米イラン攻撃応酬",
       "summary": "アメリカ中央軍がイランに対する追加攻撃を開始したと発表し、これに対してイランはホルムズ海峡の封鎖と報復攻撃で対抗すると示唆している。緊張が高まる中で両国の協議は不確実性を増し、今後の展開が予測困難な状況となっている。",
       "url": "http://www3.nhk.or.jp/news/html/20260709/k10015172441000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-07-08T21:49:36+00:00",
+      "published_at": "2026-07-09T05:56:52+00:00",
       "lang": "ja"
     },
     {
-      "id": "85911021",
+      "id": "48056614",
       "category": "経済・ビジネス（日本）",
       "title": "NATO首脳会議閉幕 “米以外の加盟国が防衛により大きな役割”",
       "summary": "トルコで開かれたNATO首脳会議が閉幕し、アメリカ以外の加盟国がヨーロッパの防衛においてより大きな役割を担うことが確認されました。トランプ大統領は他の加盟国に対して国防費の増額を加速するよう求めました。",
       "url": "http://www3.nhk.or.jp/news/html/20260709/k10015172311000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-07-08T21:14:04+00:00",
+      "published_at": "2026-07-09T04:50:19+00:00",
       "lang": "ja"
     },
     {
-      "id": "25537475",
+      "id": "24230377",
       "category": "経済・ビジネス（日本）",
-      "title": "新議長のもとでの6月のFRB会合議事録 金利の見通し分かれる",
-      "summary": "アメリカのFRB新議長のもとで開かれた6月の会合議事録が公表され、年内の金融政策について金利据え置きか利下げが適切とする参加者と利上げが適切とする参加者の意見が分かれていることが明らかになった。",
-      "url": "http://www3.nhk.or.jp/news/html/20260709/k10015172451000.html",
+      "title": "中国 6月の生産者物価指数 3年11か月ぶり高水準 企業に痛手か",
+      "summary": "中国の6月生産者物価指数が前年同月比4.1％上昇し、3年11か月ぶりの高水準に達しました。これは企業の製品出荷時の値動きを示す指標で、インフレ圧力の高まりが企業収益を圧迫する可能性があります。",
+      "url": "http://www3.nhk.or.jp/news/html/20260709/k10015172651000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-07-08T21:06:37+00:00",
+      "published_at": "2026-07-09T04:22:17+00:00",
       "lang": "ja"
     },
     {
-      "id": "85920741",
+      "id": "72074403",
       "category": "経済・ビジネス（日本）",
-      "title": "ベネズエラ地震 国連が継続支援を各国に呼びかけ",
-      "summary": "ベネズエラで起きた地震による甚大な被害を受け、国連の人道部門トップが現地を訪問し、新たに130万人の人道支援が必要であることを明らかにしました。国連は各国に対し、継続的な支援を呼びかけています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260709/k10015172431000.html",
+      "title": "大阪・関西万博の国連パビリオンの展示がNYの国連本部に",
+      "summary": "2024年に開催された大阪・関西万博の国連パビリオンの展示内容の一部が、ニューヨークの国連本部に常設展示されることが決定した。この展示を通じて、万博で展示されたSDGsや国際協力に関する内容が世界に発信される。",
+      "url": "http://www3.nhk.or.jp/news/html/20260709/k10015172531000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-07-08T20:09:04+00:00",
+      "published_at": "2026-07-09T02:37:52+00:00",
       "lang": "ja"
     },
     {
-      "id": "61675760",
+      "id": "53764477",
       "category": "経済・ビジネス（日本）",
-      "title": "イラン情勢 トランプ大統領「おそらく今夜もまた攻撃する」",
-      "summary": "ホルムズ海峡の近くを通航する船舶が相次いで攻撃を受け、イランの強硬派がアメリカとの協議における海峡での影響力の低下に焦りを募らせていると指摘されている。",
-      "url": "http://www3.nhk.or.jp/news/html/20260708/k10015171371000.html",
+      "title": "ベネズエラ地震発生から2週間 暫定大統領が復興進める姿勢強調",
+      "summary": "ベネズエラで先月発生したマグニチュード7を超える地震から2週間が経過し、死者は3800人を超えており、多くの行方不明者がいます。ロドリゲス暫定大統領は、被災者支援と復興の加速化に向けて国を挙げて取り組む姿勢を強調しました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260709/k10015172491000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-07-08T15:31:01+00:00",
+      "published_at": "2026-07-09T02:37:23+00:00",
       "lang": "ja"
     },
     {
-      "id": "60403542",
+      "id": "10303437",
       "category": "経済・ビジネス（日本）",
-      "title": "中東情勢が日本経済に影響 NW9広内キャスターが現場取材",
-      "summary": "中東情勢の不安定化が日本経済に影響を与えており、上半期の全国企業倒産件数が2年連続で5000件を超えています。NW9の広内キャスターが現地での取材を通じて、中東情勢が日本経済に及ぼす具体的な影響について調査しています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260708/k10015172261000.html",
+      "title": "トランプ大統領 ウクライナに迎撃ミサイル生産容認の考え示す",
+      "summary": "トランプ米大統領はゼレンスキー・ウクライナ大統領との首脳会談で、防空システム「パトリオット」の迎撃ミサイルについてウクライナでの生産を容認する方針を示しました。これによってウクライナは防空能力の強化と自国での製造が可能になります。",
+      "url": "http://www3.nhk.or.jp/news/html/20260708/k10015172341000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-07-08T13:19:13+00:00",
+      "published_at": "2026-07-09T00:22:44+00:00",
       "lang": "ja"
     },
     {
-      "id": "56004585",
+      "id": "34962282",
+      "category": "経済・ビジネス（世界）",
+      "title": "Life of Sizewell B extended by another 20 years",
+      "summary": "イギリスのサイズウェルB原子力発電所の運転期間が20年間延長されることが決定された。当初2035年に廃止予定だった同発電所は、2055年まで運転を継続することになる。この延長により、英国のエネルギー安定供給と脱炭素化目標の達成に貢献する。",
+      "url": "https://www.bbc.co.uk/news/articles/c1dy1rdv17lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-09T05:27:18+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "32618805",
+      "category": "経済・ビジネス（世界）",
+      "title": "Jackdaw boss warns of winter fuel shortages if gas field not approved",
+      "summary": "Jackdaw油田の経営者は、北海での石油生産を承認しなければ、冬季の燃料不足が発生するとして英国政府に緊急承認を警告している。同社は国内供給の不足を避けるため、北海での生産を急ぐ必要があると主張している。政府の決定が国のエネルギー安全保障に直結する重要な案件となっている。",
+      "url": "https://www.bbc.co.uk/news/articles/cdx78n4nkvyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-09T05:04:17+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "36683269",
+      "category": "経済・ビジネス（世界）",
+      "title": "Wealthy AI workers send San Francisco house prices soaring",
+      "summary": "AI産業の高収入労働者の流入により、サンフランシスコの住宅価格が急上昇している。市内の住宅の中央値は170万ドルと過去最高を記録した。AI技術者などの高給与層による不動産需要の増加が、地域の住宅市場を大きく押し上げている。",
+      "url": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-08T23:11:35+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "21973470",
+      "category": "経済・ビジネス（世界）",
+      "title": "I run the UK's biggest bank, here are five ways to manage your money",
+      "summary": "ロイズ銀行のCEOが、貯蓄、予算管理、詐欺回避、そして人間関係での金銭管理の5つの方法について述べている。銀行幹部としての経験から、日常的なお金の管理をより効果的に行うための実践的なアドバイスを提供している。この記事では、個人の財務管理における基本的で重要なポイントが解説されている。",
+      "url": "https://www.bbc.co.uk/news/articles/cd7wldr3prro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-08T23:10:10+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "76493305",
+      "category": "経済・ビジネス（世界）",
+      "title": "Why electric cars cost more to insure - and what's being done about it",
+      "summary": "電気自動車の保険料が高いという問題が購入希望者の妨げになっており、業界はこの課題に対処するための様々な対策を講じている。電気自動車は部品の交換費用が高く、修理に特殊な技術が必要なため、保険料が割高になっているが、保険会社と自動車メーカーが協力して修理コストの削減に取り組んでいる。これらの努力により、今後電気自動車の保険料低下が期待されている。",
+      "url": "https://www.bbc.co.uk/news/articles/cgk6606j6zeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-08T23:09:55+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "51245530",
       "category": "経済・ビジネス（世界）",
       "title": "Online marketplaces still selling dozens of unsafe baby products, Which? finds",
       "summary": "オンラインマーケットプレイスで、安全性に関する通知の対象となっている枕、スリーピングバッグ、授乳用品などの危険な乳幼児製品が、AmazonやTikTokを含む複数のサイトで販売されていることが消費者団体Whichの調査で明らかになった。これらの製品は公式な安全基準を満たしておらず、乳幼児に深刻な危害をもたらす可能性がある。オンラインプラットフォームは危険な製品の販売をより厳格に監視する必要があると指摘されている。",
@@ -135,17 +185,7 @@
       "lang": "en"
     },
     {
-      "id": "21890381",
-      "category": "経済・ビジネス（世界）",
-      "title": "Outcry as Meta lets users make AI images from public Instagram profile pics",
-      "summary": "メタ（旧フェイスブック）が、ユーザーの公開されたInstagramのプロフィール写真からAI生成画像を作成できる機能を導入したことに対し、プライバシー活動家から「災いの元」と批判の声が上がっている。同社はオプトアウト機能があると説明しているが、このシステムに懸念が集まっている。",
-      "url": "https://www.bbc.co.uk/news/articles/cp9lee19y1yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-08T12:28:03+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "18683967",
+      "id": "45793871",
       "category": "経済・ビジネス（世界）",
       "title": "Virgin Media fined after hanging up on customers trying to cancel contracts",
       "summary": "英国の通信規制当局は、バージン・メディアが約3年間にわたって顧客からのキャンセル申し込みの電話を切断していたとして同社に罰金を科した。数百万件の電話が不適切に処理された可能性があると指摘されており、顧客が契約解除を試みた際に通話が終了させられていたことが明らかになった。この違反は顧客保護規定に対する重大な侵害と見なされた。",
@@ -155,7 +195,7 @@
       "lang": "en"
     },
     {
-      "id": "27547561",
+      "id": "32410316",
       "category": "経済・ビジネス（世界）",
       "title": "From mouthwash to hair dye: How weight-loss jabs are changing shopping habits",
       "summary": "減量注射の使用者が空腹感の減少を報告していることから、うがい薬からヘアダイまで様々な商品の購買習慣が変わってきている。空腹感の低下に伴い、消費者の支出パターンに顕著な変化が見られており、食品以外の製品カテゴリーへの消費シフトが起こっている。BBCはこの現象を通じて、体重減少薬がもたらす食欲抑制効果が、日常の買い物行動全体にどのような波及効果をもたらしているのかを検証している。",
@@ -165,49 +205,19 @@
       "lang": "en"
     },
     {
-      "id": "30319699",
-      "category": "経済・ビジネス（世界）",
-      "title": "Trains and emergency calls affected after major outage at Australia's largest telecoms company",
-      "summary": "オーストラリア最大の通信会社で大規模な通信障害が発生し、列車運行と緊急通報サービスに影響が出た。シドニーとメルボルンのデータセンターのサーバーが原因だが、正確な原因はまだ不明である。この障害により交通機関と公共安全機関の通信に深刻な支障が生じた。",
-      "url": "https://www.bbc.co.uk/news/articles/cgevw0d95pdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-08T07:53:37+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "58056404",
-      "category": "経済・ビジネス（世界）",
-      "title": "Australia dock workers call for 28-hour week in AI talks",
-      "summary": "オーストラリアの港湾労働組合がAIの導入試験が進む中で、労働者が自動化の脅威にさらされているとして、週28時間労働制の導入を要求している。組合は、人工知能技術が港全体で試験されるにつれ、労働者が自動化による影響を直接受ける立場にあると主張している。この動きは、AI時代における労働環境の変化に対応するための交渉の一環である。",
-      "url": "https://www.bbc.co.uk/news/articles/cd95wendvdeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-08T06:06:12+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "82468955",
-      "category": "経済・ビジネス（世界）",
-      "title": "Hundreds of jobs at risk as John Lewis plans to cut some services",
-      "summary": "ジョン・ルイスが一部のサービス削減を計画しており、数百人の職員が失業の危機に直面している。最終決定はまだ下されていないが、人員削減計画が承認された場合、秋に職員削減が実行される予定である。",
-      "url": "https://www.bbc.co.uk/news/articles/c30y4vqq4p6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-08T01:04:44+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "56978989",
-      "category": "経済・ビジネス（世界）",
-      "title": "Victims of 23andMe data breach to get $47m payout, judge rules",
-      "summary": "遺伝子検査企業23andMeが2023年に受けたハッキングで被害を受けた利用者に対し、裁判所が4,700万ドルの支払いを認めた。同社はDNA検査キットを通じて個人の遺伝情報を収集していたが、この大規模データ流出事件で大きな批判を浴びていた。",
-      "url": "https://www.bbc.co.uk/news/articles/cn0vnx2192vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-07T23:47:33+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "23324166",
+      "id": "90873370",
       "category": "テクノロジー・AI",
-      "title": "Despite ‘misgivings,’ judge approves Elon Musk’s $1.5 million SEC settlement",
+      "title": "Truecaller clashes with India’s telecom regulator over anti-spam rules",
+      "summary": "インドの通信規制当局とコール識別企業Truecallerが迷惑電話対策ルールをめぐって対立している。Truecallerはインド政府が指定したビジネス向け電話番号シリーズからの着信をユーザーが無視またはブロックする傾向が増加していると指摘している。両者の見解の相違は、迷惑電話防止と正規ビジネス通信のバランスをどう取るかという課題を浮き彫りにしている。",
+      "url": "https://techcrunch.com/2026/07/08/truecaller-clashes-with-indias-telecom-regulator-over-anti-spam-rules/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-09T02:30:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "27562071",
+      "category": "テクノロジー・AI",
+      "title": "Despite ‘misgivings,’ judge approves Elon Musk’s $1.5M SEC settlement",
       "summary": "裁判官はイーロン・マスク氏と証券取引委員会（SEC）の間で続いていた紛争に終止符を打ち、150万ドルの和解案を認可した。この和解はTwitter（現在のX）への出資状況の開示方法をめぐるマスク氏とSECの長年の対立を解決するもので、裁判官は懸念を示しながらも最終的に和解案を承認した。",
       "url": "https://techcrunch.com/2026/07/08/despite-misgivings-judge-approves-elon-musks-1-5-million-sec-settlement/",
       "source": "TechCrunch",
@@ -215,7 +225,7 @@
       "lang": "en"
     },
     {
-      "id": "14768764",
+      "id": "30768757",
       "category": "テクノロジー・AI",
       "title": "Lovable reportedly in talks to double its valuation to $13.2B",
       "summary": "AI開発企業のLovableが、評価額を現在の約6.6億ドルから13.2億ドルに倍増させるための資金調達交渉を進めているとされています。同社は3億ドルの資金調達ラウンドを計画しており、このラウンドはメンロ・ベンチャーズがリードすると報じられています。",
@@ -225,7 +235,7 @@
       "lang": "en"
     },
     {
-      "id": "76363420",
+      "id": "33914224",
       "category": "テクノロジー・AI",
       "title": "Feds demand autonomous vehicle companies stop interfering with first responders",
       "summary": "米国運輸省道路交通安全局(NHTSA)は、自動運転車メーカーに対して緊急対応車両の妨害を停止するよう要求し、緊急現場は自動運転システムの「想定外のケース」ではなく対応必須の状況だと明確にした。この行動は、自動運転車が救急車や消防車などの緊急車両に対応できず、対応場面での安全性が懸念されていることを背景としている。NHTSAはメーカーに対して、緊急現場での適切な対応メカニズムの開発と実装を義務付けることで、自動運転技術と緊急対応体制の統合を推進しようとしている。",
@@ -235,7 +245,7 @@
       "lang": "en"
     },
     {
-      "id": "91733939",
+      "id": "44534177",
       "category": "テクノロジー・AI",
       "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
       "summary": "グーグルが開発したディープフェイク検出システムが、ケンタッキー州選出のミッチ・マコーネル上院議員が病院のベッドで医療用チューブに覆われている写真が偽造画像であることを突き止めた。この画像はAIによって生成されたもので、今週初めにソーシャルメディア上で拡散していた。グーグルのディープフェイク検出技術が、偽造画像の識別と情報操作の防止に活用されている。",
@@ -245,7 +255,7 @@
       "lang": "en"
     },
     {
-      "id": "80962838",
+      "id": "61769733",
       "category": "テクノロジー・AI",
       "title": "With EU backing, QuantumDiamonds aims to speed up chip manufacturing",
       "summary": "ドイツのスタートアップ企業QuantumDiamondsは、欧州チップス法からの支援を受けており、チップ検査に革新的なアプローチを適用することで半導体産業の発展を促進している。米国の施策と同様に、欧州チップス法は国家補助金を通じて半導体業界の育成を目指しており、QuantumDiamondsはその恩恵を受ける企業の一つである。",
@@ -255,7 +265,7 @@
       "lang": "en"
     },
     {
-      "id": "25542892",
+      "id": "38312188",
       "category": "テクノロジー・AI",
       "title": "Autonomous drone delivery startup Manna plots major US expansion",
       "summary": "自律型ドローン配送スタートアップのMannaは、オクラホマ州タルサに米国の運営・製造施設を開設し、最終的に1,000人の雇用を予定している。同社はこの施設を通じて米国市場への本格的な進出を図り、ドローン配送事業の拡大を目指している。",
@@ -265,7 +275,7 @@
       "lang": "en"
     },
     {
-      "id": "25226717",
+      "id": "21307528",
       "category": "テクノロジー・AI",
       "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
       "summary": "SpaceXのAI部門がGrok 4.5をリリースし、イーロン・マスク氏はこれを「Opusクラスのモデル」と説明している。新バージョンは従来のGrokよりも安価で効率的であり、他の高性能なAIモデルに対する競争力のある代替案を目指している。このリリースは、AIモデルの性能と経済性の両立を追求するSpaceXの戦略の一環である。",
@@ -275,93 +285,73 @@
       "lang": "en"
     },
     {
-      "id": "51869946",
-      "category": "テクノロジー・AI",
-      "title": "‘Slow-cial’ app Roost forces you to slow down to the speed of a carrier pigeon",
-      "summary": "通信速度がキャリアピジョン（伝書鳩）並みに遅い「Slow-cial」アプリのRoostが、ユーザーにペースを落とすよう強制している。開発者は当初このサイドプロジェクトが30万ユーザーまで成長することを予想していなかったが、常時接続で高速化した現代のオンライン文化に対する代替手段として人気を集めている。",
-      "url": "https://techcrunch.com/2026/07/08/slow-cial-app-roost-forces-you-to-slow-down-to-the-speed-of-a-carrier-pigeon/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-08T19:22:11+00:00",
+      "id": "48551206",
+      "category": "台湾・中台関係",
+      "title": "China's actions risk creation of new status quo, Taiwan official says",
+      "summary": "台湾の高官は、中国による段階的な圧力強化戦術が台湾海峡において全く新しい現状を生み出すリスクがあると警告した。中国の軍事的示威や経済的圧力が継続すれば、国際社会が新しい状況を既成事実として認識する可能性があり、台湾の立場がさらに悪化する懸念を表明している。台湾は国際法の支持を求めながら、中国の一方的な現状変更の試みに対抗する必要があるとしている。",
+      "url": "https://ca.news.yahoo.com/chinas-actions-risk-creation-status-064151977.html",
+      "source": "Yahoo Entertainment",
+      "published_at": "2026-07-08T06:41:51+00:00",
       "lang": "en"
     },
     {
-      "id": "69642992",
+      "id": "85907048",
       "category": "台湾・中台関係",
-      "title": "TaiMed Biologics (4147) Receives TFDA Drug License Collection Notice for Trogarzo, Marking the Final Step Toward Commercial Launch in Taiwan",
-      "summary": "台湾のTaiMed Biologicsが開発したHIV治療薬Trogarzoが台湾食品医薬品局から医薬品許可収集通知を受け、台湾での商用化に向けた最終段階に到達した。この承認はTrogarzoの台湾市場への上市を意味する重要なマイルストーンとなる。同社のHIV治療薬は革新的な治療選択肢を患者に提供することが期待されている。",
-      "url": "https://www.globenewswire.com/news-release/2026/07/07/3323761/0/en/TaiMed-Biologics-4147-Receives-TFDA-Drug-License-Collection-Notice-for-Trogarzo-Marking-the-Final-Step-Toward-Commercial-Launch-in-Taiwan.html",
-      "source": "GlobeNewswire",
-      "published_at": "2026-07-07T23:00:00+00:00",
+      "title": "Taiwanese Media Wrongly Accuses ASRock’s Nick Shih of Attempting To Smuggle NVIDIA-Based Supermicro Servers To China",
+      "summary": "台湾のメディアがASRock会長のニック・シーを、NVIDIAベースのスーパーマイクロサーバーを中国に密輸しようとした容疑で誤って告発しました。ASRockのパフォーマンスチームリーダーであるシーは、禁止されたNVIDIAチップを中国に密輸するネットワークの一部として誤った名指しをされていますが、実際には根拠のない指摘であることが判明しました。",
+      "url": "https://wccftech.com/taiwanese-media-wrongly-accuses-asrocks-nick-shih-of-attempting-to-smuggle-nvidia-based-supermicro-servers-to-china/",
+      "source": "Wccftech",
+      "published_at": "2026-07-08T06:10:42+00:00",
       "lang": "en"
     },
     {
-      "id": "56117459",
+      "id": "16804706",
       "category": "台湾・中台関係",
-      "title": "China tests nuclear-capable missile in Pacific, alarming neighbors",
-      "summary": "中国が太平洋で核搭載可能なミサイル実験を実施し、域内の緊張が高まっている。この実験は地域の安定性を脅かし、太平洋地域のセキュリティ環境に悪影響を与えるとともに、世界的な軍事リスク認識に影響を与える可能性がある。",
-      "url": "https://cryptobriefing.com/china-tests-nuclear-capable-missile-in-pacific-alarming-neighbors/",
+      "title": "China’s Submarine-Launched Ballistic Missile Test in Pacific Marks Rare Demonstration of Nuclear Deterrent",
+      "summary": "中国人民解放軍海軍は7月6日月曜日、戦略核潜水艦から訓練用ダミー弾頭を搭載した潜水艦発射弾道ミサイル（SLBM）を太平洋に発射したことを公式に確認し、これは中国の核抑止力の稀な実証となった。このミサイル発射は中国の海軍核戦力の運用能力を示すもので、地域の軍事バランスに関する国際的な関心を喚起している。",
+      "url": "https://www.naturalnews.com/2026-07-08-china-submarine-launched-ballistic-missile-test-pacific.html",
+      "source": "Naturalnews.com",
+      "published_at": "2026-07-08T06:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "59934185",
+      "category": "台湾・中台関係",
+      "title": "China spooks Pacific neighbours with long-range missile test",
+      "summary": "中国が太平洋地域の隣国を懸念させる長距離ミサイル実験を実施した。北京は実験を軽視しているが、太平洋地域全体での影響力拡大を放棄する可能性は低い。中国は軍事力の強化を通じて、この地域での戦略的地位を継続的に高めようとしていることが示唆されている。",
+      "url": "https://www.irishtimes.com/world/2026/07/08/china-spooks-pacific-neighbours-with-long-range-missile-test/",
+      "source": "The Irish Times",
+      "published_at": "2026-07-08T05:59:21+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "63369675",
+      "category": "台湾・中台関係",
+      "title": "Monsoon Update: Heavy rainfall alert for hills of West Bengal, Sikkim",
+      "summary": "西ベンガル州とシッキム州の丘陵地帯では、太平洋の台風バービーがモンスーンに影響を与えて降雨パターンを変え、本日（水曜日）大雨から非常に大雨、さらに局地的な豪雨が予報されている。台風バービーの力強い作用によってモンスーンの流れが変わることで、インド亜大陸の降雨分布が大きく変動している。",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/monsoon-update-heavy-rainfall-alert-for-hills-of-west-bengal-sikkim/article71196574.ece",
+      "source": "BusinessLine",
+      "published_at": "2026-07-08T04:57:47+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "64874302",
+      "category": "台湾・中台関係",
+      "title": "Millions of barrels of Iranian oil left in limbo after US revokes 60-day waiver",
+      "summary": "米国がイラン産原油の販売を一時的に認める制裁免除を取り消したため、約6300万バレルのイラン原油がタンカーに滞留している。この免除は米国とイランの暫定的な平和合意の一部として導入されていたが、取り消されたことでイランは米国の制裁を受けることになった。",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/millions-of-barrels-of-iranian-oil-left-in-limbo-after-us-revokes-60-day-waiver/articleshow/132253774.cms",
+      "source": "The Times of India",
+      "published_at": "2026-07-08T04:37:05+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "79656739",
+      "category": "台湾・中台関係",
+      "title": "China launches ballistic missile from submarine in Pacific amid naval drills",
+      "summary": "中国が太平洋での海軍演習の最中に潜水艦から弾道ミサイルを発射したことが報じられ、これは地域の勢力図における戦略的転換を示唆するものとみられている。この動きは地政学的な緊張をさらに高める可能性があり、太平洋地域における中国の軍事力強化を改めて印象付ける形となった。",
+      "url": "https://cryptobriefing.com/china-launches-ballistic-missile-from-submarine-in-pacific-amid-naval-drills/",
       "source": "Crypto Briefing",
-      "published_at": "2026-07-07T21:41:44+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "57870215",
-      "category": "台湾・中台関係",
-      "title": "The Myth of Chinese Birth Tourism",
-      "summary": "米国は、中国人が米国で出産して子供に米国籍を与える「出産観光」という小規模なビジネスを、国家安全保障の脅威として位置づけ直している。この問題は実際の規模よりも政治的に大きく扱われており、中国人妊婦による出産観光が米国の移民制度や安全保障に与える影響は、政府の警告ほど深刻ではないと指摘されている。",
-      "url": "http://foreignpolicy.com/2026/07/07/china-us-birth-tourism-immigration-citizenship/",
-      "source": "Foreign Policy",
-      "published_at": "2026-07-07T21:14:09+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "66697522",
-      "category": "台湾・中台関係",
-      "title": "Seventeen dead, 900 snakes set loose as storms lash China",
-      "summary": "中国で猛烈な嵐により少なくとも17人が死亡し、数万人の避難が余儀なくされている中、中国の指導者は「全力での」救助活動を呼びかけている。嵐の影響で約900匹のヘビが逃げ出し、地域住民に新たな脅威をもたらしている状況となっている。当局は被害拡大を防ぐため、捜索救助活動と逃げたヘビの確保に総力を挙げて対応している。",
-      "url": "https://www.abc.net.au/news/2026-07-08/17-dead-hundreds-injured-in-china-storms/106890858",
-      "source": "ABC News (AU)",
-      "published_at": "2026-07-07T20:43:28+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "43155296",
-      "category": "台湾・中台関係",
-      "title": "China’s rare ballistic missile test sends ripple through risk markets",
-      "summary": "中国が実施した弾道ミサイルの珍しい実験は地政学的緊張を高め、グローバル市場に影響を与えながら太平洋地域での戦略的な再編を促している。このミサイル実験はリスク資産市場に波紋を広げており、国際的な経済関係に不確実性をもたらしている。",
-      "url": "https://cryptobriefing.com/china-ballistic-missile-test-crypto-risk/",
-      "source": "Crypto Briefing",
-      "published_at": "2026-07-07T20:12:56+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "20644400",
-      "category": "台湾・中台関係",
-      "title": "Friend or enemy? China missile test sees Pacific nations finally speak out",
-      "summary": "中国のミサイル実験に対して、太平洋地域の国々が声を上げ始めた。これまで中国との関係で沈黙を守ってきた太平洋諸国が、今週初めて中国に対する態度の微妙な変化を示しており、長年の関係に転換点が訪れようとしている。",
-      "url": "https://www.abc.net.au/news/2026-07-08/china-missile-test-pacific-solomons-australia/106889058",
-      "source": "ABC News (AU)",
-      "published_at": "2026-07-07T20:01:50+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "25263531",
-      "category": "台湾・中台関係",
-      "title": "[Latest] Global Microfluidic Devices Market Size/Share Worth USD 182.98 Billion by 2035 at a 22.36% CAGR: Healthcare Foresights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
-      "summary": "グローバルマイクロフルイディクスデバイス市場は2025年の約243億2000万ドルから2035年には1829億8000万ドルに達すると予測されており、年平均成長率は22.36%である。Healthcare Foresightsの調査報告書によると、医療分野における需要拡大が市場成長の主要な要因となっている。同市場は今後10年間で大幅な拡大が見込まれている。",
-      "url": "https://www.globenewswire.com/news-release/2026/07/07/3323604/0/en/Latest-Global-Microfluidic-Devices-Market-Size-Share-Worth-USD-182-98-Billion-by-2035-at-a-22-36-CAGR-Healthcare-Foresights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segmenta.html",
-      "source": "GlobeNewswire",
-      "published_at": "2026-07-07T19:30:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "66369692",
-      "category": "台湾・中台関係",
-      "title": "'Backrooms' Passes $350M Globally as It Sets A24 Records",
-      "summary": "「バックルーム」がA24映画スタジオの記録を更新し、世界中で3億5000万ドルを突破した。同作はA24の配給作品として歴史的な興行成績を達成し、同スタジオの過去作品を上回る成功を収めている。",
-      "url": "http://www.hollywoodreporter.com/movies/movie-news/backrooms-passes-350m-globally-1236639400/",
-      "source": "Hollywood Reporter",
-      "published_at": "2026-07-07T19:26:57+00:00",
+      "published_at": "2026-07-08T04:04:19+00:00",
       "lang": "en"
     }
   ]
