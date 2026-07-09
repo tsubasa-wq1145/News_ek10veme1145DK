@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T11:45:47.657238+00:00",
+  "updated_at": "2026-07-09T15:56:29.457339+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -45,7 +45,77 @@
   "digest": [],
   "news": [
     {
-      "id": "48754479",
+      "id": "12698059",
+      "category": "経済・ビジネス（日本）",
+      "title": "台湾に台風9号接近 頼清徳総統「自然災害を最小限に」と指示",
+      "summary": "大型で非常に強い台風9号が10日から11日にかけて台湾に接近する見込みであり、頼清徳総statusは軍部隊を視察して自然災害の最小化を指示しました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260710/k10015173211000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-09T15:08:07+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "87822025",
+      "category": "経済・ビジネス（日本）",
+      "title": "「ヒーロー」原曲 ボニー・タイラーさん死去 75歳",
+      "summary": "イギリスの歌手ボニー・タイラーさんが8日に75歳で亡くなりました。彼女は「ヒーロー」などの代表曲で知られ、同曲は日本のテレビドラマの主題歌としてカバーされていました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260709/k10015173191000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-09T14:44:13+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "19550682",
+      "category": "経済・ビジネス（日本）",
+      "title": "英 与党労働党の党首選 受け付け始まる 首相の辞意表明受け",
+      "summary": "イギリスのスターマー首相が辞意を表明したことを受けて、与党・労働党は党首選挙の立候補受け付けを開始しました。有力候補とされる前マンチェスター市長のバーナム下院議員が他に対抗馬がない場合、新党首として今月20日にも首相に就任する見込みです。",
+      "url": "http://www3.nhk.or.jp/news/html/20260709/k10015173181000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-09T14:38:24+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "11299176",
+      "category": "経済・ビジネス（日本）",
+      "title": "インド豪首脳会談 防衛協力など一致",
+      "summary": "インドのモディ首相とオーストラリアのアルバニージー首相が会談し、重要鉱物のサプライチェーン強化を含む経済安全保障と防衛分野での協力強化で一致した。両国は戦略的なパートナーシップを深める方針を確認した。",
+      "url": "http://www3.nhk.or.jp/news/html/20260709/k10015173201000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-09T14:26:20+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "15939243",
+      "category": "経済・ビジネス（日本）",
+      "title": "トランプ大統領 ウクライナに迎撃ミサイル生産容認の考え示す",
+      "summary": "トランプ米大統領はゼレンスキー・ウクライナ大統領との首脳会談で、防空システム「パトリオット」の迎撃ミサイルについてウクライナでの生産を容認する方針を示しました。これによってウクライナは防空能力の強化と自国での製造が可能になります。",
+      "url": "http://www3.nhk.or.jp/news/html/20260708/k10015172341000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-09T13:08:48+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "55424785",
+      "category": "経済・ビジネス（日本）",
+      "title": "停戦掲げる覚書の行方は NW9広内キャスターが専門家に聞く",
+      "summary": "アメリカとイランの軍事衝突が激化する中、停戦に向けた覚書が崩壊する危機に直面しています。トランプ大統領は合意実現を主張していますが、イラン側はホルムズ海峡の全面封鎖を示唆するなど、両国の立場は対立したままです。NW9は中東情勢の専門家にこうした協議の見通しについて聞きました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260709/k10015172741000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-09T12:53:26+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "47973069",
+      "category": "経済・ビジネス（日本）",
+      "title": "独首相 巡航ミサイル「トマホーク」配備へ 米政府と合意を表明",
+      "summary": "ドイツのメルツ首相が、NATO首脳会議でアメリカ政府と巡航ミサイル「トマホーク」をドイツに配備することで合意したと発表しました。同首相は、この配備がドイツの防衛戦略における重要な空白を埋め、ヨーロッパ独自の防衛システム開発にも貢献すると述べています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260709/k10015173091000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-09T12:22:40+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "12421469",
       "category": "経済・ビジネス（日本）",
       "title": "中国南部で大雨 ダム決壊など被害相次ぐ 70人超が死亡",
       "summary": "中国南部で7月初旬に上陸した台風の影響により、大雨と暴風による被害が相次ぎ、ダムの決壊に伴う洪水が発生した。9日までに70人を超える死亡が確認されている。",
@@ -55,79 +125,19 @@
       "lang": "ja"
     },
     {
-      "id": "47162544",
-      "category": "経済・ビジネス（日本）",
-      "title": "中朝の条約調印65年で北朝鮮首相が訪中へ",
-      "summary": "中国外務省は中朝条約調印65周年に合わせて、北朝鮮のパク・テソン首相が率いる代表団が10日から中国を訪問すると発表した。この訪問を通じて両国は軍事援助など有事の際の相互支援体制を定めた条約の重要性を改めて示し、両国の結束を内外にアピールするねらいがある。",
-      "url": "http://www3.nhk.or.jp/news/html/20260709/k10015173011000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-09T11:30:14+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "38326000",
-      "category": "経済・ビジネス（日本）",
-      "title": "中国 上半期新車販売21％減も輸出65％増 輸出シフト鮮明",
-      "summary": "中国の上半期新車販売は前年同期比21％減と低迷している一方で、輸出台数は65％増加し、国内市場の不振を輸出で補う戦略へのシフトが顕著になっています。これはイラン情勢による燃料価格上昇に伴う電気自動車などの需要増加が背景にあります。",
-      "url": "http://www3.nhk.or.jp/news/html/20260709/k10015173021000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-09T11:12:28+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "59235620",
-      "category": "経済・ビジネス（日本）",
-      "title": "アメリカとイラン 再び攻撃の応酬 予断を許さない情勢続く",
-      "summary": "アメリカ中央軍がイランに対する追加攻撃を開始したと発表し、これに対してイランはホルムズ海峡の封鎖と報復攻撃で対抗すると示唆している。緊張が高まる中で両国の協議は不確実性を増し、今後の展開が予測困難な状況となっている。",
-      "url": "http://www3.nhk.or.jp/news/html/20260709/k10015172441000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-09T10:08:07+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "32805627",
-      "category": "経済・ビジネス（日本）",
-      "title": "ベネズエラ大地震発生2週間 暫定大統領 復興進める姿勢強調",
-      "summary": "ベネズエラで先月発生したマグニチュード7を超える地震から2週間が経過し、死者は3800人を超えており、多くの行方不明者がいます。ロドリゲス暫定大統領は、被災者支援と復興の加速化に向けて国を挙げて取り組む姿勢を強調しました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260709/k10015172491000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-09T08:34:31+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "26369889",
-      "category": "経済・ビジネス（日本）",
-      "title": "韓国最高裁 「非常戒厳」拘束妨害でユン前大統領に懲役7年",
-      "summary": "韓国の最高裁判所は、おととし非常戒厳を宣言したユン・ソンニョル前大統領が自身の拘束を妨害しようとしたとして、特殊公務執行妨害などの罪で懲役7年の判決を確定させました。前大統領側と特別検察側双方の上告が退けられたことで判決は確定します。",
-      "url": "http://www3.nhk.or.jp/news/html/20260709/k10015172831000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-09T07:49:01+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "87350618",
-      "category": "経済・ビジネス（日本）",
-      "title": "トランプ大統領 ウクライナに迎撃ミサイル生産容認の考え示す",
-      "summary": "トランプ米大統領はゼレンスキー・ウクライナ大統領との首脳会談で、防空システム「パトリオット」の迎撃ミサイルについてウクライナでの生産を容認する方針を示しました。これによってウクライナは防空能力の強化と自国での製造が可能になります。",
-      "url": "http://www3.nhk.or.jp/news/html/20260708/k10015172341000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-09T07:40:11+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "83496698",
-      "category": "経済・ビジネス（日本）",
-      "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月9日の動き）",
-      "summary": "ロシアによるウクライナへの軍事侵攻が続いており、ウクライナ各地でロシア軍とウクライナ軍の戦闘が激化しています。多くの市民が国外への避難を余儀なくされており、7月9日の戦闘状況と関係国の外交動向が随時更新される予定です。",
-      "url": "http://www3.nhk.or.jp/news/html/20260709/k10015140781000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-09T07:18:05+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "38650519",
+      "id": "91095238",
       "category": "経済・ビジネス（世界）",
-      "title": "Jackdaw boss warns of winter fuel shortages if gas field not approved",
+      "title": "Porn site company fined £630,000 over failed age checks",
+      "summary": "イギリスの通信規制機関Ofcomは、児童のアクセスを防ぐための年齢確認に失敗しているとして、複数のポルノサイト運営企業に合計63万ポンドの罰金を科した。この罰金は、成人向けコンテンツへの児童アクセス防止義務に違反したサイトに対する規制措置である。",
+      "url": "https://www.bbc.co.uk/news/articles/c07ylddnvmyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-09T11:29:31+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "64460509",
+      "category": "経済・ビジネス（世界）",
+      "title": "Jackdaw boss warns of winter fuel shortage risk if gas field not approved",
       "summary": "Jackdaw油田の経営者は、北海での石油生産を承認しなければ、冬季の燃料不足が発生するとして英国政府に緊急承認を警告している。同社は国内供給の不足を避けるため、北海での生産を急ぐ必要があると主張している。政府の決定が国のエネルギー安全保障に直結する重要な案件となっている。",
       "url": "https://www.bbc.co.uk/news/articles/cdx78n4nkvyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -135,7 +145,7 @@
       "lang": "en"
     },
     {
-      "id": "11159483",
+      "id": "16701172",
       "category": "経済・ビジネス（世界）",
       "title": "How can I get air conditioning in my home and how much does it cost?",
       "summary": "英国の夏が年々暑くなっているため、家庭用エアコンの導入が一般的になるべき時代が到来しているかもしれないという議論が広がっている。エアコンの設置には初期費用と運用コストがかかるが、極端な気象現象の増加に対応する必要性が高まっており、多くの家庭が導入を検討し始めている。今後、英国ではエアコンが必須設備となる可能性がある。",
@@ -145,7 +155,7 @@
       "lang": "en"
     },
     {
-      "id": "44951899",
+      "id": "84254097",
       "category": "経済・ビジネス（世界）",
       "title": "Life of Sizewell B extended by another 20 years",
       "summary": "イギリスのサイズウェルB原子力発電所の運転期間が20年間延長されることが決定された。当初2035年に廃止予定だった同発電所は、2055年まで運転を継続することになる。この延長により、英国のエネルギー安定供給と脱炭素化目標の達成に貢献する。",
@@ -155,7 +165,7 @@
       "lang": "en"
     },
     {
-      "id": "37513363",
+      "id": "43004117",
       "category": "経済・ビジネス（世界）",
       "title": "Wealthy AI workers send San Francisco house prices soaring",
       "summary": "AI産業の高収入労働者の流入により、サンフランシスコの住宅価格が急上昇している。市内の住宅の中央値は170万ドルと過去最高を記録した。AI技術者などの高給与層による不動産需要の増加が、地域の住宅市場を大きく押し上げている。",
@@ -165,7 +175,7 @@
       "lang": "en"
     },
     {
-      "id": "57380032",
+      "id": "67325255",
       "category": "経済・ビジネス（世界）",
       "title": "I run the UK's biggest bank, here are five ways to manage your money",
       "summary": "ロイズ銀行のCEOが、貯蓄、予算管理、詐欺回避、そして人間関係での金銭管理の5つの方法について述べている。銀行幹部としての経験から、日常的なお金の管理をより効果的に行うための実践的なアドバイスを提供している。この記事では、個人の財務管理における基本的で重要なポイントが解説されている。",
@@ -175,7 +185,7 @@
       "lang": "en"
     },
     {
-      "id": "11851863",
+      "id": "43859840",
       "category": "経済・ビジネス（世界）",
       "title": "Why electric cars cost more to insure - and what's being done about it",
       "summary": "電気自動車の保険料が高いという問題が購入希望者の妨げになっており、業界はこの課題に対処するための様々な対策を講じている。電気自動車は部品の交換費用が高く、修理に特殊な技術が必要なため、保険料が割高になっているが、保険会社と自動車メーカーが協力して修理コストの削減に取り組んでいる。これらの努力により、今後電気自動車の保険料低下が期待されている。",
@@ -185,7 +195,7 @@
       "lang": "en"
     },
     {
-      "id": "88386152",
+      "id": "74055835",
       "category": "経済・ビジネス（世界）",
       "title": "Virgin Media fined after hanging up on customers trying to cancel contracts",
       "summary": "英国の通信規制当局は、バージン・メディアが約3年間にわたって顧客からのキャンセル申し込みの電話を切断していたとして同社に罰金を科した。数百万件の電話が不適切に処理された可能性があると指摘されており、顧客が契約解除を試みた際に通話が終了させられていたことが明らかになった。この違反は顧客保護規定に対する重大な侵害と見なされた。",
@@ -195,17 +205,67 @@
       "lang": "en"
     },
     {
-      "id": "82744697",
-      "category": "経済・ビジネス（世界）",
-      "title": "From mouthwash to hair dye: How weight-loss jabs are changing shopping habits",
-      "summary": "減量注射の使用者が空腹感の減少を報告していることから、うがい薬からヘアダイまで様々な商品の購買習慣が変わってきている。空腹感の低下に伴い、消費者の支出パターンに顕著な変化が見られており、食品以外の製品カテゴリーへの消費シフトが起こっている。BBCはこの現象を通じて、体重減少薬がもたらす食欲抑制効果が、日常の買い物行動全体にどのような波及効果をもたらしているのかを検証している。",
-      "url": "https://www.bbc.co.uk/news/articles/cy49w2knlrdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-08T09:31:56+00:00",
+      "id": "80718257",
+      "category": "テクノロジー・AI",
+      "title": "Block reaches $45M settlement with 46 states over Cash App fraud probe",
+      "summary": "Block Inc.は現金送金アプリ「Cash App」の詐欺問題をめぐり、46の州と4,500万ドルの和解に達した。州司法長官らはBlockが詐欺検知などの銀行レベルの保護を提供していると虚偽広告を行い、ユーザーを誤解させたと指摘している。この和解はBlockが消費者保護に関する不実表示の責任を認めるものである。",
+      "url": "https://techcrunch.com/2026/07/09/block-reaches-45m-settlement-with-46-states-over-cash-app-fraud-probe/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-09T15:16:34+00:00",
       "lang": "en"
     },
     {
-      "id": "67217998",
+      "id": "15660772",
+      "category": "テクノロジー・AI",
+      "title": "Anthropic’s new Claude feature is quietly selling you on AI",
+      "summary": "Anthropicの新しいClaudeダッシュボード「Reflect」は、ユーザーがAIをどのように使用しているかを可視化するだけでなく、日常業務がいかにAnthropicのチャットボットに依存しているかを微妙に強化するものである。このダッシュボード機能を通じて、ユーザーはAI利用の重要性を認識させられ、サービスへの依存度が高まる可能性があります。Anthropicは利用状況を可視化することで、ユーザーの心理的な納得感を得られ、さらなるAI導入拡大へと誘導する戦略を採用しているとも考えられます。",
+      "url": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-09T14:53:09+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "90610243",
+      "category": "テクノロジー・AI",
+      "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
+      "summary": "AnthropicとOpenAI、SpaceXの3社が予定されているIPOで生み出される価値は、2000年以降のアメリカのベンチャーキャピタル支援による全ての上場・売却を上回ると予想されている。これは、AI産業の急速な成長が従来のテック業界の投資リターンを大きく凌駕していることを示唆しており、AI企業への資本集中がいかに急速で規模が大きいかを物語っている。",
+      "url": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-09T14:51:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "58847756",
+      "category": "テクノロジー・AI",
+      "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
+      "summary": "オープンソースAI開発ツール「Ollama」がシリーズBで6500万ドルの資金調達を実現し、ユーザー数は約900万人に達しました。GitHubでは17万6000以上のスターと約1万7000のフォークを獲得しており、開発者が個人用PCで簡単にAIを実行できるプラットフォームとして急速に成長しています。",
+      "url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-09T13:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "56012541",
+      "category": "テクノロジー・AI",
+      "title": "Character.AI enters the microdrama arena with its own productions, but there’s a twist",
+      "summary": "Character.AIが独自製作のマイクロドラマに参入し、同社のコア製品を活かした興味深い展開を見せている。ユーザーはこれらのショーに登場するキャラクターとチャットしたり、質問したり、異なるストーリーラインでロールプレイすることが可能になる。AIプラットフォームとしての強みを生かして、従来のドラマ視聴体験を対話的でインタラクティブなものへと変革している。",
+      "url": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-09T13:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "52974129",
+      "category": "テクノロジー・AI",
+      "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
+      "summary": "ナンダン・ニレカニがファンダメンタムのゼネラルパートナー職を退任し、同社が2億ドル規模の第3号ファンドを立ち上げます。ニレカニはファンダメンタムのアンカー投資家として留任し、同社がリーダーシップチームを拡大しながらインドのAIとフィンテック新興企業を投資対象としています。",
+      "url": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-09T12:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "66016797",
       "category": "テクノロジー・AI",
       "title": "Truecaller clashes with India’s telecom regulator over anti-spam rules",
       "summary": "インドの通信規制当局とコール識別企業Truecallerが迷惑電話対策ルールをめぐって対立している。Truecallerはインド政府が指定したビジネス向け電話番号シリーズからの着信をユーザーが無視またはブロックする傾向が増加していると指摘している。両者の見解の相違は、迷惑電話防止と正規ビジネス通信のバランスをどう取るかという課題を浮き彫りにしている。",
@@ -215,7 +275,7 @@
       "lang": "en"
     },
     {
-      "id": "64319277",
+      "id": "66036373",
       "category": "テクノロジー・AI",
       "title": "Despite ‘misgivings,’ judge approves Elon Musk’s $1.5M SEC settlement",
       "summary": "裁判官はイーロン・マスク氏と証券取引委員会（SEC）の間で続いていた紛争に終止符を打ち、150万ドルの和解案を認可した。この和解はTwitter（現在のX）への出資状況の開示方法をめぐるマスク氏とSECの長年の対立を解決するもので、裁判官は懸念を示しながらも最終的に和解案を承認した。",
@@ -225,133 +285,83 @@
       "lang": "en"
     },
     {
-      "id": "15360522",
-      "category": "テクノロジー・AI",
-      "title": "Lovable reportedly in talks to double its valuation to $13.2B",
-      "summary": "AI開発企業のLovableが、評価額を現在の約6.6億ドルから13.2億ドルに倍増させるための資金調達交渉を進めているとされています。同社は3億ドルの資金調達ラウンドを計画しており、このラウンドはメンロ・ベンチャーズがリードすると報じられています。",
-      "url": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-08T22:41:33+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "70520339",
-      "category": "テクノロジー・AI",
-      "title": "Feds demand autonomous vehicle companies stop interfering with first responders",
-      "summary": "米国運輸省道路交通安全局(NHTSA)は、自動運転車メーカーに対して緊急対応車両の妨害を停止するよう要求し、緊急現場は自動運転システムの「想定外のケース」ではなく対応必須の状況だと明確にした。この行動は、自動運転車が救急車や消防車などの緊急車両に対応できず、対応場面での安全性が懸念されていることを背景としている。NHTSAはメーカーに対して、緊急現場での適切な対応メカニズムの開発と実装を義務付けることで、自動運転技術と緊急対応体制の統合を推進しようとしている。",
-      "url": "https://techcrunch.com/2026/07/08/feds-demand-autonomous-vehicle-companies-stop-interfering-with-first-responders/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-08T21:49:33+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "85922642",
-      "category": "テクノロジー・AI",
-      "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
-      "summary": "グーグルが開発したディープフェイク検出システムが、ケンタッキー州選出のミッチ・マコーネル上院議員が病院のベッドで医療用チューブに覆われている写真が偽造画像であることを突き止めた。この画像はAIによって生成されたもので、今週初めにソーシャルメディア上で拡散していた。グーグルのディープフェイク検出技術が、偽造画像の識別と情報操作の防止に活用されている。",
-      "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-08T20:37:03+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "74227129",
-      "category": "テクノロジー・AI",
-      "title": "With EU backing, QuantumDiamonds aims to speed up chip manufacturing",
-      "summary": "ドイツのスタートアップ企業QuantumDiamondsは、欧州チップス法からの支援を受けており、チップ検査に革新的なアプローチを適用することで半導体産業の発展を促進している。米国の施策と同様に、欧州チップス法は国家補助金を通じて半導体業界の育成を目指しており、QuantumDiamondsはその恩恵を受ける企業の一つである。",
-      "url": "https://techcrunch.com/2026/07/08/with-eu-backing-quantumdiamonds-aims-to-speed-up-chip-manufacturing/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-08T20:29:50+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "89737805",
-      "category": "テクノロジー・AI",
-      "title": "Autonomous drone delivery startup Manna plots major US expansion",
-      "summary": "自律型ドローン配送スタートアップのMannaは、オクラホマ州タルサに米国の運営・製造施設を開設し、最終的に1,000人の雇用を予定している。同社はこの施設を通じて米国市場への本格的な進出を図り、ドローン配送事業の拡大を目指している。",
-      "url": "https://techcrunch.com/2026/07/08/autonomous-drone-delivery-startup-manna-plots-major-u-s-expansion/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-08T20:06:54+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "23926552",
-      "category": "テクノロジー・AI",
-      "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
-      "summary": "SpaceXのAI部門がGrok 4.5をリリースし、イーロン・マスク氏はこれを「Opusクラスのモデル」と説明している。新バージョンは従来のGrokよりも安価で効率的であり、他の高性能なAIモデルに対する競争力のある代替案を目指している。このリリースは、AIモデルの性能と経済性の両立を追求するSpaceXの戦略の一環である。",
-      "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-08T19:30:16+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "64554296",
+      "id": "85064686",
       "category": "台湾・中台関係",
-      "title": "Audiences Worldwide Are Still Getting Lost in ‘Backrooms’",
-      "summary": "A24が配給するケイン・パーソンズによる不気味なスリラー映画「バックルームズ」が、世界中の観客を魅了し続けており、興行成績を伸ばし続けている。この映画は独特な世界観と緊迫した雰囲気で視聴者を引き込み、国際的な高い人気を獲得している。A24の配給作品として、継続的にボックスオフィスで好調な成績を記録している。",
-      "url": "https://gizmodo.com/audiences-worldwide-are-still-getting-lost-in-backrooms-2000782585",
-      "source": "Gizmodo.com",
-      "published_at": "2026-07-08T11:00:57+00:00",
+      "title": "Geographic and Orientia infection status influence on the bacterial microbiome of free-living chiggers in North Carolina, USA",
+      "summary": "米国ノースカロライナ州で採集された野生のツツガムシから、地理的位置とOrientia菌の感染状況が細菌マイクロバイオームに与える影響を調査した研究で、ツツガムシの幼虫が恙虫病を引き起こすOrientia属菌の媒介者であること、そして米国内のツツガムシマイクロバイオームに関する研究がほとんど行われていないことが明らかになった。",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353174",
+      "source": "Plos.org",
+      "published_at": "2026-07-08T14:00:00+00:00",
       "lang": "en"
     },
     {
-      "id": "62942742",
+      "id": "89879498",
       "category": "台湾・中台関係",
-      "title": "Yiren Digital Advances AI Entertainment Strategy Through Warrant Agreement with an AI-Native Entertainment and Emotional Wellness Platform",
-      "summary": "Yiren Digitalは、AI技術を活用したエンターテインメント・感情ウェルネスプラットフォームとのワラント契約を締結し、段階的な投資権を通じて将来的な多数派所有権の取得を目指す戦略を進めている。同社はAI応用企業の急速な成長と国際展開に投資することで、エンターテインメント分野でのAI事業拡大を加速させている。",
-      "url": "https://www.prnewswire.com/news-releases/yiren-digital-advances-ai-entertainment-strategy-through-warrant-agreement-with-an-ai-native-entertainment-and-emotional-wellness-platform-302820630.html",
-      "source": "PRNewswire",
-      "published_at": "2026-07-08T11:00:00+00:00",
+      "title": "China storms leave 17 dead as rescuers search for survivors",
+      "summary": "中国の暴風雨で17人が死亡し、救助隊が生存者の捜索に当たっている。暴風雨により数十の河川が氾濫し、ダムが決壊したほか、水没地域では住民が被災した家屋の片付けを始めた。当局は引き続き浸水地域の捜索救助活動を展開している。",
+      "url": "https://www.vanguardngr.com/2026/07/china-storms-leave-17-dead-as-rescuers-search-for-survivors/",
+      "source": "Vanguard",
+      "published_at": "2026-07-08T13:53:18+00:00",
       "lang": "en"
     },
     {
-      "id": "88387079",
+      "id": "15836148",
       "category": "台湾・中台関係",
-      "title": "Generative AI in Retail Market Soars: From $1.11 Billion in 2025 to $5.85 Billion by 2030",
-      "summary": "小売業界の生成AIの市場規模は2025年の11億1,000万ドルから2030年には58億5,000万ドルまで急速に拡大することが予想されており、個別化されたショッピング体験、リアルタイム在庫最適化、自動コンテンツ生成などの機会がもたらされる。電子商取引の成長とAI搭載ツール、新興技術がこの拡大を牽引し、特にアジア太平洋地域での成長が注目されている。",
-      "url": "https://www.globenewswire.com/news-release/2026/07/08/3323920/28124/en/Generative-AI-in-Retail-Market-Soars-From-1-11-Billion-in-2025-to-5-85-Billion-by-2030.html",
+      "title": "IMF lowers 2026 world growth forecast as Middle East risks linger",
+      "summary": "IMFは中東のリスクが継続していることを理由に、2026年の世界経済成長率見通しを3.0%に引き下げた。AIブームがある一方で、中東情勢の不確実性が経済に悪影響を与える懸念があり、世界的なインフレの加速も予想されている。",
+      "url": "https://punchng.com/imf-lowers-2026-world-growth-forecast-as-middle-east-risks-linger/",
+      "source": "The Punch",
+      "published_at": "2026-07-08T13:50:37+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "33987339",
+      "category": "台湾・中台関係",
+      "title": "How Generative AI is Shaping the Future of Digital Learning Platforms in the EdTech Industry",
+      "summary": "生成AIがEdTech業界のデジタル学習プラットフォームの未来を形成しています。AI駆動の個別指導、適応型学習パス、インテリジェント評価システム、仮想シミュレーション、強化されたデジタル学習プラットフォームなどの主要な機会があり、これらの技術は学習体験のパーソナライゼーションを向上させています。生成AIはEdTech市場において個別学習の提供と学習成果の改善をもたらす革新的なソリューションとなっています。",
+      "url": "https://www.globenewswire.com/news-release/2026/07/08/3324182/28124/en/How-Generative-AI-is-Shaping-the-Future-of-Digital-Learning-Platforms-in-the-EdTech-Industry.html",
       "source": "GlobeNewswire",
-      "published_at": "2026-07-08T10:19:00+00:00",
+      "published_at": "2026-07-08T13:28:00+00:00",
       "lang": "en"
     },
     {
-      "id": "69596860",
+      "id": "86740976",
       "category": "台湾・中台関係",
-      "title": "Generative AI Drives Revolutionary Changes in Healthcare: Key Trends and Opportunities",
-      "summary": "生成AI市場は医療分野で革新的な変化をもたらしており、AI駆動の診断ツール、個別化された治療計画、仮想看護助手、AI支援型創薬の拡大、治療計画への統合など複数の機会が生まれている。デジタルヘルスの急速な発展と共に、これらのAI技術は医療提供の効率化と質の向上を推進し、医療業界の今後の成長に大きな影響を与えると期待されている。",
-      "url": "https://www.globenewswire.com/news-release/2026/07/08/3323919/28124/en/Generative-AI-Drives-Revolutionary-Changes-in-Healthcare-Key-Trends-and-Opportunities.html",
+      "title": "Revolutionary Growth: Generative AI in IoT to Drive Predictive Maintenance and Anomaly Detection",
+      "summary": "生成型AIとIoTの統合により、予測保全と異常検知が大きく進化し、市場に革新的な成長をもたらす見通しとなっている。主な市場機会は、IoT分析の高度化、エッジAIソリューションの拡大、文脈認識型システムの開発にあり、IoT異常検知の需要増加がセキュリティ強化を促進している。製造業など主要産業では、これらの技術導入が急速に進みつつある。",
+      "url": "https://www.globenewswire.com/news-release/2026/07/08/3324180/28124/en/Revolutionary-Growth-Generative-AI-in-IoT-to-Drive-Predictive-Maintenance-and-Anomaly-Detection.html",
       "source": "GlobeNewswire",
-      "published_at": "2026-07-08T10:18:00+00:00",
+      "published_at": "2026-07-08T13:27:00+00:00",
       "lang": "en"
     },
     {
-      "id": "72440444",
+      "id": "89265793",
       "category": "台湾・中台関係",
-      "title": "Generative AI in Chip Design Market Report 2026",
-      "summary": "生成AI技術はチップ設計市場において、高性能かつエネルギー効率の良いチップへの需要増加、チップアーキテクチャにおけるAI活用の拡大、設計プロセスの自動化などの成長機会をもたらしている。カスタムシリコン開発の拡張とAIネイティブな設計手法の普及により、2026年までに市場は大きく成長すると予想されている。",
-      "url": "https://www.globenewswire.com/news-release/2026/07/08/3323917/28124/en/Generative-AI-in-Chip-Design-Market-Report-2026.html",
+      "title": "IMF Sees AI Surge Offset War Oil Shock and Keeps Growth Outlook",
+      "summary": "国際通貨基金（IMF）は、人工知能の急速な発展が中東紛争による悪影響を相殺するとして、今年の世界経済成長見通しを据え置きました。AIの成長がエネルギー価格上昇などの負の要因を補うことで、全体的な成長率は変わらないと予想しています。",
+      "url": "https://financialpost.com/pmn/business-pmn/imf-sees-ai-surge-offset-war-oil-shock-and-keeps-growth-outlook",
+      "source": "Financial Post",
+      "published_at": "2026-07-08T13:22:13+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "84834406",
+      "category": "台湾・中台関係",
+      "title": "China’s Port Congestion Faces Fresh Test as Typhoon Bavi Approaches",
+      "summary": "台風バビが接近する中、中国の港湾混雑がさらなる試験に直面している。カテゴリー5の台風は主要港湾の運営を脅かしており、既に船舶の集中と早期のピーク出荷季節により、世界的な港湾混雑は数年ぶりの高水準に達している。",
+      "url": "http://wwd.com/sourcing-journal/logistics/super-typhoon-bavi-china-port-congestion-shanghai-ningbo-ports-weather-1239057453/",
+      "source": "WWD",
+      "published_at": "2026-07-08T13:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "78109200",
+      "category": "台湾・中台関係",
+      "title": "Nocera Expands Diversified Technology Strategy With Binding Agreement to Acquire an Equity Interest in INERGX, an Integrated Energy Storage and Power Platform for AI, Defense and Mission-Critical Demand",
+      "summary": "Nocera社がAI、防衛、ミッションクリティカルな需要に対応する統合エネルギー貯蔵・電力プラットフォームであるINERGXの株式取得に関する拘束力のある契約を締結し、技術戦略の多角化を進めています。この投資により、Nocera社は2030年までに約7兆ドルに達すると予想されるグローバルなAIおよびエネルギーインフラ構築市場の交差点に位置することになります。",
+      "url": "https://www.globenewswire.com/news-release/2026/07/08/3324064/0/en/Nocera-Expands-Diversified-Technology-Strategy-With-Binding-Agreement-to-Acquire-an-Equity-Interest-in-INERGX-an-Integrated-Energy-Storage-and-Power-Platform-for-AI-Defense-and-Mis.html",
       "source": "GlobeNewswire",
-      "published_at": "2026-07-08T10:17:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "34489398",
-      "category": "台湾・中台関係",
-      "title": "Why Would Anyone Trust Ex-CIA Agents in Elected Office?",
-      "summary": "CIAの元工作員が選挙で選ばれた公職に就くことへの懸念について論じた記事で、CIAは職員に真意を隠すための訓練を施し、歴史的に左派勢力の暴力的な抑圧に従事してきたという主張が述べられている。この背景から、元CIA職員を公職者として信頼することの問題性が指摘されている。",
-      "url": "https://theintercept.com/2026/07/08/cia-abigail-spanberger-elissa-slotkin/",
-      "source": "The Intercept",
-      "published_at": "2026-07-08T10:15:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "40648571",
-      "category": "台湾・中台関係",
-      "title": "How trips to Asia are making some Americans healthy again | CNN Business",
-      "summary": "アジアへの旅行が一部のアメリカ人の健康を回復させている。中国、ベトナム、フィリピンなどの国々は、他国での待機時間と医療費の上昇に伴い、医療観光客を増やして地域経済を活性化させようとしている。アジアの医療施設は低コストで質の高い医療サービスを提供することで、医療費に悩むアメリカ人患者を引き付けている。",
-      "url": "https://www.cnn.com/2026/07/08/business/asia-china-medical-tourism-cheap-healthcare-intl-hnk-dst",
-      "source": "CNN",
-      "published_at": "2026-07-08T10:00:26+00:00",
+      "published_at": "2026-07-08T12:05:00+00:00",
       "lang": "en"
     }
   ]
