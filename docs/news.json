@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T06:48:41.480617+00:00",
+  "updated_at": "2026-07-10T11:43:30.005478+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -45,97 +45,117 @@
   "digest": [],
   "news": [
     {
-      "id": "63053039",
+      "id": "32282532",
       "category": "経済・ビジネス（日本）",
-      "title": "ハメネイ師埋葬 注目の後継者モジタバ師は動静伝えられず",
-      "summary": "イランのアラグチ外相が周辺国との外交活動を活発化させており、ハメネイ師の葬儀終了後、アメリカとの戦闘終結協議の再開が予定されていますが、現在の米イラン間の攻撃応酬により協議再開の見通しが不透明な状態が続いています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260710/k10015167661000.html",
+      "title": "韓国 旧統一教会ハン総裁に懲役13年求刑 総裁側は無罪主張",
+      "summary": "韓国で政治資金法違反などの罪に問われている旧統一教会のハン・ハクチャ総裁の裁判で、特別検察官が懲役13年を求刑し、ハン総裁側は無罪を主張している。",
+      "url": "http://www3.nhk.or.jp/news/html/20260710/k10015173991000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-07-10T06:31:21+00:00",
+      "published_at": "2026-07-10T11:39:34+00:00",
       "lang": "ja"
     },
     {
-      "id": "71057561",
+      "id": "76901869",
+      "category": "経済・ビジネス（日本）",
+      "title": "南シナ海仲裁判断10年 比外相「国際秩序の揺るぎない基盤」",
+      "summary": "フィリピンのラザロ外相は、南シナ海での中国の領有権主張を全面的に否定した国際仲裁判断から10年を迎えるにあたり、この判断を国際秩序の基盤として重視する姿勢を示しました。フィリピンは日本など関係国と連携して、地域の安定維持に向けた取り組みを強化していく方針を表明しています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260710/k10015173791000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-10T11:34:11+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "78253485",
+      "category": "経済・ビジネス（日本）",
+      "title": "イランがトランプ大統領暗殺を計画と米報道 協議の実施が焦点",
+      "summary": "イランの最高指導者ハメネイ師の遺体が埋葬されたと報じられる一方で、米有力紙はイランがトランプ大統領の暗殺を計画していたという情報をイスラエル当局が米国に伝えていたと報道した。ハメネイ師の葬儀後に再開予定だった米イラン協議の実施が焦点となっている。",
+      "url": "http://www3.nhk.or.jp/news/html/20260710/k10015173921000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-10T11:28:26+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "60441189",
+      "category": "経済・ビジネス（日本）",
+      "title": "スペイン南部で大規模な山火事 少なくとも11人の死亡確認",
+      "summary": "スペイン南部で発生した大規模な山火事により、少なくとも11人の死亡が確認されました。地元当局が被害状況の把握を進めており、火災の鎮火に向けた対応が続いているものとみられます。",
+      "url": "http://www3.nhk.or.jp/news/html/20260710/k10015173961000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-10T11:24:28+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "77700923",
+      "category": "経済・ビジネス（日本）",
+      "title": "マカオ 民主派の元議員 国家安全維持法違反の罪で初の起訴",
+      "summary": "マカオの民主派元議員が国家安全維持法違反で起訴されました。マカオではこの法律に基づく初の起訴であり、政府批判を取り締まる動きが強化されていることを示しています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260710/k10015173781000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-10T09:49:12+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "63051535",
+      "category": "経済・ビジネス（日本）",
+      "title": "ベネズエラに350万ドルの緊急無償資金協力 茂木外相",
+      "summary": "茂木外務大臣は、大地震の被害を受けた南米ベネズエラに対して350万ドルの緊急無償資金協力を行うことを発表しました。併せて来週、国際緊急援助隊の医療チームの二次隊を現地に派遣する予定です。",
+      "url": "http://www3.nhk.or.jp/news/html/20260710/k10015173841000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-10T09:18:41+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "55877641",
       "category": "経済・ビジネス（日本）",
       "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月10日の動き）",
       "summary": "ロシアによるウクライナへの軍事侵攻が継続しており、ウクライナ各地でロシア軍とウクライナ軍の戦闘が続いている。多くの市民が国外へ避難する中、7月10日の戦闘状況や関係各国の外交動向について随時更新で報道される。",
       "url": "http://www3.nhk.or.jp/news/html/20260710/k10015140791000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-07-10T05:35:33+00:00",
+      "published_at": "2026-07-10T07:46:49+00:00",
       "lang": "ja"
     },
     {
-      "id": "23941089",
+      "id": "20463658",
       "category": "経済・ビジネス（日本）",
-      "title": "W杯 フランスがモロッコ破り準決勝進出 エムバペは8得点目",
-      "summary": "サッカーワールドカップ北中米大会の準々決勝でフランスがモロッコを2対0で破り、準決勝進出を決めた。エムバペ選手は大会通算8得点目のゴールを挙げ、得点ランキングでトップに並んだ。",
-      "url": "http://www3.nhk.or.jp/news/html/20260710/k10015173311000.html",
+      "title": "米オープンAI 新型AI 一般への提供開始 「ミュトス」超えも",
+      "summary": "オープンAIは最新のAIモデル「GPT5.6」を一般向けに提供開始しました。このモデルは前世代の「ミュトス」を超える性能を持つとされており、ChatGPTの開発元による最新の生成AI技術として注目されています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260710/k10015173691000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-07-10T05:12:15+00:00",
+      "published_at": "2026-07-10T07:09:22+00:00",
       "lang": "ja"
     },
     {
-      "id": "77387202",
-      "category": "経済・ビジネス（日本）",
-      "title": "ベネズエラ大地震 倒壊建物に多数の行方不明者 支援本格化",
-      "summary": "ベネズエラで先月発生した大地震により、倒壊建物に閉じ込められたとみられる多くの行方不明者が残されたままで、救助活動が難航している。日本を含む各国の援助団体が被災者支援を本格的に開始している。",
-      "url": "http://www3.nhk.or.jp/news/html/20260710/k10015173521000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-10T05:11:34+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "19177089",
-      "category": "経済・ビジネス（日本）",
-      "title": "北朝鮮 党中央軍事委員会の拡大会議 核戦力の質・量の強化決定",
-      "summary": "北朝鮮は9日、金正恩総書記が出席した朝鮮労働党中央軍事委員会の拡大会議で、核戦力の質と量を拡大し強化する方針を決定したと発表しました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260710/k10015173571000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-10T04:57:19+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "80179491",
-      "category": "経済・ビジネス（日本）",
-      "title": "フロリダ州の空港「トランプ大統領国際空港」に改称",
-      "summary": "フロリダ州の空港が「トランプ大統領国際空港」に改称されました。アメリカメディアによると、現職の大統領の名前が空港に付けられるのは初めてのことです。",
-      "url": "http://www3.nhk.or.jp/news/html/20260710/k10015173471000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-10T02:27:00+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "42894179",
-      "category": "経済・ビジネス（日本）",
-      "title": "ペルシャ湾内の日本関係船舶 新たに22隻がホルムズ海峡通過",
-      "summary": "金子国土交通大臣は、ペルシャ湾内にとどまっていた日本関係の船舶のうち新たに22隻がホルムズ海峡を通過したことを明らかにしました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260710/k10015173451000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-10T02:22:55+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "66137545",
-      "category": "経済・ビジネス（日本）",
-      "title": "ウクライナ軍事専門家 迎撃ミサイル「生産開始まで約2年」",
-      "summary": "アメリカのトランプ大統領がウクライナへの防空システム「パトリオット」用迎撃ミサイルのライセンス生産を容認したことについて、ウクライナの軍事専門家は実際の生産開始までに約2年の期間が必要になると指摘しています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260710/k10015173281000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-09T23:46:03+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "66567451",
+      "id": "88571403",
       "category": "経済・ビジネス（世界）",
-      "title": "EasyJet agrees in principle to rival £5.7bn takeover bid",
-      "summary": "イージージェットは、米国企業アポロからの買収提案が前回のキャッスルレイク社の提案に優るとして、原則合意した。アポロからの57億ポンドの買収提案がキャッスルレイク社の提案を上回り、同航空会社が新たな買収提案を受け入れることになった。",
-      "url": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&at_campaign=rss",
+      "title": "Vapes to have less enticing names and flavours to protect children",
+      "summary": "英国政府は、子どもたちを引き付ける可能性のある魅力的なフレーバー表記を避けるよう電子タバコ企業を規制する計画について国民協議を実施している。この規制により、子どもたちが電子タバコの実験を始めることを防ぐことを目指している。",
+      "url": "https://www.bbc.co.uk/news/articles/c9v29d7vml7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published_at": "2026-07-10T06:30:49+00:00",
+      "published_at": "2026-07-10T09:54:49+00:00",
       "lang": "en"
     },
     {
-      "id": "26067463",
+      "id": "67852402",
+      "category": "経済・ビジネス（世界）",
+      "title": "EasyJet agrees to surprise takeover bid as rival US firm swoops in",
+      "summary": "イージージェットは、米国企業アポロからの買収提案が前回のキャッスルレイク社の提案に優るとして、原則合意した。アポロからの57億ポンドの買収提案がキャッスルレイク社の提案を上回り、同航空会社が新たな買収提案を受け入れることになった。",
+      "url": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-10T09:38:07+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "56180069",
+      "category": "経済・ビジネス（世界）",
+      "title": "We've saved £6,000 on holidays by swapping homes with strangers",
+      "summary": "ホームスワップと呼ばれる他人の家を交換して使う方式が、休暇費用を削減する手段として人気が高まっており、あるカップルは6000ポンドもの費用削減に成功した。この方法は従来のホテル宿泊と比べてコスト効率が良く、より本格的な旅行体験ができるとして注目されている。BBCはこの新しいトレンドが家族連れや予算を抑えたい旅行者の間で広がっていることを報じている。",
+      "url": "https://www.bbc.co.uk/news/articles/ce8kkerxz74o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-10T08:26:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "42855293",
       "category": "経済・ビジネス（世界）",
       "title": "Chip giant SK Hynix raises $26.5bn in mega US share sale",
       "summary": "韓国の半導体大手SKハイニックスが米国での大型増資で26.5億ドルを調達し、金曜日にナスダックで取引が開始される予定であり、これは外国企業としての過去最大規模の上場デビューとなる。",
@@ -145,17 +165,7 @@
       "lang": "en"
     },
     {
-      "id": "80613853",
-      "category": "経済・ビジネス（世界）",
-      "title": "Vapes to have less enticing names to protect children, under UK plans",
-      "summary": "英国政府は、子どもたちを引き付ける可能性のある魅力的なフレーバー表記を避けるよう電子タバコ企業を規制する計画について国民協議を実施している。この規制により、子どもたちが電子タバコの実験を始めることを防ぐことを目指している。",
-      "url": "https://www.bbc.co.uk/news/articles/c9v29d7vml7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-10T02:15:38+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "99497034",
+      "id": "36436276",
       "category": "経済・ビジネス（世界）",
       "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
       "summary": "インターネット上で「90秒で涼しくなる」という謳い文句の偽造ポータブルエアコンが蔓延している。英国広告基準局（ASA）は、小型デバイスが素早く室内を冷却できるという広告主張は誇大であり、事実ではないと指摘している。これらの製品は実際には期待された冷却効果をもたらさないもので、消費者に対する詐欺的な販売行為となっている。",
@@ -165,7 +175,7 @@
       "lang": "en"
     },
     {
-      "id": "53908056",
+      "id": "47425496",
       "category": "経済・ビジネス（世界）",
       "title": "Pressure builds on Europe's biggest port to be greener",
       "summary": "オランダのロッテルダム港は、化石燃料企業への依存を減らすよう求める訴訟により、より迅速な脱炭素化を迫られている。ヨーロッパ最大級の港湾施設として、環境団体から気候変動対策の加速を要求されており、法的圧力が高まっている。この訴訟は、港の経営方針が環境目標の達成に十分ではないことを指摘している。",
@@ -175,17 +185,7 @@
       "lang": "en"
     },
     {
-      "id": "38775425",
-      "category": "経済・ビジネス（世界）",
-      "title": "Swapping homes with strangers means we now get two holidays a summer",
-      "summary": "ホームスワップと呼ばれる他人の家を交換して使う方式が、休暇費用を削減する手段として人気が高まっており、あるカップルは6000ポンドもの費用削減に成功した。この方法は従来のホテル宿泊と比べてコスト効率が良く、より本格的な旅行体験ができるとして注目されている。BBCはこの新しいトレンドが家族連れや予算を抑えたい旅行者の間で広がっていることを報じている。",
-      "url": "https://www.bbc.co.uk/news/articles/ce8kkerxz74o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-09T23:00:38+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "12525988",
+      "id": "25696100",
       "category": "経済・ビジネス（世界）",
       "title": "Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes",
       "summary": "ホルムズ海峡を通過する船舶が急減している。米国の支援を受ける海域で今週の攻撃後、石油やガスを積載する多くの船舶を含む通行量が著しく落ち込んでいる。この動向は海上輸送の安全性への懸念が高まっていることを示唆している。",
@@ -195,7 +195,7 @@
       "lang": "en"
     },
     {
-      "id": "98978835",
+      "id": "13135082",
       "category": "経済・ビジネス（世界）",
       "title": "Why electric cars cost more to insure - and what's being done about it",
       "summary": "電気自動車の保険料が高いという問題が購入希望者の妨げになっており、業界はこの課題に対処するための様々な対策を講じている。電気自動車は部品の交換費用が高く、修理に特殊な技術が必要なため、保険料が割高になっているが、保険会社と自動車メーカーが協力して修理コストの削減に取り組んでいる。これらの努力により、今後電気自動車の保険料低下が期待されている。",
@@ -205,7 +205,7 @@
       "lang": "en"
     },
     {
-      "id": "10217906",
+      "id": "28648823",
       "category": "テクノロジー・AI",
       "title": "After Apple, India’s smartphone manufacturing boom enters new phase with Vivo JV",
       "summary": "インドでのスマートフォン製造ブームは新たな段階に入り、Appleに続いてVivoが合弁事業を展開することで、中国のスマートフォンメーカーにとって新たなビジネスモデルが示される可能性がある。このVivoの合弁事業は、他の中国メーカーがインド市場で製造拠点を確立する際のテンプレートとなることが期待されている。インドが世界的なスマートフォン製造ハブとしての地位を強化する中で、中国企業の参入パターンが変わろうとしている。",
@@ -215,7 +215,7 @@
       "lang": "en"
     },
     {
-      "id": "85903260",
+      "id": "76318087",
       "category": "テクノロジー・AI",
       "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
       "summary": "OpenAIは新しいモデルファミリーがMicrosoftの職場・生産性アプリスイートを継続的に駆動すると発表し、GPT 5.6を「Microsoft Copilot 365の推奨モデル」と位置付けた。両社の提携は継続されると強調されており、分社化の噂にも関わらず、OpenAIが引き続きMicrosoftの生産性向上ツールの中核を担う予定である。",
@@ -225,7 +225,7 @@
       "lang": "en"
     },
     {
-      "id": "83951342",
+      "id": "80490530",
       "category": "テクノロジー・AI",
       "title": "Don’t want to invest in Elon Musk? Two new ETFs explicitly exclude him",
       "summary": "イーロン・マスク氏が創業、支配、または経営する企業を除外する新しい上場投資信託（ETF）が2つ登場し、テスラやスペースXへの投資を避けたい投資家向けのオプションとなっている。これらのETFは、マスク氏の企業活動に投資したくない個人投資家の需要に応える商品である。",
@@ -235,7 +235,7 @@
       "lang": "en"
     },
     {
-      "id": "40790081",
+      "id": "46953450",
       "category": "テクノロジー・AI",
       "title": "Microsoft’s carbon emissions went up 25 percent last year",
       "summary": "マイクロソフトの2026年サステナビリティ報告書によると、同社の2025年度のカーボン排出量は前年比25パーセント増加し、約3400万メートルトンに達した。この増加は主にビジネス拡大によるものであり、マイクロソフトは独自の気候目標達成に再び課題を抱えていることが明らかになった。",
@@ -245,7 +245,7 @@
       "lang": "en"
     },
     {
-      "id": "65391521",
+      "id": "88951471",
       "category": "テクノロジー・AI",
       "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
       "summary": "OpenAIのナンバー2幹部であるフィジ・シモが、予想以上に長引いた医療休暇後、常勤職を辞任する。同社がIPO上場を検討し、エンタープライズ市場でAnthropicとの競争を加速させている微妙な時期での経営幹部の空白となっている。",
@@ -255,7 +255,7 @@
       "lang": "en"
     },
     {
-      "id": "17175037",
+      "id": "19352473",
       "category": "テクノロジー・AI",
       "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
       "summary": "OpenAIのフィジ・シモがAGI（汎用人工知能）部門の責任者としての専任職を辞任し、パートタイムアドバイザーへの転換を発表しました。シモは4月に神経免疫疾患による医療休暇を数週間取得することを公表していた直後のこの決定となります。",
@@ -265,7 +265,7 @@
       "lang": "en"
     },
     {
-      "id": "45552567",
+      "id": "22895480",
       "category": "テクノロジー・AI",
       "title": "OpenAI launches its new family of models with GPT-5.6",
       "summary": "OpenAIが新型モデルファミリー「GPT-5.6」を発表し、サイバーセキュリティを含む複数の分野における性能向上を実現している。この新しいモデルファミリーは、様々な領域でのAI機能の改善をもたらし、特にセキュリティ対策の強化が期待されている。",
@@ -275,7 +275,7 @@
       "lang": "en"
     },
     {
-      "id": "10333722",
+      "id": "56500155",
       "category": "テクノロジー・AI",
       "title": "An AI agent startup just let its agent run its $100M fundraise",
       "summary": "エンタープライズ向けAIエージェントを開発するスタートアップのLyzrは、自社のAIエージェントを使用して1億ドルの資金調達ラウンドを実施し、その製品が実際に機能することを実証しました。",
@@ -285,73 +285,83 @@
       "lang": "en"
     },
     {
-      "id": "89181861",
+      "id": "30218710",
       "category": "台湾・中台関係",
-      "title": "Washington’s Trade Deficit Hit $77.6B in May Amid Increase of AI Component Imports",
-      "summary": "米国商務省が7月7日に発表した報告書によると、2026年5月の米国の貿易赤字は77億6000万ドルに拡大し、半導体やコンピュータアクセサリー、AI関連部品などの輸入が急増したことが主な要因となった。輸出は減少し、AI技術関連の部品需要の高まりが貿易収支の悪化を招いている。",
-      "url": "https://www.naturalnews.com/2026-07-09-washington-trade-deficit-amid-increase-of-imports.html",
-      "source": "Naturalnews.com",
-      "published_at": "2026-07-09T06:00:00+00:00",
+      "title": "Taiwan braces for powerful typhoon after floods in China kill dozens",
+      "summary": "中国南部で熱帯低気圧マイサクによる洪水で39人が死亡し、台湾と中国東部沿岸地域が数日以内に上陸予定の大型台風に備えている。当局が木曜日に発表した。",
+      "url": "https://www.cbc.ca/news/world/china-floods-taiwan-typhoon-9.7263848",
+      "source": "CBC News",
+      "published_at": "2026-07-09T11:19:17+00:00",
       "lang": "en"
     },
     {
-      "id": "39330811",
+      "id": "83038699",
       "category": "台湾・中台関係",
-      "title": "Global markets on edge as oil rally revives inflation and rate concerns.",
-      "summary": "原油価格の上昇がインフレーションと市場変動性に関する懸念を再燃させており、投資家たちはトランプ大統領のコメント後に金利見通しを再評価している。地政学的な動向が既に不安定だった株式市場の不確実性をさらに増加させており、世界市場は緊張した状態が続いている。",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-on-edge-as-oil-rally-revives-inflation-and-rate-concerns-/articleshow/132278203.cms",
+      "title": "Persian Gulf tanker backlog clears, but fresh Iran attacks cloud shipping outlook",
+      "summary": "ペルシャ湾のタンカー滞留がほぼ解消され、イランと米国の停戦合意により流通が改善されたが、商船への最近の攻撃により安全懸念が再燃し、船舶所有者は航行リスクに対する不安が再び高まっている状況である。",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/persian-gulf-tanker-backlog-clears-but-fresh-iran-attacks-cloud-shipping-outlook/articleshow/132284997.cms",
       "source": "The Times of India",
-      "published_at": "2026-07-09T05:41:35+00:00",
+      "published_at": "2026-07-09T11:15:42+00:00",
       "lang": "en"
     },
     {
-      "id": "70636564",
+      "id": "37330781",
       "category": "台湾・中台関係",
-      "title": "Typhoon Bavi churns towards Taiwan as China braces for landfall",
-      "summary": "台風バビが台湾の南東の太平洋で発生し、当局が住民に備蓄を呼びかける中、中国が上陸に備えている。台風は夜間に最大風速時速200キロメートル近くに減速し、台湾と中国沿岸部に向かって進行している。各地域の防災当局は台風の直撃に対する警戒態勢を強化している。",
-      "url": "https://biztoc.com/x/73f86e6ea6d01b08",
-      "source": "Biztoc.com",
-      "published_at": "2026-07-09T04:38:30+00:00",
+      "title": "Taiwan’s tainted oil recall widens to more than 400 products as political row grows",
+      "summary": "台湾の食用油汚染問題が拡大し、400種類以上の製品がリコール対象となっている。台中市の中部聯合油脂が供給した大豆油から発がん性物質であるベンゾピレンが基準値を超えて検出されたことが発端となっており、この問題をめぐって政治的な対立も深刻化している。",
+      "url": "https://www.channelnewsasia.com/east-asia/taiwan-tainted-soybean-oil-recall-political-row-6243756",
+      "source": "CNA",
+      "published_at": "2026-07-09T11:08:01+00:00",
       "lang": "en"
     },
     {
-      "id": "74468435",
+      "id": "32869534",
       "category": "台湾・中台関係",
-      "title": "[Latest] Global Green Hydrogen Market Size/Share Worth USD 188.9 Billion by 2035 at a 31.2% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
-      "summary": "グローバルグリーン水素市場は2025年に約125億米ドルと評価され、2035年までに1889億米ドルに達すると予想されており、年平均成長率は31.2%である。この調査は220ページ以上の詳細な分析、市場展望、主要企業、トレンド、セグメンテーション、および成長予測を含んでいる。グリーン水素産業は今後の持続可能なエネルギー転換の重要な推進力として急速に成長している。",
-      "url": "https://www.globenewswire.com/news-release/2026/07/09/3324539/0/en/Latest-Global-Green-Hydrogen-Market-Size-Share-Worth-USD-188-9-Billion-by-2035-at-a-31-2-CAGR-Custom-Market-Insights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segmentation-Gr.html",
-      "source": "GlobeNewswire",
-      "published_at": "2026-07-09T04:30:00+00:00",
+      "title": "Sensex today | Stock Market Live: Sensex ends 238 points higher; Nifty closes above 23,950",
+      "summary": "インドの株式市場は小幅高で終了し、センセックス指数は0.31パーセント上昇して238ポイント高となり、ニフティ指数は0.34パーセント上昇して23,950を上回った。買い注文が売り注文を2倍以上上回り、市場全体での幅広い買い需要が示された。",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-9th-july-2026/article71198232.ece",
+      "source": "BusinessLine",
+      "published_at": "2026-07-09T11:07:27+00:00",
       "lang": "en"
     },
     {
-      "id": "76071430",
+      "id": "35281309",
       "category": "台湾・中台関係",
-      "title": "TCCNY Marks 35th Anniversary with Cultural Reception in New York",
-      "summary": "台北文化センター・ニューヨーク（TCCNY）は7月7日、創立35周年を記念して文化レセプションを開催し、台湾POPプログラムを通じてニューヨークの芸術コミュニティが集結して台湾文化を祝った。このイベントは台湾初の海外文化拠点として、ニューヨーク市における台湾文化の発信と交流の重要な機会となった。",
-      "url": "https://www.prnewswire.com/news-releases/tccny-marks-35th-anniversary-with-cultural-reception-in-new-york-302821524.html",
-      "source": "PRNewswire",
-      "published_at": "2026-07-09T04:09:00+00:00",
+      "title": "Links 7/9/2026",
+      "summary": "プラットナーが選挙キャンペーンを一時停止し、NATOは方針を強化、地球のエネルギー不均衡が問題となり、メタが都市の水を汚染させ、医療へのアクセスがさらに制限されるという複数の重要なニュースが報じられた。",
+      "url": "https://www.nakedcapitalism.com/2026/07/links-7-9-2026.html",
+      "source": "Nakedcapitalism.com",
+      "published_at": "2026-07-09T10:58:57+00:00",
       "lang": "en"
     },
     {
-      "id": "82888641",
+      "id": "29591043",
       "category": "台湾・中台関係",
-      "title": "Super Typhoon Bavi",
-      "summary": "2026年の3番目のカテゴリー5熱帯低気圧であるスーパー台風バービは、米国領北マリアナ諸島とグアムを横断した後、アジア方面へ進み続けている。この強大な台風は、その進路上の地域に深刻な脅威をもたらしている。",
-      "url": "https://science.nasa.gov/earth/earth-observatory/super-typhoon-bavi/",
-      "source": "NASA",
-      "published_at": "2026-07-09T04:01:00+00:00",
+      "title": "China, Taiwan brace for Typhoon Bavi, possibly the most powerful storm in years - Reuters",
+      "summary": "中国と台湾は数年ぶりとなる可能性がある非常に強力なタイフーン・バビに対する備えを進めている。グアムと米国北マリアナ諸島を襲った同台風は現在、台湾と中国に向かっており、香港では数十便のフライトがキャンセルされるなど、嵐が近づくにつれて影響が広がっている。",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184378156",
+      "source": "Slashdot.org",
+      "published_at": "2026-07-09T10:52:53+00:00",
       "lang": "en"
     },
     {
-      "id": "71421723",
+      "id": "86926035",
       "category": "台湾・中台関係",
-      "title": "Qualitative Risk Assessment of Infectious Agents Associated with Canine Importation into Canada, 2023–2024",
-      "summary": "カナダへの犬の輸入に伴う感染症リスク評価が2023年から2024年にかけて実施され、輸入犬に関連する病原体の定性的なリスク分析が行われた。この研究では、犬の輸入がカナダの動物衛生に与える潜在的な脅威を評価し、特に感染症の伝播リスクを特定することを目的としていた。調査結果から、輸入犬による感染症リスク管理の強化が重要であることが明らかになった。",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/8/25-1602_article",
-      "source": "Cdc.gov",
-      "published_at": "2026-07-09T04:00:00+00:00",
+      "title": "Taiwan pushes back at China patrols with Coast Guard trip for foreign lawmakers",
+      "summary": "台湾政府は南シナ海の領有権問題をめぐる中国の主張に対抗するため、外国の議員グループを沿岸警備隊の船に乗せて台湾海峡でのパトロール活動に同行させた。この措置は、台湾の海域主権をアピールし、中国の軍事的威圧に対する抵抗姿勢を示すものである。台湾は国際社会に対して自らの領土保全と海上権益の重要性を強調することで、地域の安定と国際秩序の維持を訴えている。",
+      "url": "https://www.yahoo.com/news/world/articles/taiwan-pushes-back-china-patrols-073109600.html",
+      "source": "Yahoo Entertainment",
+      "published_at": "2026-07-09T10:49:49+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "75659022",
+      "category": "台湾・中台関係",
+      "title": "Abrar Qazi on Sanjay's emotional dilemma in Tu Hi Re Dil Mein, says “People are quick to blame the man”",
+      "summary": "テレビドラマシリーズ「Tu Hi Re Dil Mein」で、俳優アブラール・カジはサンジェイが経験する感情的なジレンマについてコメントし、男性が簡単に非難される傾向があると指摘している。物語ではサンジェイがスワティと結婚する予定だったが、結局ブリンダと結婚することになり、予期しない決定の重みと葛藤することになる。カジはこのキャラクターの複雑な感情状況に対して、社会が男性側のみを責める傾向は不公平だと述べている。",
+      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/abrar-qazi-on-sanjays-emotional-dilemma-in-tu-hi-re-dil-mein-says-people-are-quick-to-blame-the-man/articleshow/132283863.cms",
+      "source": "The Times of India",
+      "published_at": "2026-07-09T10:48:30+00:00",
       "lang": "en"
     }
   ]
