@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T10:09:54.250214+00:00",
+  "updated_at": "2026-07-11T14:21:46.891164+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -45,17 +45,17 @@
   "digest": [],
   "news": [
     {
-      "id": "85270064",
+      "id": "53344496",
       "category": "経済・ビジネス（日本）",
       "title": "イラン外相 ホルムズ海峡めぐりオマーン訪問 米との協議再開は",
       "summary": "イランのアラグチ外相がホルムズ海峡の対岸のオマーンを訪問し外相と会談することをイランメディアが報じた。米メディアはアメリカとイランの協議が来週に行われる見通しを伝えており、ホルムズ海峡をめぐる対立の中で両国が再び歩み寄れるかが注目される。",
       "url": "http://www3.nhk.or.jp/news/html/20260711/k10015174571000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-07-11T09:55:25+00:00",
+      "published_at": "2026-07-11T13:33:40+00:00",
       "lang": "ja"
     },
     {
-      "id": "42284870",
+      "id": "28538157",
       "category": "経済・ビジネス（日本）",
       "title": "ベネズエラ大地震 死者4000人超に 日本の緊急援助隊が活動",
       "summary": "南米ベネズエラで先月発生した大地震の死者が4000人を超え、依然として行方不明者の捜索が続いています。特に被害が深刻なラ・グアイラ州では、日本の国際緊急援助隊が拠点を設けて医療支援を実施しています。",
@@ -65,7 +65,7 @@
       "lang": "ja"
     },
     {
-      "id": "60607571",
+      "id": "26534007",
       "category": "経済・ビジネス（日本）",
       "title": "大リーグ ドジャース 7月23日にホワイトハウスを表敬訪問へ",
       "summary": "ワールドシリーズを2年連続で制したドジャースが、7月23日にホワイトハウスを表敬訪問することが決定した。",
@@ -75,7 +75,7 @@
       "lang": "ja"
     },
     {
-      "id": "87288329",
+      "id": "80977983",
       "category": "経済・ビジネス（日本）",
       "title": "米ICE職員発砲でメキシコ国籍男性死亡 当局と目撃者で食い違い",
       "summary": "テキサス州で米移民当局の職員がメキシコ国籍の男性に発砲して死亡させた事件について、当局は正当防衛による発砲と説明している一方で、目撃者の証言と矛盾する内容が明らかになり、議論が広がっている。",
@@ -85,7 +85,7 @@
       "lang": "ja"
     },
     {
-      "id": "15355548",
+      "id": "89703469",
       "category": "経済・ビジネス（日本）",
       "title": "北朝鮮 キム総書記 軍幹部の汚職事件受け綱紀粛正の徹底を指示",
       "summary": "北朝鮮のキム・ジョンウン総書記は、党・政府・軍の高官を集めた合同会議で軍幹部による汚職事件が報告されたことを受け、綱紀粛正の徹底を指示した。北朝鮮メディアがこれを報道した。",
@@ -95,7 +95,7 @@
       "lang": "ja"
     },
     {
-      "id": "41770790",
+      "id": "65192610",
       "category": "経済・ビジネス（日本）",
       "title": "アップルがオープンAIを提訴 “企業秘密盗まれた”",
       "summary": "アップルがオープンAIを提訴し、自社の企業秘密が盗まれ、それを用いて独自の端末開発が進められていると主張しています。",
@@ -105,7 +105,7 @@
       "lang": "ja"
     },
     {
-      "id": "30996050",
+      "id": "48779081",
       "category": "経済・ビジネス（日本）",
       "title": "軍事侵攻に批判的なロシア元下院議員を“外国のスパイ”指定",
       "summary": "ロシア法務省は、ウクライナへの軍事侵攻を批判した元下院議員を「外国の代理人」に指定した。この措置はプーチン政権への批判者や反政府勢力への締めつけが強化されていることを示しており、表現の自由が著しく制限されている状況が浮き彫りになっている。",
@@ -115,7 +115,7 @@
       "lang": "ja"
     },
     {
-      "id": "27496688",
+      "id": "37623691",
       "category": "経済・ビジネス（日本）",
       "title": "英チャールズ国王 ハリー王子夫妻の子どもたちと約4年ぶり面会",
       "summary": "英チャールズ国王がハリー王子夫妻の子どもたちと約4年ぶりに面会した。王室批判を続けていたハリー王子との関係改善に向けた重要な進展として報じられている。",
@@ -125,7 +125,7 @@
       "lang": "ja"
     },
     {
-      "id": "47001800",
+      "id": "85040702",
       "category": "経済・ビジネス（世界）",
       "title": "Will Trump Accounts deliver for American children?",
       "summary": "トランプ政権が推進する子ども向け貯蓄口座「トランプ・アカウンツ」は、次世代にアメリカンドリームへの参画機会を与えるものとしてホワイトハウスから賞賛される一方で、この制度に対する批判も存在する。プログラムの実現可能性と実効性に関して、専門家や政策立案者の間でも議論が続いている。",
@@ -135,7 +135,7 @@
       "lang": "en"
     },
     {
-      "id": "73118242",
+      "id": "22800356",
       "category": "経済・ビジネス（世界）",
       "title": "Chip giant SK Hynix raises $26.5bn as shares surge in bumper US listing",
       "summary": "韓国の半導体大手SKハイニックスが米国での大型増資で26.5億ドルを調達し、金曜日にナスダックで取引が開始される予定であり、これは外国企業としての過去最大規模の上場デビューとなる。",
@@ -145,7 +145,7 @@
       "lang": "en"
     },
     {
-      "id": "84870137",
+      "id": "73322768",
       "category": "経済・ビジネス（世界）",
       "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
       "summary": "ライアンエア傘下のマルタ・エアの便で、乗客が窓から吸い出されかけるという事故が発生し、乗客は医療処置を受けたとライアンエアが確認した。飛行中に発生した窓のトラブルにより、乗客が危険にさらされたが、乗務員の対応により事態は収束した。この事故の詳細については調査が進められている。",
@@ -155,7 +155,7 @@
       "lang": "en"
     },
     {
-      "id": "91540492",
+      "id": "90479280",
       "category": "経済・ビジネス（世界）",
       "title": "Major car firms found not to have installed emissions-cheating devices",
       "summary": "主要な自動車メーカーが排出ガス試験に不正に対応するデバイスを装備していないことが、高等裁判所の判事により判断されました。この判決は、複数の大手自動車製造業者が排出ガスをごまかすための装置を搭載していなかったことを示唆しており、業界における排出規制の遵守状況に関する重要な判断となっています。",
@@ -165,7 +165,7 @@
       "lang": "en"
     },
     {
-      "id": "31937668",
+      "id": "11459086",
       "category": "経済・ビジネス（世界）",
       "title": "EasyJet agrees to surprise takeover bid as rival US firm swoops in",
       "summary": "イージージェットは、米国企業アポロからの買収提案が前回のキャッスルレイク社の提案に優るとして、原則合意した。アポロからの57億ポンドの買収提案がキャッスルレイク社の提案を上回り、同航空会社が新たな買収提案を受け入れることになった。",
@@ -175,7 +175,7 @@
       "lang": "en"
     },
     {
-      "id": "34042899",
+      "id": "53455135",
       "category": "経済・ビジネス（世界）",
       "title": "Vapes to have less enticing names and flavours to protect children",
       "summary": "英国政府は、子どもたちを引き付ける可能性のある魅力的なフレーバー表記を避けるよう電子タバコ企業を規制する計画について国民協議を実施している。この規制により、子どもたちが電子タバコの実験を始めることを防ぐことを目指している。",
@@ -185,7 +185,7 @@
       "lang": "en"
     },
     {
-      "id": "50447160",
+      "id": "27653511",
       "category": "経済・ビジネス（世界）",
       "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
       "summary": "インターネット上で「90秒で涼しくなる」という謳い文句の偽造ポータブルエアコンが蔓延している。英国広告基準局（ASA）は、小型デバイスが素早く室内を冷却できるという広告主張は誇大であり、事実ではないと指摘している。これらの製品は実際には期待された冷却効果をもたらさないもので、消費者に対する詐欺的な販売行為となっている。",
@@ -195,7 +195,7 @@
       "lang": "en"
     },
     {
-      "id": "53484262",
+      "id": "69674039",
       "category": "経済・ビジネス（世界）",
       "title": "Pressure builds on Europe's biggest port to be greener",
       "summary": "オランダのロッテルダム港は、化石燃料企業への依存を減らすよう求める訴訟により、より迅速な脱炭素化を迫られている。ヨーロッパ最大級の港湾施設として、環境団体から気候変動対策の加速を要求されており、法的圧力が高まっている。この訴訟は、港の経営方針が環境目標の達成に十分ではないことを指摘している。",
@@ -205,7 +205,17 @@
       "lang": "en"
     },
     {
-      "id": "55445934",
+      "id": "23593399",
+      "category": "テクノロジー・AI",
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "summary": "OpenAIは家族向けの体験開発に専任のプロダクトマネージャーを配置することで、ChatGPTの家庭内への浸透を深める戦略を進めている。求人情報によると、このポジションは介護者や高齢者を含む家族向けの体験構築に特化するもので、ChatGPTが日常生活の中でより広い層に利用されることを目指している。",
+      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-11T14:13:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "37863346",
       "category": "テクノロジー・AI",
       "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
       "summary": "米国のサイバーセキュリティ機関CISAが大量の露出したパスワードを含むGitHubリポジトリの漏洩インシデント対応中に、事態への対応手順を構築せざるを得なかったことが明らかになった。セキュリティジャーナリストのブライアン・クレブス氏が5月に報告したところによると、サイバーセキュリティ企業GitGuardianのセキュリティ研究者がCISA請負業者の従業員によってアップロードされた大量のパスワードが公開されているリポジトリについて彼に警告したという。",
@@ -215,7 +225,7 @@
       "lang": "en"
     },
     {
-      "id": "83525267",
+      "id": "22365114",
       "category": "テクノロジー・AI",
       "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
       "summary": "ビル・ゲイツの娘フィービーと友人ソフィア・キアニが創設したショッピングスタートアップPhiaが、実際には生成していない売上に対して手数料とクレジットを受け取るのに役立った「クッキースタッフィング」と呼ばれる慣行で非難されている。この不正行為はBloombergの調査により明らかにされた。",
@@ -225,7 +235,7 @@
       "lang": "en"
     },
     {
-      "id": "75319680",
+      "id": "23147809",
       "category": "テクノロジー・AI",
       "title": "Meta removes controversial AI feature on Instagram after backlash",
       "summary": "Metaは、Instagramのユーザーから反発を受けた物議を醸すAI機能を削除した。同社はブログ投稿で、ユーザーの公開コンテンツをAIの学習に使用するかどうかを制御できるクリエイティブツールを提供する意図があったが、フィードバックに基づいて機能がニーズを満たしていないと判断し、提供を終了したと述べた。",
@@ -235,7 +245,7 @@
       "lang": "en"
     },
     {
-      "id": "95283280",
+      "id": "12501700",
       "category": "テクノロジー・AI",
       "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
       "summary": "Metaは、公開されたInstagramアカウントをタグ付けするだけでAI画像を生成できる機能を、大きな批判を受けて無効化しました。この機能は当初、アカウント所有者の許可なく公開アカウントのコンテンツがAI生成に使用される可能性があったため、プライバシーと倫理面での懸念が生じていました。",
@@ -245,7 +255,7 @@
       "lang": "en"
     },
     {
-      "id": "43718465",
+      "id": "81887659",
       "category": "テクノロジー・AI",
       "title": "Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’",
       "summary": "ブルースカイの暫定CEOであるトニ・シュナイダーが暫定の肩書きを外し、正式なCEOに就任した。シュナイダーは元オートマティックのCEOで、トゥルー・ベンチャーズのパートナーであり、この非従来型のソーシャルメディアプラットフォームに「全力で取り組む」と述べている。",
@@ -255,7 +265,7 @@
       "lang": "en"
     },
     {
-      "id": "16515784",
+      "id": "12231517",
       "category": "テクノロジー・AI",
       "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
       "summary": "AppleはOpenaiの従業員が同社のハードウェア関連の営業秘密を盗み、AI企業のハードウェア開発計画に利用したとして提訴した。Appleの訴状では、元Apple社員であるOpenAI従業員らによる「Appleの営業秘密盗用の一連のパターン」が明らかになったと主張している。訴訟ではOpenAIに加えてJony IveのハードウェアスタートアップであるIO Productsも被告に含まれている。",
@@ -265,7 +275,7 @@
       "lang": "en"
     },
     {
-      "id": "86706316",
+      "id": "64265474",
       "category": "テクノロジー・AI",
       "title": "Apple sues OpenAI over alleged trade secret theft",
       "summary": "Appleが、シニア経営陣を含むOpenAIの幹部が主導したとされる営業秘密の盗用疑惑でOpenAIを提訴しました。Appleは、OpenAIの長年の元従業員を含む経営陣が、この不正行為に関与していると主張しています。",
@@ -275,93 +285,83 @@
       "lang": "en"
     },
     {
-      "id": "27200447",
-      "category": "テクノロジー・AI",
-      "title": "Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat",
-      "summary": "大学生向けアプリのFizzは、ベンチャーキャピタル企業Maveronのパートナーが資金調達ミーティングで得た機密情報をライバル企業Sidechatと共有したと主張して、訴訟を拡大した。Fizzは、Maveronが両社に投資決定の機会を提供する過程で、自社の機密情報が競合他社に漏洩したと疑っている。この告発は、大学生向けソーシャルアプリ市場における激しい競争と情報管理の課題を浮き彫りにしている。",
-      "url": "https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-10T17:42:36+00:00",
+      "id": "65506793",
+      "category": "台湾・中台関係",
+      "title": "Super typhoon as wide as France heads to East Asia",
+      "summary": "フランスと同じ幅を持つ超大型台風がアジア地域に接近しており、台湾、日本、中国の住民たちが物資の備蓄を急いでいる。超大型台風バビの到来に向けて、東アジア各地で防災対策が強化されている。",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/super-typhoon-as-wide-as-france-heads-to-east-asia",
+      "source": "Al Jazeera English",
+      "published_at": "2026-07-10T14:08:37+00:00",
       "lang": "en"
     },
     {
-      "id": "75560390",
+      "id": "92240892",
       "category": "台湾・中台関係",
-      "title": "Modernizing IBM i Applications",
-      "summary": "IBM iアプリケーションの近代化に関する文書であり、現在作成中で最終化、検証、本番環境での使用が未承認の段階である。本文書に含まれる情報は不正確、不完全、または陳腐化している可能性があり、このバージョンからのガイダンスに依存したり配布したり実装したりしてはならない。",
-      "url": "https://www.redbooks.ibm.com/docs/MD260020/MD260020.html",
-      "source": "Ibm.com",
-      "published_at": "2026-07-10T09:51:01+00:00",
+      "title": "Watch: Typhoon Bavi forecast to bring heavy rains and floods to Taiwan, Japan and China",
+      "summary": "強い台風バビが土曜日に東アジアを横断し、台湾、日本、中国に豪雨と洪水をもたらすと予報されている。この強力なストームはこれらの地域に重大な影響を与える可能性があり、気象機関は警戒を呼びかけている。東アジア各地の住民は暴風雨の接近に備える必要がある。",
+      "url": "https://www.bbc.co.uk/news/videos/c0myengg8nzo",
+      "source": "BBC News",
+      "published_at": "2026-07-10T13:40:19+00:00",
       "lang": "en"
     },
     {
-      "id": "17703995",
+      "id": "20720562",
       "category": "台湾・中台関係",
-      "title": "Philippines rejects Chinese academics' sovereignty claims",
-      "summary": "フィリピンは、フィリピンの最北端の島が北京に属するべきだと主張する中国の学識者グループの声明を拒否した。バタネス諸島は自治地域の台湾から200km未満に位置しており、中国はこれを領土の一部と見なしている。フィリピン政府はこの領有権主張に対して強く反発し、同国の主権を守る姿勢を明確にした。",
-      "url": "https://www.channelnewsasia.com/asia/philippines-china-academics-batanes-disputed-islands-sovereignty-6243461",
-      "source": "CNA",
-      "published_at": "2026-07-10T09:46:00+00:00",
+      "title": "Asian powers consolidate regional alliances beyond US, China",
+      "summary": "アジア諸国が米国と中国の両国に対抗するため、地域的な同盟関係を強化しています。米国からのミサイル納入遅延に直面したオーストラリア、日本、韓国、台湾などの国々が、米中両国を超えた独立的な防衛戦略を模索しており、域内の協力体制を構築しています。これはアジア太平洋地域の戦略的バランスが大きく変わりつつあることを示しています。",
+      "url": "https://biztoc.com/x/a4e7af68c91d1e7e",
+      "source": "Biztoc.com",
+      "published_at": "2026-07-10T12:58:12+00:00",
       "lang": "en"
     },
     {
-      "id": "43244403",
+      "id": "56927770",
       "category": "台湾・中台関係",
-      "title": "Generative AI in Oil & Gas Market to Surge: CAGR of 16.9% Expected by 2030",
-      "summary": "石油・ガス産業における生成AIの市場は2030年までに年平均成長率16.9%で急速に拡大する見通しで、クラウドベースソリューションによるリアルタイム監視、資産パフォーマンス予測モデルの拡大、掘削・探鉱最適化へのAI導入などが主要な成長機会となっている。",
-      "url": "https://www.globenewswire.com/news-release/2026/07/10/3325391/28124/en/Generative-AI-in-Oil-amp-Gas-Market-to-Surge-CAGR-of-16-9-Expected-by-2030.html",
-      "source": "GlobeNewswire",
-      "published_at": "2026-07-10T09:45:00+00:00",
+      "title": "Taiwan, Japan and south-eastern China brace for Typhoon Bavi as landslides kill 15 in Philippines - BBC",
+      "summary": "台湾、日本、中国南東部がタイフーン・バビに備えており、フィリピンではが土砂崩れにより15人が死亡している。台風はグアムと米領北マリアナ諸島を襲った後、台湾と中国を目指して進行中であり、台湾は株式取引を一時停止し、台風の接近に伴い学校を閉鎖している。",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184392588",
+      "source": "Slashdot.org",
+      "published_at": "2026-07-10T12:52:47+00:00",
       "lang": "en"
     },
     {
-      "id": "64485572",
+      "id": "84828017",
       "category": "台湾・中台関係",
-      "title": "Generative AI in Music Market Report Just Released; Examines Segments Like GANs and Transformer-Based Models",
-      "summary": "生成AIの音楽市場に関する新しいレポートが発表され、GAN（敵対的生成ネットワーク）やトランスフォーマーベースモデルなどの技術セグメントが詳しく検証されました。このマーケットはAI支援音楽ツール、AI駆動の音楽制作、パーソナライズされた音楽推奨などの機会を提供し、スマートフォンの普及率やVR/AR統合、メロディーと歌詞のAI革新が市場成長の鍵となります。",
-      "url": "https://www.globenewswire.com/news-release/2026/07/10/3325390/28124/en/Generative-AI-in-Music-Market-Report-Just-Released-Examines-Segments-Like-GANs-and-Transformer-Based-Models.html",
-      "source": "GlobeNewswire",
-      "published_at": "2026-07-10T09:43:00+00:00",
+      "title": "Philippines landslides kill 15 as Typhoon Bavi threatens region",
+      "summary": "フィリピンで土砂崩れにより15人が死亡し、台風バビが地域に脅威をもたらしています。台風バビは台湾と中国に向かって移動する中、地域全体の季節的なモンスーン雨を強めています。",
+      "url": "https://www.aljazeera.com/news/2026/7/10/philippines-landslides-kill-15-as-typhoon-bavi-threatens-region",
+      "source": "Al Jazeera English",
+      "published_at": "2026-07-10T12:49:14+00:00",
       "lang": "en"
     },
     {
-      "id": "25147871",
+      "id": "58766846",
       "category": "台湾・中台関係",
-      "title": "Generative Artificial Intelligence (AI) in Utilities Market Now Available, Profiles Microsoft, IBM, NVIDIA, and 21 Other Key Industry Leaders",
-      "summary": "ユーティリティ業界向けの生成型AI市場では、予測保全やスマートグリッド最適化などの応用により、ユーティリティ管理の強化に関する機会が提供されている。この市場の成長を促進する主な要因には、IoT、クラウドプラットフォーム、再生可能エネルギーソリューションとの統合が含まれており、マイクロソフト、IBM、NVIDIAを含む23社の主要業界リーダーが市場をけん引している。",
-      "url": "https://www.globenewswire.com/news-release/2026/07/10/3325386/28124/en/Generative-Artificial-Intelligence-AI-in-Utilities-Market-Now-Available-Profiles-Microsoft-IBM-NVIDIA-and-21-Other-Key-Industry-Leaders.html",
-      "source": "GlobeNewswire",
-      "published_at": "2026-07-10T09:38:00+00:00",
+      "title": "NHCP refutes scholars' claim that Batanes belongs to China",
+      "summary": "フィリピン国家歴史委員会（NHCP）は、バターネス州は中国に属するという一部の学者の主張を金曜日に反論し非難した。NHCPはこうした歴史的根拠に乏しい主張を拒否し、バターネス州がフィリピンの領土であることを改めて確認した。同委員会はフィリピンの領土主権と歴史的記録を守るため、今後も類似の誤った主張に対して厳格に対応する姿勢を示している。",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260710-pna03.htm",
+      "source": "Globalsecurity.org",
+      "published_at": "2026-07-10T12:00:00+00:00",
       "lang": "en"
     },
     {
-      "id": "55511003",
+      "id": "75551372",
       "category": "台湾・中台関係",
-      "title": "Generative AI in Banking Market Poised for Exponential Growth: From $1.43 Billion in 2025 to $4.09 Billion by 2030",
-      "summary": "生成AI銀行市場は2025年の14億3000万ドルから2030年には40億9000万ドルへと指数関数的成長が見込まれており、不正検知の強化、個人化銀行サービス、AI による業務効率化が主な機会となっている。AI駆動の仮想アシスタント、信用判定の自動化、規制報告などが重点分野として挙げられている。",
-      "url": "https://www.globenewswire.com/news-release/2026/07/10/3325383/28124/en/Generative-AI-in-Banking-Market-Poised-for-Exponential-Growth-From-1-43-Billion-in-2025-to-4-09-Billion-by-2030.html",
-      "source": "GlobeNewswire",
-      "published_at": "2026-07-10T09:37:00+00:00",
+      "title": "Lazaro on Chinese scholars claim over Batanes: We only listen to gov't",
+      "summary": "フィリピンのマリア・テレサ・ラサロ外交官は、バタネス州が台湾経由で中国の一部であるという中国の学者らの主張を否定し、フィリピンは政府の公式立場のみを聞くと述べた。ラサロは金曜日、匿名の学者らの発言は信頼性がないと指摘し、フィリピンの領土主権を守る立場を改めて強調した。",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260710-pna04.htm",
+      "source": "Globalsecurity.org",
+      "published_at": "2026-07-10T12:00:00+00:00",
       "lang": "en"
     },
     {
-      "id": "53475371",
+      "id": "29072118",
       "category": "台湾・中台関係",
-      "title": "Conversation Intelligence Software Global Market Report 2026 Published, Profiles HubSpot, Genesys, Gong.io, Verint Systems, CallMiner, and 17 Other Key Players",
-      "summary": "会話インテリジェンスソフトウェアの世界市場は、クラウドベースの導入拡大、データ主導のコーチング重視、AI技術の進展により成長が見込まれており、リモートワークの増加と顧客維持の需要が市場を牽引している。HubSpot、Genesys、Gong.io、Verint Systems、CallMinerなど19社の主要企業がこの市場で競争を展開している。",
-      "url": "https://www.globenewswire.com/news-release/2026/07/10/3325382/28124/en/Conversation-Intelligence-Software-Global-Market-Report-2026-Published-Profiles-HubSpot-Genesys-Gong-io-Verint-Systems-CallMiner-and-17-Other-Key-Players.html",
-      "source": "GlobeNewswire",
-      "published_at": "2026-07-10T09:36:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "22642579",
-      "category": "台湾・中台関係",
-      "title": "Generative AI in Engineering Report Now Available; Features Leading Companies: Google, IBM, and 22 Others",
-      "summary": "生成AIがエンジニアリング分野で急速に拡大しており、自動化、AI駆動の設計最適化、クラウドベースのプラットフォームを通じて革新的で効率的なソリューションへの需要に対応している。GoogleやIBMを含む24社の大手企業が、生成設計ツールやデジタルツインなどの採用により、この分野での成長を牽引している。",
-      "url": "https://www.globenewswire.com/news-release/2026/07/10/3325381/28124/en/Generative-AI-in-Engineering-Report-Now-Available-Features-Leading-Companies-Google-IBM-and-22-Others.html",
-      "source": "GlobeNewswire",
-      "published_at": "2026-07-10T09:35:00+00:00",
+      "title": "Batanes is PH; sovereignty not up for debate — DFA",
+      "summary": "フィリピン外務省は、中国の学者がバタネス州は台湾を通じて中国に属していると主張したことを受け、フィリピンのバタネス州に対する主権は「確定しており議論の余地がない」と明言した。同省は、フィリピンの領土主権は国際法に基づいて確立されており、いかなる異議申し立てに対しても揺るがないとの立場を強調している。",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260710-pna08.htm",
+      "source": "Globalsecurity.org",
+      "published_at": "2026-07-10T12:00:00+00:00",
       "lang": "en"
     }
   ]
