@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T23:02:56.954772+00:00",
+  "updated_at": "2026-07-11T05:43:02.698577+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -45,7 +45,77 @@
   "digest": [],
   "news": [
     {
-      "id": "47908160",
+      "id": "58218994",
+      "category": "経済・ビジネス（日本）",
+      "title": "北朝鮮 キム総書記 軍幹部の汚職事件受け綱紀粛正の徹底を指示",
+      "summary": "北朝鮮のキム・ジョンウン総書記は、党・政府・軍の高官を集めた合同会議で軍幹部による汚職事件が報告されたことを受け、綱紀粛正の徹底を指示した。北朝鮮メディアがこれを報道した。",
+      "url": "http://www3.nhk.or.jp/news/html/20260711/k10015174451000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-11T04:49:05+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "32831815",
+      "category": "経済・ビジネス（日本）",
+      "title": "ベネズエラ大地震 死者4000人超に 日本の緊急援助隊が活動",
+      "summary": "南米ベネズエラで先月発生した大地震の死者が4000人を超え、依然として行方不明者の捜索が続いています。特に被害が深刻なラ・グアイラ州では、日本の国際緊急援助隊が拠点を設けて医療支援を実施しています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260711/k10015174371000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-11T04:38:28+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "11825684",
+      "category": "経済・ビジネス（日本）",
+      "title": "アップルがオープンAIを提訴 “企業秘密盗まれた”",
+      "summary": "アップルがオープンAIを提訴し、自社の企業秘密が盗まれ、それを用いて独自の端末開発が進められていると主張しています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260711/k10015174381000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-11T03:53:23+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "40075556",
+      "category": "経済・ビジネス（日本）",
+      "title": "軍事侵攻に批判的なロシア元下院議員を“外国のスパイ”指定",
+      "summary": "ロシア法務省は、ウクライナへの軍事侵攻を批判した元下院議員を「外国の代理人」に指定した。この措置はプーチン政権への批判者や反政府勢力への締めつけが強化されていることを示しており、表現の自由が著しく制限されている状況が浮き彫りになっている。",
+      "url": "http://www3.nhk.or.jp/news/html/20260711/k10015174341000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-11T02:27:33+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "79244474",
+      "category": "経済・ビジネス（日本）",
+      "title": "英チャールズ国王 ハリー王子夫妻の子どもたちと約4年ぶり面会",
+      "summary": "英チャールズ国王がハリー王子夫妻の子どもたちと約4年ぶりに面会した。王室批判を続けていたハリー王子との関係改善に向けた重要な進展として報じられている。",
+      "url": "http://www3.nhk.or.jp/news/html/20260711/k10015174291000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-11T00:43:55+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "86691142",
+      "category": "経済・ビジネス（日本）",
+      "title": "【解説】米・イランで攻撃の応酬 ホルムズ海峡 通航どうなる？",
+      "summary": "アメリカとイランの攻撃の応酬により、世界の石油供給の約3割が通るホルムズ海峡の通航が懸念されています。オマーンが海峡の管理をめぐる新たな提案をしたとされており、その提案は国際的な仲介モデルをベースにしています。今後の通航の安定性は、米イラン関係の緩和とオマーンの調停努力にかかっています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260711/k10015174311000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-11T00:37:27+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "28979115",
+      "category": "経済・ビジネス（日本）",
+      "title": "韓国半導体 SKハイニックス ナスダック上場 約4兆3000億円調達",
+      "summary": "韓国の半導体大手SKハイニックスがナスダック市場に上場し、約4兆3000億円を調達しました。同社はAI需要の拡大に対応するため、調達資金を生産施設の建設などに充てる計画です。",
+      "url": "http://www3.nhk.or.jp/news/html/20260711/k10015174281000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-10T23:48:40+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "76794216",
       "category": "経済・ビジネス（日本）",
       "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月11日の動き）",
       "summary": "ロシアによるウクライナへの軍事侵攻が継続しており、ウクライナ各地でロシア軍とウクライナ軍の戦闘が続いている。多数の市民が国外への避難を余儀なくされており、7月11日（日本時間）の戦闘状況と関係各国の外交動向が随時更新されている。",
@@ -55,77 +125,7 @@
       "lang": "ja"
     },
     {
-      "id": "86983186",
-      "category": "経済・ビジネス（日本）",
-      "title": "ロシア“緩衝地帯拡大させる” ウクライナの攻撃強化で",
-      "summary": "ウクライナがロシア領内の石油関連施設への攻撃を強めているのに対し、ロシア大統領府の報道官はウクライナ領内の緩衝地帯を拡大させるため軍の部隊を前進させる考えを示しました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260711/k10015174251000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-10T20:50:10+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "83331625",
-      "category": "経済・ビジネス（日本）",
-      "title": "世界の石油供給量増加も 米イラン応酬で見通し“不透明”IEA",
-      "summary": "国際エネルギー機関（IEA）は、ホルムズ海峡での輸送回復により6月の世界石油供給量が日当たり400万バレル以上増加したと発表した。しかし米国とイラン間の応酬激化により、石油市場の先行きが不透明になっていると警告している。",
-      "url": "http://www3.nhk.or.jp/news/html/20260711/k10015174191000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-10T20:44:01+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "42793962",
-      "category": "経済・ビジネス（日本）",
-      "title": "NATO会議参加の首脳にトルコが拳銃贈呈 各国が対応に苦慮",
-      "summary": "トルコのエルドアン大統領がNATO首脳会議の参加者に拳銃と実弾を記念品として贈呈し、各国が対応に困惑している。武器の贈呈という異例の対応により、各首脳国の取扱いに課題が生じている。",
-      "url": "http://www3.nhk.or.jp/news/html/20260711/k10015174211000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-10T20:40:43+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "31936246",
-      "category": "経済・ビジネス（日本）",
-      "title": "中国 習主席 北朝鮮首相と会談 友好関係強化に意欲",
-      "summary": "中国の習近平国家主席は北京を訪問している北朝鮮のパク・テソン首相と会談し、戦略的協力の強化と両国の主権・安全・発展利益の維持を強調して、伝統的な友好関係を深める意欲を示しました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260711/k10015174201000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-10T20:38:33+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "53503328",
-      "category": "経済・ビジネス（日本）",
-      "title": "アメリカは状況次第で攻撃する考え イランは対抗する姿勢",
-      "summary": "トランプ米大統領はイランとの協議継続に応じる姿勢を示しながらも状況次第で攻撃する可能性を示唆し、イランのガリバフ議長はアメリカからの攻撃に対抗する姿勢を強調している。両国の対立は深刻で協議再開の見通しは不透明な状況が続いている。",
-      "url": "http://www3.nhk.or.jp/news/html/20260711/k10015174231000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-10T20:28:59+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "11558656",
-      "category": "経済・ビジネス（日本）",
-      "title": "日本が支援のインドネシアの港でコンテナターミナルの利用開始",
-      "summary": "日本の円借款で整備されたインドネシアの新しい港コンテナターミナルの利用が開始された。経済成長が続くインドネシアに多く進出している日系企業は、このターミナルにより安定した輸送とコスト削減が実現することを期待している。",
-      "url": "http://www3.nhk.or.jp/news/html/20260711/k10015174151000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-10T16:31:27+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "31873750",
-      "category": "経済・ビジネス（日本）",
-      "title": "スペイン南部 大規模山火事 少なくとも12人死亡 23人行方不明",
-      "summary": "スペイン南部で発生した大規模な山火事により、少なくとも11人の死亡が確認されました。地元当局が被害状況の把握を進めており、火災の鎮火に向けた対応が続いているものとみられます。",
-      "url": "http://www3.nhk.or.jp/news/html/20260710/k10015173961000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-10T15:38:11+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "52414810",
+      "id": "14719121",
       "category": "経済・ビジネス（世界）",
       "title": "Chip giant SK Hynix raises $26.5bn as shares surge in bumper US listing",
       "summary": "韓国の半導体大手SKハイニックスが米国での大型増資で26.5億ドルを調達し、金曜日にナスダックで取引が開始される予定であり、これは外国企業としての過去最大規模の上場デビューとなる。",
@@ -135,7 +135,7 @@
       "lang": "en"
     },
     {
-      "id": "62074548",
+      "id": "55749966",
       "category": "経済・ビジネス（世界）",
       "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
       "summary": "ライアンエア傘下のマルタ・エアの便で、乗客が窓から吸い出されかけるという事故が発生し、乗客は医療処置を受けたとライアンエアが確認した。飛行中に発生した窓のトラブルにより、乗客が危険にさらされたが、乗務員の対応により事態は収束した。この事故の詳細については調査が進められている。",
@@ -145,7 +145,7 @@
       "lang": "en"
     },
     {
-      "id": "74001155",
+      "id": "25699689",
       "category": "経済・ビジネス（世界）",
       "title": "Major car firms found not to have installed emissions-cheating devices",
       "summary": "主要な自動車メーカーが排出ガス試験に不正に対応するデバイスを装備していないことが、高等裁判所の判事により判断されました。この判決は、複数の大手自動車製造業者が排出ガスをごまかすための装置を搭載していなかったことを示唆しており、業界における排出規制の遵守状況に関する重要な判断となっています。",
@@ -155,7 +155,7 @@
       "lang": "en"
     },
     {
-      "id": "50371050",
+      "id": "18580050",
       "category": "経済・ビジネス（世界）",
       "title": "EasyJet agrees to surprise takeover bid as rival US firm swoops in",
       "summary": "イージージェットは、米国企業アポロからの買収提案が前回のキャッスルレイク社の提案に優るとして、原則合意した。アポロからの57億ポンドの買収提案がキャッスルレイク社の提案を上回り、同航空会社が新たな買収提案を受け入れることになった。",
@@ -165,7 +165,7 @@
       "lang": "en"
     },
     {
-      "id": "76131527",
+      "id": "57070454",
       "category": "経済・ビジネス（世界）",
       "title": "Vapes to have less enticing names and flavours to protect children",
       "summary": "英国政府は、子どもたちを引き付ける可能性のある魅力的なフレーバー表記を避けるよう電子タバコ企業を規制する計画について国民協議を実施している。この規制により、子どもたちが電子タバコの実験を始めることを防ぐことを目指している。",
@@ -175,7 +175,7 @@
       "lang": "en"
     },
     {
-      "id": "37540256",
+      "id": "54005707",
       "category": "経済・ビジネス（世界）",
       "title": "We've saved £6,000 on holidays by swapping homes with strangers",
       "summary": "ホームスワップと呼ばれる他人の家を交換して使う方式が、休暇費用を削減する手段として人気が高まっており、あるカップルは6000ポンドもの費用削減に成功した。この方法は従来のホテル宿泊と比べてコスト効率が良く、より本格的な旅行体験ができるとして注目されている。BBCはこの新しいトレンドが家族連れや予算を抑えたい旅行者の間で広がっていることを報じている。",
@@ -185,7 +185,7 @@
       "lang": "en"
     },
     {
-      "id": "44819491",
+      "id": "55964022",
       "category": "経済・ビジネス（世界）",
       "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
       "summary": "インターネット上で「90秒で涼しくなる」という謳い文句の偽造ポータブルエアコンが蔓延している。英国広告基準局（ASA）は、小型デバイスが素早く室内を冷却できるという広告主張は誇大であり、事実ではないと指摘している。これらの製品は実際には期待された冷却効果をもたらさないもので、消費者に対する詐欺的な販売行為となっている。",
@@ -195,7 +195,7 @@
       "lang": "en"
     },
     {
-      "id": "70577744",
+      "id": "15695126",
       "category": "経済・ビジネス（世界）",
       "title": "Pressure builds on Europe's biggest port to be greener",
       "summary": "オランダのロッテルダム港は、化石燃料企業への依存を減らすよう求める訴訟により、より迅速な脱炭素化を迫られている。ヨーロッパ最大級の港湾施設として、環境団体から気候変動対策の加速を要求されており、法的圧力が高まっている。この訴訟は、港の経営方針が環境目標の達成に十分ではないことを指摘している。",
@@ -205,7 +205,47 @@
       "lang": "en"
     },
     {
-      "id": "32351147",
+      "id": "14087014",
+      "category": "テクノロジー・AI",
+      "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
+      "summary": "米国のサイバーセキュリティ機関CISAが大量の露出したパスワードを含むGitHubリポジトリの漏洩インシデント対応中に、事態への対応手順を構築せざるを得なかったことが明らかになった。セキュリティジャーナリストのブライアン・クレブス氏が5月に報告したところによると、サイバーセキュリティ企業GitGuardianのセキュリティ研究者がCISA請負業者の従業員によってアップロードされた大量のパスワードが公開されているリポジトリについて彼に警告したという。",
+      "url": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-11T01:01:28+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "73748386",
+      "category": "テクノロジー・AI",
+      "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
+      "summary": "ビル・ゲイツの娘フィービーと友人ソフィア・キアニが創設したショッピングスタートアップPhiaが、実際には生成していない売上に対して手数料とクレジットを受け取るのに役立った「クッキースタッフィング」と呼ばれる慣行で非難されている。この不正行為はBloombergの調査により明らかにされた。",
+      "url": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-11T00:29:25+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "57944246",
+      "category": "テクノロジー・AI",
+      "title": "Meta removes controversial AI feature on Instagram after backlash",
+      "summary": "Metaは、Instagramのユーザーから反発を受けた物議を醸すAI機能を削除した。同社はブログ投稿で、ユーザーの公開コンテンツをAIの学習に使用するかどうかを制御できるクリエイティブツールを提供する意図があったが、フィードバックに基づいて機能がニーズを満たしていないと判断し、提供を終了したと述べた。",
+      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-10T23:55:07+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "38178932",
+      "category": "テクノロジー・AI",
+      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+      "summary": "Metaは、公開されたInstagramアカウントをタグ付けするだけでAI画像を生成できる機能を、大きな批判を受けて無効化しました。この機能は当初、アカウント所有者の許可なく公開アカウントのコンテンツがAI生成に使用される可能性があったため、プライバシーと倫理面での懸念が生じていました。",
+      "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+      "source": "AI | The Verge",
+      "published_at": "2026-07-10T23:49:50+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "16168585",
       "category": "テクノロジー・AI",
       "title": "Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’",
       "summary": "ブルースカイの暫定CEOであるトニ・シュナイダーが暫定の肩書きを外し、正式なCEOに就任した。シュナイダーは元オートマティックのCEOで、トゥルー・ベンチャーズのパートナーであり、この非従来型のソーシャルメディアプラットフォームに「全力で取り組む」と述べている。",
@@ -215,7 +255,7 @@
       "lang": "en"
     },
     {
-      "id": "69256718",
+      "id": "83212713",
       "category": "テクノロジー・AI",
       "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
       "summary": "AppleはOpenaiの従業員が同社のハードウェア関連の営業秘密を盗み、AI企業のハードウェア開発計画に利用したとして提訴した。Appleの訴状では、元Apple社員であるOpenAI従業員らによる「Appleの営業秘密盗用の一連のパターン」が明らかになったと主張している。訴訟ではOpenAIに加えてJony IveのハードウェアスタートアップであるIO Productsも被告に含まれている。",
@@ -225,7 +265,7 @@
       "lang": "en"
     },
     {
-      "id": "59567928",
+      "id": "44845730",
       "category": "テクノロジー・AI",
       "title": "Apple sues OpenAI over alleged trade secret theft",
       "summary": "Appleが、シニア経営陣を含むOpenAIの幹部が主導したとされる営業秘密の盗用疑惑でOpenAIを提訴しました。Appleは、OpenAIの長年の元従業員を含む経営陣が、この不正行為に関与していると主張しています。",
@@ -235,7 +275,7 @@
       "lang": "en"
     },
     {
-      "id": "38682038",
+      "id": "90102110",
       "category": "テクノロジー・AI",
       "title": "Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat",
       "summary": "大学生向けアプリのFizzは、ベンチャーキャピタル企業Maveronのパートナーが資金調達ミーティングで得た機密情報をライバル企業Sidechatと共有したと主張して、訴訟を拡大した。Fizzは、Maveronが両社に投資決定の機会を提供する過程で、自社の機密情報が競合他社に漏洩したと疑っている。この告発は、大学生向けソーシャルアプリ市場における激しい競争と情報管理の課題を浮き彫りにしている。",
@@ -245,123 +285,73 @@
       "lang": "en"
     },
     {
-      "id": "56712761",
-      "category": "テクノロジー・AI",
-      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-      "summary": "韓国の半導体大手SKハイニックスが米国史上最大規模の外国企業IPOで265億ドルを調達し、米国内での新たな工場建設を要請されている。AI チップ需要の急増が過去最大のウォールストリート案件をもたらした一方で、SKハイニックスとサムスンは米国での製造施設建設を求められている。",
-      "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-10T17:17:12+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "22059242",
-      "category": "テクノロジー・AI",
-      "title": "A new app, HyperTexting, turns the open web into a scrollable social media-like feed",
-      "summary": "HyperTexting という新しいアプリは、ウェブサイト、ブログ、ニュースレター、ポッドキャストをスクロール可能なフィード形式に変換することで、オープンウェブをソーシャルメディアのような使用感に変え、同時にユーザーが自分のウェブサイトに投稿することを容易にすることを目指している。",
-      "url": "https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-10T17:11:51+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "34795508",
-      "category": "テクノロジー・AI",
-      "title": "China is catching up to Elon Musk’s reusable rockets",
-      "summary": "中国の国営宇宙企業が軌道ロケット推進器の回収に初めて成功しました。これはイーロン・マスク氏の再利用可能ロケット技術に追いつこうとする中国の取り組みを示しており、宇宙産業における国際競争が激化していることを反映しています。ロケット再利用技術は宇宙打ち上げコストの削減に重要な役割を果たすため、各国の宇宙開発能力の指標となっています。",
-      "url": "https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-10T16:51:07+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "42486001",
-      "category": "テクノロジー・AI",
-      "title": "Disney+ is considering a free streaming tier, report says",
-      "summary": "ディズニープラスが無料ストリーミング階層の導入を検討していると報じられている。YouTubeやTubiなどの無料サービスがユーザーの視聴時間を奪っているため、ディズニープラスは無料コンテンツを提供することで競争力を高める狙いがある。",
-      "url": "https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-10T16:29:05+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "24889899",
+      "id": "74110094",
       "category": "台湾・中台関係",
-      "title": "'Super Typhoon' Threatens China and Taiwan",
-      "summary": "スーパー台風バビが太平洋上で強まり、台湾と中国南部に接近しており、数フィートの降雨と時速124マイルに達する暴風をもたらす見通しである。この危険な台風は木曜日に太平洋上で急速に強まり、両地域に大きな被害をもたらす可能性がある。当局は住民に警戒を呼びかけており、暴風雨への備えが急がれている。",
-      "url": "https://www.breitbart.com/weather/2026/07/09/super-typhoon-threatens-china-and-taiwan/",
-      "source": "Breitbart News",
-      "published_at": "2026-07-09T22:51:37+00:00",
+      "title": "Extreme Heat Wave Triggers Fish Kill In Potomac River After Water Temperatures Hit Record-Breaking 94 Degrees",
+      "summary": "7月4日に米東海岸で発生した熱波により、ポトマック川の水温が記録的な94度に達し、大量の魚が死滅した。この極端な熱波によって水温が急上昇し、水中の酸素が減少したことが魚の大量死につながった。",
+      "url": "https://dailycaller.com/2026/07/10/heat-wave-fish-kill-potomac-river-water-temperatures/",
+      "source": "The Daily Caller",
+      "published_at": "2026-07-10T05:29:43+00:00",
       "lang": "en"
     },
     {
-      "id": "91973129",
+      "id": "16403602",
       "category": "台湾・中台関係",
-      "title": "HCC Healthcare Signs Business Combination Agreement with RF Acquisition Corp III to Pursue Nasdaq Listing",
-      "summary": "HCCヘルスケアはRF Acquisition Corp IIIとの事業統合契約に署名し、ナスダック上場を目指している。この取引によりHCCヘルスケアは公開資本市場へのアクセスが可能になり、アジア全域における統合医療および長期介護サービスの成長を加速させることが期待されている。",
-      "url": "https://www.globenewswire.com/news-release/2026/07/09/3325251/0/en/HCC-Healthcare-Signs-Business-Combination-Agreement-with-RF-Acquisition-Corp-III-to-Pursue-Nasdaq-Listing.html",
-      "source": "GlobeNewswire",
-      "published_at": "2026-07-09T21:27:00+00:00",
+      "title": "Philippine Defense Chief Dismisses Chinese Scholars’ Claim Over Northernmost Province",
+      "summary": "フィリピンの防衛責任者は、バタネス諸島が台湾の「自然な地理的延長」であり中国に属するという中国の学者らの主張を却下した。フィリピンは同諸島の領有権を主張しており、この中国側の主張に対して強く異議を唱えている。フィリピン政府は国際法に基づいた領土主権の維持姿勢を示している。",
+      "url": "https://thediplomat.com/2026/07/philippine-defense-chief-dismisses-chinese-scholars-claim-over-northernmost-province/",
+      "source": "The Diplomat",
+      "published_at": "2026-07-10T05:25:00+00:00",
       "lang": "en"
     },
     {
-      "id": "49466375",
+      "id": "11837568",
       "category": "台湾・中台関係",
-      "title": "U.S., Iran Return to the Brink of All-Out War",
-      "summary": "米国とイランが全面戦争の危機に直面しており、双方が攻撃を激化させる中で、今後の和平交渉の見通しは不透明になっている。緊張の高まりにより、両国間の対話と平和的解決の可能性が急速に減少しつつある状況が続いている。",
-      "url": "http://foreignpolicy.com/2026/07/09/us-iran-war-strikes-intensify-cease-fire-over-trump-strait-hormuz/",
-      "source": "Foreign Policy",
-      "published_at": "2026-07-09T21:10:18+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "68888211",
-      "category": "台湾・中台関係",
-      "title": "Global ISO Tank Container Market Size to Reach USD 5.03 Billion by 2035 | Growing at 9.5% CAGR | Trends, Industry Analysis, Market Share & Forecast – Custom Market Insights",
-      "summary": "世界のISOタンクコンテナ市場は2025年の約20億3000万ドルから2035年には50億3000万ドルに成長し、年平均成長率9.5%で拡大する見通しである。Custom Market Insightsの市場調査報告書によると、同市場は今後10年間で大幅な成長が予想されている。この成長トレンドは業界分析、市場シェア、予測データを含む220ページ以上の詳細なレポートで示されている。",
-      "url": "https://www.globenewswire.com/news-release/2026/07/09/3325228/0/en/Global-ISO-Tank-Container-Market-Size-to-Reach-USD-5-03-Billion-by-2035-Growing-at-9-5-CAGR-Trends-Industry-Analysis-Market-Share-Forecast-Custom-Market-Insights.html",
-      "source": "GlobeNewswire",
-      "published_at": "2026-07-09T20:30:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "52759227",
-      "category": "台湾・中台関係",
-      "title": "At Ebbio, the Parisian Art Consultancy IDA Offers Artists the Luxury of Unstructured Time",
-      "summary": "パリの美術コンサルティング会社IDAは、イタリアの拠点エッビオで、アーティストたちに非構造的な時間という贅沢を提供している。フローレンス・マルミエスとカミラ・ダルフォンソが運営するこのイタリアン・レジデンシーは、研究と休息の両方のための空間をアーティストたちに提供し、創作活動に必要な自由度の高い時間を確保させている。",
-      "url": "https://observer.com/2026/07/art-consultancy-ida-artist-residency-italy-ebbio-florence-marmiesse-camilla-dalfonso/",
-      "source": "Observer",
-      "published_at": "2026-07-09T19:08:46+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "87677213",
-      "category": "台湾・中台関係",
-      "title": "EDS, WDS, EBSD Micro-XRF Instruments Market Surges to USD 2.5 Billion by 2033, Propelled by 8.5% CAGR - Verified Market Reports®",
-      "summary": "EDS、WDS、EBSD、マイクロXRF機器市場は、半導体製造、材料特性評価、先進冶金研究分野での需要増加により、2033年までにUSD25億に到達し、年間複合成長率8.5%で拡大している。電子顕微鏡技術の進展と材料分析の需要増加が市場成長を牽引しており、これらの精密分析機器は産業および研究機関での利用が急速に拡大している。",
-      "url": "https://www.prnewswire.com/news-releases/eds-wds-ebsd-micro-xrf-instruments-market-surges-to-usd-2-5-billion-by-2033--propelled-by-8-5-cagr---verified-market-reports-302821859.html",
+      "title": "The 26th CIFIT Promotes September Fair Through Hong Kong and Macao Roadshows",
+      "summary": "第26回中国国際投資貿易見本市（CIFIT）は、香港とマカオでのロードショーを通じて9月の投資見本市を宣伝し、厦門での開催と国際参加の増加を紹介した。このプロモーション活動により、グローバルなビジネス参加者に対して同見本市の成長する国際的な魅力が示された。",
+      "url": "https://www.prnewswire.com/news-releases/the-26th-cifit-promotes-september-fair-through-hong-kong-and-macao-roadshows-302822566.html",
       "source": "PRNewswire",
-      "published_at": "2026-07-09T17:28:00+00:00",
+      "published_at": "2026-07-10T05:01:00+00:00",
       "lang": "en"
     },
     {
-      "id": "70547025",
+      "id": "50555566",
       "category": "台湾・中台関係",
-      "title": "Taiwan slams Beijing for 'glorifying violence' after attack on Japanese commentator",
-      "summary": "台湾は日本人コメンテーター矢板明夫への暴力事件に関連して、中国が暴力を美化していると非難した。中国当局は事件を一般的な治安問題と位置づけているが、台湾当局は中国の新たな民族統一法に関連した越境的弾圧の可能性を疑っている。台湾の首脳部は中国による言論弾圧の懸念を強調している。",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/taiwan-slams-beijing-for-glorifying-violence-after-attack-on-japanese-commentator/articleshow/132294484.cms",
+      "title": "How Taiwan's US$1.4 billion radar detected and tracked China's ballistic missile",
+      "summary": "台湾の14億ドル規模のレーダーシステムが中国の弾道ミサイルを発射直後に検知し、その軌跡を追跡することに成功した。AN/FPS-115 Pave Pawsレーダーは探知範囲内でミサイルの飛行経路を監視し、台湾はこの情報を関係国と共有することで、地域の防衛態勢強化に貢献した。",
+      "url": "https://economictimes.indiatimes.com/news/defence/how-taiwans-us1-4-billion-radar-detected-and-tracked-chinas-ballistic-missile/articleshow/132302983.cms",
       "source": "The Times of India",
-      "published_at": "2026-07-09T17:09:25+00:00",
+      "published_at": "2026-07-10T04:55:25+00:00",
       "lang": "en"
     },
     {
-      "id": "11565662",
+      "id": "66486330",
       "category": "台湾・中台関係",
-      "title": "Taiwan, Japan and China Batten Down for Mega Typhoon Bavi",
-      "summary": "台湾、日本、中国南東部の政府当局と数百万人の住民が、数十年で最大級と言われる巨大な台風バービーの到来に向けて準備を開始している。台風バービーは「巨大」と表現され、幅1,000キロメートルを超える規模に達しており、この地域は大きな被害を受ける可能性に直面している。",
-      "url": "https://biztoc.com/x/4d6a66e434416b2c",
-      "source": "Biztoc.com",
-      "published_at": "2026-07-09T15:44:00+00:00",
+      "title": "Japan's southwestern islands on high alert as powerful Typhoon Bavi approaches - Reuters",
+      "summary": "日本の南西諸島が強い台風バービーの接近に高い警戒を強めている。台風は既にグアムと北マリアナ諸島に大きな被害をもたらした後、台湾と中国に向かっており、台湾では株式取引の停止と学校の休校措置が取られている。",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184388320",
+      "source": "Slashdot.org",
+      "published_at": "2026-07-10T04:52:32+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "42230262",
+      "category": "台湾・中台関係",
+      "title": "Avance Clinical to Showcase Asia and China Growth Strategy at BIO Asia–Taiwan 2026",
+      "summary": "アバンスクリニカルは2026年のBIOアジア台湾で、アジア太平洋地域と中国における成長戦略を紹介する予定である。同社は臨床試験受託機関（CRO）として、アジア地域での事業拡大と中国市場での戦略的な取り組みに注力している。このイベントを通じて、国際的な医療・バイオテク業界との関係構築と事業拡大の機会を模索する。",
+      "url": "https://www.globenewswire.com/news-release/2026/07/10/3325301/0/en/Avance-Clinical-to-Showcase-Asia-and-China-Growth-Strategy-at-BIO-Asia-Taiwan-2026.html",
+      "source": "GlobeNewswire",
+      "published_at": "2026-07-10T04:40:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "65773219",
+      "category": "台湾・中台関係",
+      "title": "The 26th CIFIT Promotes September Fair Through Hong Kong and Macao Roadshows",
+      "summary": "中国国際投資貿易博覧会(CIFIT)の第26回大会は、9月に厦門で開催される投資博覧会を宣伝するため、香港とマカオでロードショーを実施し、国際的な参加の増加をアピールした。このプロモーションイベントを通じて、同博覧会の国際的な認知度向上と参加者の拡大を目指している。",
+      "url": "https://www.prnewswire.com/news-releases/the-26th-cifit-promotes-september-fair-through-hong-kong-and-macao-roadshows-302822539.html",
+      "source": "PRNewswire",
+      "published_at": "2026-07-10T04:04:00+00:00",
       "lang": "en"
     }
   ]
