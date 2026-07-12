@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T22:56:18.666139+00:00",
+  "updated_at": "2026-07-12T06:06:22.011830+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -58,7 +58,27 @@
   ],
   "news": [
     {
-      "id": "61827903",
+      "id": "10092119",
+      "category": "経済・ビジネス（日本）",
+      "title": "イラン“ホルムズ海峡封鎖” 米軍“イランへの攻撃開始”",
+      "summary": "イランの革命防衛隊がホルムズ海峡で警告射撃を行い海峡封鎖を主張する一方、米軍はコンテナ船がイランに攻撃されたとしてイランへの攻撃を開始したと発表し、中東地域の緊張がさらに高まっています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260712/k10015174811000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-12T05:06:45+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "70401825",
+      "category": "経済・ビジネス（日本）",
+      "title": "イラン革命防衛隊「追って通知あるまでホルムズ海峡は封鎖」",
+      "summary": "アメリカはイランに対してホルムズ海峡の開放と船舶攻撃の中止を宣言するよう求めているが、イラン最高指導者モジタバ師は「復讐は必ず実現する」とアメリカを念頭に対決姿勢を強調し、両国間の緊張が高まっている。",
+      "url": "http://www3.nhk.or.jp/news/html/20260712/k10015174741000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-11T23:15:21+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "42842259",
       "category": "経済・ビジネス（日本）",
       "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月12日の動き）",
       "summary": "ロシアによるウクライナへの軍事侵攻が続いており、ウクライナ全土でロシア軍とウクライナ軍の戦闘が激化している中、多くの市民が国外への避難を余儀なくされています。本記事は7月12日の戦闘状況と関係国の外交動向を随時更新でお伝えするものです。",
@@ -68,7 +88,7 @@
       "lang": "ja"
     },
     {
-      "id": "22545426",
+      "id": "52917466",
       "category": "経済・ビジネス（日本）",
       "title": "【詳細】ロシア ウクライナに軍事侵攻（7月11日の動き）",
       "summary": "ロシアによるウクライナへの軍事侵攻が継続しており、各地でロシア軍とウクライナ軍の戦闘が続いている。多くの市民が国外への避難を余儀なくされ、7月11日の戦闘状況や関連国の外交動向などウクライナ情勢の最新情報が報じられている。",
@@ -78,7 +98,7 @@
       "lang": "ja"
     },
     {
-      "id": "75770526",
+      "id": "14279828",
       "category": "経済・ビジネス（日本）",
       "title": "ウクライナ ロシアの攻撃で7人死亡 大統領は支援加速訴え",
       "summary": "ロシア軍が11日にウクライナ各地を弾道ミサイルで攻撃し、7人が死亡しました。ゼレンスキー大統領はNATO首脳会議で合意された各国からの支援が早期に実行されるよう求めています。",
@@ -88,17 +108,7 @@
       "lang": "ja"
     },
     {
-      "id": "74885371",
-      "category": "経済・ビジネス（日本）",
-      "title": "“イランに海峡開放宣言求める”米報道 モジタバ師は対決姿勢",
-      "summary": "アメリカはイランに対してホルムズ海峡の開放と船舶攻撃の中止を宣言するよう求めているが、イラン最高指導者モジタバ師は「復讐は必ず実現する」とアメリカを念頭に対決姿勢を強調し、両国間の緊張が高まっている。",
-      "url": "http://www3.nhk.or.jp/news/html/20260712/k10015174741000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-11T20:34:26+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "40524942",
+      "id": "86617655",
       "category": "経済・ビジネス（日本）",
       "title": "米大統領専用機めぐる報道で記者に召喚状 新聞社は非難",
       "summary": "ニューヨーク・タイムズの記者が、トランプ大統領の新しい専用機がミサイル対応機能を欠いていると報じたことに対し、連邦検事が大陪審での証言を求める召喚状を出しました。同紙はこれを報道の自由を抑圧する異例の試みとして強く非難しています。",
@@ -108,7 +118,7 @@
       "lang": "ja"
     },
     {
-      "id": "14319185",
+      "id": "81207810",
       "category": "経済・ビジネス（日本）",
       "title": "首都モスクワでもガソリン不足で行列 ロシア政府に危機感も",
       "summary": "ウクライナの石油精製施設への攻撃により、ロシアではガソリン不足が深刻化しており、首都モスクワでも給油待ちの行列が発生して市民の不満が高まっています。ロシア政府のエネルギー政策担当副首相は「状況は依然として厳しい」とコメントし、危機感を示しています。",
@@ -118,7 +128,7 @@
       "lang": "ja"
     },
     {
-      "id": "70497118",
+      "id": "69952803",
       "category": "経済・ビジネス（日本）",
       "title": "アマゾン先住民族利用の植物 気候変動で3割減のおそれ",
       "summary": "南米アマゾンの熱帯雨林で気候変動による気温上昇の影響により、先住民族が薬や食料として利用してきた植物の約3割が失われる可能性があることをスイスの研究グループが発表しました。",
@@ -128,17 +138,17 @@
       "lang": "ja"
     },
     {
-      "id": "42048546",
-      "category": "経済・ビジネス（日本）",
-      "title": "ベネズエラ地震 死者4333人に ベネズエラ議会議長明らかに",
-      "summary": "南米ベネズエラで先月発生した大地震により、議会のロドリゲス議長が4333人の死亡が確認されたことを明らかにしました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260712/k10015174721000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-11T18:31:54+00:00",
-      "lang": "ja"
+      "id": "71413327",
+      "category": "経済・ビジネス（世界）",
+      "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
+      "summary": "ドイツの大手スーパーALDIが米国市場で急速な展開を進めており、90億ドルの投資で都市部のマンハッタンなどを標的としています。同社は4ドルのアーモンドバターなど低価格商品を武器に、ウォルマートなどの大手スーパーとの競争に挑みかかっています。ディスカウント販売モデルが米国の既存スーパー業界にどこまで対抗できるかが今後の注目点となります。",
+      "url": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-12T05:00:15+00:00",
+      "lang": "en"
     },
     {
-      "id": "83953198",
+      "id": "77768265",
       "category": "経済・ビジネス（世界）",
       "title": "Will Trump Accounts deliver for American children?",
       "summary": "トランプ政権が推進する子ども向け貯蓄口座「トランプ・アカウンツ」は、次世代にアメリカンドリームへの参画機会を与えるものとしてホワイトハウスから賞賛される一方で、この制度に対する批判も存在する。プログラムの実現可能性と実効性に関して、専門家や政策立案者の間でも議論が続いている。",
@@ -148,17 +158,7 @@
       "lang": "en"
     },
     {
-      "id": "38394753",
-      "category": "経済・ビジネス（世界）",
-      "title": "Chip giant SK Hynix raises $26.5bn as shares surge in bumper US listing",
-      "summary": "韓国の半導体大手SKハイニックスが米国での大型増資で26.5億ドルを調達し、金曜日にナスダックで取引が開始される予定であり、これは外国企業としての過去最大規模の上場デビューとなる。",
-      "url": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-10T16:42:35+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "90991373",
+      "id": "51707536",
       "category": "経済・ビジネス（世界）",
       "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
       "summary": "ライアンエア傘下のマルタ・エアの便で、乗客が窓から吸い出されかけるという事故が発生し、乗客は医療処置を受けたとライアンエアが確認した。飛行中に発生した窓のトラブルにより、乗客が危険にさらされたが、乗務員の対応により事態は収束した。この事故の詳細については調査が進められている。",
@@ -168,7 +168,7 @@
       "lang": "en"
     },
     {
-      "id": "90721846",
+      "id": "49136282",
       "category": "経済・ビジネス（世界）",
       "title": "Major car firms found not to have installed emissions-cheating devices",
       "summary": "主要な自動車メーカーが排出ガス試験に不正に対応するデバイスを装備していないことが、高等裁判所の判事により判断されました。この判決は、複数の大手自動車製造業者が排出ガスをごまかすための装置を搭載していなかったことを示唆しており、業界における排出規制の遵守状況に関する重要な判断となっています。",
@@ -178,7 +178,7 @@
       "lang": "en"
     },
     {
-      "id": "53666779",
+      "id": "19759909",
       "category": "経済・ビジネス（世界）",
       "title": "EasyJet agrees to surprise takeover bid as rival US firm swoops in",
       "summary": "イージージェットは、米国企業アポロからの買収提案が前回のキャッスルレイク社の提案に優るとして、原則合意した。アポロからの57億ポンドの買収提案がキャッスルレイク社の提案を上回り、同航空会社が新たな買収提案を受け入れることになった。",
@@ -188,7 +188,7 @@
       "lang": "en"
     },
     {
-      "id": "27451290",
+      "id": "58519917",
       "category": "経済・ビジネス（世界）",
       "title": "Vapes to have less enticing names and flavours to protect children",
       "summary": "英国政府は、子どもたちを引き付ける可能性のある魅力的なフレーバー表記を避けるよう電子タバコ企業を規制する計画について国民協議を実施している。この規制により、子どもたちが電子タバコの実験を始めることを防ぐことを目指している。",
@@ -198,7 +198,7 @@
       "lang": "en"
     },
     {
-      "id": "58495526",
+      "id": "70468177",
       "category": "経済・ビジネス（世界）",
       "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
       "summary": "インターネット上で「90秒で涼しくなる」という謳い文句の偽造ポータブルエアコンが蔓延している。英国広告基準局（ASA）は、小型デバイスが素早く室内を冷却できるという広告主張は誇大であり、事実ではないと指摘している。これらの製品は実際には期待された冷却効果をもたらさないもので、消費者に対する詐欺的な販売行為となっている。",
@@ -208,7 +208,7 @@
       "lang": "en"
     },
     {
-      "id": "37286075",
+      "id": "22386140",
       "category": "経済・ビジネス（世界）",
       "title": "Pressure builds on Europe's biggest port to be greener",
       "summary": "オランダのロッテルダム港は、化石燃料企業への依存を減らすよう求める訴訟により、より迅速な脱炭素化を迫られている。ヨーロッパ最大級の港湾施設として、環境団体から気候変動対策の加速を要求されており、法的圧力が高まっている。この訴訟は、港の経営方針が環境目標の達成に十分ではないことを指摘している。",
@@ -218,7 +218,17 @@
       "lang": "en"
     },
     {
-      "id": "28893944",
+      "id": "76831974",
+      "category": "テクノロジー・AI",
+      "title": "Reed Jobs would rather talk about curing cancer than his last name",
+      "summary": "Reed Jobsは自身の名前よりもがん治療について語ることを好む起業家であり、彼が率いるバイオテック企業Yosemiteは過去3年間で急速に成長し、チームは17名に拡大、複数の主要医薬品の特許失効により新たなビジネス機会が生まれ、AIは企業戦略の重要な要素となっている。",
+      "url": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-12T00:16:06+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "13946288",
       "category": "テクノロジー・AI",
       "title": "This slushie machine was a lifesaver during NYC’s heat wave",
       "summary": "ニューヨークの熱波の中、著者は新しいNinja Slushi Twistスラッシー機を試した結果、毎日のように凍った飲み物が欲しくなる暑さの中、わざわざコンビニに行く必要がなくなったという体験を述べている。Ninjaの最新スラッシー製造機は、元のモデルの人気に基づいて開発されたものである。",
@@ -228,7 +238,7 @@
       "lang": "en"
     },
     {
-      "id": "62920381",
+      "id": "36972665",
       "category": "テクノロジー・AI",
       "title": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
       "summary": "Even Realitiesが開発するスマートグラスは、カメラ機能を搭載せず、会議やプレゼンテーション、複数言語が話される国への出張が多いビジネスパーソンを対象としており、プライバシーを守りながら生産性向上に注力する戦略を取っている。",
@@ -238,7 +248,7 @@
       "lang": "en"
     },
     {
-      "id": "38374920",
+      "id": "71961115",
       "category": "テクノロジー・AI",
       "title": "OpenAI bets on families as ChatGPT goes deeper into households",
       "summary": "OpenAIは家族向けの体験開発に専任のプロダクトマネージャーを配置することで、ChatGPTの家庭内への浸透を深める戦略を進めている。求人情報によると、このポジションは介護者や高齢者を含む家族向けの体験構築に特化するもので、ChatGPTが日常生活の中でより広い層に利用されることを目指している。",
@@ -248,133 +258,113 @@
       "lang": "en"
     },
     {
-      "id": "53812901",
+      "id": "73988366",
       "category": "テクノロジー・AI",
-      "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
-      "summary": "米国のサイバーセキュリティ機関CISAが大量の露出したパスワードを含むGitHubリポジトリの漏洩インシデント対応中に、事態への対応手順を構築せざるを得なかったことが明らかになった。セキュリティジャーナリストのブライアン・クレブス氏が5月に報告したところによると、サイバーセキュリティ企業GitGuardianのセキュリティ研究者がCISA請負業者の従業員によってアップロードされた大量のパスワードが公開されているリポジトリについて彼に警告したという。",
-      "url": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-11T01:01:28+00:00",
+      "title": "FSB thwarts AI-guided Ukrainian drone plot against Russian airfield",
+      "summary": "ロシアのFSB（連邦保安庁）は、ロストフ・セントラルヌイ軍用飛行場への攻撃を目的としたAI搭載ウクライナドローン13機を没収した。ロシア人が、この作戦のためウクライナ軍情報機関に勧誘された後、当局に通報した。各ドローンには即製爆発装置が搭載されていたと報告されている。",
+      "url": "https://www.naturalnews.com/2026-07-11-fsb-thwarts-ai-guided-ukrainian-drone-plot.html",
+      "source": "Naturalnews.com",
+      "published_at": "2026-07-11T06:00:00+00:00",
       "lang": "en"
     },
     {
-      "id": "52446936",
+      "id": "24138180",
       "category": "テクノロジー・AI",
-      "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
-      "summary": "ビル・ゲイツの娘フィービーと友人ソフィア・キアニが創設したショッピングスタートアップPhiaが、実際には生成していない売上に対して手数料とクレジットを受け取るのに役立った「クッキースタッフィング」と呼ばれる慣行で非難されている。この不正行為はBloombergの調査により明らかにされた。",
-      "url": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-11T00:29:25+00:00",
+      "title": "Leaked Meta Memo Reveals Plans to Double AI Computing Capacity to 14 Gigawatts",
+      "summary": "メタ・プラットフォームズが内部メモで明かしたAIコンピューティング容量を14ギガワットに倍増する計画がロイターによってリークされ、7月9日木曜日の市場開場時に同社の株価は4.3%下落した。この野心的なインフラストラクチャー拡張計画は、生成AI開発における同社の継続的な大規模投資を示している。",
+      "url": "https://www.naturalnews.com/2026-07-11-leaked-meta-memo-plans-double-ai-computing.html",
+      "source": "Naturalnews.com",
+      "published_at": "2026-07-11T06:00:00+00:00",
       "lang": "en"
     },
     {
-      "id": "53255867",
+      "id": "34295369",
       "category": "テクノロジー・AI",
-      "title": "Meta removes controversial AI feature on Instagram after backlash",
-      "summary": "Metaは、Instagramのユーザーから反発を受けた物議を醸すAI機能を削除した。同社はブログ投稿で、ユーザーの公開コンテンツをAIの学習に使用するかどうかを制御できるクリエイティブツールを提供する意図があったが、フィードバックに基づいて機能がニーズを満たしていないと判断し、提供を終了したと述べた。",
-      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-10T23:55:07+00:00",
+      "title": "News Outlets Seek Sanctions Against OpenAI in Copyright Dispute",
+      "summary": "ニューヨーク・タイムズを含む複数のニュース媒体が、著作権紛争でOpenAIが証拠を隠匿したとして、連邦判事に対して制裁を求める申し立てを行った。OpenAIは長年にわたる法的紛争で透明性に欠ける対応をしているとして、新聞社側は司法措置を要求している。この訴訟はAIによる報道内容の無許可使用に関わる重要な問題を提起している。",
+      "url": "https://www.naturalnews.com/2026-07-11-news-outlets-seek-sanctions-openai-copyright-dispute.html",
+      "source": "Naturalnews.com",
+      "published_at": "2026-07-11T06:00:00+00:00",
       "lang": "en"
     },
     {
-      "id": "54008324",
+      "id": "49372910",
       "category": "テクノロジー・AI",
-      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-      "summary": "Metaは、公開されたInstagramアカウントをタグ付けするだけでAI画像を生成できる機能を、大きな批判を受けて無効化しました。この機能は当初、アカウント所有者の許可なく公開アカウントのコンテンツがAI生成に使用される可能性があったため、プライバシーと倫理面での懸念が生じていました。",
-      "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-      "source": "AI | The Verge",
-      "published_at": "2026-07-10T23:49:50+00:00",
+      "title": "Could AI help al-Qaida and other groups plan terror attacks?",
+      "summary": "AI技術がテロ組織による攻撃計画に利用される可能性について、新たな研究が懸念を示している。研究によると、適切な質問をされた場合、AIチャットボットの約3分の1がテロ攻撃の計画を支援する可能性があり、過激派グループの支持者たちがAIにこうした使用法を尋ねることが日常的に起きているという。この調査結果は、AI企業がセキュリティ対策を強化する必要性を浮き彫りにしている。",
+      "url": "https://www.dw.com/en/could-ai-help-al-qaida-and-other-groups-plan-terror-attacks/a-77909676",
+      "source": "DW (English)",
+      "published_at": "2026-07-11T05:48:00+00:00",
       "lang": "en"
     },
     {
-      "id": "34421573",
-      "category": "テクノロジー・AI",
-      "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
-      "summary": "アップルがOpenAIと同社従業員を相手取り、営業秘密窃取の疑いで提訴した。アップルは訴状でOpenAIの新興ハードウェア事業は「根本的に腐敗している」と主張している。同社はOpenAIが不正な手段で技術情報を獲得したと述べており、知的財産権をめぐる重大な紛争に発展している。",
-      "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o",
-      "source": "BBC News",
-      "published_at": "2026-07-10T22:54:16+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "57170543",
+      "id": "28781203",
       "category": "台湾・中台関係",
-      "title": "Will the Military Draft Come Back?",
-      "summary": "米国の兵役徴兵制度が復活する可能性について、現在の状況、徴兵制度の仕組み、最近の出来事がセレクティブサービスに与える影響について解説している記事です。現在米国では徴兵制は停止されていますが、国際情勢の変化に伴い徴兵制度の復活の可能性が議論されており、その詳細な背景や制度の実行方法についての理解が重要となっています。",
-      "url": "https://military.com/join-armed-forces/will-the-military-draft-come-back",
-      "source": "Military.com",
-      "published_at": "2026-07-10T20:29:28+00:00",
+      "title": "Thousands shelter in Taiwan as Typhoon Bavi lashes Japan islands",
+      "summary": "台湾のケーロン港湾都市では街がほぼ人影のない状態になっており、台風バービーが島内で最も大きな被害を受けることが予想されている地域となっている。台湾全域で数千人が避難所に身を寄せており、同時に日本の島々が台風の直撃を受けている。",
+      "url": "https://www.channelnewsasia.com/east-asia/typhoon-bavi-taiwan-thousands-evacuated-6247921",
+      "source": "CNA",
+      "published_at": "2026-07-11T06:03:11+00:00",
       "lang": "en"
     },
     {
-      "id": "50042081",
+      "id": "29812934",
       "category": "台湾・中台関係",
-      "title": "Full-service flights from Germany to Taiwan for €473",
-      "summary": "ドイツのミュンヘンとフランクフルトからスイスの台北への往復航空券が、荷物受託料金を含めて473ユーロからの低価格で利用可能になった。エアチャイナが提供するこのフルサービスフライトは追加日程も利用できる状況となっている。",
-      "url": "https://www.fly4free.com/flight-deals/europe/flights-from-germany-to-taiwan-e473/",
-      "source": "Fly4free.com",
-      "published_at": "2026-07-10T19:08:42+00:00",
+      "title": "[no title]",
+      "summary": "米国と中国およびその他の世界各国が超知能にどのように対応すべきかについての詳細な予測と推奨事項が示されている。本文では、急速に発展する人工知能技術に対応するため、各国が採取すべき戦略的措置と国際的な協力体制の構築の重要性が強調されている。特に米中間の技術競争と世界的なAIガバナンスの課題に対するアプローチが提案されている。",
+      "url": "https://ai-2040.com/?r=tw",
+      "source": "Ai-2040.com",
+      "published_at": "2026-07-11T05:47:01+00:00",
       "lang": "en"
     },
     {
-      "id": "16622502",
+      "id": "38343293",
       "category": "台湾・中台関係",
-      "title": "SIGGRAPH 2026 Experience Hall Invites Attendees to Step Inside the Future of Interaction and Storytelling",
-      "summary": "SIGGRAPH 2026のエクスペリエンスホールが5つのインタラクティブプログラムで帰還し、来場者は次世代のツールと技術を実際に体験できる。このホールは単なる展示フロアではなく、未来のインタラクションとストーリーテリングの最先端を体験する場として設計されている。参加者は手を動かしながら発見できるプログラムを通じて、業界の革新的な技術を深く理解することができる。",
-      "url": "https://www.prnewswire.com/news-releases/siggraph-2026-experience-hall-invites-attendees-to-step-inside-the-future-of-interaction-and-storytelling-302823018.html",
-      "source": "PRNewswire",
-      "published_at": "2026-07-10T18:53:00+00:00",
+      "title": "Martiime Security in the Red Sea",
+      "summary": "紅海における海上安全保障に関する記事で、アデン湾、紅海、インド洋が世界にとって重要な航路であることが述べられている。これらの海域は国際貿易において極めて重要な役割を果たしており、海上安全保障の確保が世界経済の安定に必要不可欠であることが強調されている。",
+      "url": "https://www.americanthinker.com/articles/2026/07/the-law-of-the-sea-and-martiime-security/",
+      "source": "Americanthinker.com",
+      "published_at": "2026-07-11T04:00:00+00:00",
       "lang": "en"
     },
     {
-      "id": "73502460",
+      "id": "10886183",
       "category": "台湾・中台関係",
-      "title": "Intel CEOLip-Bu Tan Warned Helium Could Choke AI Chips in June, and China’s Export Ban Might Prove Him Right",
-      "summary": "インテルのCEOリップ・ブ・タン氏が6月にヘリウムの供給不足がAIチップを脅かす可能性を警告していたが、中国のヘリウム輸出禁止によってその懸念が現実化する可能性がある。中国は世界的なヘリウム供給を制限する措置を講じたが、世界のヘリウム産業における中国のシェアが限定的であるため、半導体製造業への深刻な混乱の可能性は低いと見られている。",
-      "url": "https://wccftech.com/intel-ceolip-bu-tan-warned-helium-could-choke-ai-chips-in-june-and-chinas-export-ban-might-prove-him-right/",
-      "source": "Wccftech",
-      "published_at": "2026-07-10T18:27:44+00:00",
+      "title": "Several flights from Singapore cancelled as Typhoon Bavi takes aim at Taiwan and China",
+      "summary": "台湾と中国を目指す台風バビにより、シンガポールからの複数便が運航中止となっている。台風バビは30年以上ぶりの大型台風として説明され、すでにアジア地域に大きな被害をもたらしている。この台風は台湾と中国に接近しており、周辺地域の航空運輸に深刻な影響を与えている。",
+      "url": "https://www.channelnewsasia.com/singapore/typhoon-bavi-singapore-flights-cancelled-taiwan-china-6247776",
+      "source": "CNA",
+      "published_at": "2026-07-11T02:38:54+00:00",
       "lang": "en"
     },
     {
-      "id": "28899783",
+      "id": "15805603",
       "category": "台湾・中台関係",
-      "title": "Intel CEO Lip-Bu Tan Warned Helium Could Choke AI Chips in June, and China’s Export Ban Might Prove Him Right",
-      "summary": "インテルのLip-Bu Tan最高経営責任者は6月にヘリウム不足がAIチップに悪影響を及ぼす可能性を警告していたが、中国のヘリウム輸出禁止によってその懸念が現実になる可能性がある。中国は全世界へのヘリウム供給を制限する措置を決定したが、グローバルなヘリウム産業における中国のシェアが限定的であるため、半導体製造に深刻な混乱をもたらす可能性は低いと考えられている。",
-      "url": "https://wccftech.com/intel-ceo-lip-bu-tan-warned-helium-could-choke-ai-chips-in-june-and-chinas-export-ban-might-prove-him-right/",
-      "source": "Wccftech",
-      "published_at": "2026-07-10T18:27:44+00:00",
+      "title": "Typhoon Bavi lashes Japan's southern islands, Taiwan evacuates thousands",
+      "summary": "台風バービは日本の南西諸島に猛烈な雨風をもたらし、台湾への接近に伴い当局が洪水と土砂崩れの危険性を警告している。台湾当局は強風の影響を受けやすい地域から数千人を避難させており、週末にかけて同国に接近すると予想されている。日本と台湾の両国で防災体制が強化されている。",
+      "url": "https://biztoc.com/x/a9ec11841c718516",
+      "source": "Biztoc.com",
+      "published_at": "2026-07-11T02:10:50+00:00",
       "lang": "en"
     },
     {
-      "id": "32975683",
+      "id": "32249383",
       "category": "台湾・中台関係",
-      "title": "The Summer’s Most Beautifully Strange New Movie Is from 1998: Tsai Ming-liang’s ‘The Hole,’ in U.S. Theaters for the First Time",
-      "summary": "1998年に台湾の映画監督ツァイ・ミンリャンが製作した「穴」が、初めてアメリカの劇場で上映される。台北の雨に濡れた黙示録的な世界を舞台にした奇妙で暗い恋愛映画で、35ミリフィルムの新プリントがニューヨークのリンカーンセンターで上映される。",
-      "url": "https://www.indiewire.com/features/interviews/tsai-ming-liang-the-hole-summer-weirdest-movie-interview-1235204611/",
-      "source": "IndieWire",
-      "published_at": "2026-07-10T18:15:00+00:00",
+      "title": "Thousands evacuated as Taiwan shuts down for Typhoon Bavi",
+      "summary": "台湾は台風バービーの接近に伴い、1万4千人以上を脆弱地域から避難させ、島全体が閉鎖状態となった。大雨と強風により多くの航空便が欠航となり、ほとんどの都市が台風休場を宣言して、高速鉄道も運行を制限するなど、島全体が対応に当たった。",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/thousands-evacuated-as-taiwan-shuts-down-for-typhoon-bavi/articleshow/132323229.cms",
+      "source": "The Times of India",
+      "published_at": "2026-07-11T01:45:24+00:00",
       "lang": "en"
     },
     {
-      "id": "34193150",
+      "id": "81647711",
       "category": "台湾・中台関係",
-      "title": "High-polling Pauline Hanson calls for new limits on New Zealand migration to Australia",
-      "summary": "オーストラリアの高支持率政治家ポーリン・ハンソンが、ニュージーランドからのオーストラリアへの移民に新たな制限を求めており、移民がオーストラリアに移住する前にニュージーランドで8～10年間生活することを条件とするよう主張している。",
-      "url": "https://www.nzherald.co.nz/nz/politics/high-polling-pauline-hanson-calls-for-new-limits-on-new-zealand-migration-to-australia/premium/AUSBL6VJZFEPNGPQPGZTYVOZOM/",
-      "source": "New Zealand Herald",
-      "published_at": "2026-07-10T17:00:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "21256236",
-      "category": "台湾・中台関係",
-      "title": "3rd Cross-Strait Reading Conference Opens in Fuzhou, Highlighting Aesthetic Education and AI Innovation",
-      "summary": "第18回海峡フォーラム・第3回両岸読書会議が7月2日に福州で開幕し、出版、教育、文化などの分野から約200人の代表者が集結した。同会議は美的教育とAIイノベーションを強調し、中国台湾間の文化交流と知的財産の共有を推進している。出版業界の専門家や教育関係者による講演やワークショップが行われ、デジタル時代における読書教育の新たな方向性が探られている。",
-      "url": "https://en.antaranews.com/news/422192/3rd-cross-strait-reading-conference-opens-in-fuzhou-highlighting-aesthetic-education-and-ai-innovation",
-      "source": "Antaranews.com",
-      "published_at": "2026-07-10T16:34:12+00:00",
+      "title": "Intel’s comeback play: US government takes 10% stake as Apple and Nvidia partnerships reshape chip supply chains",
+      "summary": "米政府がインテルの10%の株式を取得し、アップルとエヌビディアとのパートナーシップがチップサプライチェーンを再編される中、政府の出資はインテルの戦略転換を後押しする一方で、米国の技術主権を再定義する可能性を持ちながらも、政治的および市場主導型の課題に直面するリスクがある。",
+      "url": "https://cryptobriefing.com/intel-us-government-stake-apple-nvidia-chips/",
+      "source": "Crypto Briefing",
+      "published_at": "2026-07-11T01:06:20+00:00",
       "lang": "en"
     }
   ]
