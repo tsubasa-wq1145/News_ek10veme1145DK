@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T14:27:41.182776+00:00",
+  "updated_at": "2026-07-12T22:55:45.201451+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -44,21 +44,81 @@
   ],
   "digest": [
     {
-      "title": "ウクライナ ロシアの攻撃で7人死亡 大統領は支援加速訴え",
-      "body": "ロシア軍が弾道ミサイルでウクライナ各地を攻撃し、7人が死亡するなど戦闘が激化している。ゼレンスキー大統領はNATO首脳会議で合意された各国からの支援が早期に実行されるよう求めており、国際的な支援体制の強化が急務となっている。"
+      "title": "アメリカ中央軍がイランへの追加攻撃を開始",
+      "body": "アメリカ中央軍がイランへの追加攻撃を開始したことを発表し、イランの革命防衛隊によるホルムズ海峡封鎖宣言に対抗している。米軍は140か所の標的への攻撃を完了したと発表しており、中東地域の軍事緊張が急速に高まっている。"
     },
     {
-      "title": "首都モスクワでもガソリン不足で行列 ロシア政府に危機感も",
-      "body": "ウクライナの石油精製施設への攻撃により、ロシアではガソリン不足が深刻化し、首都モスクワでも給油待ちの行列が発生している。ロシア政府のエネルギー政策担当副首相が「状況は依然として厳しい」とコメントしており、エネルギー供給危機は国内経済に大きな影響を与えている。"
+      "title": "ウクライナがロシアへの長距離攻撃司令部を創設へ",
+      "body": "ゼレンスキー大統領がロシアへの長距離攻撃を専門とする司令部の創設を発表し、ロシアの石油精製施設への攻撃を強化する方針を示した。ウクライナはロシアの燃料供給断絶により戦闘能力低下を目指しており、今後攻撃をさらに一層強化する予定である。"
     },
     {
-      "title": "Chip giant SK Hynix raises $26.5bn as shares surge in bumper US listing",
-      "body": "韓国の半導体大手SKハイニックスが米国での大型増資で26.5億ドルを調達し、ナスダックでの取引が開始される予定である。外国企業としての過去最大規模の上場デビューであり、グローバルな半導体産業の再編と投資動向を示す重要なニュースである。"
+      "title": "タイ・バンコクの飲食店で大規模火災、27人が死亡",
+      "body": "タイの首都バンコクにある飲食店で13日未明に大規模な火災が発生し、AP通信の報道によると少なくとも27人が死亡した。同国において大きな人命喪失をもたらす重大事故となっている。"
     }
   ],
   "news": [
     {
-      "id": "34817507",
+      "id": "57521474",
+      "category": "経済・ビジネス（日本）",
+      "title": "タイ バンコクの飲食店で火災 AP通信“少なくとも27人が死亡”",
+      "summary": "タイの首都バンコクにある飲食店で13日未明に大規模な火災が発生し、AP通信の報道によると少なくとも27人が死亡した。",
+      "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175291000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-12T22:19:25+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "17058150",
+      "category": "経済・ビジネス（日本）",
+      "title": "アメリカ中央軍 “イランへの追加攻撃を開始した”",
+      "summary": "アメリカ中央軍は12日、イランへの追加攻撃を開始したことを発表しました。イランの革命防衛隊がホルムズ海峡の封鎖を表明したのに対し、アメリカ軍はイランが海峡を支配していないと主張しており、中東地域の緊張が高まっています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175301000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-12T22:13:25+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "70898567",
+      "category": "経済・ビジネス（日本）",
+      "title": "南シナ海仲裁判断10年 14か国共同声明に中国が反論",
+      "summary": "南シナ海の領有権をめぐる仲裁判断から10年を迎え、日本を含む14か国が中国に判断の順守を求める共同声明を発表しました。これに対し中国外務省は当該判断を「拘束力のない紙くずだ」と反論し、自国の主張の正当性を改めて主張しています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175211000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-12T21:18:57+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "45097404",
+      "category": "経済・ビジネス（日本）",
+      "title": "ウクライナ軍 ロシア中部の大規模な石油精製施設を攻撃",
+      "summary": "ウクライナ軍がロシア中部の大規模な石油精製施設を攻撃し、ロシア軍の燃料供給を断つことで戦闘能力の低下を目指している。この攻撃はロシア軍の作戦遂行能力に直結する燃料インフラの破壊を狙ったものである。",
+      "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175271000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-12T21:15:29+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "20688621",
+      "category": "経済・ビジネス（日本）",
+      "title": "仏猛暑 水の事故の犠牲者130人超 イベントなどにも影響",
+      "summary": "フランスで続く猛暑により、先月19日以降に水の事故による死者が130人を超えており、エッフェル塔などの観光名所が営業時間を短縮するなど、社会全体に深刻な影響が広がっている。",
+      "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175251000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-12T21:07:41+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "48426317",
+      "category": "経済・ビジネス（日本）",
+      "title": "ベネズエラ大地震 被害の実態把握なお課題",
+      "summary": "ベネズエラで先月発生した大地震により、確認された死者が4400人を超えており、捜索作業が難航しながらも死者数が増え続けています。建物被害は政府発表より大きいとの推計もあり、国際支援を受けるためには被害の正確な把握と情報公開が重要な課題となっています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175261000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-12T20:49:20+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "83517457",
       "category": "経済・ビジネス（日本）",
       "title": "米軍「140か所の標的への攻撃完了」不安定な情勢続く",
       "summary": "イランの革命防衛隊がホルムズ海峡で警告射撃を行い海峡封鎖を主張する一方、米軍はコンテナ船がイランに攻撃されたとしてイランへの攻撃を開始したと発表し、中東地域の緊張がさらに高まっています。",
@@ -68,7 +128,7 @@
       "lang": "ja"
     },
     {
-      "id": "86011181",
+      "id": "52354120",
       "category": "経済・ビジネス（日本）",
       "title": "ウクライナ ロシアへの長距離攻撃担う司令部創設へ",
       "summary": "ウクライナのゼレンスキー大統領がロシアへの長距離攻撃を専門とする司令部の創設を発表しました。ロシアの石油関連施設への攻撃で燃料不足が広がっており、ウクライナは今後こうした攻撃を一層強化してロシアへの圧力を強める方針です。",
@@ -78,67 +138,7 @@
       "lang": "ja"
     },
     {
-      "id": "59712699",
-      "category": "経済・ビジネス（日本）",
-      "title": "ベネズエラ大地震 “パンケーキクラッシュ”相次ぐ 専門家",
-      "summary": "ベネズエラの先月の大地震で、建物がほぼ垂直に崩れる「パンケーキクラッシュ」が相次いだことが専門家の調査で判明しました。軟弱な地盤と建物の強度不足が原因で、最も被害が深刻な地域では約1万棟が使用不可になったと推計されています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260712/k10015175031000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-12T09:14:40+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "57073200",
-      "category": "経済・ビジネス（日本）",
-      "title": "日本ではホルムズ海峡を通らない代替ルートでの原油調達が進む",
-      "summary": "日本政府はホルムズ海峡が封鎖されたことを受けて、同海峡を経由しない代替ルートでの原油調達を進めており、これにより原油輸入量の減少幅が縮小傾向にある。",
-      "url": "http://www3.nhk.or.jp/news/html/20260712/k10015175001000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-12T07:21:28+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "33851677",
-      "category": "経済・ビジネス（日本）",
-      "title": "イラン革命防衛隊「追って通知あるまでホルムズ海峡は封鎖」",
-      "summary": "アメリカはイランに対してホルムズ海峡の開放と船舶攻撃の中止を宣言するよう求めているが、イラン最高指導者モジタバ師は「復讐は必ず実現する」とアメリカを念頭に対決姿勢を強調し、両国間の緊張が高まっている。",
-      "url": "http://www3.nhk.or.jp/news/html/20260712/k10015174741000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-11T23:15:21+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "45341885",
-      "category": "経済・ビジネス（日本）",
-      "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月12日の動き）",
-      "summary": "ロシアによるウクライナへの軍事侵攻が続いており、ウクライナ全土でロシア軍とウクライナ軍の戦闘が激化している中、多くの市民が国外への避難を余儀なくされています。本記事は7月12日の戦闘状況と関係国の外交動向を随時更新でお伝えするものです。",
-      "url": "http://www3.nhk.or.jp/news/html/20260712/k10015140931000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-11T20:56:06+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "36759753",
-      "category": "経済・ビジネス（日本）",
-      "title": "【詳細】ロシア ウクライナに軍事侵攻（7月11日の動き）",
-      "summary": "ロシアによるウクライナへの軍事侵攻が継続しており、各地でロシア軍とウクライナ軍の戦闘が続いている。多くの市民が国外への避難を余儀なくされ、7月11日の戦闘状況や関連国の外交動向などウクライナ情勢の最新情報が報じられている。",
-      "url": "http://www3.nhk.or.jp/news/html/20260711/k10015140921000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-11T20:50:00+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "88805589",
-      "category": "経済・ビジネス（日本）",
-      "title": "ウクライナ ロシアの攻撃で7人死亡 大統領は支援加速訴え",
-      "summary": "ロシア軍が11日にウクライナ各地を弾道ミサイルで攻撃し、7人が死亡しました。ゼレンスキー大統領はNATO首脳会議で合意された各国からの支援が早期に実行されるよう求めています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260712/k10015174751000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-11T20:49:16+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "97499435",
+      "id": "62098913",
       "category": "経済・ビジネス（世界）",
       "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
       "summary": "ドイツの大手スーパーALDIが米国市場で急速な展開を進めており、90億ドルの投資で都市部のマンハッタンなどを標的としています。同社は4ドルのアーモンドバターなど低価格商品を武器に、ウォルマートなどの大手スーパーとの競争に挑みかかっています。ディスカウント販売モデルが米国の既存スーパー業界にどこまで対抗できるかが今後の注目点となります。",
@@ -148,7 +148,7 @@
       "lang": "en"
     },
     {
-      "id": "52840505",
+      "id": "16671532",
       "category": "経済・ビジネス（世界）",
       "title": "Reeves tells BBC: Burnham needs worked-through plan to govern from the start",
       "summary": "財務大臣は、BBC の番組で次期首相に安定した経済を引き継ぐと述べており、バーナム氏は就任当初から実行可能な統治計画を必要としていると述べている。財務大臣は次期首相が初日から効果的に統治するための具体的で綿密な計画を用意しておく必要があると強調している。",
@@ -158,7 +158,7 @@
       "lang": "en"
     },
     {
-      "id": "65887422",
+      "id": "52019173",
       "category": "経済・ビジネス（世界）",
       "title": "Will Trump Accounts deliver for American children?",
       "summary": "トランプ政権が推進する子ども向け貯蓄口座「トランプ・アカウンツ」は、次世代にアメリカンドリームへの参画機会を与えるものとしてホワイトハウスから賞賛される一方で、この制度に対する批判も存在する。プログラムの実現可能性と実効性に関して、専門家や政策立案者の間でも議論が続いている。",
@@ -168,7 +168,7 @@
       "lang": "en"
     },
     {
-      "id": "65310378",
+      "id": "46321158",
       "category": "経済・ビジネス（世界）",
       "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
       "summary": "ライアンエア傘下のマルタ・エアの便で、乗客が窓から吸い出されかけるという事故が発生し、乗客は医療処置を受けたとライアンエアが確認した。飛行中に発生した窓のトラブルにより、乗客が危険にさらされたが、乗務員の対応により事態は収束した。この事故の詳細については調査が進められている。",
@@ -178,7 +178,7 @@
       "lang": "en"
     },
     {
-      "id": "26073558",
+      "id": "39708405",
       "category": "経済・ビジネス（世界）",
       "title": "Major car firms found not to have installed emissions-cheating devices",
       "summary": "主要な自動車メーカーが排出ガス試験に不正に対応するデバイスを装備していないことが、高等裁判所の判事により判断されました。この判決は、複数の大手自動車製造業者が排出ガスをごまかすための装置を搭載していなかったことを示唆しており、業界における排出規制の遵守状況に関する重要な判断となっています。",
@@ -188,7 +188,7 @@
       "lang": "en"
     },
     {
-      "id": "79707521",
+      "id": "29828896",
       "category": "経済・ビジネス（世界）",
       "title": "EasyJet agrees to surprise takeover bid as rival US firm swoops in",
       "summary": "イージージェットは、米国企業アポロからの買収提案が前回のキャッスルレイク社の提案に優るとして、原則合意した。アポロからの57億ポンドの買収提案がキャッスルレイク社の提案を上回り、同航空会社が新たな買収提案を受け入れることになった。",
@@ -198,7 +198,7 @@
       "lang": "en"
     },
     {
-      "id": "57233686",
+      "id": "14901866",
       "category": "経済・ビジネス（世界）",
       "title": "Vapes to have less enticing names and flavours to protect children",
       "summary": "英国政府は、子どもたちを引き付ける可能性のある魅力的なフレーバー表記を避けるよう電子タバコ企業を規制する計画について国民協議を実施している。この規制により、子どもたちが電子タバコの実験を始めることを防ぐことを目指している。",
@@ -208,7 +208,7 @@
       "lang": "en"
     },
     {
-      "id": "12524446",
+      "id": "76522755",
       "category": "経済・ビジネス（世界）",
       "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
       "summary": "インターネット上で「90秒で涼しくなる」という謳い文句の偽造ポータブルエアコンが蔓延している。英国広告基準局（ASA）は、小型デバイスが素早く室内を冷却できるという広告主張は誇大であり、事実ではないと指摘している。これらの製品は実際には期待された冷却効果をもたらさないもので、消費者に対する詐欺的な販売行為となっている。",
@@ -218,7 +218,37 @@
       "lang": "en"
     },
     {
-      "id": "72814882",
+      "id": "71229818",
+      "category": "テクノロジー・AI",
+      "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
+      "summary": "ニュージーランドの歌手ロードが、マドリードのリアルクールフェスティバルでのパフォーマンス中にAIメガネに対して批判的な発言をし、「セクシーではない」とコメントした。フェスティバルのスポンサーであるレイバンとメタが協力開発したAIスマートグラスを暗に批判したと見られている。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+      "source": "AI | The Verge",
+      "published_at": "2026-07-12T20:10:19+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "71787227",
+      "category": "テクノロジー・AI",
+      "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+      "summary": "Appleの自動運転車プログラムは実現には至らなかったが、同社のAIチップの強力な性能開発に大きく貢献した。自動運転プラットフォームの開発初期段階で、Appleは高性能なオンデバイスAI処理が必要であることに気づき、自動車向けプロセッサは完成しなかったものの、その過程で獲得した技術がAppleの現在のAIチップの強さを生み出す基礎となった。",
+      "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+      "source": "AI | The Verge",
+      "published_at": "2026-07-12T16:27:06+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "30669162",
+      "category": "テクノロジー・AI",
+      "title": "TechCrunch Mobility: A robotaxi ultimatum",
+      "summary": "テクノロジー企業がロボタクシー事業における競争激化の中で、AIの活用による差別化と規制対応が重要な課題となっている。自動運転タクシーの実用化に向けて各企業が戦略的な決断を迫られており、AI技術の進展とそれに伴う社会的インパクトが業界の将来を左右することになるという状況が報告されている。",
+      "url": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-12T16:07:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "76162814",
       "category": "テクノロジー・AI",
       "title": "The fight against AI data centers is just beginning",
       "summary": "AI データセンター建設に対する地域社会の反発が拡大しており、電力需要の急増や環境への懸念から、今後さらに激しくなることが予想されている。大規模言語モデルの学習には膨大な電力が必要となるため、テクノロジー企業は新しいデータセンターの建設を進めているが、地元住民からの抵抗が増加している。この問題はテック業界において最重要課題の一つとなってきており、企業と地域社会の間の葛藤はこれからが本番である。",
@@ -228,7 +258,7 @@
       "lang": "en"
     },
     {
-      "id": "71612709",
+      "id": "60384648",
       "category": "テクノロジー・AI",
       "title": "Reed Jobs would rather talk about curing cancer than his last name",
       "summary": "Reed Jobsは自身の名前よりもがん治療について語ることを好む起業家であり、彼が率いるバイオテック企業Yosemiteは過去3年間で急速に成長し、チームは17名に拡大、複数の主要医薬品の特許失効により新たなビジネス機会が生まれ、AIは企業戦略の重要な要素となっている。",
@@ -238,143 +268,113 @@
       "lang": "en"
     },
     {
-      "id": "16294685",
+      "id": "70686037",
       "category": "テクノロジー・AI",
-      "title": "This slushie machine was a lifesaver during NYC’s heat wave",
-      "summary": "ニューヨークの熱波の中、著者は新しいNinja Slushi Twistスラッシー機を試した結果、毎日のように凍った飲み物が欲しくなる暑さの中、わざわざコンビニに行く必要がなくなったという体験を述べている。Ninjaの最新スラッシー製造機は、元のモデルの人気に基づいて開発されたものである。",
-      "url": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-11T22:00:00+00:00",
+      "title": "Alberta premier offers reassurances on massive Meta data centre",
+      "summary": "アルバータ州首相はメタの大規模データセンター建設について住民への懸念を払拭しようとしている。AIモデルの訓練と運用に必要な膨大な需要に対応するため、データセンターは急速に拡大しているが、電力と水を大量消費する施設の近隣に住むカナダ国民の間で懸念が広がっている。首相は地域住民に対し、経済成長とエネルギー・水資源管理のバランスが取れていることを保証する必要がある。",
+      "url": "https://www.cbc.ca/news/canada/edmonton/smith-meta-ai-data-centre-alberta-9.7267112",
+      "source": "CBC News",
+      "published_at": "2026-07-11T22:44:55+00:00",
       "lang": "en"
     },
     {
-      "id": "74933716",
+      "id": "29437081",
       "category": "テクノロジー・AI",
-      "title": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
-      "summary": "Even Realitiesが開発するスマートグラスは、カメラ機能を搭載せず、会議やプレゼンテーション、複数言語が話される国への出張が多いビジネスパーソンを対象としており、プライバシーを守りながら生産性向上に注力する戦略を取っている。",
-      "url": "https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-11T17:30:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "71170174",
-      "category": "テクノロジー・AI",
-      "title": "Batwoman #5 Preview: Kate Volunteers as Tribute for Darkseid",
-      "summary": "バットウーマン第5号のプレビューにおいて、ケイトがダークサイドへの生け贄として立候補するという展開が予告されている。この記事はBleedingCoolのコミックブック予告コーナーで、AIキャラクターのLOLtronが進行する形式となっており、以前の記事で登場していたジュード・テラーというキャラクターが再び言及されている。詳細な物語展開についての完全な情報は提供されていないが、バットウーマンがダークサイドに関連したストーリーラインに巻き込まれることが示唆されている。",
-      "url": "https://bleedingcool.com/comics/batwoman-5-preview-kate-volunteers-as-tribute-for-darkseid/",
+      "title": "Dark Knights of Steel II #1 Preview: Medieval League Exposed!",
+      "summary": "DC Comicsの「Dark Knights of Steel II #1」のプレビューが公開され、中世を舞台にした新たなストーリーが展開される。このシリーズは、ダークナイトたちが様々な陰謀に立ち向かう姿を描いており、読者は予期せぬ展開と登場人物たちの秘密に触れることになる。コミック業界の注目作品として、ファンからの期待が高まっている。",
+      "url": "https://bleedingcool.com/comics/dark-knights-of-steel-ii-1-preview-medieval-league-exposed/",
       "source": "Bleeding Cool News",
-      "published_at": "2026-07-11T14:26:09+00:00",
+      "published_at": "2026-07-11T22:26:09+00:00",
       "lang": "en"
     },
     {
-      "id": "50709348",
+      "id": "58301191",
       "category": "テクノロジー・AI",
-      "title": "Datadog Stock Is Way Too Risky Right Now",
-      "summary": "DatadogはAIの発展とサイバーセキュリティ産業の追い風により、保護すべきデータポイントが増加している中で成長を遂げている。同社のクラウドスケールインフラストラクチャにより企業の監視が容易になる一方で、現在の株価は割高であり投資リスクが高い状態にあると指摘されている。",
-      "url": "https://biztoc.com/x/373a775700eac38e",
-      "source": "Biztoc.com",
-      "published_at": "2026-07-11T14:16:39+00:00",
+      "title": "Honda, other Japan companies in pay workers to spearhead AI use",
+      "summary": "ホンダを含む日本企業各社がAI導入を推進する従業員に対して特別な給与を支給しており、AIスキルを持つ人材を育成・確保する取り組みを強化している。これはAI技術の急速な発展に対応し、企業競争力を維持するための戦略である。日本企業はAI人材の不足という課題に直面しており、給与面での優遇措置により優秀な人材の確保と技術導入の加速を目指している。",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/honda-other-japan-companies-in-pay-workers-to-spearhead-ai-use",
+      "source": "Nikkei.com",
+      "published_at": "2026-07-11T22:18:28+00:00",
       "lang": "en"
     },
     {
-      "id": "41015110",
-      "category": "テクノロジー・AI",
-      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-      "summary": "OpenAIは家族向けの体験開発に専任のプロダクトマネージャーを配置することで、ChatGPTの家庭内への浸透を深める戦略を進めている。求人情報によると、このポジションは介護者や高齢者を含む家族向けの体験構築に特化するもので、ChatGPTが日常生活の中でより広い層に利用されることを目指している。",
-      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-11T14:13:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "55535094",
-      "category": "テクノロジー・AI",
-      "title": "‘Boko Haram uses AI to make bombs, plot operations’",
-      "summary": "ボコ・ハラムがAIを使用して爆弾製造と作戦計画を行っているとされている。グループは人工知能を活用して爆薬の化学成分を最適化し、より大きな爆発力を実現していると報告されている。この技術的進化により、テロ組織の能力がさらに高まった可能性がある。",
-      "url": "https://www.vanguardngr.com/2026/07/boko-haram-uses-ai-to-make-bombs-plot-operations/",
-      "source": "Vanguard",
-      "published_at": "2026-07-11T14:08:05+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "56067642",
+      "id": "67333454",
       "category": "台湾・中台関係",
-      "title": "What we know about the deadly charter boat sinking off B.C.’s coast",
-      "summary": "ブリティッシュコロンビア州リッチモンド沖で起きたチャーター船の沈没事故について、乗船していた人々、船に対する懸念、および運航会社の調査について報道されている。この記事は事故の詳細、被害者、安全上の問題、そして関連する調査内容をまとめたものである。",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/explainer-bc-charter-fatal-sinking-near-richmond-9.7266516",
-      "source": "CBC News",
-      "published_at": "2026-07-11T14:00:00+00:00",
+      "title": "Typhoon makes landfall in China after forcing nearly two million to flee",
+      "summary": "台風が中国に上陸し、約200万人の避難が強制されました。現在のところ、被害状況や死傷者数に関する報告はまだ入っていません。",
+      "url": "https://www.channelnewsasia.com/east-asia/china-typhoon-bavi-two-million-evacuate-6248586",
+      "source": "CNA",
+      "published_at": "2026-07-11T22:54:03+00:00",
       "lang": "en"
     },
     {
-      "id": "82650357",
+      "id": "16240621",
       "category": "台湾・中台関係",
-      "title": "China evacuates over 1 million as Typhoon Bavi brushes past Taiwan, pummels southern Japan",
-      "summary": "台風バビが台湾沖を通過し日本南部を襲う中、中国は100万人以上の住民を避難させた。台風の上陸に備えて大規模な避難作業が進められており、被害の最小化に向けた準備が急速に進められている。",
-      "url": "https://www.cbc.ca/news/world/typhoon-bavi-evacuations-china-9.7266891",
-      "source": "CBC News",
-      "published_at": "2026-07-11T13:32:23+00:00",
+      "title": "Typhoon makes landfall in China after forcing nearly two million to flee",
+      "summary": "台風が中国に上陸し、約200万人近くが避難を余儀なくされた。この大型台風は沿岸地域に上陸する前に、当局が大規模な避難命令を発令し、多くの住民が安全な場所へ移動した。台風による豪雨や強風により、各地で被害が予想されている。",
+      "url": "https://timesofmalta.com/article/typhoon-makes-landfall-china-forcing-nearly-two-million-flee.1131262",
+      "source": "Times of Malta",
+      "published_at": "2026-07-11T22:04:14+00:00",
       "lang": "en"
     },
     {
-      "id": "81978627",
+      "id": "53823445",
       "category": "台湾・中台関係",
-      "title": "Inside the marriage of Sen. Mitch McConnell and his wife, former Transportation Secretary Elaine Chao",
-      "summary": "ミッチ・マコネル上院議員（84歳）は約4週間入院しており、彼の健康状態についての憶測が生じている。マコネル議員は元運輸長官のイレーン・チャオ夫人と結婚しており、彼の健康問題は政治的な注目を集めている。長年の公的キャリアを持つマコネル議員の現在の状況は、共和党内での権力構造に影響を与える可能性がある。",
-      "url": "https://www.businessinsider.com/mitch-mcconnell-wife-elaine-chao-relationship-timeline#article",
-      "source": "Business Insider",
-      "published_at": "2026-07-11T13:28:02+00:00",
+      "title": "Beijing claims part of the Pacific near Taiwan as sovereign Chinese water",
+      "summary": "中国政府は7月4日、台湾近くの太平洋の一部を中国の主権的領海として主張し、この海域を監視するための新たな船舶パトロール計画を発表した。これは中国が自国の沿岸から遠く離れた海域の支配権を強化しようとする取り組みの一環である。",
+      "url": "https://freerepublic.com/focus/f-news/4387619/posts",
+      "source": "Freerepublic.com",
+      "published_at": "2026-07-11T21:03:52+00:00",
       "lang": "en"
     },
     {
-      "id": "21208387",
+      "id": "28712451",
       "category": "台湾・中台関係",
-      "title": "FULL LIST: UK confirms countries that need visas for stays under six months",
-      "summary": "英国内務省が移民規則を更新し、6ヶ月未満の滞在でもビザが必要な国の最新リストを確認しました。この規則変更により、特定の国の国民は短期滞在でも事前にビザ申請を行う必要があります。詳細なリストは英国内務省の公式発表で確認できます。",
-      "url": "https://punchng.com/full-list-uk-confirms-countries-that-need-visas-for-stays-under-six-months/",
+      "title": "The battle for Taiwan: Long? Short? Bomb? Seize? Or what?",
+      "summary": "ソビエト連邦の崩壊は単なるミサイル数では予測も説明もできなかったのと同様に、台湾をめぐる紛争も軍事力だけでは解決できないという指摘である。台湾問題の解決には、単純な軍事的優位性ではなく、より複雑で多面的なアプローチが必要とされていることを示唆している。歴史的な事例から学び、軍事力以外の政治的・外交的要因も考慮する必要があるという見方が示されている。",
+      "url": "https://www.wnd.com/2026/07/battle-taiwan-long-short-bomb-seize-what/",
+      "source": "Wnd.com",
+      "published_at": "2026-07-11T19:41:07+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "82938444",
+      "category": "台湾・中台関係",
+      "title": "TTW Announces the Top 50 Food Destinations Around the World for 2026",
+      "summary": "トラベル・アンド・ツアー・ワールド(TTW)は、世界のグルメ観光の未来を形作る国々を認識して、2026年向けの世界トップ50食事目的地を発表した。TTWの編集チームによって厳選されたこのランキングは、世界中の食文化観光の発展と影響を評価したものである。",
+      "url": "https://www.prnewswire.com/news-releases/ttw-announces-the-top-50-food-destinations-around-the-world-for-2026-302823288.html",
+      "source": "PRNewswire",
+      "published_at": "2026-07-11T19:35:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "13293606",
+      "category": "台湾・中台関係",
+      "title": "Why Our Kids Don’t Learn",
+      "summary": "2025年の大型法案に含まれる新制度では、保護者が私立学校の授業料や教育関連費用の支払いに充てられる「奨学金授与組織」への寄付に対して、最大1700ドルのドルフォードルの税額控除が提供される。この制度により、保護者は教育支援組織を通じて子どもの私立学校教育への資金援助を受けやすくなる。これは公教育から私立教育への資金シフトを促進する政策として機能する可能性がある。",
+      "url": "https://www.dailysignal.com/2026/07/11/why-our-kids-dont-learn/",
+      "source": "Daily Signal",
+      "published_at": "2026-07-11T19:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "49666100",
+      "category": "台湾・中台関係",
+      "title": "Millions flee as Typhoon Bavi hits China, causes travel disruption",
+      "summary": "台風バビが中国東部に上陸し、約200万人の避難を余儀なくされ、広範な交通機関の混乱を引き起こした。暴風雨による影響で多くの航空便や鉄道が運行中止となり、被災地域の人々の移動が大きく制限されている。当局は安全確保を最優先に、引き続き状況を注視している。",
+      "url": "https://punchng.com/millions-flee-as-typhoon-bavi-hits-china-causes-travel-disruption/",
       "source": "The Punch",
-      "published_at": "2026-07-11T13:06:56+00:00",
+      "published_at": "2026-07-11T17:50:10+00:00",
       "lang": "en"
     },
     {
-      "id": "70738058",
+      "id": "47687721",
       "category": "台湾・中台関係",
-      "title": "Why Taiwan and Malaysia's luxury fruit growers have a complex relationship with China",
-      "summary": "台湾のアテモヤ釈迦と マレーシアのムサンキンドリアンは、どちらも高級果実として中国市場で非常に需要が高く、両国の農家は中国への輸出による経済的利益と政治的リスクのバランスに直面している。台湾産とマレーシア産の高級果実は品質の高さで世界的に認められており、中国の裕福な消費者からの需要が急速に増加していることが、この複雑な関係の背景にある。",
-      "url": "https://www.bbc.co.uk/programmes/p0ny2ch3",
-      "source": "BBC News",
-      "published_at": "2026-07-11T12:30:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "38764956",
-      "category": "台湾・中台関係",
-      "title": "China prepares as Typhoon Bavi leaves Taiwan",
-      "summary": "台湾を襲ったバビ台風が通過した後、中国は台風への準備を進めている。バビ台風は台湾を離れたが、その後中国沿岸部に接近すると予報されており、広東州などの地域で大雨と強風が予想されている。中国当局は警報を発令し、住民に対して安全対策を講じるよう呼びかけている。",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/china-prepares-as-typhoon-bavi-leaves-taiwan",
-      "source": "Al Jazeera English",
-      "published_at": "2026-07-11T12:17:45+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "39358326",
-      "category": "台湾・中台関係",
-      "title": "China evacuates more than one million people as region braces for Typhoon Bavi",
-      "summary": "中国は台風バービに備えて100万人以上を避難させており、一方フィリピン南部では激しい雨が引き起こした土砂崩れで少なくとも17人が死亡している。台風の接近に伴い、中国の複数の地域で大規模な避難作業が進められている。",
-      "url": "https://www.irishtimes.com/world/asia-pacific/2026/07/11/china-evacuates-more-than-one-million-people-as-region-braces-for-typhoon-bavi/",
-      "source": "The Irish Times",
-      "published_at": "2026-07-11T12:08:15+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "80948674",
-      "category": "台湾・中台関係",
-      "title": "China braced for second typhoon in a week as Bavi approaches landfall",
-      "summary": "中国は1週間で2番目の台風の上陸に備えており、台風バビが接近している。浙江省東部から数十万人が避難し、温州市が台風の進路に近い位置にある。",
-      "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo",
-      "source": "BBC News",
-      "published_at": "2026-07-11T12:06:47+00:00",
+      "title": "Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns",
+      "summary": "バロチスタン警察ポータルがハッカーに悪用され、複数のグループによるスパイ活動キャンペーンに使用されている。サイバーセキュリティ研究者によると、2024年2月から2026年4月にかけて、中国およびインドと関連があると見られる脅威行為者による、パキスタンの複数の法執行機関を対象とした持続的なサイバースパイ活動が確認されている。バロチスタン警察ポータルが特に悪用され、複数のハッカーグループが同じインフラストラクチャを活用してスパイ活動を展開していたことが明らかになった。",
+      "url": "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html",
+      "source": "Internet",
+      "published_at": "2026-07-11T17:49:31+00:00",
       "lang": "en"
     }
   ]
