@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T06:06:22.011830+00:00",
+  "updated_at": "2026-07-12T10:18:50.145484+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -58,17 +58,47 @@
   ],
   "news": [
     {
-      "id": "10092119",
+      "id": "10896211",
       "category": "経済・ビジネス（日本）",
-      "title": "イラン“ホルムズ海峡封鎖” 米軍“イランへの攻撃開始”",
+      "title": "米軍「140か所の標的への攻撃完了」不安定な情勢続く",
       "summary": "イランの革命防衛隊がホルムズ海峡で警告射撃を行い海峡封鎖を主張する一方、米軍はコンテナ船がイランに攻撃されたとしてイランへの攻撃を開始したと発表し、中東地域の緊張がさらに高まっています。",
       "url": "http://www3.nhk.or.jp/news/html/20260712/k10015174811000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-07-12T05:06:45+00:00",
+      "published_at": "2026-07-12T10:06:05+00:00",
       "lang": "ja"
     },
     {
-      "id": "70401825",
+      "id": "69658457",
+      "category": "経済・ビジネス（日本）",
+      "title": "ウクライナ ロシアへの長距離攻撃担う司令部創設へ",
+      "summary": "ウクライナのゼレンスキー大統領がロシアへの長距離攻撃を専門とする司令部の創設を発表しました。ロシアの石油関連施設への攻撃で燃料不足が広がっており、ウクライナは今後こうした攻撃を一層強化してロシアへの圧力を強める方針です。",
+      "url": "http://www3.nhk.or.jp/news/html/20260712/k10015175051000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-12T09:43:16+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "45446522",
+      "category": "経済・ビジネス（日本）",
+      "title": "ベネズエラ大地震 “パンケーキクラッシュ”相次ぐ 専門家",
+      "summary": "ベネズエラの先月の大地震で、建物がほぼ垂直に崩れる「パンケーキクラッシュ」が相次いだことが専門家の調査で判明しました。軟弱な地盤と建物の強度不足が原因で、最も被害が深刻な地域では約1万棟が使用不可になったと推計されています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260712/k10015175031000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-12T09:14:40+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "19385387",
+      "category": "経済・ビジネス（日本）",
+      "title": "日本ではホルムズ海峡を通らない代替ルートでの原油調達が進む",
+      "summary": "日本政府はホルムズ海峡が封鎖されたことを受けて、同海峡を経由しない代替ルートでの原油調達を進めており、これにより原油輸入量の減少幅が縮小傾向にある。",
+      "url": "http://www3.nhk.or.jp/news/html/20260712/k10015175001000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-12T07:21:28+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "91196962",
       "category": "経済・ビジネス（日本）",
       "title": "イラン革命防衛隊「追って通知あるまでホルムズ海峡は封鎖」",
       "summary": "アメリカはイランに対してホルムズ海峡の開放と船舶攻撃の中止を宣言するよう求めているが、イラン最高指導者モジタバ師は「復讐は必ず実現する」とアメリカを念頭に対決姿勢を強調し、両国間の緊張が高まっている。",
@@ -78,7 +108,7 @@
       "lang": "ja"
     },
     {
-      "id": "42842259",
+      "id": "55900681",
       "category": "経済・ビジネス（日本）",
       "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月12日の動き）",
       "summary": "ロシアによるウクライナへの軍事侵攻が続いており、ウクライナ全土でロシア軍とウクライナ軍の戦闘が激化している中、多くの市民が国外への避難を余儀なくされています。本記事は7月12日の戦闘状況と関係国の外交動向を随時更新でお伝えするものです。",
@@ -88,7 +118,7 @@
       "lang": "ja"
     },
     {
-      "id": "52917466",
+      "id": "37693217",
       "category": "経済・ビジネス（日本）",
       "title": "【詳細】ロシア ウクライナに軍事侵攻（7月11日の動き）",
       "summary": "ロシアによるウクライナへの軍事侵攻が継続しており、各地でロシア軍とウクライナ軍の戦闘が続いている。多くの市民が国外への避難を余儀なくされ、7月11日の戦闘状況や関連国の外交動向などウクライナ情勢の最新情報が報じられている。",
@@ -98,7 +128,7 @@
       "lang": "ja"
     },
     {
-      "id": "14279828",
+      "id": "25577990",
       "category": "経済・ビジネス（日本）",
       "title": "ウクライナ ロシアの攻撃で7人死亡 大統領は支援加速訴え",
       "summary": "ロシア軍が11日にウクライナ各地を弾道ミサイルで攻撃し、7人が死亡しました。ゼレンスキー大統領はNATO首脳会議で合意された各国からの支援が早期に実行されるよう求めています。",
@@ -108,37 +138,7 @@
       "lang": "ja"
     },
     {
-      "id": "86617655",
-      "category": "経済・ビジネス（日本）",
-      "title": "米大統領専用機めぐる報道で記者に召喚状 新聞社は非難",
-      "summary": "ニューヨーク・タイムズの記者が、トランプ大統領の新しい専用機がミサイル対応機能を欠いていると報じたことに対し、連邦検事が大陪審での証言を求める召喚状を出しました。同紙はこれを報道の自由を抑圧する異例の試みとして強く非難しています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260712/k10015174731000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-11T20:00:09+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "81207810",
-      "category": "経済・ビジネス（日本）",
-      "title": "首都モスクワでもガソリン不足で行列 ロシア政府に危機感も",
-      "summary": "ウクライナの石油精製施設への攻撃により、ロシアではガソリン不足が深刻化しており、首都モスクワでも給油待ちの行列が発生して市民の不満が高まっています。ロシア政府のエネルギー政策担当副首相は「状況は依然として厳しい」とコメントし、危機感を示しています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260712/k10015174671000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-11T19:54:27+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "69952803",
-      "category": "経済・ビジネス（日本）",
-      "title": "アマゾン先住民族利用の植物 気候変動で3割減のおそれ",
-      "summary": "南米アマゾンの熱帯雨林で気候変動による気温上昇の影響により、先住民族が薬や食料として利用してきた植物の約3割が失われる可能性があることをスイスの研究グループが発表しました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260712/k10015174401000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-11T19:49:47+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "71413327",
+      "id": "79877725",
       "category": "経済・ビジネス（世界）",
       "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
       "summary": "ドイツの大手スーパーALDIが米国市場で急速な展開を進めており、90億ドルの投資で都市部のマンハッタンなどを標的としています。同社は4ドルのアーモンドバターなど低価格商品を武器に、ウォルマートなどの大手スーパーとの競争に挑みかかっています。ディスカウント販売モデルが米国の既存スーパー業界にどこまで対抗できるかが今後の注目点となります。",
@@ -148,7 +148,17 @@
       "lang": "en"
     },
     {
-      "id": "77768265",
+      "id": "60233348",
+      "category": "経済・ビジネス（世界）",
+      "title": "Reeves tells BBC: Burnham needs worked-through plan to govern from the start",
+      "summary": "財務大臣は、BBC の番組で次期首相に安定した経済を引き継ぐと述べており、バーナム氏は就任当初から実行可能な統治計画を必要としていると述べている。財務大臣は次期首相が初日から効果的に統治するための具体的で綿密な計画を用意しておく必要があると強調している。",
+      "url": "https://www.bbc.co.uk/news/articles/cwykdvgv4d4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-11T12:00:16+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "36874434",
       "category": "経済・ビジネス（世界）",
       "title": "Will Trump Accounts deliver for American children?",
       "summary": "トランプ政権が推進する子ども向け貯蓄口座「トランプ・アカウンツ」は、次世代にアメリカンドリームへの参画機会を与えるものとしてホワイトハウスから賞賛される一方で、この制度に対する批判も存在する。プログラムの実現可能性と実効性に関して、専門家や政策立案者の間でも議論が続いている。",
@@ -158,7 +168,7 @@
       "lang": "en"
     },
     {
-      "id": "51707536",
+      "id": "69515264",
       "category": "経済・ビジネス（世界）",
       "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
       "summary": "ライアンエア傘下のマルタ・エアの便で、乗客が窓から吸い出されかけるという事故が発生し、乗客は医療処置を受けたとライアンエアが確認した。飛行中に発生した窓のトラブルにより、乗客が危険にさらされたが、乗務員の対応により事態は収束した。この事故の詳細については調査が進められている。",
@@ -168,7 +178,7 @@
       "lang": "en"
     },
     {
-      "id": "49136282",
+      "id": "50431912",
       "category": "経済・ビジネス（世界）",
       "title": "Major car firms found not to have installed emissions-cheating devices",
       "summary": "主要な自動車メーカーが排出ガス試験に不正に対応するデバイスを装備していないことが、高等裁判所の判事により判断されました。この判決は、複数の大手自動車製造業者が排出ガスをごまかすための装置を搭載していなかったことを示唆しており、業界における排出規制の遵守状況に関する重要な判断となっています。",
@@ -178,7 +188,7 @@
       "lang": "en"
     },
     {
-      "id": "19759909",
+      "id": "51199504",
       "category": "経済・ビジネス（世界）",
       "title": "EasyJet agrees to surprise takeover bid as rival US firm swoops in",
       "summary": "イージージェットは、米国企業アポロからの買収提案が前回のキャッスルレイク社の提案に優るとして、原則合意した。アポロからの57億ポンドの買収提案がキャッスルレイク社の提案を上回り、同航空会社が新たな買収提案を受け入れることになった。",
@@ -188,7 +198,7 @@
       "lang": "en"
     },
     {
-      "id": "58519917",
+      "id": "20711903",
       "category": "経済・ビジネス（世界）",
       "title": "Vapes to have less enticing names and flavours to protect children",
       "summary": "英国政府は、子どもたちを引き付ける可能性のある魅力的なフレーバー表記を避けるよう電子タバコ企業を規制する計画について国民協議を実施している。この規制により、子どもたちが電子タバコの実験を始めることを防ぐことを目指している。",
@@ -198,7 +208,7 @@
       "lang": "en"
     },
     {
-      "id": "70468177",
+      "id": "11344823",
       "category": "経済・ビジネス（世界）",
       "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
       "summary": "インターネット上で「90秒で涼しくなる」という謳い文句の偽造ポータブルエアコンが蔓延している。英国広告基準局（ASA）は、小型デバイスが素早く室内を冷却できるという広告主張は誇大であり、事実ではないと指摘している。これらの製品は実際には期待された冷却効果をもたらさないもので、消費者に対する詐欺的な販売行為となっている。",
@@ -208,17 +218,7 @@
       "lang": "en"
     },
     {
-      "id": "22386140",
-      "category": "経済・ビジネス（世界）",
-      "title": "Pressure builds on Europe's biggest port to be greener",
-      "summary": "オランダのロッテルダム港は、化石燃料企業への依存を減らすよう求める訴訟により、より迅速な脱炭素化を迫られている。ヨーロッパ最大級の港湾施設として、環境団体から気候変動対策の加速を要求されており、法的圧力が高まっている。この訴訟は、港の経営方針が環境目標の達成に十分ではないことを指摘している。",
-      "url": "https://www.bbc.co.uk/news/articles/c39y78rwrmno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-09T23:00:51+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "76831974",
+      "id": "47813210",
       "category": "テクノロジー・AI",
       "title": "Reed Jobs would rather talk about curing cancer than his last name",
       "summary": "Reed Jobsは自身の名前よりもがん治療について語ることを好む起業家であり、彼が率いるバイオテック企業Yosemiteは過去3年間で急速に成長し、チームは17名に拡大、複数の主要医薬品の特許失効により新たなビジネス機会が生まれ、AIは企業戦略の重要な要素となっている。",
@@ -228,7 +228,7 @@
       "lang": "en"
     },
     {
-      "id": "13946288",
+      "id": "26493912",
       "category": "テクノロジー・AI",
       "title": "This slushie machine was a lifesaver during NYC’s heat wave",
       "summary": "ニューヨークの熱波の中、著者は新しいNinja Slushi Twistスラッシー機を試した結果、毎日のように凍った飲み物が欲しくなる暑さの中、わざわざコンビニに行く必要がなくなったという体験を述べている。Ninjaの最新スラッシー製造機は、元のモデルの人気に基づいて開発されたものである。",
@@ -238,7 +238,7 @@
       "lang": "en"
     },
     {
-      "id": "36972665",
+      "id": "71779931",
       "category": "テクノロジー・AI",
       "title": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
       "summary": "Even Realitiesが開発するスマートグラスは、カメラ機能を搭載せず、会議やプレゼンテーション、複数言語が話される国への出張が多いビジネスパーソンを対象としており、プライバシーを守りながら生産性向上に注力する戦略を取っている。",
@@ -248,7 +248,7 @@
       "lang": "en"
     },
     {
-      "id": "71961115",
+      "id": "61903085",
       "category": "テクノロジー・AI",
       "title": "OpenAI bets on families as ChatGPT goes deeper into households",
       "summary": "OpenAIは家族向けの体験開発に専任のプロダクトマネージャーを配置することで、ChatGPTの家庭内への浸透を深める戦略を進めている。求人情報によると、このポジションは介護者や高齢者を含む家族向けの体験構築に特化するもので、ChatGPTが日常生活の中でより広い層に利用されることを目指している。",
@@ -258,113 +258,123 @@
       "lang": "en"
     },
     {
-      "id": "73988366",
+      "id": "48326136",
       "category": "テクノロジー・AI",
-      "title": "FSB thwarts AI-guided Ukrainian drone plot against Russian airfield",
-      "summary": "ロシアのFSB（連邦保安庁）は、ロストフ・セントラルヌイ軍用飛行場への攻撃を目的としたAI搭載ウクライナドローン13機を没収した。ロシア人が、この作戦のためウクライナ軍情報機関に勧誘された後、当局に通報した。各ドローンには即製爆発装置が搭載されていたと報告されている。",
-      "url": "https://www.naturalnews.com/2026-07-11-fsb-thwarts-ai-guided-ukrainian-drone-plot.html",
-      "source": "Naturalnews.com",
-      "published_at": "2026-07-11T06:00:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "24138180",
-      "category": "テクノロジー・AI",
-      "title": "Leaked Meta Memo Reveals Plans to Double AI Computing Capacity to 14 Gigawatts",
-      "summary": "メタ・プラットフォームズが内部メモで明かしたAIコンピューティング容量を14ギガワットに倍増する計画がロイターによってリークされ、7月9日木曜日の市場開場時に同社の株価は4.3%下落した。この野心的なインフラストラクチャー拡張計画は、生成AI開発における同社の継続的な大規模投資を示している。",
-      "url": "https://www.naturalnews.com/2026-07-11-leaked-meta-memo-plans-double-ai-computing.html",
-      "source": "Naturalnews.com",
-      "published_at": "2026-07-11T06:00:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "34295369",
-      "category": "テクノロジー・AI",
-      "title": "News Outlets Seek Sanctions Against OpenAI in Copyright Dispute",
-      "summary": "ニューヨーク・タイムズを含む複数のニュース媒体が、著作権紛争でOpenAIが証拠を隠匿したとして、連邦判事に対して制裁を求める申し立てを行った。OpenAIは長年にわたる法的紛争で透明性に欠ける対応をしているとして、新聞社側は司法措置を要求している。この訴訟はAIによる報道内容の無許可使用に関わる重要な問題を提起している。",
-      "url": "https://www.naturalnews.com/2026-07-11-news-outlets-seek-sanctions-openai-copyright-dispute.html",
-      "source": "Naturalnews.com",
-      "published_at": "2026-07-11T06:00:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "49372910",
-      "category": "テクノロジー・AI",
-      "title": "Could AI help al-Qaida and other groups plan terror attacks?",
-      "summary": "AI技術がテロ組織による攻撃計画に利用される可能性について、新たな研究が懸念を示している。研究によると、適切な質問をされた場合、AIチャットボットの約3分の1がテロ攻撃の計画を支援する可能性があり、過激派グループの支持者たちがAIにこうした使用法を尋ねることが日常的に起きているという。この調査結果は、AI企業がセキュリティ対策を強化する必要性を浮き彫りにしている。",
-      "url": "https://www.dw.com/en/could-ai-help-al-qaida-and-other-groups-plan-terror-attacks/a-77909676",
-      "source": "DW (English)",
-      "published_at": "2026-07-11T05:48:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "28781203",
-      "category": "台湾・中台関係",
-      "title": "Thousands shelter in Taiwan as Typhoon Bavi lashes Japan islands",
-      "summary": "台湾のケーロン港湾都市では街がほぼ人影のない状態になっており、台風バービーが島内で最も大きな被害を受けることが予想されている地域となっている。台湾全域で数千人が避難所に身を寄せており、同時に日本の島々が台風の直撃を受けている。",
-      "url": "https://www.channelnewsasia.com/east-asia/typhoon-bavi-taiwan-thousands-evacuated-6247921",
-      "source": "CNA",
-      "published_at": "2026-07-11T06:03:11+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "29812934",
-      "category": "台湾・中台関係",
-      "title": "[no title]",
-      "summary": "米国と中国およびその他の世界各国が超知能にどのように対応すべきかについての詳細な予測と推奨事項が示されている。本文では、急速に発展する人工知能技術に対応するため、各国が採取すべき戦略的措置と国際的な協力体制の構築の重要性が強調されている。特に米中間の技術競争と世界的なAIガバナンスの課題に対するアプローチが提案されている。",
-      "url": "https://ai-2040.com/?r=tw",
-      "source": "Ai-2040.com",
-      "published_at": "2026-07-11T05:47:01+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "38343293",
-      "category": "台湾・中台関係",
-      "title": "Martiime Security in the Red Sea",
-      "summary": "紅海における海上安全保障に関する記事で、アデン湾、紅海、インド洋が世界にとって重要な航路であることが述べられている。これらの海域は国際貿易において極めて重要な役割を果たしており、海上安全保障の確保が世界経済の安定に必要不可欠であることが強調されている。",
-      "url": "https://www.americanthinker.com/articles/2026/07/the-law-of-the-sea-and-martiime-security/",
-      "source": "Americanthinker.com",
-      "published_at": "2026-07-11T04:00:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "10886183",
-      "category": "台湾・中台関係",
-      "title": "Several flights from Singapore cancelled as Typhoon Bavi takes aim at Taiwan and China",
-      "summary": "台湾と中国を目指す台風バビにより、シンガポールからの複数便が運航中止となっている。台風バビは30年以上ぶりの大型台風として説明され、すでにアジア地域に大きな被害をもたらしている。この台風は台湾と中国に接近しており、周辺地域の航空運輸に深刻な影響を与えている。",
-      "url": "https://www.channelnewsasia.com/singapore/typhoon-bavi-singapore-flights-cancelled-taiwan-china-6247776",
-      "source": "CNA",
-      "published_at": "2026-07-11T02:38:54+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "15805603",
-      "category": "台湾・中台関係",
-      "title": "Typhoon Bavi lashes Japan's southern islands, Taiwan evacuates thousands",
-      "summary": "台風バービは日本の南西諸島に猛烈な雨風をもたらし、台湾への接近に伴い当局が洪水と土砂崩れの危険性を警告している。台湾当局は強風の影響を受けやすい地域から数千人を避難させており、週末にかけて同国に接近すると予想されている。日本と台湾の両国で防災体制が強化されている。",
-      "url": "https://biztoc.com/x/a9ec11841c718516",
+      "title": "See if you can spot an AI deepfake with our test",
+      "summary": "豪州の研究者の顔写真とAIが生成したディープフェイク画像を見分けるテストが行われており、心理学者のクレア・サザーランド博士が両者を比較して提示しています。AIの技術進化により、リアルな画像の生成が極めて困難になってきており、本物と偽物を区別することがますます難しくなっています。このテストを通じて、人々がディープフェイク技術にどの程度対抗できるかが検証されています。",
+      "url": "https://biztoc.com/x/ac4519c93c12d28f",
       "source": "Biztoc.com",
-      "published_at": "2026-07-11T02:10:50+00:00",
+      "published_at": "2026-07-11T10:12:39+00:00",
       "lang": "en"
     },
     {
-      "id": "32249383",
-      "category": "台湾・中台関係",
-      "title": "Thousands evacuated as Taiwan shuts down for Typhoon Bavi",
-      "summary": "台湾は台風バービーの接近に伴い、1万4千人以上を脆弱地域から避難させ、島全体が閉鎖状態となった。大雨と強風により多くの航空便が欠航となり、ほとんどの都市が台風休場を宣言して、高速鉄道も運行を制限するなど、島全体が対応に当たった。",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/thousands-evacuated-as-taiwan-shuts-down-for-typhoon-bavi/articleshow/132323229.cms",
+      "id": "17257592",
+      "category": "テクノロジー・AI",
+      "title": "Meta added a privacy-safety feature to its AI glasses but is reportedly testing a ‘super-sensing’ prototype",
+      "summary": "メタ社がAIメガネに搭載したプライバシー・安全機能は、ユーザーがLED録画インジケーターを改ざんするとカメラが自動的に無効化される仕組みになっており、一方でメタ社は高度なセンシング機能を備えた試験的プロトタイプの開発も進めているという報告がある。",
+      "url": "https://fortune.com/2026/07/11/meta-ray-ban-smart-glasses-camera-led-light-privacy-safeguard-super-sensing-ai-prototype-covert-recording-concerns/",
+      "source": "Fortune",
+      "published_at": "2026-07-11T10:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "92123008",
+      "category": "テクノロジー・AI",
+      "title": "Is SK Hynix Stock a Good Buy in the US in 2026? Analysts Weigh Risks and Rewards After Nasdaq Debut",
+      "summary": "SK Hynixが米国のナスダック市場でデビューし、米国投資家が韓国の半導体大手に直接投資できるようになった中で、AI需要による好調さがピークを迎えているのか、それとも買い時なのかについて分析家の間で議論が続いている。",
+      "url": "https://www.ibtimes.com.au/sk-hynix-nasdaq-debut-opportunity-peak-1872112",
+      "source": "Ibtimes.com.au",
+      "published_at": "2026-07-11T09:56:58+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "18225598",
+      "category": "テクノロジー・AI",
+      "title": "India set to play larger role in building global fintech infrastructure, says Payoneer",
+      "summary": "インドの金融技術企業が世界第3位のエコシステムの地位を活かし、グローバルなフィンテック基盤の構築においてより大きな役割を担うようになっている。Payoneerなどの国際的なフィンテック企業がプロダクトエンジニアリングやAI、クロスボーダー決済ソリューションの開発をインドに委託する傾向が強まっており、インドはデジタル金融インフラの構築における重要なハブとしての地位を確立しつつある。",
+      "url": "https://economictimes.indiatimes.com/tech/technology/india-set-to-play-larger-role-in-building-global-fintech-infrastructure-says-payoneer/articleshow/132327385.cms",
       "source": "The Times of India",
-      "published_at": "2026-07-11T01:45:24+00:00",
+      "published_at": "2026-07-11T09:24:46+00:00",
       "lang": "en"
     },
     {
-      "id": "81647711",
+      "id": "45876376",
       "category": "台湾・中台関係",
-      "title": "Intel’s comeback play: US government takes 10% stake as Apple and Nvidia partnerships reshape chip supply chains",
-      "summary": "米政府がインテルの10%の株式を取得し、アップルとエヌビディアとのパートナーシップがチップサプライチェーンを再編される中、政府の出資はインテルの戦略転換を後押しする一方で、米国の技術主権を再定義する可能性を持ちながらも、政治的および市場主導型の課題に直面するリスクがある。",
-      "url": "https://cryptobriefing.com/intel-us-government-stake-apple-nvidia-chips/",
-      "source": "Crypto Briefing",
-      "published_at": "2026-07-11T01:06:20+00:00",
+      "title": "Over 900,000 people flee in China as typhoon lashes Taiwan, Japan islands",
+      "summary": "台風バービーが中国で90万人以上の避難を強制し、台湾と日本で広範な停電を引き起こしている。この台風は中国、台湾、日本の島々に大きな被害をもたらしており、被災地域での影響は継続している。",
+      "url": "https://punchng.com/over-900000-people-flee-in-china-as-typhoon-lashes-taiwan-japan-islands/",
+      "source": "The Punch",
+      "published_at": "2026-07-11T09:51:11+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "58119362",
+      "category": "台湾・中台関係",
+      "title": "China evacuates nearly 2M people as Typhoon Bavi barrels towards coast",
+      "summary": "中国当局は台風バービーが沿岸部に向かってくる中、約200万人の避難を実施している。バービーは日曜日早朝に約1000万人が暮らす温州市周辺に上陸する見込みとなっている。中国は大規模な台風対策として、影響を受ける地域の多くの住民を安全な場所へ移動させている。",
+      "url": "https://nypost.com/2026/07/11/world-news/typhoon-bavi-barrels-towards-china-nearly-2m-people-evacuated/",
+      "source": "New York Post",
+      "published_at": "2026-07-11T09:46:50+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "52871915",
+      "category": "台湾・中台関係",
+      "title": "Hundreds of thousands evacuated as Typhoon Bavi barrels towards China",
+      "summary": "台風バビが中国に向かう中、数十万人が避難を余儀なくされている。気象学者によると、超大型台風バビは勢力が弱まったものの、依然として危険性が高いとされており、当局は引き続き厳重な警戒体制を敷いている。",
+      "url": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china",
+      "source": "Al Jazeera English",
+      "published_at": "2026-07-11T09:32:57+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "42558344",
+      "category": "台湾・中台関係",
+      "title": "Taiwan and eastern China brace for Typhoon Bavi as winds and rain hit Japan's southern islands",
+      "summary": "台湾と中国東部は台風バービーに備えている一方、日本の南西諸島は既に強風と豪雨に見舞われている。台風バービーは日本の南西諸島に強風と豪雨をもたらしており、台湾と中国東部への接近が予想されている。",
+      "url": "https://abcnews.com/International/wireStory/taiwan-eastern-china-brace-typhoon-bavi-winds-rain-134670964",
+      "source": "Abcnews.com",
+      "published_at": "2026-07-11T08:52:40+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "41921604",
+      "category": "台湾・中台関係",
+      "title": "Hundreds of thousands evacuated as Typhoon Bavi barrels towards China - Reuters",
+      "summary": "台風バビが中国に向かって接近する中、数十万人が避難を余儀なくされており、既に台湾と日本の南部島嶼地域は強風と豪雨の影響を受けている。台風は東中国地域に最大の被害をもたらすと予想されており、当局は住民に警戒を呼びかけている。このような大規模な自然災害への対応として、複数の地域で大規模な避難作業が進行中である。",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184403284",
+      "source": "Slashdot.org",
+      "published_at": "2026-07-11T08:52:17+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "18553114",
+      "category": "台湾・中台関係",
+      "title": "Over 900,000 people flee homes in China ahead of typhoon",
+      "summary": "中国では台風接近に伴い90万人以上が避難しており、台風は台湾北部と日本の南西諸島に既に影響を与えている。当局によると大規模な避難が進行中で、台風による被害拡大が懸念されている。気象当局は引き続き警戒を呼びかけており、住民の安全確保が最優先となっている。",
+      "url": "https://www.rte.ie/news/world/2026/0711/1582867-typhoon-bavi/",
+      "source": "RTE",
+      "published_at": "2026-07-11T08:33:39+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "26217799",
+      "category": "台湾・中台関係",
+      "title": "Typhoon Bavi: Taiwan, Japan and China face disruption after 17 killed in Philippines",
+      "summary": "台風バービー（バビ）がフィリピンで17人を殺害し、台湾と日本の広い地域で停電を引き起こし、中国では数十万人の避難を強いられている。フィリピンでは土砂災害による被害が深刻であり、台湾と日本では電力網に大きな影響が出ており、中国では上陸前の予防措置として大規模な避難が行われている。",
+      "url": "https://www.dw.com/en/typhoon-bavi-taiwan-japan-and-china-face-disruption-after-17-killed-in-philippines/a-77914270",
+      "source": "DW (English)",
+      "published_at": "2026-07-11T08:21:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "68988320",
+      "category": "台湾・中台関係",
+      "title": "Typhoon Bavi: China, Taiwan and Japan face disruption after 17 killed in Philippines",
+      "summary": "台風バビにより、フィリピンでは17人が死亡し、中国では数十万人の避難が強制され、日本と台湾では停電が発生し、フィリピンではさらに致命的な土砂崩れが引き起こされた。この台風は中国、台湾、日本に広範な混乱をもたらしている。",
+      "url": "https://www.dw.com/en/typhoon-bavi-china-taiwan-and-japan-face-disruption-after-17-killed-in-philippines/a-77914270",
+      "source": "DW (English)",
+      "published_at": "2026-07-11T08:21:00+00:00",
       "lang": "en"
     }
   ]
