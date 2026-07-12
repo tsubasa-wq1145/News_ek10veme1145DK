@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T10:18:50.145484+00:00",
+  "updated_at": "2026-07-12T14:27:41.182776+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -58,7 +58,7 @@
   ],
   "news": [
     {
-      "id": "10896211",
+      "id": "34817507",
       "category": "経済・ビジネス（日本）",
       "title": "米軍「140か所の標的への攻撃完了」不安定な情勢続く",
       "summary": "イランの革命防衛隊がホルムズ海峡で警告射撃を行い海峡封鎖を主張する一方、米軍はコンテナ船がイランに攻撃されたとしてイランへの攻撃を開始したと発表し、中東地域の緊張がさらに高まっています。",
@@ -68,7 +68,7 @@
       "lang": "ja"
     },
     {
-      "id": "69658457",
+      "id": "86011181",
       "category": "経済・ビジネス（日本）",
       "title": "ウクライナ ロシアへの長距離攻撃担う司令部創設へ",
       "summary": "ウクライナのゼレンスキー大統領がロシアへの長距離攻撃を専門とする司令部の創設を発表しました。ロシアの石油関連施設への攻撃で燃料不足が広がっており、ウクライナは今後こうした攻撃を一層強化してロシアへの圧力を強める方針です。",
@@ -78,7 +78,7 @@
       "lang": "ja"
     },
     {
-      "id": "45446522",
+      "id": "59712699",
       "category": "経済・ビジネス（日本）",
       "title": "ベネズエラ大地震 “パンケーキクラッシュ”相次ぐ 専門家",
       "summary": "ベネズエラの先月の大地震で、建物がほぼ垂直に崩れる「パンケーキクラッシュ」が相次いだことが専門家の調査で判明しました。軟弱な地盤と建物の強度不足が原因で、最も被害が深刻な地域では約1万棟が使用不可になったと推計されています。",
@@ -88,7 +88,7 @@
       "lang": "ja"
     },
     {
-      "id": "19385387",
+      "id": "57073200",
       "category": "経済・ビジネス（日本）",
       "title": "日本ではホルムズ海峡を通らない代替ルートでの原油調達が進む",
       "summary": "日本政府はホルムズ海峡が封鎖されたことを受けて、同海峡を経由しない代替ルートでの原油調達を進めており、これにより原油輸入量の減少幅が縮小傾向にある。",
@@ -98,7 +98,7 @@
       "lang": "ja"
     },
     {
-      "id": "91196962",
+      "id": "33851677",
       "category": "経済・ビジネス（日本）",
       "title": "イラン革命防衛隊「追って通知あるまでホルムズ海峡は封鎖」",
       "summary": "アメリカはイランに対してホルムズ海峡の開放と船舶攻撃の中止を宣言するよう求めているが、イラン最高指導者モジタバ師は「復讐は必ず実現する」とアメリカを念頭に対決姿勢を強調し、両国間の緊張が高まっている。",
@@ -108,7 +108,7 @@
       "lang": "ja"
     },
     {
-      "id": "55900681",
+      "id": "45341885",
       "category": "経済・ビジネス（日本）",
       "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月12日の動き）",
       "summary": "ロシアによるウクライナへの軍事侵攻が続いており、ウクライナ全土でロシア軍とウクライナ軍の戦闘が激化している中、多くの市民が国外への避難を余儀なくされています。本記事は7月12日の戦闘状況と関係国の外交動向を随時更新でお伝えするものです。",
@@ -118,7 +118,7 @@
       "lang": "ja"
     },
     {
-      "id": "37693217",
+      "id": "36759753",
       "category": "経済・ビジネス（日本）",
       "title": "【詳細】ロシア ウクライナに軍事侵攻（7月11日の動き）",
       "summary": "ロシアによるウクライナへの軍事侵攻が継続しており、各地でロシア軍とウクライナ軍の戦闘が続いている。多くの市民が国外への避難を余儀なくされ、7月11日の戦闘状況や関連国の外交動向などウクライナ情勢の最新情報が報じられている。",
@@ -128,7 +128,7 @@
       "lang": "ja"
     },
     {
-      "id": "25577990",
+      "id": "88805589",
       "category": "経済・ビジネス（日本）",
       "title": "ウクライナ ロシアの攻撃で7人死亡 大統領は支援加速訴え",
       "summary": "ロシア軍が11日にウクライナ各地を弾道ミサイルで攻撃し、7人が死亡しました。ゼレンスキー大統領はNATO首脳会議で合意された各国からの支援が早期に実行されるよう求めています。",
@@ -138,7 +138,7 @@
       "lang": "ja"
     },
     {
-      "id": "79877725",
+      "id": "97499435",
       "category": "経済・ビジネス（世界）",
       "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
       "summary": "ドイツの大手スーパーALDIが米国市場で急速な展開を進めており、90億ドルの投資で都市部のマンハッタンなどを標的としています。同社は4ドルのアーモンドバターなど低価格商品を武器に、ウォルマートなどの大手スーパーとの競争に挑みかかっています。ディスカウント販売モデルが米国の既存スーパー業界にどこまで対抗できるかが今後の注目点となります。",
@@ -148,7 +148,7 @@
       "lang": "en"
     },
     {
-      "id": "60233348",
+      "id": "52840505",
       "category": "経済・ビジネス（世界）",
       "title": "Reeves tells BBC: Burnham needs worked-through plan to govern from the start",
       "summary": "財務大臣は、BBC の番組で次期首相に安定した経済を引き継ぐと述べており、バーナム氏は就任当初から実行可能な統治計画を必要としていると述べている。財務大臣は次期首相が初日から効果的に統治するための具体的で綿密な計画を用意しておく必要があると強調している。",
@@ -158,7 +158,7 @@
       "lang": "en"
     },
     {
-      "id": "36874434",
+      "id": "65887422",
       "category": "経済・ビジネス（世界）",
       "title": "Will Trump Accounts deliver for American children?",
       "summary": "トランプ政権が推進する子ども向け貯蓄口座「トランプ・アカウンツ」は、次世代にアメリカンドリームへの参画機会を与えるものとしてホワイトハウスから賞賛される一方で、この制度に対する批判も存在する。プログラムの実現可能性と実効性に関して、専門家や政策立案者の間でも議論が続いている。",
@@ -168,7 +168,7 @@
       "lang": "en"
     },
     {
-      "id": "69515264",
+      "id": "65310378",
       "category": "経済・ビジネス（世界）",
       "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
       "summary": "ライアンエア傘下のマルタ・エアの便で、乗客が窓から吸い出されかけるという事故が発生し、乗客は医療処置を受けたとライアンエアが確認した。飛行中に発生した窓のトラブルにより、乗客が危険にさらされたが、乗務員の対応により事態は収束した。この事故の詳細については調査が進められている。",
@@ -178,7 +178,7 @@
       "lang": "en"
     },
     {
-      "id": "50431912",
+      "id": "26073558",
       "category": "経済・ビジネス（世界）",
       "title": "Major car firms found not to have installed emissions-cheating devices",
       "summary": "主要な自動車メーカーが排出ガス試験に不正に対応するデバイスを装備していないことが、高等裁判所の判事により判断されました。この判決は、複数の大手自動車製造業者が排出ガスをごまかすための装置を搭載していなかったことを示唆しており、業界における排出規制の遵守状況に関する重要な判断となっています。",
@@ -188,7 +188,7 @@
       "lang": "en"
     },
     {
-      "id": "51199504",
+      "id": "79707521",
       "category": "経済・ビジネス（世界）",
       "title": "EasyJet agrees to surprise takeover bid as rival US firm swoops in",
       "summary": "イージージェットは、米国企業アポロからの買収提案が前回のキャッスルレイク社の提案に優るとして、原則合意した。アポロからの57億ポンドの買収提案がキャッスルレイク社の提案を上回り、同航空会社が新たな買収提案を受け入れることになった。",
@@ -198,7 +198,7 @@
       "lang": "en"
     },
     {
-      "id": "20711903",
+      "id": "57233686",
       "category": "経済・ビジネス（世界）",
       "title": "Vapes to have less enticing names and flavours to protect children",
       "summary": "英国政府は、子どもたちを引き付ける可能性のある魅力的なフレーバー表記を避けるよう電子タバコ企業を規制する計画について国民協議を実施している。この規制により、子どもたちが電子タバコの実験を始めることを防ぐことを目指している。",
@@ -208,7 +208,7 @@
       "lang": "en"
     },
     {
-      "id": "11344823",
+      "id": "12524446",
       "category": "経済・ビジネス（世界）",
       "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
       "summary": "インターネット上で「90秒で涼しくなる」という謳い文句の偽造ポータブルエアコンが蔓延している。英国広告基準局（ASA）は、小型デバイスが素早く室内を冷却できるという広告主張は誇大であり、事実ではないと指摘している。これらの製品は実際には期待された冷却効果をもたらさないもので、消費者に対する詐欺的な販売行為となっている。",
@@ -218,7 +218,17 @@
       "lang": "en"
     },
     {
-      "id": "47813210",
+      "id": "72814882",
+      "category": "テクノロジー・AI",
+      "title": "The fight against AI data centers is just beginning",
+      "summary": "AI データセンター建設に対する地域社会の反発が拡大しており、電力需要の急増や環境への懸念から、今後さらに激しくなることが予想されている。大規模言語モデルの学習には膨大な電力が必要となるため、テクノロジー企業は新しいデータセンターの建設を進めているが、地元住民からの抵抗が増加している。この問題はテック業界において最重要課題の一つとなってきており、企業と地域社会の間の葛藤はこれからが本番である。",
+      "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+      "source": "AI | The Verge",
+      "published_at": "2026-07-12T12:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "71612709",
       "category": "テクノロジー・AI",
       "title": "Reed Jobs would rather talk about curing cancer than his last name",
       "summary": "Reed Jobsは自身の名前よりもがん治療について語ることを好む起業家であり、彼が率いるバイオテック企業Yosemiteは過去3年間で急速に成長し、チームは17名に拡大、複数の主要医薬品の特許失効により新たなビジネス機会が生まれ、AIは企業戦略の重要な要素となっている。",
@@ -228,7 +238,7 @@
       "lang": "en"
     },
     {
-      "id": "26493912",
+      "id": "16294685",
       "category": "テクノロジー・AI",
       "title": "This slushie machine was a lifesaver during NYC’s heat wave",
       "summary": "ニューヨークの熱波の中、著者は新しいNinja Slushi Twistスラッシー機を試した結果、毎日のように凍った飲み物が欲しくなる暑さの中、わざわざコンビニに行く必要がなくなったという体験を述べている。Ninjaの最新スラッシー製造機は、元のモデルの人気に基づいて開発されたものである。",
@@ -238,7 +248,7 @@
       "lang": "en"
     },
     {
-      "id": "71779931",
+      "id": "74933716",
       "category": "テクノロジー・AI",
       "title": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
       "summary": "Even Realitiesが開発するスマートグラスは、カメラ機能を搭載せず、会議やプレゼンテーション、複数言語が話される国への出張が多いビジネスパーソンを対象としており、プライバシーを守りながら生産性向上に注力する戦略を取っている。",
@@ -248,7 +258,27 @@
       "lang": "en"
     },
     {
-      "id": "61903085",
+      "id": "71170174",
+      "category": "テクノロジー・AI",
+      "title": "Batwoman #5 Preview: Kate Volunteers as Tribute for Darkseid",
+      "summary": "バットウーマン第5号のプレビューにおいて、ケイトがダークサイドへの生け贄として立候補するという展開が予告されている。この記事はBleedingCoolのコミックブック予告コーナーで、AIキャラクターのLOLtronが進行する形式となっており、以前の記事で登場していたジュード・テラーというキャラクターが再び言及されている。詳細な物語展開についての完全な情報は提供されていないが、バットウーマンがダークサイドに関連したストーリーラインに巻き込まれることが示唆されている。",
+      "url": "https://bleedingcool.com/comics/batwoman-5-preview-kate-volunteers-as-tribute-for-darkseid/",
+      "source": "Bleeding Cool News",
+      "published_at": "2026-07-11T14:26:09+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "50709348",
+      "category": "テクノロジー・AI",
+      "title": "Datadog Stock Is Way Too Risky Right Now",
+      "summary": "DatadogはAIの発展とサイバーセキュリティ産業の追い風により、保護すべきデータポイントが増加している中で成長を遂げている。同社のクラウドスケールインフラストラクチャにより企業の監視が容易になる一方で、現在の株価は割高であり投資リスクが高い状態にあると指摘されている。",
+      "url": "https://biztoc.com/x/373a775700eac38e",
+      "source": "Biztoc.com",
+      "published_at": "2026-07-11T14:16:39+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "41015110",
       "category": "テクノロジー・AI",
       "title": "OpenAI bets on families as ChatGPT goes deeper into households",
       "summary": "OpenAIは家族向けの体験開発に専任のプロダクトマネージャーを配置することで、ChatGPTの家庭内への浸透を深める戦略を進めている。求人情報によると、このポジションは介護者や高齢者を含む家族向けの体験構築に特化するもので、ChatGPTが日常生活の中でより広い層に利用されることを目指している。",
@@ -258,123 +288,93 @@
       "lang": "en"
     },
     {
-      "id": "48326136",
+      "id": "55535094",
       "category": "テクノロジー・AI",
-      "title": "See if you can spot an AI deepfake with our test",
-      "summary": "豪州の研究者の顔写真とAIが生成したディープフェイク画像を見分けるテストが行われており、心理学者のクレア・サザーランド博士が両者を比較して提示しています。AIの技術進化により、リアルな画像の生成が極めて困難になってきており、本物と偽物を区別することがますます難しくなっています。このテストを通じて、人々がディープフェイク技術にどの程度対抗できるかが検証されています。",
-      "url": "https://biztoc.com/x/ac4519c93c12d28f",
-      "source": "Biztoc.com",
-      "published_at": "2026-07-11T10:12:39+00:00",
+      "title": "‘Boko Haram uses AI to make bombs, plot operations’",
+      "summary": "ボコ・ハラムがAIを使用して爆弾製造と作戦計画を行っているとされている。グループは人工知能を活用して爆薬の化学成分を最適化し、より大きな爆発力を実現していると報告されている。この技術的進化により、テロ組織の能力がさらに高まった可能性がある。",
+      "url": "https://www.vanguardngr.com/2026/07/boko-haram-uses-ai-to-make-bombs-plot-operations/",
+      "source": "Vanguard",
+      "published_at": "2026-07-11T14:08:05+00:00",
       "lang": "en"
     },
     {
-      "id": "17257592",
-      "category": "テクノロジー・AI",
-      "title": "Meta added a privacy-safety feature to its AI glasses but is reportedly testing a ‘super-sensing’ prototype",
-      "summary": "メタ社がAIメガネに搭載したプライバシー・安全機能は、ユーザーがLED録画インジケーターを改ざんするとカメラが自動的に無効化される仕組みになっており、一方でメタ社は高度なセンシング機能を備えた試験的プロトタイプの開発も進めているという報告がある。",
-      "url": "https://fortune.com/2026/07/11/meta-ray-ban-smart-glasses-camera-led-light-privacy-safeguard-super-sensing-ai-prototype-covert-recording-concerns/",
-      "source": "Fortune",
-      "published_at": "2026-07-11T10:00:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "92123008",
-      "category": "テクノロジー・AI",
-      "title": "Is SK Hynix Stock a Good Buy in the US in 2026? Analysts Weigh Risks and Rewards After Nasdaq Debut",
-      "summary": "SK Hynixが米国のナスダック市場でデビューし、米国投資家が韓国の半導体大手に直接投資できるようになった中で、AI需要による好調さがピークを迎えているのか、それとも買い時なのかについて分析家の間で議論が続いている。",
-      "url": "https://www.ibtimes.com.au/sk-hynix-nasdaq-debut-opportunity-peak-1872112",
-      "source": "Ibtimes.com.au",
-      "published_at": "2026-07-11T09:56:58+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "18225598",
-      "category": "テクノロジー・AI",
-      "title": "India set to play larger role in building global fintech infrastructure, says Payoneer",
-      "summary": "インドの金融技術企業が世界第3位のエコシステムの地位を活かし、グローバルなフィンテック基盤の構築においてより大きな役割を担うようになっている。Payoneerなどの国際的なフィンテック企業がプロダクトエンジニアリングやAI、クロスボーダー決済ソリューションの開発をインドに委託する傾向が強まっており、インドはデジタル金融インフラの構築における重要なハブとしての地位を確立しつつある。",
-      "url": "https://economictimes.indiatimes.com/tech/technology/india-set-to-play-larger-role-in-building-global-fintech-infrastructure-says-payoneer/articleshow/132327385.cms",
-      "source": "The Times of India",
-      "published_at": "2026-07-11T09:24:46+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "45876376",
+      "id": "56067642",
       "category": "台湾・中台関係",
-      "title": "Over 900,000 people flee in China as typhoon lashes Taiwan, Japan islands",
-      "summary": "台風バービーが中国で90万人以上の避難を強制し、台湾と日本で広範な停電を引き起こしている。この台風は中国、台湾、日本の島々に大きな被害をもたらしており、被災地域での影響は継続している。",
-      "url": "https://punchng.com/over-900000-people-flee-in-china-as-typhoon-lashes-taiwan-japan-islands/",
+      "title": "What we know about the deadly charter boat sinking off B.C.’s coast",
+      "summary": "ブリティッシュコロンビア州リッチモンド沖で起きたチャーター船の沈没事故について、乗船していた人々、船に対する懸念、および運航会社の調査について報道されている。この記事は事故の詳細、被害者、安全上の問題、そして関連する調査内容をまとめたものである。",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/explainer-bc-charter-fatal-sinking-near-richmond-9.7266516",
+      "source": "CBC News",
+      "published_at": "2026-07-11T14:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "82650357",
+      "category": "台湾・中台関係",
+      "title": "China evacuates over 1 million as Typhoon Bavi brushes past Taiwan, pummels southern Japan",
+      "summary": "台風バビが台湾沖を通過し日本南部を襲う中、中国は100万人以上の住民を避難させた。台風の上陸に備えて大規模な避難作業が進められており、被害の最小化に向けた準備が急速に進められている。",
+      "url": "https://www.cbc.ca/news/world/typhoon-bavi-evacuations-china-9.7266891",
+      "source": "CBC News",
+      "published_at": "2026-07-11T13:32:23+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "81978627",
+      "category": "台湾・中台関係",
+      "title": "Inside the marriage of Sen. Mitch McConnell and his wife, former Transportation Secretary Elaine Chao",
+      "summary": "ミッチ・マコネル上院議員（84歳）は約4週間入院しており、彼の健康状態についての憶測が生じている。マコネル議員は元運輸長官のイレーン・チャオ夫人と結婚しており、彼の健康問題は政治的な注目を集めている。長年の公的キャリアを持つマコネル議員の現在の状況は、共和党内での権力構造に影響を与える可能性がある。",
+      "url": "https://www.businessinsider.com/mitch-mcconnell-wife-elaine-chao-relationship-timeline#article",
+      "source": "Business Insider",
+      "published_at": "2026-07-11T13:28:02+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "21208387",
+      "category": "台湾・中台関係",
+      "title": "FULL LIST: UK confirms countries that need visas for stays under six months",
+      "summary": "英国内務省が移民規則を更新し、6ヶ月未満の滞在でもビザが必要な国の最新リストを確認しました。この規則変更により、特定の国の国民は短期滞在でも事前にビザ申請を行う必要があります。詳細なリストは英国内務省の公式発表で確認できます。",
+      "url": "https://punchng.com/full-list-uk-confirms-countries-that-need-visas-for-stays-under-six-months/",
       "source": "The Punch",
-      "published_at": "2026-07-11T09:51:11+00:00",
+      "published_at": "2026-07-11T13:06:56+00:00",
       "lang": "en"
     },
     {
-      "id": "58119362",
+      "id": "70738058",
       "category": "台湾・中台関係",
-      "title": "China evacuates nearly 2M people as Typhoon Bavi barrels towards coast",
-      "summary": "中国当局は台風バービーが沿岸部に向かってくる中、約200万人の避難を実施している。バービーは日曜日早朝に約1000万人が暮らす温州市周辺に上陸する見込みとなっている。中国は大規模な台風対策として、影響を受ける地域の多くの住民を安全な場所へ移動させている。",
-      "url": "https://nypost.com/2026/07/11/world-news/typhoon-bavi-barrels-towards-china-nearly-2m-people-evacuated/",
-      "source": "New York Post",
-      "published_at": "2026-07-11T09:46:50+00:00",
+      "title": "Why Taiwan and Malaysia's luxury fruit growers have a complex relationship with China",
+      "summary": "台湾のアテモヤ釈迦と マレーシアのムサンキンドリアンは、どちらも高級果実として中国市場で非常に需要が高く、両国の農家は中国への輸出による経済的利益と政治的リスクのバランスに直面している。台湾産とマレーシア産の高級果実は品質の高さで世界的に認められており、中国の裕福な消費者からの需要が急速に増加していることが、この複雑な関係の背景にある。",
+      "url": "https://www.bbc.co.uk/programmes/p0ny2ch3",
+      "source": "BBC News",
+      "published_at": "2026-07-11T12:30:00+00:00",
       "lang": "en"
     },
     {
-      "id": "52871915",
+      "id": "38764956",
       "category": "台湾・中台関係",
-      "title": "Hundreds of thousands evacuated as Typhoon Bavi barrels towards China",
-      "summary": "台風バビが中国に向かう中、数十万人が避難を余儀なくされている。気象学者によると、超大型台風バビは勢力が弱まったものの、依然として危険性が高いとされており、当局は引き続き厳重な警戒体制を敷いている。",
-      "url": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china",
+      "title": "China prepares as Typhoon Bavi leaves Taiwan",
+      "summary": "台湾を襲ったバビ台風が通過した後、中国は台風への準備を進めている。バビ台風は台湾を離れたが、その後中国沿岸部に接近すると予報されており、広東州などの地域で大雨と強風が予想されている。中国当局は警報を発令し、住民に対して安全対策を講じるよう呼びかけている。",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/china-prepares-as-typhoon-bavi-leaves-taiwan",
       "source": "Al Jazeera English",
-      "published_at": "2026-07-11T09:32:57+00:00",
+      "published_at": "2026-07-11T12:17:45+00:00",
       "lang": "en"
     },
     {
-      "id": "42558344",
+      "id": "39358326",
       "category": "台湾・中台関係",
-      "title": "Taiwan and eastern China brace for Typhoon Bavi as winds and rain hit Japan's southern islands",
-      "summary": "台湾と中国東部は台風バービーに備えている一方、日本の南西諸島は既に強風と豪雨に見舞われている。台風バービーは日本の南西諸島に強風と豪雨をもたらしており、台湾と中国東部への接近が予想されている。",
-      "url": "https://abcnews.com/International/wireStory/taiwan-eastern-china-brace-typhoon-bavi-winds-rain-134670964",
-      "source": "Abcnews.com",
-      "published_at": "2026-07-11T08:52:40+00:00",
+      "title": "China evacuates more than one million people as region braces for Typhoon Bavi",
+      "summary": "中国は台風バービに備えて100万人以上を避難させており、一方フィリピン南部では激しい雨が引き起こした土砂崩れで少なくとも17人が死亡している。台風の接近に伴い、中国の複数の地域で大規模な避難作業が進められている。",
+      "url": "https://www.irishtimes.com/world/asia-pacific/2026/07/11/china-evacuates-more-than-one-million-people-as-region-braces-for-typhoon-bavi/",
+      "source": "The Irish Times",
+      "published_at": "2026-07-11T12:08:15+00:00",
       "lang": "en"
     },
     {
-      "id": "41921604",
+      "id": "80948674",
       "category": "台湾・中台関係",
-      "title": "Hundreds of thousands evacuated as Typhoon Bavi barrels towards China - Reuters",
-      "summary": "台風バビが中国に向かって接近する中、数十万人が避難を余儀なくされており、既に台湾と日本の南部島嶼地域は強風と豪雨の影響を受けている。台風は東中国地域に最大の被害をもたらすと予想されており、当局は住民に警戒を呼びかけている。このような大規模な自然災害への対応として、複数の地域で大規模な避難作業が進行中である。",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184403284",
-      "source": "Slashdot.org",
-      "published_at": "2026-07-11T08:52:17+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "18553114",
-      "category": "台湾・中台関係",
-      "title": "Over 900,000 people flee homes in China ahead of typhoon",
-      "summary": "中国では台風接近に伴い90万人以上が避難しており、台風は台湾北部と日本の南西諸島に既に影響を与えている。当局によると大規模な避難が進行中で、台風による被害拡大が懸念されている。気象当局は引き続き警戒を呼びかけており、住民の安全確保が最優先となっている。",
-      "url": "https://www.rte.ie/news/world/2026/0711/1582867-typhoon-bavi/",
-      "source": "RTE",
-      "published_at": "2026-07-11T08:33:39+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "26217799",
-      "category": "台湾・中台関係",
-      "title": "Typhoon Bavi: Taiwan, Japan and China face disruption after 17 killed in Philippines",
-      "summary": "台風バービー（バビ）がフィリピンで17人を殺害し、台湾と日本の広い地域で停電を引き起こし、中国では数十万人の避難を強いられている。フィリピンでは土砂災害による被害が深刻であり、台湾と日本では電力網に大きな影響が出ており、中国では上陸前の予防措置として大規模な避難が行われている。",
-      "url": "https://www.dw.com/en/typhoon-bavi-taiwan-japan-and-china-face-disruption-after-17-killed-in-philippines/a-77914270",
-      "source": "DW (English)",
-      "published_at": "2026-07-11T08:21:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "68988320",
-      "category": "台湾・中台関係",
-      "title": "Typhoon Bavi: China, Taiwan and Japan face disruption after 17 killed in Philippines",
-      "summary": "台風バビにより、フィリピンでは17人が死亡し、中国では数十万人の避難が強制され、日本と台湾では停電が発生し、フィリピンではさらに致命的な土砂崩れが引き起こされた。この台風は中国、台湾、日本に広範な混乱をもたらしている。",
-      "url": "https://www.dw.com/en/typhoon-bavi-china-taiwan-and-japan-face-disruption-after-17-killed-in-philippines/a-77914270",
-      "source": "DW (English)",
-      "published_at": "2026-07-11T08:21:00+00:00",
+      "title": "China braced for second typhoon in a week as Bavi approaches landfall",
+      "summary": "中国は1週間で2番目の台風の上陸に備えており、台風バビが接近している。浙江省東部から数十万人が避難し、温州市が台風の進路に近い位置にある。",
+      "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo",
+      "source": "BBC News",
+      "published_at": "2026-07-11T12:06:47+00:00",
       "lang": "en"
     }
   ]
