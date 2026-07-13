@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T06:22:28.696703+00:00",
+  "updated_at": "2026-07-13T11:52:28.756823+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -58,7 +58,47 @@
   ],
   "news": [
     {
-      "id": "60443196",
+      "id": "80996402",
+      "category": "経済・ビジネス（日本）",
+      "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月13日の動き）",
+      "summary": "ロシアによるウクライナ侵攻が継続中で、各地での戦闘により多くの市民が国外への避難を余儀なくされている。本記事では7月13日のウクライナ情勢における戦闘状況と各国の外交動向を随時更新で報告している。",
+      "url": "http://www3.nhk.or.jp/news/html/20260713/k10015140941000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-13T11:44:38+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "72673465",
+      "category": "経済・ビジネス（日本）",
+      "title": "米・イラン攻撃の応酬 1週間で4回目 中東の米軍施設を攻撃",
+      "summary": "アメリカ中央軍は12日、イランへの追加攻撃を開始したことを発表しました。イランの革命防衛隊がホルムズ海峡の封鎖を表明したのに対し、アメリカ軍はイランが海峡を支配していないと主張しており、中東地域の緊張が高まっています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175301000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-13T10:17:31+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "82369897",
+      "category": "経済・ビジネス（日本）",
+      "title": "ホルムズ海峡代替ルートでの原油調達進める 資源エネルギー庁",
+      "summary": "イランの革命防衛隊がホルムズ海峡の封鎖を表明したことを受け、資源エネルギー庁は情勢の安定化には時間がかかるとみて、海峡を経由しない代替ルートでの原油調達を継続する方針を示した。",
+      "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175821000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-13T09:29:47+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "22753263",
+      "category": "経済・ビジネス（日本）",
+      "title": "ベネズエラ大地震 被害の実態把握なお課題",
+      "summary": "ベネズエラの先月の大地震では捜索が難航する中で死者が4400人を超え、建物被害も政府発表を上回る推計が出ており、被害の実態把握と国際社会への情報公開が支援受入の課題となっている。",
+      "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175261000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-13T07:45:36+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "80859751",
       "category": "経済・ビジネス（日本）",
       "title": "南シナ海問題で中国外務省が日本大使館公使呼び出し 日本反論",
       "summary": "南シナ海の領有権をめぐる国際仲裁裁判の判断について、日本の茂木外務大臣が談話を発表したことに対し、中国外務省が日本大使館の公使を呼び出して抗議しました。日本側は政府の立場を説明して反論しています。",
@@ -68,9 +108,9 @@
       "lang": "ja"
     },
     {
-      "id": "49841141",
+      "id": "83800319",
       "category": "経済・ビジネス（日本）",
-      "title": "タイ 飲食店で火災 27人死亡 約60人けが 日本人被害確認されず",
+      "title": "タイ 27人死亡の飲食店火災 非常口使えなかった可能性調べる",
       "summary": "タイの首都バンコクにある飲食店で13日未明に大規模な火災が発生し、AP通信の報道によると少なくとも27人が死亡した。",
       "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175291000.html",
       "source": "NHKニュース|国際",
@@ -78,7 +118,7 @@
       "lang": "ja"
     },
     {
-      "id": "41862020",
+      "id": "25093200",
       "category": "経済・ビジネス（日本）",
       "title": "“日本はロシア軍のハイテク物資調達の拠点” NYタイムズ",
       "summary": "ニューヨーク・タイムズ紙が、日本がロシア情報機関の活動により、ウクライナ侵攻に必要なハイテク物資調達の拠点になっていると報じた。ロシアが日本経由でハイテク製品や物資を入手し、軍事作戦に利用している可能性を指摘している。",
@@ -88,7 +128,7 @@
       "lang": "ja"
     },
     {
-      "id": "26325684",
+      "id": "86293584",
       "category": "経済・ビジネス（日本）",
       "title": "南シナ海めぐる仲裁裁判から10年 14か国共同声明に中国が声明",
       "summary": "南シナ海の領有権をめぐる仲裁判断から10年を迎え、日本を含む14か国が中国に判断の順守を求める共同声明を発表しました。これに対し中国外務省は当該判断を「拘束力のない紙くずだ」と反論し、自国の主張の正当性を改めて主張しています。",
@@ -98,67 +138,17 @@
       "lang": "ja"
     },
     {
-      "id": "40131864",
-      "category": "経済・ビジネス（日本）",
-      "title": "アメリカ中央軍 イランへ追加攻撃発表 協議再開か不透明",
-      "summary": "アメリカ中央軍は12日、イランへの追加攻撃を開始したことを発表しました。イランの革命防衛隊がホルムズ海峡の封鎖を表明したのに対し、アメリカ軍はイランが海峡を支配していないと主張しており、中東地域の緊張が高まっています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175301000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-13T02:53:40+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "10390266",
-      "category": "経済・ビジネス（日本）",
-      "title": "イスラエル 10月27日総選挙へ ネタニヤフ首相続投が焦点",
-      "summary": "イスラエルは10月27日に総選挙を実施し、ガザ地区での軍事作戦をめぐる批判が高まっているネタニヤフ首相の続投の可否が注視されている。",
-      "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175331000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-12T23:50:08+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "49179804",
-      "category": "経済・ビジネス（日本）",
-      "title": "ミャンマー情勢めぐりASEAN外相会議 ミャンマーから初参加",
-      "summary": "ASEANがタイで開いたミャンマー情勢を巡る非公式外相会議にミャンマー側から外相が参加し、これは2019年の軍クーデター以降初めてのこととなりました。ミャンマーの外相は軍の影響力が強い現政権によって任命された人物です。",
-      "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175241000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-12T23:10:07+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "99251754",
-      "category": "経済・ビジネス（日本）",
-      "title": "米共和党の重鎮 グラム上院議員が死去 対イラン強硬派",
-      "summary": "米共和党の重鎮で対イラン強硬派として知られ、トランプ大統領と緊密な関係にあったリンゼー・グラム上院議員が11日に71歳で亡くなりました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175341000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-12T23:06:11+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "77203429",
+      "id": "57623469",
       "category": "経済・ビジネス（世界）",
-      "title": "The SpaceX IPO made history. Is the excitement still there?",
+      "title": "The SpaceX IPO made history. One month on has it lost momentum?",
       "summary": "SpaceXが株式公開から1ヶ月経過し、同社の現在の収益源がより明確になってきた。当初の興奮が冷め、市場はSpaceXの実際のビジネスモデルと利益構造に対する現実的な評価を始めており、初期段階での高い期待値がどの程度維持されるかが注目されている。",
       "url": "https://www.bbc.co.uk/news/articles/c3wyj6e4210o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published_at": "2026-07-13T05:01:54+00:00",
+      "published_at": "2026-07-13T11:45:25+00:00",
       "lang": "en"
     },
     {
-      "id": "95237115",
-      "category": "経済・ビジネス（世界）",
-      "title": "US and Iran trade fire as tensions rise over Strait of Hormuz",
-      "summary": "ホルムズ海峡をめぐって緊張が高まる中、米国とイランが相互に攻撃を加えた。米国による新たな攻撃の数時間後、イランはクウェート、ヨルダン、バーレーンの米軍基地を攻撃したと発表した。両国の対立の激化により、中東地域の安全保障情勢が深刻化している。",
-      "url": "https://www.bbc.co.uk/news/articles/cevlr112pmgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-13T05:00:46+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "11180031",
+      "id": "47851290",
       "category": "経済・ビジネス（世界）",
       "title": "10 years of Pokémon Go and the millions still trying to catch 'em all",
       "summary": "ポケモンGOは今年でサービス開始から10年を迎え、今なお数百万人のプレイヤーが全ポケモンの捕獲を目指し続けている。ゲームの所有会社Scopelyのマイケル・ステランカ副社長は、このゲームの本質は常に人々を一堂に集めることにあると述べている。",
@@ -168,7 +158,7 @@
       "lang": "en"
     },
     {
-      "id": "72241693",
+      "id": "87109869",
       "category": "経済・ビジネス（世界）",
       "title": "New era for Gibraltar with removal of 118-year-old border controls with Spain",
       "summary": "ジブラルタルとスペイン間の118年続いた国境管理が撤廃され、英国領土とスペイン間の自由な人および物資の移動が可能になった。この変化は両地域の経済活動を活発化させ、経済的な成長をもたらすことが期待されている。",
@@ -178,9 +168,9 @@
       "lang": "en"
     },
     {
-      "id": "68306678",
+      "id": "41468601",
       "category": "経済・ビジネス（世界）",
-      "title": "Why switching to save money is easier than you might think",
+      "title": "How to change bank, energy or broadband provider and save money",
       "summary": "サービスプロバイダーの切り替えは従来よりも簡単になっており、ブロードバンド、エネルギー供給業者、銀行などを乗り換えることでより良い料金プランを得ることができるようになった。このプロセスの簡素化により、消費者はより少ない手間で節約機会を活用できるようになっている。",
       "url": "https://www.bbc.co.uk/news/articles/cd7w98n2y3eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -188,7 +178,7 @@
       "lang": "en"
     },
     {
-      "id": "49404528",
+      "id": "16644142",
       "category": "経済・ビジネス（世界）",
       "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
       "summary": "ドイツの大手スーパーALDIが米国市場で急速な展開を進めており、90億ドルの投資で都市部のマンハッタンなどを標的としています。同社は4ドルのアーモンドバターなど低価格商品を武器に、ウォルマートなどの大手スーパーとの競争に挑みかかっています。ディスカウント販売モデルが米国の既存スーパー業界にどこまで対抗できるかが今後の注目点となります。",
@@ -198,7 +188,7 @@
       "lang": "en"
     },
     {
-      "id": "80147278",
+      "id": "45474090",
       "category": "経済・ビジネス（世界）",
       "title": "Reeves tells BBC: Burnham needs worked-through plan to govern from the start",
       "summary": "財務大臣は、BBC の番組で次期首相に安定した経済を引き継ぐと述べており、バーナム氏は就任当初から実行可能な統治計画を必要としていると述べている。財務大臣は次期首相が初日から効果的に統治するための具体的で綿密な計画を用意しておく必要があると強調している。",
@@ -208,7 +198,7 @@
       "lang": "en"
     },
     {
-      "id": "69058607",
+      "id": "57537313",
       "category": "経済・ビジネス（世界）",
       "title": "Will Trump Accounts deliver for American children?",
       "summary": "トランプ政権が推進する子ども向け貯蓄口座「トランプ・アカウンツ」は、次世代にアメリカンドリームへの参画機会を与えるものとしてホワイトハウスから賞賛される一方で、この制度に対する批判も存在する。プログラムの実現可能性と実効性に関して、専門家や政策立案者の間でも議論が続いている。",
@@ -218,7 +208,27 @@
       "lang": "en"
     },
     {
-      "id": "36632780",
+      "id": "84621535",
+      "category": "経済・ビジネス（世界）",
+      "title": "Major car firms found not to have installed emissions-cheating devices",
+      "summary": "高等裁判所の判事は、大手自動車メーカーの一部が排出ガステストを不正に操作するデバイスを搭載していなかったと判断した。この判決は、自動車業界における排出ガス不正疑惑に関する重要な展開となる。",
+      "url": "https://www.bbc.co.uk/news/articles/c0mye0d1297o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-10T16:18:08+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "24125667",
+      "category": "テクノロジー・AI",
+      "title": "Waze is getting a bunch of new AI-powered features",
+      "summary": "Googleはナビゲーションアプリ「Waze」にAIアシスタント「Gemini」を統合し、ユーザーが移動をより個人的にカスタマイズできるようにしている。4つの新機能のうち2つがGeminiを活用したもので、2024年に導入された会話報告機能がアップデートされるなど、ドライブ体験を向上させる複数の新機能が追加されている。",
+      "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+      "source": "AI | The Verge",
+      "published_at": "2026-07-13T09:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "79314465",
       "category": "テクノロジー・AI",
       "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
       "summary": "ニュージーランドの歌手ロードが、マドリードのリアルクールフェスティバルでのパフォーマンス中にAIメガネに対して批判的な発言をし、「セクシーではない」とコメントした。フェスティバルのスポンサーであるレイバンとメタが協力開発したAIスマートグラスを暗に批判したと見られている。",
@@ -228,7 +238,7 @@
       "lang": "en"
     },
     {
-      "id": "14339479",
+      "id": "88652077",
       "category": "テクノロジー・AI",
       "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
       "summary": "Appleの自動運転車プログラムは実現には至らなかったが、同社のAIチップの強力な性能開発に大きく貢献した。自動運転プラットフォームの開発初期段階で、Appleは高性能なオンデバイスAI処理が必要であることに気づき、自動車向けプロセッサは完成しなかったものの、その過程で獲得した技術がAppleの現在のAIチップの強さを生み出す基礎となった。",
@@ -238,7 +248,7 @@
       "lang": "en"
     },
     {
-      "id": "49062609",
+      "id": "55486680",
       "category": "テクノロジー・AI",
       "title": "TechCrunch Mobility: A robotaxi ultimatum",
       "summary": "テクノロジー企業がロボタクシー事業における競争激化の中で、AIの活用による差別化と規制対応が重要な課題となっている。自動運転タクシーの実用化に向けて各企業が戦略的な決断を迫られており、AI技術の進展とそれに伴う社会的インパクトが業界の将来を左右することになるという状況が報告されている。",
@@ -248,7 +258,7 @@
       "lang": "en"
     },
     {
-      "id": "17593059",
+      "id": "88527617",
       "category": "テクノロジー・AI",
       "title": "The fight against AI data centers is just beginning",
       "summary": "AI データセンター建設に対する地域社会の反発が拡大しており、電力需要の急増や環境への懸念から、今後さらに激しくなることが予想されている。大規模言語モデルの学習には膨大な電力が必要となるため、テクノロジー企業は新しいデータセンターの建設を進めているが、地元住民からの抵抗が増加している。この問題はテック業界において最重要課題の一つとなってきており、企業と地域社会の間の葛藤はこれからが本番である。",
@@ -258,103 +268,113 @@
       "lang": "en"
     },
     {
-      "id": "29401821",
+      "id": "43611010",
       "category": "テクノロジー・AI",
-      "title": "Data Center Expansion Targets Native American Lands, Sparking Tribal Resistance",
-      "summary": "テクノロジー企業が先住民族の土地またはその近くにデータセンターを建設しようとしており、advocacy groupのHonor the Earthが引用したトラッカーによると、少なくとも37の提案されたプロジェクトがこれらの地域でマッピングされている。これに対して部族の抵抗が強まっており、先住民族の土地と水資源の保護をめぐる懸念が高まっている。",
-      "url": "https://www.naturalnews.com/2026-07-12-data-center-expansion-targets-native-american-lands.html",
-      "source": "Naturalnews.com",
-      "published_at": "2026-07-12T06:00:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "87439629",
-      "category": "テクノロジー・AI",
-      "title": "Faster solutions, lower test scores: How AI is eroding math skills",
-      "summary": "研究者たちは、生徒たちがAIツールに頼ることで、文章問題を解く際に「認知的降伏」と呼ばれる現象を示していることを発見した。AIが迅速な解答を提供する一方で、このような依存は実際の数学スキルの低下とテストスコアの悪化につながっている。生徒たちは自力で問題を解こうとするのではなく、AIに答えを求める傾向が強まっており、深い思考力と問題解決能力が失われつつあると指摘されている。",
-      "url": "http://hechingerreport.org/proof-points-ai-eroding-math-skills/",
-      "source": "The Hechinger Report",
-      "published_at": "2026-07-12T05:47:02+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "15383306",
-      "category": "テクノロジー・AI",
-      "title": "A Tale of Two Theories (of Coordination) - by Venkatesh Rao",
-      "summary": "世界経済の債務増減ではなく、社会がどの調整理論を活用するかが問題となっている。近40年間、市場は都市化した密集した調整を支持してきたが、その有効性が問われている。今後、社会はグローバル協調か地域的調整かの選択を迫られ、どちらの理論を優先するかが経済と政治の未来を左右することになる。",
-      "url": "https://contraptions.venkateshrao.com/p/a-tale-of-two-theories-of-coordination",
-      "source": "Venkateshrao.com",
-      "published_at": "2026-07-12T05:47:02+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "89508428",
-      "category": "テクノロジー・AI",
-      "title": "Jensen Huang's Blue-Collar Millionaire Prediction Lifted Quanta Services' Backlog to $48 Billion",
-      "summary": "エヌビディアのジェンセン・フアンCEOは、AI構築における主な課題は半導体だけでなく、電気工事士や配管工などの肉体労働者の不足にあると指摘してきた。この見方がクオンタ・サービシーズのバックログを480億ドルに押し上げ、同社はAIデータセンターのインフラ整備需要の急増から恩恵を受けている。フアンの指摘は、AI時代における労働力不足と基盤整備の重要性を浮き彫りにしている。",
-      "url": "https://biztoc.com/x/87dd61849584e66a",
+      "title": "From space rovers to hunger maps: How AI is reshaping humanitarian aid",
+      "summary": "人工知能は人類への脅威として議論されることが多いが、人道支援団体は飢餓を予測し、破壊状況をマッピングし、危険な地域に人員を派遣することなく支援物資を届けるためにAIを活用している。衛星画像解析やAI技術により、援助機関は緊急時の対応を迅速化し、より効率的な人道支援を実現している。",
+      "url": "https://biztoc.com/x/5e981f2e252f5b70",
       "source": "Biztoc.com",
-      "published_at": "2026-07-12T05:23:52+00:00",
+      "published_at": "2026-07-12T11:41:18+00:00",
       "lang": "en"
     },
     {
-      "id": "12847087",
+      "id": "61426286",
+      "category": "テクノロジー・AI",
+      "title": "AI, human leadership key to future of project management, says expert",
+      "summary": "プロジェクト管理の将来においてAIと人間のリーダーシップが重要だとPMIケーララ支部の第16回年次カンファレンス「WAVES 2026」の開会式で専門家が述べました。組織は異なる分野の人々を鼓舞し、急速に変化する技術環境に適応できるリーダーを必要としており、AIの導入と人間の適応力を組み合わせることがプロジェクト管理の成功の鍵となると強調されています。",
+      "url": "https://economictimes.indiatimes.com/tech/technology/ai-human-leadership-key-to-future-of-project-management-says-expert/articleshow/132344556.cms",
+      "source": "The Times of India",
+      "published_at": "2026-07-12T11:40:45+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "25230780",
+      "category": "テクノロジー・AI",
+      "title": "Meet Mana Jampala: The 12-year-old who learned Python at age 9 and built Voxa, an AI startup helping businesses in multiple countries avoid missed calls and customers",
+      "summary": "12歳のマナ・ジャンパラは9歳でPythonを学び、ビジネス向けのAI受付システム「Voxa」を開発しました。このAIツールは顧客の電話対応を自動化し、24時間体制で予約受付や注文記録を処理することで、世界中の中小企業が顧客との接触機会を逃さないようにサポートしています。",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/meet-mana-jampala-the-12-year-old-who-learned-python-at-age-9-and-built-voxa-an-ai-startup-helping-businesses-in-multiple-countries-avoid-missed-calls-and-customers/articleshow/132344215.cms",
+      "source": "The Times of India",
+      "published_at": "2026-07-12T10:55:17+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "19273038",
+      "category": "台湾・中台関係",
+      "title": "Typhoon makes landfall in China, downgraded to severe tropical storm",
+      "summary": "台風バビは日曜日に中国東部に上陸し、強い熱帯低気圧に格下げされた。当局は台風の進路上にいた約200万人を避難させていた。",
+      "url": "https://www.hurriyetdailynews.com/typhoon-makes-landfall-in-china-downgraded-to-severe-tropical-storm-224269",
+      "source": "Hurriyet Daily News",
+      "published_at": "2026-07-12T10:59:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "59653460",
+      "category": "台湾・中台関係",
+      "title": "World’s wealth gap is widening, UBS Global Wealth Report shows",
+      "summary": "インドの世帯は金融資産が少なく、世界的な傾向と比べて富の25.8%しか保有していないことがUBSグローバル・ウェルス・レポートで明らかになった。このレポートは世界の富の格差が拡大していることを示しており、インドなどの新興国と先進国との経済格差が深刻化していることを示唆している。",
+      "url": "https://www.thehindubusinessline.com/news/worlds-wealth-gap-is-widening-ubs-global-wealth-report-shows/article71213725.ece",
+      "source": "BusinessLine",
+      "published_at": "2026-07-12T10:52:06+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "85397267",
+      "category": "台湾・中台関係",
+      "title": "Typhoon batters eastern China with almost 3m people evacuated",
+      "summary": "東シナ海での台風により、約300万人が避難を余儀なくされ、現在も熱帯低気圧へと弱まりつつある中で、現在のところ公式な死傷者報告は出されていない。台風は東部中国地域に甚大な被害をもたらしているが、気象状況の改善に伴い、被害の拡大は抑制されている見通しである。",
+      "url": "https://www.irishtimes.com/world/asia-pacific/2026/07/12/typhoon-batters-eastern-china-with-almost-3m-people-evacuated/",
+      "source": "The Irish Times",
+      "published_at": "2026-07-12T10:06:36+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "62706100",
+      "category": "台湾・中台関係",
+      "title": "14 nations, EU reaffirm 2016 ruling invalidating China's claims in South China Sea",
+      "summary": "14カ国とEUは、中国の南シナ海に関する主張を退ける2016年の国際仲裁廷の判決を改めて支持し、地域の安定と平和を強調した。この声明は、南シナ海における国際法の遵守と紛争の平和的解決の重要性を再確認するものである。",
+      "url": "https://www.thehindubusinessline.com/news/world/14-nations-eu-reaffirm-2016-ruling-invalidating-chinas-claims-in-south-china-sea/article71213565.ece",
+      "source": "BusinessLine",
+      "published_at": "2026-07-12T09:53:08+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "78233939",
+      "category": "台湾・中台関係",
+      "title": "India's households miss global shift to financial assets: UBS",
+      "summary": "インドの家計資産は世界的な金融資産へのシフトの流れから取り残されており、不動産や物質資産が依然として支配的である。2025年は世界的な個人資産が金融市場の好調により大幅に増加した一方で、インドの金融資産は総資産の約26パーセントに過ぎず、先進国と比べて金融資産への投資が大きく遅れている状況が浮き彫りになった。",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/indias-households-miss-global-shift-to-financial-assets-ubs/articleshow/132343590.cms",
+      "source": "The Times of India",
+      "published_at": "2026-07-12T09:40:32+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "17382156",
+      "category": "台湾・中台関係",
+      "title": "Russia is defeated in the Ukrainian war",
+      "summary": "ロシアはウクライナ戦争で敗北している。2026年の現在の状況によると、国際的な分析ではロシアとウクライナの戦争はロシアにとって戦略的に失敗しており、ウクライナは部分的な勝利しか達成していない。ウクライナは現在の前線を維持することに合意しているものの、ロシアは戦争における主要な目標を達成できず、長期的な軍事的および経済的損失により国力の低下が続いている。",
+      "url": "https://english.gossiplankanews.com/2026/07/russia-is-defeated-in-ukrainian-war.html",
+      "source": "Gossiplankanews.com",
+      "published_at": "2026-07-12T06:35:27+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "44771321",
+      "category": "台湾・中台関係",
+      "title": "Indian team ranks first at International Physics Olympaid; all five members clinch gold",
+      "summary": "インドの代表団が2026年国際物理オリンピックで5個の金メダルを獲得し、全5名の選手が金メダルを獲得して他国と並んで首位にランクされた。インドはこの大会で優れた成績を発揮し、物理学における国際的な競争力を示す結果となった。",
+      "url": "https://www.thehindubusinessline.com/news/indian-team-ranks-first-at-international-physics-olympaid-all-five-members-clinch-gold/article71213301.ece",
+      "source": "BusinessLine",
+      "published_at": "2026-07-12T06:32:02+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "28664037",
       "category": "台湾・中台関係",
       "title": "US, UK, 12 other nations reaffirm 2016 ruling invalidating China's claims in South China Sea",
       "summary": "米国、英国、その他12か国が、南シナ海における中国の主張を無効とした2016年の仲裁判断を改めて確認し、中国の領有権主張は違法であると述べた。これらの国々は地域の平和と安定を脅かす不安定化行動に反対している。",
       "url": "https://economictimes.indiatimes.com/news/international/world-news/us-and-allies-reaffirm-2016-ruling-against-chinas-south-china-sea-claims-amid-rising-tensions/articleshow/132341294.cms",
       "source": "The Times of India",
       "published_at": "2026-07-12T06:11:19+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "17321262",
-      "category": "台湾・中台関係",
-      "title": "China’s submarine missile test raises regional security concerns",
-      "summary": "中国の潜水艦ミサイル試験は、アジア太平洋地域の緊張を増幅させ、地域の安全保障のバランスを不安定にする可能性があると懸念されている。この試験は、紛争発生のリスク認識を高め、域内各国の軍事的警戒態勢の強化につながる見通しである。",
-      "url": "https://cryptobriefing.com/chinas-submarine-missile-test-raises-regional-security-concerns/",
-      "source": "Crypto Briefing",
-      "published_at": "2026-07-12T05:40:11+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "45347934",
-      "category": "台湾・中台関係",
-      "title": "Typhoon Bavi brings strong winds and rain to eastern China as more than 2 million people evacuated",
-      "summary": "台風バビが中国東部に強い風と豪雨をもたらしており、200万人以上が避難している。台風バビは現在、中国東部地域に強風と大雨をもたらしており、当局は広範囲な地域から大規模な避難を実施している状況にある。",
-      "url": "https://abcnews.com/International/wireStory/typhoon-bavi-brings-strong-winds-rain-eastern-china-134688080",
-      "source": "Abcnews.com",
-      "published_at": "2026-07-12T04:49:26+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "70707182",
-      "category": "台湾・中台関係",
-      "title": "US, UK and 12 other nations reaffirm 2016 ruling invalidating China's claims in South China Sea",
-      "summary": "米国、英国、およびアジアの12カ国が、2016年の国際仲裁廷による判断を再確認し、南シナ海における中国の広範な領有権主張は違法であると改めて主張した。西側およびアジアの複数国が共同で、中国の海洋進出に対する強い異議を唱えている。",
-      "url": "https://abcnews.com/International/wireStory/us-uk-12-nations-reaffirm-2016-ruling-invalidating-134688444",
-      "source": "Abcnews.com",
-      "published_at": "2026-07-12T04:49:19+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "27224105",
-      "category": "台湾・中台関係",
-      "title": "US, UK and 12 other nations reaffirm 2016 ruling invalidating China's claims in South China Sea",
-      "summary": "米国、英国を含む14カ国が、2016年の国際仲裁廷の判断を改めて支持し、南シナ海における中国の広大な領土主張は無効であることを確認した。この共同声明は、中国による海域支配の拡大に対する国際社会の統一した反発を示すものであり、南シナ海の航行の自由と国際法の遵守を重視する姿勢を改めて表明している。",
-      "url": "https://www.yahoo.com/news/politics/articles/us-uk-12-other-nations-043643998.html",
-      "source": "Yahoo Entertainment",
-      "published_at": "2026-07-12T04:36:43+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "14998752",
-      "category": "台湾・中台関係",
-      "title": "Taiwan detects Chinese naval vessel, four ships operating around its territorial waters",
-      "summary": "台湾国防部は土曜日朝、台湾周辺海域で中国海軍艦艇1隻と公船4隻を検知した。台湾軍はこれらの船舶の活動を継続的に監視し、適切に対応しているという。",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/taiwan-detects-chinese-naval-vessel-four-ships-operating-around-its-territorial-waters/articleshow/132340377.cms",
-      "source": "The Times of India",
-      "published_at": "2026-07-12T03:44:34+00:00",
       "lang": "en"
     }
   ]
