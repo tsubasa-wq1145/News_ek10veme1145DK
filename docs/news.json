@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T15:42:00.925255+00:00",
+  "updated_at": "2026-07-13T22:59:28.024155+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -44,21 +44,81 @@
   ],
   "digest": [
     {
-      "title": "アメリカ中央軍がイランへの追加攻撃を開始",
-      "body": "アメリカ中央軍がイランへの追加攻撃を開始したことを発表し、イランの革命防衛隊によるホルムズ海峡封鎖宣言に対抗している。米軍は140か所の標的への攻撃を完了したと発表しており、中東地域の軍事緊張が急速に高まっている。"
+      "title": "UAE国防省 ホルムズ海峡でタンカー2隻がイランの攻撃を受けたと発表",
+      "body": "アラブ首長国連邦の国防省がホルムズ海峡南部でタンカー2隻がイランのミサイル攻撃を受けたと発表し、インド国籍の乗組員1人が死亡、8人が負傷しました。この事件はトランプ大統領によるイランへの軍事作戦と連動した地域情勢の急速な悪化を示しており、中東の石油輸送に直結する重大なリスクが現実化しています。"
     },
     {
-      "title": "ウクライナがロシアへの長距離攻撃司令部を創設へ",
-      "body": "ゼレンスキー大統領がロシアへの長距離攻撃を専門とする司令部の創設を発表し、ロシアの石油精製施設への攻撃を強化する方針を示した。ウクライナはロシアの燃料供給断絶により戦闘能力低下を目指しており、今後攻撃をさらに一層強化する予定である。"
+      "title": "米国中央軍がイランへの3日連続攻撃を開始、トランプ政権が段階的軍事作戦を展開",
+      "body": "米国中央軍がイランへの3日連続となる攻撃を開始したと発表し、トランプ大統領は複数日にわたる軍事作戦の計画を示唆しています。同時にホルムズ海峡の航行に対する海上封鎖再開と20%の対価徴収を主張しており、米国とイランの対立が急速にエスカレートしています。"
     },
     {
-      "title": "タイ・バンコクの飲食店で大規模火災、27人が死亡",
-      "body": "タイの首都バンコクにある飲食店で13日未明に大規模な火災が発生し、AP通信の報道によると少なくとも27人が死亡した。同国において大きな人命喪失をもたらす重大事故となっている。"
+      "title": "韓国株価8％超の大幅下落、中東情勢不透明化による市場混乱",
+      "body": "イラン情勢の不透明感を受けて韓国株式市場は8％を超える大幅な下落となり、売買を一時的に中断する措置が講じられました。ナスダック指数も1.5％超の下落となるなど、中東での米国とイランの紛争激化がグローバル金融市場に直結した影響を与えています。"
     }
   ],
   "news": [
     {
-      "id": "79620458",
+      "id": "51848800",
+      "category": "経済・ビジネス（日本）",
+      "title": "UAE国防省 “ホルムズ海峡でタンカー2隻 イランの攻撃受けた”",
+      "summary": "アラブ首長国連邦の国防省は、ホルムズ海峡南部でタンカー2隻がイランのミサイル攻撃を受けたと発表しました。この攻撃により、インド国籍の乗組員1人が死亡し、8人が負傷しています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260714/k10015176241000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-13T22:40:25+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "22017077",
+      "category": "経済・ビジネス（日本）",
+      "title": "EU 子どものSNS利用を制限する方針 ことし秋にも具体策公表へ",
+      "summary": "EUのフォンデアライエン委員長は、子どもの年齢に応じてSNS利用を制限する方針を示し、今秋にも具体的な規制内容を公表する予定であることを明らかにした。各国でも同様の規制強化の動きが広がっている。",
+      "url": "http://www3.nhk.or.jp/news/html/20260714/k10015176101000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-13T22:20:56+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "27713866",
+      "category": "経済・ビジネス（日本）",
+      "title": "ナスダック株価指数1.5％超の下落 日韓ハイテク株安や原油高で",
+      "summary": "ニューヨーク株式市場でハイテク株を中心に売り注文が広がり、ナスダック指数は先週末から1.5％を超える下落となりました。半導体関連銘柄の売却が主な要因となっており、日韓のハイテク株安や原油高が株価下押し圧力となっています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260714/k10015176201000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-13T22:02:35+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "21644632",
+      "category": "経済・ビジネス（日本）",
+      "title": "アメリカ中央軍 “イランに3日連続 攻撃開始”",
+      "summary": "アメリカ中央軍は日本時間14日午前5時45分、イランへの3日連続となる攻撃を開始したと発表した。トランプ大統領は事前に「今夜と明日もイランを非常に激しく攻撃する」とラジオ番組で述べており、複数日にわたる軍事作戦の計画を示唆していた。",
+      "url": "http://www3.nhk.or.jp/news/html/20260714/k10015176211000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-13T21:49:02+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "48545056",
+      "category": "経済・ビジネス（日本）",
+      "title": "ベネズエラ大地震 死者4500人超に 捜索は難航",
+      "summary": "南米ベネズエラで先月発生した大地震により4500人以上が死亡し、被害地域では現在も行方不明者の捜索が続いているが、捜索活動は難航している。",
+      "url": "http://www3.nhk.or.jp/news/html/20260714/k10015176181000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-13T20:44:50+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "47451362",
+      "category": "経済・ビジネス（日本）",
+      "title": "トランプ大統領「海上封鎖再開 20％対価も」 イラン反発",
+      "summary": "トランプ大統領がホルムズ海峡の航行に関してイランに対する海上封鎖の再開と通過貨物への20％の対価徴収を主張したのに対し、イラン側は海峡の管理権はイランにあると反発し、両国の対立が激化している。",
+      "url": "http://www3.nhk.or.jp/news/html/20260714/k10015176161000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-13T20:34:27+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "23761955",
       "category": "経済・ビジネス（日本）",
       "title": "韓国株価8％超の大幅な下落 売買を一時的に中断する措置も",
       "summary": "イラン情勢の不透明感を受けて13日の韓国株式市場は8％を超える大幅な下落となり、売買を一時的に中断する措置が講じられました。",
@@ -68,7 +128,7 @@
       "lang": "ja"
     },
     {
-      "id": "11275224",
+      "id": "84033401",
       "category": "経済・ビジネス（日本）",
       "title": "ウクライナ首相交代へ “駐米大使に起用の可能性”一部報道",
       "summary": "ウクライナのゼレンスキー大統領がスビリデンコ首相の交代方針を示し、同首相はアメリカの駐米大使に起用される可能性があると報道されている。これはアメリカのトランプ政権との関係維持を狙った人事と見られている。",
@@ -78,67 +138,47 @@
       "lang": "ja"
     },
     {
-      "id": "19653015",
-      "category": "経済・ビジネス（日本）",
-      "title": "カタール ハマド前首長が死去「近代カタールの設計者」",
-      "summary": "カタールをLNG輸出国として世界的な地位に押し上げた「近代カタールの設計者」ハマド前首長が12日に死去しました。74歳でした。",
-      "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175891000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-13T12:15:39+00:00",
-      "lang": "ja"
+      "id": "17524921",
+      "category": "経済・ビジネス（世界）",
+      "title": "Paramount and Warner Bros sued to block $110bn mega merger",
+      "summary": "パラマウントとワーナー・ブラザーズの1100億ドル規模の経営統合を巡り、米国の12州が歴史的規模のメディア統合を阻止するため法的措置を講じている。この訴訟はハリウッド史上最大級の企業買収案に対する州政府の強い反発を示しており、競争法違反に関わる懸念が背景にあると考えられる。",
+      "url": "https://www.bbc.co.uk/news/articles/cgev34lvgp4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-13T22:52:11+00:00",
+      "lang": "en"
     },
     {
-      "id": "84799735",
-      "category": "経済・ビジネス（日本）",
-      "title": "タイ 27人死亡の飲食店火災 非常口使えなかった可能性調べる",
-      "summary": "タイの首都バンコクにある飲食店で13日未明に大規模な火災が発生し、AP通信の報道によると少なくとも27人が死亡した。",
-      "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175291000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-13T11:59:54+00:00",
-      "lang": "ja"
+      "id": "46382520",
+      "category": "経済・ビジネス（世界）",
+      "title": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
+      "summary": "トランプ大統領がイラン港湾封鎖を再開し、ホルムズ海峡を通過する貨物に対して20%の関税を課すことを誓約した。米軍はイランに対する3夜連続の攻撃を開始したと発表した。トランプ政権はイランの経済的影響力を制限し、中東地域における米国の支配力を強化する姿勢を示している。",
+      "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-13T22:47:52+00:00",
+      "lang": "en"
     },
     {
-      "id": "49757723",
-      "category": "経済・ビジネス（日本）",
-      "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月13日の動き）",
-      "summary": "ロシアによるウクライナ侵攻が継続中で、各地での戦闘により多くの市民が国外への避難を余儀なくされている。本記事では7月13日のウクライナ情勢における戦闘状況と各国の外交動向を随時更新で報告している。",
-      "url": "http://www3.nhk.or.jp/news/html/20260713/k10015140941000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-13T11:44:38+00:00",
-      "lang": "ja"
+      "id": "37314524",
+      "category": "経済・ビジネス（世界）",
+      "title": "Volkswagen planning to cut up to 100,000 jobs globally",
+      "summary": "フォルクスワーゲングループはポルシェとアウディを傘下に持ち、利益の急激な低下と中国との激しい競争に直面している中で、世界規模で最大10万人の雇用削減を計画している。同グループは経営効率化とコスト削減を通じて競争力を回復させようとしており、この大規模なリストラはグループの経営危機への対応策となっている。",
+      "url": "https://www.bbc.co.uk/news/articles/cx2wzpwn51lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-13T16:19:15+00:00",
+      "lang": "en"
     },
     {
-      "id": "43484378",
-      "category": "経済・ビジネス（日本）",
-      "title": "米・イラン攻撃の応酬 1週間で4回目 中東の米軍施設を攻撃",
-      "summary": "アメリカ中央軍は12日、イランへの追加攻撃を開始したことを発表しました。イランの革命防衛隊がホルムズ海峡の封鎖を表明したのに対し、アメリカ軍はイランが海峡を支配していないと主張しており、中東地域の緊張が高まっています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175301000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-13T10:17:31+00:00",
-      "lang": "ja"
+      "id": "26511869",
+      "category": "経済・ビジネス（世界）",
+      "title": "UK-Switzerland deal to scrap roaming charges and allow Britons to use e-gates",
+      "summary": "英国とスイスが新たなサービス協定に署名し、ローミング料金の廃止とイギリス人の電子ゲート利用を可能にする。この協定により英国の輸出は長期的に年間52億ポンド増加すると見込まれている。",
+      "url": "https://www.bbc.co.uk/news/articles/c621p9yjz1zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-13T16:05:13+00:00",
+      "lang": "en"
     },
     {
-      "id": "33756090",
-      "category": "経済・ビジネス（日本）",
-      "title": "ホルムズ海峡代替ルートでの原油調達進める 資源エネルギー庁",
-      "summary": "イランの革命防衛隊がホルムズ海峡の封鎖を表明したことを受け、資源エネルギー庁は情勢の安定化には時間がかかるとみて、海峡を経由しない代替ルートでの原油調達を継続する方針を示した。",
-      "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175821000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-13T09:29:47+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "42062876",
-      "category": "経済・ビジネス（日本）",
-      "title": "ベネズエラ大地震 被害の実態把握なお課題",
-      "summary": "ベネズエラの先月の大地震では捜索が難航する中で死者が4400人を超え、建物被害も政府発表を上回る推計が出ており、被害の実態把握と国際社会への情報公開が支援受入の課題となっている。",
-      "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175261000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-13T07:45:36+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "54283583",
+      "id": "47454973",
       "category": "経済・ビジネス（世界）",
       "title": "The SpaceX IPO made history. One month on has it lost momentum?",
       "summary": "SpaceXが株式公開から1ヶ月経過し、同社の現在の収益源がより明確になってきた。当初の興奮が冷め、市場はSpaceXの実際のビジネスモデルと利益構造に対する現実的な評価を始めており、初期段階での高い期待値がどの程度維持されるかが注目されている。",
@@ -148,17 +188,7 @@
       "lang": "en"
     },
     {
-      "id": "76474281",
-      "category": "経済・ビジネス（世界）",
-      "title": "10 years of Pokémon Go and the millions still trying to catch 'em all",
-      "summary": "ポケモンGOは今年でサービス開始から10年を迎え、今なお数百万人のプレイヤーが全ポケモンの捕獲を目指し続けている。ゲームの所有会社Scopelyのマイケル・ステランカ副社長は、このゲームの本質は常に人々を一堂に集めることにあると述べている。",
-      "url": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-13T00:07:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "24525839",
+      "id": "11896207",
       "category": "経済・ビジネス（世界）",
       "title": "New era for Gibraltar with removal of 118-year-old border controls with Spain",
       "summary": "ジブラルタルとスペイン間の118年続いた国境管理が撤廃され、英国領土とスペイン間の自由な人および物資の移動が可能になった。この変化は両地域の経済活動を活発化させ、経済的な成長をもたらすことが期待されている。",
@@ -168,7 +198,7 @@
       "lang": "en"
     },
     {
-      "id": "13495398",
+      "id": "16926326",
       "category": "経済・ビジネス（世界）",
       "title": "How to change bank, energy or broadband provider and save money",
       "summary": "サービスプロバイダーの切り替えは従来よりも簡単になっており、ブロードバンド、エネルギー供給業者、銀行などを乗り換えることでより良い料金プランを得ることができるようになった。このプロセスの簡素化により、消費者はより少ない手間で節約機会を活用できるようになっている。",
@@ -178,7 +208,7 @@
       "lang": "en"
     },
     {
-      "id": "54502462",
+      "id": "25422951",
       "category": "経済・ビジネス（世界）",
       "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
       "summary": "ドイツの大手スーパーALDIが米国市場で急速な展開を進めており、90億ドルの投資で都市部のマンハッタンなどを標的としています。同社は4ドルのアーモンドバターなど低価格商品を武器に、ウォルマートなどの大手スーパーとの競争に挑みかかっています。ディスカウント販売モデルが米国の既存スーパー業界にどこまで対抗できるかが今後の注目点となります。",
@@ -188,117 +218,137 @@
       "lang": "en"
     },
     {
-      "id": "44939093",
-      "category": "経済・ビジネス（世界）",
-      "title": "Reeves tells BBC: Burnham needs worked-through plan to govern from the start",
-      "summary": "財務大臣は、BBC の番組で次期首相に安定した経済を引き継ぐと述べており、バーナム氏は就任当初から実行可能な統治計画を必要としていると述べている。財務大臣は次期首相が初日から効果的に統治するための具体的で綿密な計画を用意しておく必要があると強調している。",
-      "url": "https://www.bbc.co.uk/news/articles/cwykdvgv4d4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-11T12:00:16+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "53053375",
-      "category": "経済・ビジネス（世界）",
-      "title": "Will Trump Accounts deliver for American children?",
-      "summary": "トランプ政権が推進する子ども向け貯蓄口座「トランプ・アカウンツ」は、次世代にアメリカンドリームへの参画機会を与えるものとしてホワイトハウスから賞賛される一方で、この制度に対する批判も存在する。プログラムの実現可能性と実効性に関して、専門家や政策立案者の間でも議論が続いている。",
-      "url": "https://www.bbc.co.uk/news/articles/ckg55v9e2y9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-11T07:41:18+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "58248353",
-      "category": "経済・ビジネス（世界）",
-      "title": "Major car firms found not to have installed emissions-cheating devices",
-      "summary": "高等裁判所の判事は、大手自動車メーカーの一部が排出ガステストを不正に操作するデバイスを搭載していなかったと判断した。この判決は、自動車業界における排出ガス不正疑惑に関する重要な展開となる。",
-      "url": "https://www.bbc.co.uk/news/articles/c0mye0d1297o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-10T16:18:08+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "50147677",
+      "id": "16942892",
       "category": "テクノロジー・AI",
-      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
-      "summary": "インドのClaudeユーザーは、インドルピー建ての購読プランを見始めている。Anthropicはインドを米国に次ぐ重要な市場と位置づけており、ローカライズされた価格設定により、ユーザーはドル換算の手数料を避けて直接ルピーで支払うことができるようになった。この施策は、インド市場での競争力を強化し、ユーザーの利便性を向上させることを目的としている。",
-      "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "title": "Satya Nadella has issued a shocking warning to companies using AI",
+      "summary": "サティヤ・ナデラはAIを使用している企業に対して衝撃的な警告を発しました。AI技術の潜在的な悪影響についての議論の中で、シリコンバレーのAI熱心家たちの間で最も懸念されているのは、独自モデルを販売する大規模なAIラボがトロイの木馬のような役割を果たしているという問題です。",
+      "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
       "source": "TechCrunch",
-      "published_at": "2026-07-13T15:34:59+00:00",
+      "published_at": "2026-07-13T20:59:00+00:00",
       "lang": "en"
     },
     {
-      "id": "83459969",
+      "id": "30970584",
       "category": "テクノロジー・AI",
-      "title": "SpaceX cleared to fly Starship again after booster failure in May",
-      "summary": "SpaceXは5月のブースター失敗後、スターシップの飛行を再開することが認可された。これは同社が上場企業となって初めてのスターシップ試験飛行となり、ロケット開発における「飛ぶ、失敗する、修正する」というアプローチ、しばしば爆発で終わることで知られるこの手法に対する市場の反応を試すことになる。",
-      "url": "https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-13T14:19:44+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "92069828",
-      "category": "テクノロジー・AI",
-      "title": "Waze adds new AI-powered features and customization updates",
-      "summary": "Waze(ウェイズ)がGoogleの生成AI「Gemini」を搭載した新機能を追加し、カスタマイズ機能も強化した。この動きはGoogleの複数製品へのGemini統合戦略の一環であり、Apple Mapsなどのライバルサービスとの競争力強化を目指すもの。",
-      "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-13T14:18:16+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "35383411",
-      "category": "テクノロジー・AI",
-      "title": "LAPD lets contract with surveillance giant Flock expire, citing ‘serious concerns’ over civil liberties and privacy",
-      "summary": "ロサンゼルス警察局（LAPD）は、監視技術企業フロック社との契約を終了することを決めた。LAPDはこの企業の最大級の政府顧客の一つであり、市民的自由とプライバシーに関する深刻な懸念を理由に契約を更新しないと発表した。この決定は、自動ナンバープレート認識技術の使用を巡る市民的自由問題の高まる懸念を反映している。",
-      "url": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-13T14:13:38+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "38730124",
-      "category": "テクノロジー・AI",
-      "title": "Uber’s robotaxi lobbying effort puts it on a collision course with Waymo",
-      "summary": "ウーバーは自動運転タクシーの規制緩和に向けた積極的なロビイング活動を展開しており、これがウェイモとの対立を招いている。ワシントンD.C.はウーバーとウェイモの異なる事業戦略をめぐる競争の最前線となっており、両社は政策立案者に対して相反する主張を行っている。自動運転タクシーの規制整備をめぐる政治的影響力争いが激化している。",
-      "url": "https://techcrunch.com/2026/07/13/ubers-robotaxi-lobbying-effort-has-put-it-on-a-collision-course-with-waymo/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-13T12:30:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "66063340",
-      "category": "テクノロジー・AI",
-      "title": "Waze is getting a bunch of new AI-powered features",
-      "summary": "Googleはナビゲーションアプリ「Waze」にAIアシスタント「Gemini」を統合し、ユーザーが移動をより個人的にカスタマイズできるようにしている。4つの新機能のうち2つがGeminiを活用したもので、2024年に導入された会話報告機能がアップデートされるなど、ドライブ体験を向上させる複数の新機能が追加されている。",
-      "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+      "title": "Siri AI is already changing how I use my iPhone",
+      "summary": "iOS 27の公開ベータ版が今日リリースされ、6月から試験運用されている新しいOSには、AppleがキーノートでアピールしたAI機能が搭載されており、ユーザーのiPhoneの使い方を既に変え始めている。このiOS 27のアップグレードはSnow Leopardのような地味だが実用的な改善をもたらす可能性があり、特にSiri AIの統合によってデバイスの操作性が向上しているとのことである。",
+      "url": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
       "source": "AI | The Verge",
-      "published_at": "2026-07-13T09:00:00+00:00",
+      "published_at": "2026-07-13T20:43:20+00:00",
       "lang": "en"
     },
     {
-      "id": "35214719",
+      "id": "91324865",
       "category": "テクノロジー・AI",
-      "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
-      "summary": "ニュージーランドの歌手ロードが、マドリードのリアルクールフェスティバルでのパフォーマンス中にAIメガネに対して批判的な発言をし、「セクシーではない」とコメントした。フェスティバルのスポンサーであるレイバンとメタが協力開発したAIスマートグラスを暗に批判したと見られている。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
-      "source": "AI | The Verge",
-      "published_at": "2026-07-12T20:10:19+00:00",
+      "title": "Apple says former employee exploited ‘rare’ bug to download confidential files after leaving for OpenAI",
+      "summary": "Appleの元従業員がOpenAIへ転職後も、まれなバグを悪用してAppleの機密ファイルをダウンロードしたと報告されており、同社はこのセキュリティ侵害についてのコメントを控えている。この元従業員は退職後もAppleのネットワークから長期間にわたって機密情報にアクセスできていたという。",
+      "url": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-13T20:00:17+00:00",
       "lang": "en"
     },
     {
-      "id": "64102832",
+      "id": "89601173",
       "category": "テクノロジー・AI",
-      "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
-      "summary": "Appleの自動運転車プログラムは実現には至らなかったが、同社のAIチップの強力な性能開発に大きく貢献した。自動運転プラットフォームの開発初期段階で、Appleは高性能なオンデバイスAI処理が必要であることに気づき、自動車向けプロセッサは完成しなかったものの、その過程で獲得した技術がAppleの現在のAIチップの強さを生み出す基礎となった。",
-      "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
-      "source": "AI | The Verge",
-      "published_at": "2026-07-12T16:27:06+00:00",
+      "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+      "summary": "Appleが仕掛けたOpenAIに対する営業秘密侵害訴訟には、従業員がAppleのシステムへの無断アクセスについて冗談を言っていたことから、採用面接にApple製品の持参を求められた求職者まで、様々な疑わしい行為が含まれている。AppleはOpenAIの関係者によるAppleの技術や情報への不正アクセスと盗用を主張し、従業員のチャットでの会話やセキュリティ違反を証拠として提出している。",
+      "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-13T18:22:10+00:00",
       "lang": "en"
     },
     {
-      "id": "49425540",
+      "id": "19344514",
+      "category": "テクノロジー・AI",
+      "title": "Sam Altman’s space data center trash talk is what most experts already believe",
+      "summary": "サム・アルトマンはイーロン・マスクが詐欺師だと非難したことに対し、マスク自身が短期的な宇宙データセンターを公開市場の投資家に売り込んでいると反論した。アルトマンのこの発言は、宇宙ベースのデータセンターの実現可能性について専門家が既に抱いている懸念を反映している。",
+      "url": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-13T17:28:37+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "41971692",
+      "category": "テクノロジー・AI",
+      "title": "Investors send General Fusion soaring in debut as first publicly traded fusion company",
+      "summary": "カナダの核融合企業General Fusionが逆合併によってナスダックに上場し、初の公開取引核融合企業となった。この上場では高い償却があったにもかかわらず投資家から好意的な反応を得ており、核融合技術への関心の高まりと商業化への期待が市場で反映されている。",
+      "url": "https://techcrunch.com/2026/07/13/investors-send-general-fusion-soaring-in-debut-as-first-publicly-traded-fusion-company/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-13T17:03:11+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "26800587",
+      "category": "テクノロジー・AI",
+      "title": "12 states sue to block Paramount’s $110B Warner Bros. deal",
+      "summary": "パラマウントとワーナー・ブラザーズの1100億ドルの合併に対して12の州が訴訟を起こし、この取引は映画館、基本ケーブル配信事業者、視聴者に悪影響を与えると主張している。合併により競争が減少し、消費者の選択肢が制限される可能性があるため、規制当局による承認ブロックを求めている。",
+      "url": "https://techcrunch.com/2026/07/13/12-states-sue-to-block-paramounts-110b-warner-bros-deal/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-13T17:00:14+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "41320283",
+      "category": "テクノロジー・AI",
+      "title": "The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
+      "summary": "Appleが提起した訴訟でOpenAIに対し、機密文書の窃盗、ハードウェアプロトタイプへのスパイ行為、従業員の引き抜きなど複数の違法行為があったと主張している。特にOpenAIのハードウェア責任者が求人面接時にAppleの未発表製品やコンポーネントの持参を要求したと指摘されており、この訴訟はAppleの知的財産保護への強い姿勢を示している。",
+      "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+      "source": "AI | The Verge",
+      "published_at": "2026-07-13T17:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "58315827",
+      "category": "台湾・中台関係",
+      "title": "The technological cost of competing with China",
+      "summary": "中国との競争に伴う技術的コストについて、外国のサプライヤーへの継続的な依存は依然として重大な国家安全保障上の懸念であるとの指摘が述べられている。この問題は、国家の産業競争力を維持するためには、サプライチェーンの自給能力の強化と技術的自立が急務であることを示唆している。特に半導体やレアアースなど戦略的に重要な産業分野において、外国依存からの脱却が経済的・安全保障上の課題として浮上している。",
+      "url": "https://www.wnd.com/2026/07/technological-cost-competing-china/",
+      "source": "Wnd.com",
+      "published_at": "2026-07-12T20:52:03+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "28556258",
+      "category": "台湾・中台関係",
+      "title": "Anduril’s Barracuda missile unveiled on Japanese TV as Taiwan deterrent",
+      "summary": "アンドゥリル社の「バラクーダ」ミサイルが日本のテレビで公開され、台湾の抑止力として機能する可能性が示された。このミサイルの公開は、費用対効果の高い抑止力への戦略的転換を示唆しており、地域の軍事的緊張が高まる可能性がある。",
+      "url": "https://cryptobriefing.com/andurils-barracuda-missile-unveiled-on-japanese-tv-as-taiwan-deterrent/",
+      "source": "Crypto Briefing",
+      "published_at": "2026-07-12T19:36:26+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "58274253",
+      "category": "台湾・中台関係",
+      "title": "CHEAP  Business Class flights from Poland & Scandinavia to many destinations in Asia from €1157 ",
+      "summary": "ポーランドおよびスカンジナビア地域から、台湾、フィリピン、マレーシア、シンガポール、タイ、ベトナム、カンボジア、韓国などのアジア各地へのビジネスクラス往復便が1121ユーロから利用可能となっている。中国を含むオープンジョー航程や2都市組み合わせプランも選択できる。",
+      "url": "https://www.fly4free.com/flight-deals/europe/business-class-flights-from-poland-scandinavia-to-asia/",
+      "source": "Fly4free.com",
+      "published_at": "2026-07-12T18:00:57+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "82425269",
+      "category": "台湾・中台関係",
+      "title": "GlobalFoundries hits production readiness on SLATE bonding tech, signaling semiconductor supply chain shifts that matter for crypto mining",
+      "summary": "GlobalFoundriesが先進的なボンディング技術「SLATE」の量産準備を完了し、暗号資産マイニングを含む複数の産業に影響を与える半導体サプライチェーンの再編成を示唆している。この技術は地政学的な変化の中で半導体産業全体の構造変化を促す可能性があり、特に高性能チップを必要とする暗号資産マイニング業界に大きな影響を与えると見られている。",
+      "url": "https://cryptobriefing.com/globalfoundries-slate-bonding-crypto-mining-implications/",
+      "source": "Crypto Briefing",
+      "published_at": "2026-07-12T17:17:11+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "16228674",
+      "category": "台湾・中台関係",
+      "title": "Taiwan Just Waved a Red Flag for Nvidia Stock",
+      "summary": "台湾がAIブームに対する新たな懸念を表明したことで、Nvidiaの経営陣は同社のAI市場での支配力がバブル懸念の増大に対抗できるかどうかという課題に直面している。台湾からの警告は、AI関連銘柄の急速な上昇が持続可能かどうかについての疑問を投げかけており、Nvidia株に対する潜在的なリスク要因となっている。",
+      "url": "https://www.barchart.com/story/news/3244369/taiwan-just-waved-a-red-flag-for-nvidia-stock",
+      "source": "Barchart.com",
+      "published_at": "2026-07-12T15:30:02+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "13922117",
       "category": "台湾・中台関係",
       "title": "LEQEMBI® Subcutaneous Autoinjector Clinical Data Supports Similar Efficacy and Safety to IV Formulation in Early Alzheimer’s Disease Presented at the Alzheimer’s Association International Conference® (AAIC®) 2026",
       "summary": "レクエンビの皮下自動注射器に関する臨床データが、アルツハイマー病学会国際会議2026で発表され、静脈注射製剤と同様の有効性と安全性が確認されました。この皮下治療経路は初期段階から維持治療まで対応でき、患者と介護者にとって投与の利便性が向上する利点があります。臨床および実世界データにより、この新しい治療選択肢の有用性が実証されました。",
@@ -308,7 +358,7 @@
       "lang": "en"
     },
     {
-      "id": "49966410",
+      "id": "42364979",
       "category": "台湾・中台関係",
       "title": "Dow Jones Futures Loom Amid New U.S.-Iran Attacks; Nvidia, Micron, Sandisk Near Buy Points",
       "summary": "ダウ先物は日曜夜にオープンし、米国とイランがホルムズ海峡での新たな攻撃を交わす中、株式市場の緊張が高まっている。台湾セミコンダクター、ゴールドマンサックス、JPモルガンチェース、GEエアロスペースなどが決算発表週の主要銘柄として注目され、NvidiaやMicron、Sandiksなどの半導体関連企業が買いポイント付近に位置している。地政学的リスクと企業業績の発表が今週の株式市場を左右する主要な要因となるだろう。",
@@ -318,63 +368,13 @@
       "lang": "en"
     },
     {
-      "id": "37989111",
+      "id": "99772835",
       "category": "台湾・中台関係",
       "title": "LEQEMBI® Subcutaneous Autoinjector Clinical Data Supports Similar Efficacy and Safety to IV Formulation in Early Alzheimer's Disease Presented at the Alzheimer's Association International Conference® (AAIC®) 2026",
       "summary": "レクエンビの皮下自動注射器製剤は静脈内製剤と同等の有効性と安全性を初期段階のアルツハイマー病患者に示しており、新たな臨床データと実臨床データによって初期治療から維持療法まで一貫した皮下治療が可能であることが支持されている。この皮下投与による新しい治療経路は患者と介護者の投与利便性を向上させるものとなっている。",
       "url": "https://www.prnewswire.com/news-releases/leqembi-subcutaneous-autoinjector-clinical-data-supports-similar-efficacy-and-safety-to-iv-formulation-in-early-alzheimers-disease-presented-at-the-alzheimers-association-international-conference-aaic-2026-302823332.html",
       "source": "PRNewswire",
       "published_at": "2026-07-12T15:15:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "64196505",
-      "category": "台湾・中台関係",
-      "title": "South China Sea joint statement says China's maritime claims have no basis",
-      "summary": "日本、フィリピン、米国を含む14カ国は、南シナ海における中国の拡大主義的な海洋権益主張は国際法上の根拠がないとの共同声明を発表しました。この声明は南シナ海での緊張が高まる中で発表され、国際的なルールに基づく秩序の維持を求めています。各国は中国の一方的な行動に対して懸念を表明し、紛争の平和的解決を促しています。",
-      "url": "https://www.yahoo.com/news/articles/south-china-sea-joint-statement-064420427.html",
-      "source": "Yahoo Entertainment",
-      "published_at": "2026-07-12T14:58:41+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "66103834",
-      "category": "台湾・中台関係",
-      "title": "Chinese Type 076 vessel Sichuan enhances combat capabilities in South China Sea",
-      "summary": "中国の076型揚陸艦「四川」が南シナ海での戦闘能力を強化しており、その能力向上は地域の緊張を高める可能性があり、米国の影響力に対抗し、インド太平洋の地政学的力学に影響を与えると見られている。",
-      "url": "https://cryptobriefing.com/chinese-type-076-vessel-sichuan-enhances-combat-capabilities-in-south-china-sea/",
-      "source": "Crypto Briefing",
-      "published_at": "2026-07-12T14:06:49+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "91144282",
-      "category": "台湾・中台関係",
-      "title": "Which Way Are We Going? Sunday Morning Photograph.",
-      "summary": "日中の運転時において、進行方向の情報は数秒以内に明確に表示される必要があり、ドライバーに迅速に知らせて潜在的な事故を防ぐことが重要である。道路標識や信号は自動車運転者の安全性を確保するための重要な要素であり、南方向に向かうドライバーを含むすべての利用者にとって明確な方向指示が不可欠である。",
-      "url": "https://thegatewithbriancohen.com/which-way-are-we-going-sunday-morning-photograph/",
-      "source": "Thegatewithbriancohen.com",
-      "published_at": "2026-07-12T14:03:30+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "89707127",
-      "category": "台湾・中台関係",
-      "title": "The U.S. is Now Providing the “Patriot” Air Defense System License to Zelensky Neo-Nazi Government. Inevitable Failures, Profit?",
-      "summary": "アメリカはウクライナの「パトリオット」防空システムのライセンスを提供しており、この兵器システムについては長年にわたり主流メディアが誇大宣伝してきたとの指摘がある。記事は、このシステムの実際の性能と商業的利益に関する疑問を提起している。ウクライナへの武器供給については、その実効性と戦争の長期化に関する議論が続いている。",
-      "url": "https://www.globalresearch.ca/the-u-s-is-now-providing-the-patriot-air-defense-system-license-to-zelensky-neo-nazi-government-inevitable-failures-profit/5933078",
-      "source": "Globalresearch.ca",
-      "published_at": "2026-07-12T13:51:05+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "83584627",
-      "category": "台湾・中台関係",
-      "title": "Funds Fret Over $4.4 Trillion AI Trio’s Grip on Emerging Markets",
-      "summary": "新興市場において、時価総額4.4兆ドルの3つのテクノロジー企業がリターンの大部分を占めているため、ファンドがAI関連銘柄を中心とした投資構成から脱却しようとしている。投資家たちはこれまでのAI関連企業への過度な集中を懸念し、より分散された投資戦略へのシフトを模索している。この動きは新興市場における投資リスク管理の課題が顕在化していることを示唆している。",
-      "url": "https://financialpost.com/pmn/business-pmn/funds-fret-over-4-4-trillion-ai-trios-grip-on-emerging-markets",
-      "source": "Financial Post",
-      "published_at": "2026-07-12T12:49:55+00:00",
       "lang": "en"
     }
   ]
