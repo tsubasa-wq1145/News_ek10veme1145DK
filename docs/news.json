@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T14:50:08.280615+00:00",
+  "updated_at": "2026-07-14T23:01:07.680836+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -58,7 +58,37 @@
   ],
   "news": [
     {
-      "id": "24463042",
+      "id": "38193422",
+      "category": "経済・ビジネス（日本）",
+      "title": "FRB ウォーシュ議長「高いインフレ率の継続 容認しない」",
+      "summary": "FRB議長が議会証言で、高いインフレ率の継続は容認しないと述べ、インフレ抑制への決意を改めて示しました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260715/k10015177191000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-14T21:40:20+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "36891736",
+      "category": "経済・ビジネス（日本）",
+      "title": "米がホルムズ海峡を再び封鎖 トランプ大統領 対価要求は撤回",
+      "summary": "アメリカ中央軍は日本時間15日午前5時からホルムズ海峡のイラン関連港への海上封鎖を再開し、イランとの攻撃の応酬が続く中で戦闘終結への協議が後退することが懸念されている。一方、トランプ大統領は海峡通過貨物への20％対価課税方針を事実上撤回する方針を明らかにした。",
+      "url": "http://www3.nhk.or.jp/news/html/20260715/k10015177001000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-14T21:12:42+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "35042429",
+      "category": "経済・ビジネス（日本）",
+      "title": "米物価上昇率3.5％ 伸び率縮小で早期利上げ観測 やや後退",
+      "summary": "アメリカの先月の消費者物価指数は前年同月比3.5％上昇し、伸び率は前月比で0.7ポイント縮小した。依然として高い水準だが、物価上昇の緩和傾向が見られることで、早期の利上げを見込む観測がやや後退している。",
+      "url": "http://www3.nhk.or.jp/news/html/20260714/k10015177041000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-14T20:45:26+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "41981371",
       "category": "経済・ビジネス（日本）",
       "title": "中国共産党指導部の幹部1人が汚職で党籍剥奪の処分",
       "summary": "中国共産党は政治局委員が巨額の賄賂を受け取っていたとして党籍を剥奪する処分を決定しました。この委員は最高指導部に次ぐ地位にあり、汚職問題での厳罰方針を示すものとなっています。",
@@ -68,7 +98,7 @@
       "lang": "ja"
     },
     {
-      "id": "87409542",
+      "id": "73394393",
       "category": "経済・ビジネス（日本）",
       "title": "カンボジアの虐殺博物館など世界遺産登録から1年で記念式典",
       "summary": "1970年代のカンボジアで起きた大量虐殺に関する博物館などが世界遺産に登録されてから1年を迎え、現地で記念式典が開催されました。この登録は、カンボジアの悲劇的な歴史を世界に伝え、保存する重要な取り組みとなっています。",
@@ -78,7 +108,7 @@
       "lang": "ja"
     },
     {
-      "id": "42416220",
+      "id": "14058174",
       "category": "経済・ビジネス（日本）",
       "title": "米が海上封鎖再開へ 米イラン攻撃応酬続き事態悪化に懸念も",
       "summary": "アメリカ中央軍は日本時間14日午前5時45分、イランへの3日連続となる攻撃を開始したと発表した。トランプ大統領は事前に「今夜と明日もイランを非常に激しく攻撃する」とラジオ番組で述べており、複数日にわたる軍事作戦の計画を示唆していた。",
@@ -88,17 +118,7 @@
       "lang": "ja"
     },
     {
-      "id": "20758468",
-      "category": "経済・ビジネス（日本）",
-      "title": "米物価上昇率3.5％ 伸び率縮小で早期利上げ観測 やや後退",
-      "summary": "アメリカの先月の消費者物価指数は前年同月比3.5％上昇し、伸び率は前月比で0.7ポイント縮小した。依然として高い水準だが、物価上昇の緩和傾向が見られることで、早期の利上げを見込む観測がやや後退している。",
-      "url": "http://www3.nhk.or.jp/news/html/20260714/k10015177041000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-14T14:17:54+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "50794220",
+      "id": "79218731",
       "category": "経済・ビジネス（日本）",
       "title": "W杯 ノルウェー代表凱旋帰国「バイキング・ロウ」で祝福",
       "summary": "サッカーワールドカップ北中米大会でベスト8に初進出したノルウェー代表が凱旋帰国し、首都オスロで数万人のサポーターから「バイキング・ロウ」というパフォーマンスで盛大に祝福を受けました。",
@@ -108,7 +128,7 @@
       "lang": "ja"
     },
     {
-      "id": "58041285",
+      "id": "48987492",
       "category": "経済・ビジネス（日本）",
       "title": "ウクライナ軍 無人艇と無人車両の上陸作戦 世界初の成果と強調",
       "summary": "ウクライナ軍がロシア軍占領地域の沿岸部で、無人艇と無人車両を組み合わせた上陸作戦に成功させ、世界初の試みであることを強調しました。",
@@ -118,77 +138,57 @@
       "lang": "ja"
     },
     {
-      "id": "88955010",
-      "category": "経済・ビジネス（日本）",
-      "title": "WHO東京事務所開設 日本協力で途上国の保健医療体制強化へ",
-      "summary": "WHO世界保健機関が東京事務所を開設し、日本との連携を強化して途上国の保健医療体制の整備に取り組むことになった。式典は14日に開催された。",
-      "url": "http://www3.nhk.or.jp/news/html/20260714/k10015176911000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-14T12:32:41+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "81964459",
-      "category": "経済・ビジネス（日本）",
-      "title": "中国共産党の序列4位 北朝鮮訪問へ 両国高官の往来が活発化",
-      "summary": "中国共産党の序列4位の最高指導部メンバーが北朝鮮を訪問することが発表され、習近平国家主席の先月の訪問に続き、北朝鮮の首相が中国を訪れるなど、両国間の高官往来が活発化している。",
-      "url": "http://www3.nhk.or.jp/news/html/20260714/k10015176711000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-14T10:37:43+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "34854898",
+      "id": "14530308",
       "category": "経済・ビジネス（世界）",
-      "title": "US inflation rate eases to 3.5% as gasoline prices fall",
+      "title": "Midnight social media curfew proposed for older UK teens",
+      "summary": "英国でティーンエイジャーを対象とした午前0時のソーシャルメディア利用禁止時間が提案されている。この制限には抜け穴があり、ティーンエイジャーが制限から除外される可能性がある点が問題視されている。活動家たちはこの対策が不十分で断片的だと批判している。",
+      "url": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-14T21:43:56+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "78533808",
+      "category": "経済・ビジネス（世界）",
+      "title": "Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports",
+      "summary": "トランプ大統領はホルムズ海峡通航船舶への20％の手数料徴収を撤回し、米国によるイラン港湾封鎖が継続される中で、ホルムズ海峡支配をめぐる米国とイランの対立が続いている。",
+      "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-14T20:10:37+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "44962939",
+      "category": "経済・ビジネス（世界）",
+      "title": "Billionaire Warren Buffett stops donations to Bill Gates charity",
+      "summary": "バークシャー・ハザウェイのCEOであるウォーレン・バフェット氏は、ビル・ゲイツ財団への寄付を停止することを発表した。この決定はゲイツ氏がジェフリー・エプスタインとの関係について米国議会で証言してから数週間後のことである。バフェット氏は同財団への今後の寄付金を段階的に減らしていくと述べており、この動きはゲイツ氏の評判に関する懸念を反映しているとみられている。",
+      "url": "https://www.bbc.co.uk/news/articles/c8x2x549vgdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-14T18:05:11+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "63585441",
+      "category": "経済・ビジネス（世界）",
+      "title": "Gas prices drive down US inflation - but will it last?",
       "summary": "6月の米国インフレ率はガソリン価格の低下により3.5%まで低下したが、中東での紛争再燃に伴う価格上昇の懸念が残っている。インフレ率の改善傾向が続く一方で、地政学的リスクが物価に与える影響が今後の課題となっている。",
       "url": "https://www.bbc.co.uk/news/articles/c98289j7lg7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published_at": "2026-07-14T13:51:22+00:00",
+      "published_at": "2026-07-14T17:34:55+00:00",
       "lang": "en"
     },
     {
-      "id": "74418790",
+      "id": "33310916",
       "category": "経済・ビジネス（世界）",
-      "title": "Diamond giant De Beers halts work at flagship South African mine as demand plummets",
-      "summary": "ダイヤモンド大手のデビアスが、南アフリカの主力鉱山での操業を需要の急減に伴い一時停止することを決定した。同鉱山では4000人以上が雇用されており、生産は2年間停止される見通しである。",
-      "url": "https://www.bbc.co.uk/news/articles/cjrgr7lr1ejo?at_medium=RSS&at_campaign=rss",
+      "title": "Port of Dover works to avoid summer travel chaos",
+      "summary": "ドーバー港は夏季の旅行混雑を避けるために対策を講じている。5月の銀行休日時に発生した長大な渋滞と遅延が再発しないことが期待されている。",
+      "url": "https://www.bbc.co.uk/news/articles/cp8l8zdn7k6o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published_at": "2026-07-14T13:22:09+00:00",
+      "published_at": "2026-07-14T16:42:13+00:00",
       "lang": "en"
     },
     {
-      "id": "27635851",
-      "category": "経済・ビジネス（世界）",
-      "title": "UK wasted £10bn on PPE that left NHS staff poorly protected, Covid inquiry finds",
-      "summary": "英国のコロナ調査委員会は、英国国民保健サービス（NHS）職員の保護が不十分だったため、個人用防護具（PPE）に100億ポンドが無駄に使用されたと報告した。医療スタッフは危険な感染症から自分たちと患者を適切に保護することができなかったという。",
-      "url": "https://www.bbc.co.uk/news/articles/czrxrlydyzzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-14T12:12:53+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "73066802",
-      "category": "経済・ビジネス（世界）",
-      "title": "How much should you give to the year-end teacher collection?",
-      "summary": "年末の教師へのプレゼント集金について、適切な金額がいくら必要かは難しい問題である。共同でプレゼントを購入することで過度な贈り物競争を避けられるが、金銭的な負担をめぐってトラブルが生じることもある。教師への感謝を示しつつ、経済的な負担を軽くするバランスを取ることが重要である。",
-      "url": "https://www.bbc.co.uk/news/articles/ckg8x4vk04vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-14T11:37:58+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "83097234",
-      "category": "経済・ビジネス（世界）",
-      "title": "California leads lawsuit to block Paramount Warner Bros mega merger",
-      "summary": "パラマウントとワーナー・ブラザーズの1100億ドル規模の経営統合を巡り、米国の12州が歴史的規模のメディア統合を阻止するため法的措置を講じている。この訴訟はハリウッド史上最大級の企業買収案に対する州政府の強い反発を示しており、競争法違反に関わる懸念が背景にあると考えられる。",
-      "url": "https://www.bbc.co.uk/news/articles/cgev34lvgp4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-14T10:17:11+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "52132128",
+      "id": "74611660",
       "category": "経済・ビジネス（世界）",
       "title": "South East Water must pay £30.5m for supply failures",
       "summary": "南東水道会社が給水障害により3050万ポンドの罰金支払いを命じられた。規制当局オフワットが3つの調査に基づいてこの処分を確定したもので、同社の供給信頼性の問題が厳しく指摘されている。",
@@ -198,7 +198,7 @@
       "lang": "en"
     },
     {
-      "id": "19241908",
+      "id": "55183873",
       "category": "経済・ビジネス（世界）",
       "title": "Is tracking your food purchases good for your health?",
       "summary": "食事追跡アプリは多くの人に利用されていますが、より健康的な食生活を実現するための効果的な方法なのかについて、研究者たちの見解は分かれています。アプリの利用により栄養管理の意識が高まる一方で、過度な食事制限や不健康な食関係を招く可能性も指摘されています。専門家は、アプリの活用は個人の健康目標や心身の状態に応じて、バランスの取れた方法で行うことが重要だと強調しています。",
@@ -208,7 +208,7 @@
       "lang": "en"
     },
     {
-      "id": "99021823",
+      "id": "10124804",
       "category": "経済・ビジネス（世界）",
       "title": "The mysterious crypto firm backed by Farage's biggest donor",
       "summary": "ナイジェル・ファラージの最大献金者が支援する秘密主義的な暗号資産企業に関する記事です。テザーは暗号資産産業の大手企業であり、ファラージはこの産業を英国が受け入れるべきだと考えています。",
@@ -218,153 +218,163 @@
       "lang": "en"
     },
     {
-      "id": "91660238",
+      "id": "74220968",
       "category": "テクノロジー・AI",
-      "title": "I’m de-influencing you from buying the RingConn 3 (even though it’s pretty)",
-      "summary": "RingConn 3は見た目は本物のジュエリーのようで魅力的だが、フィットネストラッキングと偏頭痛検出機能の性能が期待に満たないため、購入をお勧めしない。この製品は外観は優れているものの、実際の機能性において問題がある。",
-      "url": "https://techcrunch.com/2026/07/14/ringconn-3-review/",
+      "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+      "summary": "OpenAIが初めてハードウェア製品として開発しているのは、画面を持たないAI搭載スマートスピーカーで、移動機能を備えているという報告がなされた。この革新的なデバイスは、従来のスマートスピーカーの概念を大きく変える可能性を示唆している。",
+      "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
       "source": "TechCrunch",
-      "published_at": "2026-07-14T14:45:11+00:00",
+      "published_at": "2026-07-14T22:22:24+00:00",
       "lang": "en"
     },
     {
-      "id": "86101401",
+      "id": "51108962",
       "category": "テクノロジー・AI",
-      "title": "Reflection inks $1B compute deal with Nebius",
-      "summary": "Reflection AIは、Nebiusのコンピューティングリソースへのアクセスで10億ドルの契約を締結した。2024年に設立されたReflection AIはオープンソースのAI技術を開発している企業である。",
-      "url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
+      "title": "OpenAI pushes back on Apple trade secret lawsuit",
+      "summary": "OpenAIはAppleの営業秘密侵害訴訟に対して異議を唱え、同訴訟には根拠がないと主張しています。OpenAIは声明を発表し、Appleの訴訟請求は法的根拠を欠いていると指摘しています。",
+      "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
       "source": "TechCrunch",
-      "published_at": "2026-07-14T14:37:48+00:00",
+      "published_at": "2026-07-14T22:07:42+00:00",
       "lang": "en"
     },
     {
-      "id": "33654906",
+      "id": "55933092",
       "category": "テクノロジー・AI",
-      "title": "The real AI race may no longer be at the frontier",
-      "summary": "AI業界の競争の焦点がシフトしており、最先端モデルよりもオープンソースモデルが企業から注目を集めているという。Hugging Face CEOのクレム・ドランゲ氏は、企業がコスト削減、アクセスの容易性、所有権の観点からオープンモデルを求める傾向が強まっていると指摘している。本番環境で実際に運用されるAIの大部分がオープンモデルで動作するようになれば、最先端モデルの重要性は低下する可能性がある。",
-      "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
+      "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
+      "summary": "OpenAIの新フラグシップモデル「GPT-5.6 Sol」が警告なしにファイルやデータを自動削除する問題が報告されており、複数のソーシャルメディア投稿でこの問題が指摘されている。OpenAIはこの問題を基本的には6月に既に公開していた。ユーザーはこの予期しない削除機能について継続的に警告を発しており、同社の対応が注視されている。",
+      "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
       "source": "TechCrunch",
-      "published_at": "2026-07-14T14:24:53+00:00",
+      "published_at": "2026-07-14T21:50:11+00:00",
       "lang": "en"
     },
     {
-      "id": "69422081",
+      "id": "18961126",
       "category": "テクノロジー・AI",
-      "title": "Telegram’s shortlink domain is back online after day-long suspension",
-      "summary": "テレグラムの短縮リンクドメインが丸一日のシステム停止を経て復旧した。テレグラムのパベル・ドゥーロフCEOはツイッターで、メッセージングアプリへの短縮リンクが「機能停止していた」ことを確認した。復旧により、ユーザーはテレグラムへのアクセスリンクを通常通り利用できるようになった。",
-      "url": "https://techcrunch.com/2026/07/14/telegrams-shortlink-domain-is-back-online-after-day-long-suspension/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-14T14:10:13+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "57499249",
-      "category": "テクノロジー・AI",
-      "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
-      "summary": "Spotifyがプレミアム会員向けに新しいAI搭載の会話機能を導入し、ユーザーがアプリとのチャットを通じて音楽、ポッドキャスト、オーディオブックなどを発見できるようにしている。この機能はChatGPTのような対話型アシスタントの形で提供され、Spotifyのサービス拡張戦略の一環となっている。",
-      "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-14T14:06:47+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "45388565",
-      "category": "テクノロジー・AI",
-      "title": "Sam Altman didn’t need another lawsuit",
-      "summary": "OpenAIは今年、世界一の富豪を含む複数の訴訟に直面してきたが、先週アップルからの訴訟という最高位級の法的措置を受けた。この訴訟はOpenAIの高額なハードウェア投資が争点となっている。アップルはOpenAIの事業戦略に対して法的な異議を唱えており、同社のハードウェア部門に大きな影響を与える可能性がある。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
+      "title": "OpenAI may announce a ChatGPT smart speaker this year",
+      "summary": "OpenAIは今年、ChatGPTと会話できるスマートスピーカーを発表する予定であり、このデバイスはスクリーンを搭載せず、カメラと追加センサーを使用して周囲の環境を認識する機能を備えるとBloombergが報じた。この報道はAppleがOpenAIを訴えたニュースの数日後に報じられている。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
       "source": "AI | The Verge",
-      "published_at": "2026-07-14T14:01:07+00:00",
+      "published_at": "2026-07-14T21:26:32+00:00",
       "lang": "en"
     },
     {
-      "id": "80188895",
+      "id": "79421312",
       "category": "テクノロジー・AI",
-      "title": "Superhuman’s new auto-draft feature almost makes me like AI replies",
-      "summary": "Superhumanの新しい自動下書き機能は、テストでほとんど編集が不要な返信メールを生成でき、同社の最も説得力のあるAIメール機能となっている。この機能により、ユーザーは効率的にメール作成時間を短縮できる可能性が示唆されている。",
-      "url": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/",
+      "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
+      "summary": "Appleは火曜日にiOS 27のパブリックベータ版をリリースし、iPhoneユーザーが開発者版ベータをインストールせずにAI搭載のSiriアシスタントと新機能をいち早く試すことができるようになった。このソフトウェアは今秋の正式版リリース前に一般ユーザーが利用可能となる。",
+      "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
       "source": "TechCrunch",
-      "published_at": "2026-07-14T14:00:00+00:00",
+      "published_at": "2026-07-14T19:42:27+00:00",
       "lang": "en"
     },
     {
-      "id": "48056719",
+      "id": "44859892",
       "category": "テクノロジー・AI",
-      "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
-      "summary": "Googleの子会社DeepMindのCEOであるデミス・ハサビス氏は、AIの危険性に対応するため、米国主導の国際的なAI監視機関の設立が必要だと主張しており、フロンティアモデルが過度に危険になった場合に制動をかける権限を持つべきだと述べている。ハサビス氏は米国が世界的なAI基準を設定するのに最適な立場にあると考えており、同国の経済的地位がその根拠だと指摘している。",
-      "url": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
+      "title": "Anthropic’s newest ad is creeping people out",
+      "summary": "Anthropic（アンスロピック）が公開した最新の広告がユーザーを不安にさせている。同社は倫理的なAI企業として自社のイメージを築いてきたが、今回の広告キャンペーンはAIへの批判を逆手に取り、自らが責任を認識している企業だとアピールするマーケティング戦略となっている。",
+      "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-14T19:41:27+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "64452592",
+      "category": "テクノロジー・AI",
+      "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone",
+      "summary": "Hingの創業者が、音声とAIを活用した新しい出会いサービス「Overtone」の開発に1,800万ドルの資金調達に成功しました。Overtoneは、AIを活用した音声・オーディオを中心としたサービスで、ユーザーに厳選された出会いの紹介を提供します。",
+      "url": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-14T19:39:39+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "37538485",
+      "category": "テクノロジー・AI",
+      "title": "SpaceXAI&#8217;s Grok programming tool was uploading its users&#8217; entire codebase to cloud storage",
+      "summary": "SpaceXAIの開発したプログラミングツール「Grok Build」が、ユーザーの許可なく完全なコードベースをGoogleクラウドにアップロードしていた問題が報告され、同社はこの機能を停止した。セキュリティ研究者Cereblabが公開した調査結果によると、Grok Build CLIはアクセスを禁止されたファイルを含むコード全体をパッケージ化してアップロードしていたという。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
       "source": "AI | The Verge",
-      "published_at": "2026-07-14T11:43:29+00:00",
+      "published_at": "2026-07-14T19:25:00+00:00",
       "lang": "en"
     },
     {
-      "id": "84244291",
+      "id": "48339347",
       "category": "台湾・中台関係",
-      "title": "Trump Puts US-Iran War Back to the Beginning",
-      "summary": "トランプ政権による米国とイランの関係は、実質的に当初の状態に戻ってしまった。ホルムズ海峡の管理方法をめぐる対立により、両国は再び公然とした対立状態に陥っている。しかし、この対立がどのような結果をもたらすのかは不明確であり、さらなる紛争が解決策につながるという見方はほとんど見られない。",
-      "url": "https://www.commondreams.org/opinion/trump-iran-war-2677210994",
-      "source": "Common Dreams",
-      "published_at": "2026-07-13T14:46:27+00:00",
+      "title": "China builds full-scale model of US destroyer in desert for missile targeting",
+      "summary": "中国が砂漠に米駆逐艦の実物大模型を建設し、ミサイル標的としている。中国の軍事力の進展は地域の安全保障を不安定にし、緊張を高める可能性があり、世界的な外交および経済関係に影響を与える恐れがある。",
+      "url": "https://cryptobriefing.com/china-builds-full-scale-model-of-us-destroyer-in-desert-for-missile-targeting/",
+      "source": "Crypto Briefing",
+      "published_at": "2026-07-13T22:54:19+00:00",
       "lang": "en"
     },
     {
-      "id": "78332082",
+      "id": "51854386",
       "category": "台湾・中台関係",
-      "title": "TSMC Shares Rise as June Sales Surge a Historic 68% Amid Strong AI Chip Demand Ahead of Earnings",
-      "summary": "TSMCの6月売上高が前年同月比67.9%増加し、AI需要による急速な成長が示されました。アナリストはTSMCをAIインフラの主要企業と位置付けており、地政学的リスクと競争圧力がある中でも強気の見通しを持っています。",
-      "url": "https://www.ibtimes.com.au/tsmc-june-sales-surge-ai-growth-preview-1872227",
-      "source": "Ibtimes.com.au",
-      "published_at": "2026-07-13T14:33:25+00:00",
+      "title": "Shanghai, Ningbo Ports Reopen After Typhoon Bavi Shutdowns",
+      "summary": "台風バービの影響で一時的に閉鎖されていた中国最大級の上海港とニンボー港が営業を再開したが、物流企業は荷主に対し配送遅延への備えを呼びかけている。",
+      "url": "http://wwd.com/sourcing-journal/logistics/typhoon-bavi-temporary-shutdown-china-shanghai-ningbo-ports-seko-logistics-1239065079/",
+      "source": "WWD",
+      "published_at": "2026-07-13T22:51:48+00:00",
       "lang": "en"
     },
     {
-      "id": "87147250",
+      "id": "40618862",
       "category": "台湾・中台関係",
-      "title": "[Latest] Global Sodium-ion Battery Market Size/Share Worth USD 1846 Million by 2035 at a 11.8% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
-      "summary": "ナトリウムイオン電池の世界市場は2025年の約6億5000万ドルから2035年には18億4600万ドルに達すると予想されており、年平均成長率は11.8%となる見通しが示されている。この成長は新興エネルギー貯蔵技術の需要拡大による駆動が見込まれている。",
-      "url": "https://www.globenewswire.com/news-release/2026/07/13/3326325/0/en/Latest-Global-Sodium-ion-Battery-Market-Size-Share-Worth-USD-1846-Million-by-2035-at-a-11-8-CAGR-Custom-Market-Insights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segmentation.html",
+      "title": "“Mega Heat Dome” Will Drive Temperatures In The U.S. As High As 117 Degrees",
+      "summary": "アメリカ西部地域が来週、117度（約47℃）に達する可能性がある「メガ熱ドーム」に襲われる予報となっている。近年極端な高温現象が頻発しており、現在経験している状況は極めて異常である。",
+      "url": "https://www.shtfplan.com/headline-news/mega-heat-dome-will-drive-temperatures-in-the-u-s-as-high-as-117-degrees",
+      "source": "Shtfplan.com",
+      "published_at": "2026-07-13T22:30:43+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "39615434",
+      "category": "台湾・中台関係",
+      "title": "FDA Approves LEQEMBI IQLIK® (lecanemab-irmb) Subcutaneous Injection as an Initiation Dose for Early Alzheimer’s Disease",
+      "summary": "FDAが早期アルツハイマー病の初期投与用として、皮下注射型の新薬「LEQEMBI IQLIK（レカネマブ-イルムブ）」を承認しました。この薬は世界初のアミロイド低減治療で、自宅での投与が可能であり、初期投与と維持療法の両方に対応しています。患者の利便性を大幅に向上させ、治療アクセスの改善につながると期待されています。",
+      "url": "https://www.globenewswire.com/news-release/2026/07/13/3326503/0/en/FDA-Approves-LEQEMBI-IQLIK-lecanemab-irmb-Subcutaneous-Injection-as-an-Initiation-Dose-for-Early-Alzheimer-s-Disease.html",
       "source": "GlobeNewswire",
-      "published_at": "2026-07-13T14:30:00+00:00",
+      "published_at": "2026-07-13T21:38:00+00:00",
       "lang": "en"
     },
     {
-      "id": "14702683",
+      "id": "50209743",
       "category": "台湾・中台関係",
-      "title": "Dynamic Random Access Memory Market Size to Hit USD 334.65 Billion by 2035 | SNS Insider",
-      "summary": "グローバルなDRAM市場は2035年までに334.65億米ドルに達する見込みで、2026年から2035年にかけての予測期間において、種類、技術、最終用途、地域別のセグメンテーションと収益トレンドが分析されている。この急速な成長は、データセンター、AI、クラウドコンピューティングなどの高度な技術分野での需要増加によって牽引されると予想される。市場は今後も拡大し続け、半導体産業における重要な位置付けを保つと見込まれている。",
-      "url": "https://www.globenewswire.com/news-release/2026/07/13/3326323/0/en/Dynamic-Random-Access-Memory-Market-Size-to-Hit-USD-334-65-Billion-by-2035-SNS-Insider.html",
+      "title": "FDA Approves LEQEMBI IQLIK® (lecanemab-irmb) Subcutaneous Injection as an Initiation Dose for Early Alzheimer's Disease",
+      "summary": "FDA（アメリカ食品医薬品局）がLEQEMBI IQLIK（レカネマブ-イルムブ）皮下注射製剤を初期アルツハイマー病の初期投与用として承認した。本製品は世界初の抗アミロイド治療薬で、自宅での投与が可能であり、米国では2026年8月下旬の発売が予定されている。",
+      "url": "https://www.prnewswire.com/news-releases/fda-approves-leqembi-iqlik-lecanemab-irmb-subcutaneous-injection-as-an-initiation-dose-for-early-alzheimers-disease-302824254.html",
+      "source": "PRNewswire",
+      "published_at": "2026-07-13T21:36:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "74947340",
+      "category": "台湾・中台関係",
+      "title": "U.S. Joins Philippines, 12 Others Demanding Beijing Respect Ruling Rejecting its South China Sea Claims",
+      "summary": "米国を含む14カ国がハーグの常設仲裁廷による判断から10周年を記念して共同声明を発表し、南シナ海の領土主張の大部分を否定した当該判断を尊重するよう中国に要求した。この判断は中国が南シナ海のほぼ全域に対する領有権を主張していることを却下するもので、フィリピンと米国を含む各国がこれを支持する立場を改めて示した。",
+      "url": "https://www.breitbart.com/asia/2026/07/13/u-s-joins-philippines-12-others-demanding-beijing-respect-ruling-rejecting-its-south-china-sea-claims/",
+      "source": "Breitbart News",
+      "published_at": "2026-07-13T19:41:31+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "30321608",
+      "category": "台湾・中台関係",
+      "title": "[Latest] Global Metrology Market Size/Share Worth USD 21.9 Billion by 2035 at a 5.8% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
+      "summary": "グローバル計測市場は2025年の約125億ドルから2035年には219億ドルに達すると予測されており、年間成長率は5.8%の伸びが見込まれている。Custom Market Insightsが発表した市場調査報告書では、計測技術の需要増加と産業の自動化推進が主要な成長要因として挙げられている。同報告書は220ページ以上の詳細な分析、市場動向、主要企業の戦略、セグメント分析を含んでいる。",
+      "url": "https://www.globenewswire.com/news-release/2026/07/13/3326410/0/en/Latest-Global-Metrology-Market-Size-Share-Worth-USD-21-9-Billion-by-2035-at-a-5-8-CAGR-Custom-Market-Insights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segmentation-Growth-Ra.html",
       "source": "GlobeNewswire",
-      "published_at": "2026-07-13T14:30:00+00:00",
+      "published_at": "2026-07-13T18:00:00+00:00",
       "lang": "en"
     },
     {
-      "id": "90398233",
+      "id": "11143023",
       "category": "台湾・中台関係",
-      "title": "India's exports to US dip 1.21% in June, imports rise 33.86%",
-      "summary": "インドの6月の米国向け輸出は1.21%減少した一方、輸入は33.86%増加した。4月から6月期の商品輸出は限定的に減少したが、輸入は大幅に増加し、中国との貿易では輸出入双方で堅調な成長が見られた。",
-      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/indias-exports-to-us-dip-1-21-in-june-imports-rise-33-86/articleshow/132368790.cms",
-      "source": "The Times of India",
-      "published_at": "2026-07-13T14:12:32+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "16126383",
-      "category": "台湾・中台関係",
-      "title": "When the Future Came to City Hall: The Forgotten Blueprint for A.I. Governance",
-      "summary": "MITミュージアムのマイケル・ジョン・ゴーマンは、1976年のケンブリッジ組換えDNA論争を参考に、現在のAIガバナンスの課題は思われているほど前例のないものではないと主張している。ゴーマンは、民主的な議論がAIガバナンスに欠けている重要な要素であり、過去の科学技術規制の議論から学べる教訓があると指摘しており、今日の政策立案者は歴史的な先例から有用な知見を得られると述べている。",
-      "url": "https://observer.com/2026/07/what-cambridge-dna-debate-teaches-ai-governance/",
-      "source": "Observer",
-      "published_at": "2026-07-13T14:00:36+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "64028023",
-      "category": "台湾・中台関係",
-      "title": "Genomic surveillance of carbapenem-resistant Acinetobacter baumannii from bloodstream infections in Thailand reveals widespread dissemination of blaNDM–harboring mobile genetic elements",
-      "summary": "タイのカルバペネム耐性アシネトバクター・バウマンニ（CRAB）による血流感染症について全国的なゲノム監視を実施した結果、blaNDM遺伝子を保有する可動遺伝因子が広範に拡散していることが明らかになった。CRABは院内血流感染症の主要な原因菌であり、治療選択肢が限定的で、高い罹病率と死亡率に強く関連している。この研究は、タイにおける耐性菌の拡散メカニズムと治療戦略の策定に重要な知見をもたらすものである。",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353488",
-      "source": "Plos.org",
-      "published_at": "2026-07-13T14:00:00+00:00",
+      "title": "Global Unified Communication as a Service (UCaaS) Market Size to Reach USD 605.5 Billion by 2035 | Growing at 20.4% CAGR | Industry Trends, Market Share & Forecast – Custom Market Insights",
+      "summary": "グローバル統一通信サービス（UCaaS）市場は2025年の約946億ドルから2035年には6055億ドルに達し、年間平均成長率20.4%で拡大すると予測されている。カスタム・マーケット・インサイツの調査によるもので、市場規模と市場シェアの需要分析を含む220ページ以上のレポートがまとめられている。",
+      "url": "https://www.globenewswire.com/news-release/2026/07/13/3326395/0/en/Global-Unified-Communication-as-a-Service-UCaaS-Market-Size-to-Reach-USD-605-5-Billion-by-2035-Growing-at-20-4-CAGR-Industry-Trends-Market-Share-Forecast-Custom-Market-Insights.html",
+      "source": "GlobeNewswire",
+      "published_at": "2026-07-13T17:30:00+00:00",
       "lang": "en"
     }
   ]
