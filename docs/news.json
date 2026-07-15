@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T10:43:05.450762+00:00",
+  "updated_at": "2026-07-15T14:49:46.781561+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -58,7 +58,37 @@
   ],
   "news": [
     {
-      "id": "24044187",
+      "id": "52414513",
+      "category": "経済・ビジネス（日本）",
+      "title": "米軍 イランの海上封鎖再開 イラン“周辺国の基地を攻撃”",
+      "summary": "米軍が日本時間15日午後7時からイランへの攻撃を開始し、5日連続の攻撃となった一方、イラン側はバーレーンやクウェートの基地を攻撃したと主張しており、米イラン間の軍事衝突は激化している。事態の沈静化の見通しは立っていない状況が続いている。",
+      "url": "http://www3.nhk.or.jp/news/html/20260715/k10015177811000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-15T13:35:25+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "24284420",
+      "category": "経済・ビジネス（日本）",
+      "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月15日の動き）",
+      "summary": "ロシアによるウクライナへの軍事侵攻が継続しており、各地でロシア軍とウクライナ軍の戦闘が続いている。多数の市民が国外への避難を余儀なくされており、7月15日の戦闘状況や関連国の外交動向が随時更新される。",
+      "url": "http://www3.nhk.or.jp/news/html/20260715/k10015140961000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-15T11:02:19+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "89182707",
+      "category": "経済・ビジネス（日本）",
+      "title": "ロシア製油所の稼働率 21年間で最低水準 ウクライナ攻撃で",
+      "summary": "ウクライナ軍がロシア内陸部の石油関連施設を無人機などで相次いで攻撃した結果、ロシアの製油所の稼働率が過去21年間で最低水準に低下しており、これはロシアの軍事行動を制限することを狙った戦略の一環である。",
+      "url": "http://www3.nhk.or.jp/news/html/20260715/k10015177761000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-15T10:46:41+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "70383582",
       "category": "経済・ビジネス（日本）",
       "title": "バングラデシュ 大雨で洪水や土砂崩れ相次ぐ 50人以上死亡",
       "summary": "バングラデシュはモンスーンシーズンの大雨により洪水や土砂崩れが相次ぎ、50人以上の死亡が確認されました。",
@@ -68,7 +98,7 @@
       "lang": "ja"
     },
     {
-      "id": "75469836",
+      "id": "31043444",
       "category": "経済・ビジネス（日本）",
       "title": "イラク駐留のアメリカ軍 9月末までに撤退完了へ イラク首相",
       "summary": "イラクのザイディ首相は、イラクに駐留するアメリカ軍が2024年9月末までに撤退を完了することを明らかにしました。これはイラク政府とアメリカ間の合意に基づくもので、20年以上にわたるアメリカ軍の駐留が終了することになります。",
@@ -78,7 +108,7 @@
       "lang": "ja"
     },
     {
-      "id": "83572465",
+      "id": "19533701",
       "category": "経済・ビジネス（日本）",
       "title": "中国 GDP 4～6月は前年同期比＋4.3％ 景気の減速傾向鮮明に",
       "summary": "中国の4～6月のGDP成長率は前年同期比4.3％で、2022年10月～12月以来の低水準となり、個人消費や投資の不振により景気の減速傾向が顕著になっている。",
@@ -88,7 +118,7 @@
       "lang": "ja"
     },
     {
-      "id": "77748603",
+      "id": "53096217",
       "category": "経済・ビジネス（日本）",
       "title": "バンコク飲食店火災32人死亡 タイ全国で緊急立ち入り検査",
       "summary": "タイのバンコクの飲食店で発生した火災により32人が死亡したことを受けて、タイ当局は全国の娯楽施設などに対して避難経路などの安全対策を確認する緊急立ち入り検査を開始しました。",
@@ -98,7 +128,7 @@
       "lang": "ja"
     },
     {
-      "id": "45075255",
+      "id": "42826429",
       "category": "経済・ビジネス（日本）",
       "title": "サッカーW杯 ロンドンのパブ 店主も客もイングランド勝利期待",
       "summary": "ロンドンの老舗パブでは、サッカーワールドカップ北中米大会の準決勝でイングランドがアルゼンチンと対戦することを前に、店主や客がイングランドの勝利を期待する雰囲気に包まれていた。",
@@ -108,47 +138,47 @@
       "lang": "ja"
     },
     {
-      "id": "26597852",
-      "category": "経済・ビジネス（日本）",
-      "title": "アルツハイマー病の新薬 中間段階の臨床試験で効果 米企業",
-      "summary": "アメリカの製薬企業が開発中のアルツハイマー病新薬が中間段階の臨床試験で症状の進行抑制効果を確認し、最終段階の臨床試験に進むことが明らかになりました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260715/k10015177501000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-15T07:25:54+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "76812022",
-      "category": "経済・ビジネス（日本）",
-      "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月15日の動き）",
-      "summary": "ロシアによるウクライナへの軍事侵攻が継続しており、各地でロシア軍とウクライナ軍の戦闘が続いている。多数の市民が国外への避難を余儀なくされており、7月15日の戦闘状況や関連国の外交動向が随時更新される。",
-      "url": "http://www3.nhk.or.jp/news/html/20260715/k10015140961000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-15T07:09:50+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "80152720",
-      "category": "経済・ビジネス（日本）",
-      "title": "米軍 イランへの海上封鎖再開 トランプ大統領「発電所も標的」",
-      "summary": "アメリカ中央軍は日本時間15日午前5時からホルムズ海峡のイラン関連港への海上封鎖を再開し、イランとの攻撃の応酬が続く中で戦闘終結への協議が後退することが懸念されている。一方、トランプ大統領は海峡通過貨物への20％対価課税方針を事実上撤回する方針を明らかにした。",
-      "url": "http://www3.nhk.or.jp/news/html/20260715/k10015177001000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-15T05:11:30+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "63772571",
+      "id": "69260838",
       "category": "経済・ビジネス（世界）",
-      "title": "Several flights diverted after plane blocks Gatwick runway",
+      "title": "EasyJet passengers stuck on tarmac for hours when plane couldn't refuel",
       "summary": "イージェット航空の便が滑走路を塞いだため複数便がゲートウィック空港から他の空港へ迂回した。この便はスタンステッド空港に着陸したものの、燃料が見つからず足止めとなった。",
       "url": "https://www.bbc.co.uk/news/articles/c3ryr25gvjdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published_at": "2026-07-15T10:23:27+00:00",
+      "published_at": "2026-07-15T14:22:44+00:00",
       "lang": "en"
     },
     {
-      "id": "40033137",
+      "id": "37257698",
+      "category": "経済・ビジネス（世界）",
+      "title": "Cash-strapped Thames Water poses big test for Burnham",
+      "summary": "テムズ・ウォーター社は料金値上げにより利益を回復したが、同社は2026年末までの事業継続に必要な債務資金しか確保していないと述べている。企業の持続可能性に対する懸念が生じており、さらなる資金調達が急務となっている状況が浮き彫りになっている。",
+      "url": "https://www.bbc.co.uk/news/articles/c4gygy43103o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-15T12:09:08+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "18421745",
+      "category": "経済・ビジネス（世界）",
+      "title": "Midnight social media curfew proposed for UK teens aged 16 and 17",
+      "summary": "英国でティーンエイジャーを対象とした午前0時のソーシャルメディア利用禁止時間が提案されている。この制限には抜け穴があり、ティーンエイジャーが制限から除外される可能性がある点が問題視されている。活動家たちはこの対策が不十分で断片的だと批判している。",
+      "url": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-15T11:24:29+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "70515511",
+      "category": "経済・ビジネス（世界）",
+      "title": "Don't panic - five ways to stop your kids' endless scrolling",
+      "summary": "スマートフォンやタブレットの使用時間が長くなる子どもたちに対して、親が実践できる5つの対策方法を育児専門家が紹介している記事である。子どもの無限スクロール習慣を改善するための実用的なアドバイスが提供されており、親たちが画面時間をより効果的に管理できるようになることを目指している。",
+      "url": "https://www.bbc.co.uk/news/articles/c86e3q5j992o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-15T11:13:40+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "28484717",
       "category": "経済・ビジネス（世界）",
       "title": "China economic growth falls sharply, missing target",
       "summary": "中国の経済成長が大幅に減速し、目標を下回った。国内需要の低迷とイラン戦争による石油価格への影響が、同国の好調な輸出を相殺したことが背景にある。",
@@ -158,27 +188,7 @@
       "lang": "en"
     },
     {
-      "id": "61644826",
-      "category": "経済・ビジネス（世界）",
-      "title": "Midnight social media curfew proposed for UK teens aged 16 and 17",
-      "summary": "英国でティーンエイジャーを対象とした午前0時のソーシャルメディア利用禁止時間が提案されている。この制限には抜け穴があり、ティーンエイジャーが制限から除外される可能性がある点が問題視されている。活動家たちはこの対策が不十分で断片的だと批判している。",
-      "url": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-15T10:11:27+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "25014587",
-      "category": "経済・ビジネス（世界）",
-      "title": "Thames Water returns to profit after raising bills",
-      "summary": "テムズ・ウォーター社は料金値上げにより利益を回復したが、同社は2026年末までの事業継続に必要な債務資金しか確保していないと述べている。企業の持続可能性に対する懸念が生じており、さらなる資金調達が急務となっている状況が浮き彫りになっている。",
-      "url": "https://www.bbc.co.uk/news/articles/c4gygy43103o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-15T09:31:07+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "83308079",
+      "id": "89672645",
       "category": "経済・ビジネス（世界）",
       "title": "How will Buy Now Pay Later changes affect you?",
       "summary": "後払い決済サービスの事業者は今後、営業許可を取得する必要があり、消費者保護が強化される。新たなルールにより、払い戻しと申請却下に関する規制が導入され、利用者がより安全に利用できる環境が整備される見通しだ。",
@@ -188,7 +198,7 @@
       "lang": "en"
     },
     {
-      "id": "59017990",
+      "id": "30105564",
       "category": "経済・ビジネス（世界）",
       "title": "I changed jobs 10 times in 10 years to get the career I wanted",
       "summary": "若い世代が職場での昇進を目指して頻繁に転職する「lily-padding」という傾向が広がっており、記事の筆者は10年間で10回の転職を経験することで、自分が望むキャリアを実現したと述べている。この戦略は給与アップやキャリア開発の機会を求める労働者の間で人気が高まっているが、同時に雇用主側との関係構築や長期的なキャリア計画に影響を与える可能性がある。",
@@ -198,7 +208,7 @@
       "lang": "en"
     },
     {
-      "id": "26973253",
+      "id": "78911695",
       "category": "経済・ビジネス（世界）",
       "title": "Heating oil customers to get compensation after price hikes",
       "summary": "米国とイランの紛争に伴う原油価格上昇により、暖房油の価格が急騰したことを受けて、顧客が補償金を受け取ることになった。この価格高騰は中東情勢の悪化によって引き起こされ、暖房油利用者への救済措置が講じられることになっている。",
@@ -208,173 +218,153 @@
       "lang": "en"
     },
     {
-      "id": "71014423",
-      "category": "経済・ビジネス（世界）",
-      "title": "From Wimbledon towels to Scotch: What India-UK trade deal could mean for shoppers",
-      "summary": "インドと英国の自由貿易協定がついに発効し、両国間の商品・サービスの流通が拡大する見込みだ。ウィンブルドンのタオルやスコッチウイスキーなど、英国製品のインド市場での流通が増加し、インド発の商品も英国消費者にとってより入手しやすくなることが期待されている。この協定により、世界第5位と第6位の経済大国である両国の経済関係が深まり、消費者はより多くの選択肢と競争を通じた価格低下の恩恵を受ける可能性がある。",
-      "url": "https://www.bbc.co.uk/news/articles/c0kymrz0vkgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-14T22:17:43+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "72172516",
+      "id": "34664877",
       "category": "テクノロジー・AI",
-      "title": "A SpaceX vet raised $65M to pull wire harnesses out of the Cold War era",
-      "summary": "SpaceXの元従業員が、ロケット、ミサイル、衛星に使用されるワイヤーハーネスの製造を近代化するため、6,500万ドルの資金調達に成功した。冷戦時代から続く古い製造方法を改善し、航空宇宙産業向けのワイヤーハーネス製造プロセスを革新しようとしている企業が、大型の投資を獲得した。",
-      "url": "https://techcrunch.com/2026/07/15/a-spacex-vet-raised-65m-to-pull-wire-harnesses-out-of-the-cold-war-era/",
+      "title": "Spotify expands parent-managed accounts to users on its free tier",
+      "summary": "Spotifyは親が管理できるアカウント機能を無料ユーザーにも拡大した。この機能はこれまで有料サブスクライバーのみが利用可能だったが、今後は無料ユーザーの親もティーン向けアカウントを監視・管理できるようになる。これにより、家族全体での安全な音楽配信サービスの利用環境が整備される。",
+      "url": "https://techcrunch.com/2026/07/15/spotify-expands-parent-managed-accounts-to-users-on-its-free-tier/",
       "source": "TechCrunch",
-      "published_at": "2026-07-15T10:30:00+00:00",
+      "published_at": "2026-07-15T14:42:10+00:00",
       "lang": "en"
     },
     {
-      "id": "85966786",
+      "id": "81182368",
       "category": "テクノロジー・AI",
-      "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
-      "summary": "OpenAIの研究員マイルス・ワン氏が、評価額20億ドルのAI創薬スタートアップの立ち上げについて交渉中であることが明らかになった。この動きは、生命科学分野でAIを活用して革新的な成果を実現しようとする投資家の関心の高さを示している。AI技術を医薬品開発に応用することで、新薬発見の加速が期待されている。",
-      "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+      "title": "India bets billions on breaking China’s grip on smartphone manufacturing",
+      "summary": "インドは中国のスマートフォン製造支配に対抗するため、65億ドルのスマートフォン製造プログラムと133億ドルの半導体産業推進策を発表した。これらの投資により、インドは電子機器のサプライチェーンを強化し、製造業の多角化を進める狙いとしている。",
+      "url": "https://techcrunch.com/2026/07/15/india-bets-billions-on-breaking-chinas-grip-on-smartphone-manufacturing/",
       "source": "TechCrunch",
-      "published_at": "2026-07-15T00:27:04+00:00",
+      "published_at": "2026-07-15T14:39:52+00:00",
       "lang": "en"
     },
     {
-      "id": "67871162",
+      "id": "44342078",
       "category": "テクノロジー・AI",
-      "title": "Lorde says AI glasses are ‘not sexy’",
-      "summary": "ニュージーランドの歌手ロルドがAIメガネについて、現代世界では現実と非現実の区別がますます難しくなっているとして「セクシーではない」とコメントした。ロルドはステージ上で、テクノロジーの発展に伴い何が本物かを判断することの困難さについて言及している。",
-      "url": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+      "title": "US charges Russian ‘bulletproof’ web hosts over cyberattacks that netted $62M from cybercrime victims",
+      "summary": "米国司法省は、サイバー犯罪により被害者から6200万ドルを詐取した攻撃を支援したとして、ロシア人3名と2つのウェブホスティング企業を起訴した。2024年の起訴状は、これらの被告がハッカーを援助し、サイバー犯罪から利益を得ていたと主張している。",
+      "url": "https://techcrunch.com/2026/07/15/us-charges-russian-bulletproof-web-hosts-over-cyberattacks-that-netted-62m-from-cybercrime-victims/",
       "source": "TechCrunch",
-      "published_at": "2026-07-14T23:10:02+00:00",
+      "published_at": "2026-07-15T14:21:49+00:00",
       "lang": "en"
     },
     {
-      "id": "52592641",
+      "id": "69728084",
       "category": "テクノロジー・AI",
-      "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
-      "summary": "OpenAIが初めてハードウェア製品として開発しているのは、画面を持たないAI搭載スマートスピーカーで、移動機能を備えているという報告がなされた。この革新的なデバイスは、従来のスマートスピーカーの概念を大きく変える可能性を示唆している。",
-      "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
+      "summary": "人工知能研究企業のAnthropicと投資会社のBlackstoneが支援するOdeが立ち上げられ、AI企業各社は企業内に配置されたエンジニアが企業向けAI導入の加速に不可欠と考えている。つまり、AI企業の次の兆ドル規模のビジネス機会は、モデル開発そのものではなく、企業がそれをいかに実装・活用するかというコンサルティングやエンジニアリングサービスにあると見込まれている。",
+      "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
       "source": "TechCrunch",
-      "published_at": "2026-07-14T22:22:24+00:00",
+      "published_at": "2026-07-15T13:10:47+00:00",
       "lang": "en"
     },
     {
-      "id": "87609298",
+      "id": "33959213",
       "category": "テクノロジー・AI",
-      "title": "OpenAI pushes back on Apple trade secret lawsuit",
-      "summary": "OpenAIはAppleの営業秘密侵害訴訟に対して異議を唱え、同訴訟には根拠がないと主張しています。OpenAIは声明を発表し、Appleの訴訟請求は法的根拠を欠いていると指摘しています。",
-      "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+      "title": "Rime picks up $24M Series A to help enterprises field customer calls",
+      "summary": "企業の顧客対応電話を支援するRimeが2,400万ドルのシリーズAファンディングを調達した。Rimeは複数の企業向けに毎月1億件以上の通話を処理しており、その音声AIプラットフォームが顧客サービス業務の効率化に貢献している。",
+      "url": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
       "source": "TechCrunch",
-      "published_at": "2026-07-14T22:07:42+00:00",
+      "published_at": "2026-07-15T13:00:00+00:00",
       "lang": "en"
     },
     {
-      "id": "29767495",
+      "id": "62389313",
       "category": "テクノロジー・AI",
-      "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
-      "summary": "OpenAIの新フラグシップモデル「GPT-5.6 Sol」が警告なしにファイルやデータを自動削除する問題が報告されており、複数のソーシャルメディア投稿でこの問題が指摘されている。OpenAIはこの問題を基本的には6月に既に公開していた。ユーザーはこの予期しない削除機能について継続的に警告を発しており、同社の対応が注視されている。",
-      "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
+      "title": "Reelful’s AI turns your camera roll into short-form videos for social media",
+      "summary": "Reelfulはカメラロール内の写真や動画をAIを使ってSNS向けのショートフォーム動画に自動変換するアプリで、複雑な動画編集ツールが使いづらいユーザーを対象に開発されました。",
+      "url": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
       "source": "TechCrunch",
-      "published_at": "2026-07-14T21:50:11+00:00",
+      "published_at": "2026-07-15T13:00:00+00:00",
       "lang": "en"
     },
     {
-      "id": "59669676",
+      "id": "14189839",
       "category": "テクノロジー・AI",
-      "title": "OpenAI may announce a ChatGPT smart speaker this year",
-      "summary": "OpenAIは今年、ChatGPTと会話できるスマートスピーカーを発表する予定であり、このデバイスはスクリーンを搭載せず、カメラと追加センサーを使用して周囲の環境を認識する機能を備えるとBloombergが報じた。この報道はAppleがOpenAIを訴えたニュースの数日後に報じられている。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
-      "source": "AI | The Verge",
-      "published_at": "2026-07-14T21:26:32+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "11765049",
-      "category": "テクノロジー・AI",
-      "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
-      "summary": "Appleは火曜日にiOS 27のパブリックベータ版をリリースし、iPhoneユーザーが開発者版ベータをインストールせずにAI搭載のSiriアシスタントと新機能をいち早く試すことができるようになった。このソフトウェアは今秋の正式版リリース前に一般ユーザーが利用可能となる。",
-      "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
+      "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+      "summary": "インドのAIコーディング企業EmergentがシリーズCで1億3000万ドルの資金調達に成功し、ユニコーン企業となった。同社は年間売上高が1億2000万ドルに達し、20万人以上の有料顧客を獲得している。",
+      "url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
       "source": "TechCrunch",
-      "published_at": "2026-07-14T19:42:27+00:00",
+      "published_at": "2026-07-15T12:00:00+00:00",
       "lang": "en"
     },
     {
-      "id": "33376266",
+      "id": "88876463",
+      "category": "テクノロジー・AI",
+      "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
+      "summary": "インターネットの基礎となるTCP/IPプロトコルの開発者ヴィント・サーフが、オープンインターネット上で動作するAIエージェントを識別するための標準化に取り組んでいる。この標準により、AIエージェントが野生のインターネット環境で適切に識別・管理されることが期待されている。サーフのこの取り組みは、将来的に多くのAIエージェントがインターネット上で活動する時代への準備として注目されている。",
+      "url": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-15T12:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "50625608",
       "category": "台湾・中台関係",
-      "title": "AI-driven earnings growth, rising gold prices: Banks’ top market themes for the second half of 2026",
-      "summary": "AI投資のリターンに対する懸念がある中、銀行はAI関連の収益成長と金価格上昇を2026年下半期の主要市場テーマとして位置づけている。投資家がAI投資の実質的な利益還元に疑問を抱く一方で、金融機関はこれらの分野での成長機会を注視している。",
-      "url": "https://www.straitstimes.com/business/ai-driven-earnings-growth-rising-gold-prices-banks-top-market-themes-for-the-second-half-of-2026",
-      "source": "The Straits Times",
-      "published_at": "2026-07-14T10:28:34+00:00",
+      "title": "Global semiconductor manufacturing equipment sales to reach $165 billion in 2026: industry body",
+      "summary": "国際半導体産業協会（SEMI）の中期予測によると、世界の半導体製造装置販売は2026年に165億ドルに達し、2028年には過去最高の229.5億ドルに到達すると予想されている。この成長はAI関連需要による5年連続の増加を反映している。",
+      "url": "https://economictimes.indiatimes.com/tech/technology/global-semiconductor-manufacturing-equipment-sales-to-reach-165-billion-in-2026-industry-body/articleshow/132394340.cms",
+      "source": "The Times of India",
+      "published_at": "2026-07-14T14:34:40+00:00",
       "lang": "en"
     },
     {
-      "id": "47823116",
+      "id": "57547267",
       "category": "台湾・中台関係",
-      "title": "Fresh low-pressure area over Bay to revive monsoon after weak spell",
-      "summary": "弱い低気圧がベイ湾上に形成され、最近の弱い季節風の後に季節風の活性化が期待される。南半島では降雨量が22%不足し、中央インドでは8%の不足が記録されており、先週の大雨による改善が反転している状況が続いている。この新たな低気圧により、こうした降雨不足の改善が見込まれている。",
-      "url": "https://www.thehindubusinessline.com/economy/agri-business/fresh-low-pressure-area-over-bay-to-revive-monsoon-after-weak-spell/article71220796.ece",
-      "source": "BusinessLine",
-      "published_at": "2026-07-14T10:27:20+00:00",
+      "title": "Nikkei Rebounds as Chip Shares Recover From Early Selloff",
+      "summary": "7月14日、東京株式市場は序盤に約1000ポイント下落した後に回復し、半導体と人工知能関連株への買い戻しが進んだ。韓国株の上昇と日本国債利回りの低下が投資家のリスク選好を回復させ、日経平均の反発につながった。",
+      "url": "https://newsonjapan.com/article/149978.php",
+      "source": "Newsonjapan.com",
+      "published_at": "2026-07-14T14:27:02+00:00",
       "lang": "en"
     },
     {
-      "id": "70232200",
+      "id": "34234154",
       "category": "台湾・中台関係",
-      "title": "RISC-V Market Projected to Quadruple by 2032, Driven by Open-Standard Architectures",
-      "summary": "RISC-Vプロセッサ市場は2026年の13億1,000万ドルから2032年には48億5,000万ドルを超える規模に拡大し、年平均成長率は24.3%に達すると予測されている。この成長はオープンスタンダードアーキテクチャへのシフトと、高価な従来型プロセッサに代わるRISC-Vの利点によって牽引されている。",
-      "url": "https://www.globenewswire.com/news-release/2026/07/14/3326671/28124/en/RISC-V-Market-Projected-to-Quadruple-by-2032-Driven-by-Open-Standard-Architectures.html",
-      "source": "GlobeNewswire",
-      "published_at": "2026-07-14T10:12:00+00:00",
+      "title": "Acinetobacter baumannii lipooligosaccharide core region promotes CD14-dependent TLR4 endocytosis and enhances pathogenicity through interferon-β production",
+      "summary": "アシネトバクター・バウマンニの脂質オリゴ糖コア領域がCD14依存的なTLR4エンドサイトーシスを促進し、インターフェロンβ産生を通じて病原性を増強することが明らかになった。本研究では、脂質オリゴ糖のコア領域がCD14依存的なTLR4のエンドサイトーシスを促進し、インターフェロンβ産生を増加させることで細菌の病原性が高まることが確認された。",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014364",
+      "source": "Plos.org",
+      "published_at": "2026-07-14T14:00:00+00:00",
       "lang": "en"
     },
     {
-      "id": "26164441",
+      "id": "80744968",
       "category": "台湾・中台関係",
-      "title": "Polyurethane Dispersions Market to Reach $4.34 Billion by 2030",
-      "summary": "ポリウレタン分散液の世界市場は2025年の30億ドルから2030年には43億4,000万ドルへ年7.7%の成長率で拡大する見通しであり、VOC規制の強化と環境配慮型の水性塗料・接着剤・シーラントへの需要の増加が成長を牽引している。",
-      "url": "https://www.globenewswire.com/news-release/2026/07/14/3326670/28124/en/Polyurethane-Dispersions-Market-to-Reach-4-34-Billion-by-2030.html",
-      "source": "GlobeNewswire",
-      "published_at": "2026-07-14T10:11:00+00:00",
+      "title": "Global Semiconductor Equipment Sales Forecast to Reach a Record $229 Billion in 2028, SEMI Reports",
+      "summary": "半導体製造装置の世界的な売上は2028年に過去最高の2,290億ドルに達すると予測されており、AI技術への投資が先端ロジック、先進メモリ、テスト・パッケージングの分野での需要を牽引して、今後5年間で大幅な成長をもたらすとSEMI（国際半導体製造装置・材料協会）が報告している。",
+      "url": "https://www.prnewswire.co.uk/news-releases/global-semiconductor-equipment-sales-forecast-to-reach-a-record-229-billion-in-2028-semi-reports-302824214.html",
+      "source": "PR Newswire UK",
+      "published_at": "2026-07-14T14:00:00+00:00",
       "lang": "en"
     },
     {
-      "id": "83754522",
+      "id": "67107929",
       "category": "台湾・中台関係",
-      "title": "Tencent Music Entertainment Group to Report Second Quarter 2026 Financial Results on August 11, 2026",
-      "summary": "テンセント・ミュージック・エンターテインメント・グループ（TME）は、2026年第2四半期の財務結果を2026年8月11日に報告することを発表した。同社は中国を代表するオンライン音楽・オーディオエンターテインメントプラットフォームであり、NYSE（TME）とHKEX（1698）に上場している。",
-      "url": "https://www.prnewswire.com/news-releases/tencent-music-entertainment-group-to-report-second-quarter-2026-financial-results-on-august-11-2026-302824547.html",
+      "title": "Global Semiconductor Equipment Sales Forecast to Reach a Record $229 Billion in 2028, SEMI Reports",
+      "summary": "2028年の世界半導体製造装置の売上高が過去最高の2290億ドルに達すると予測されており、AI技術の進展に伴う最先端ロジック、先進メモリ、テスト・パッケージング分野への投資拡大が今後5年間の成長を牽引する見通しが示されている。",
+      "url": "https://www.prnewswire.com/news-releases/global-semiconductor-equipment-sales-forecast-to-reach-a-record-229-billion-in-2028-semi-reports-302824184.html",
       "source": "PRNewswire",
-      "published_at": "2026-07-14T10:00:00+00:00",
+      "published_at": "2026-07-14T14:00:00+00:00",
       "lang": "en"
     },
     {
-      "id": "78709843",
+      "id": "35819158",
       "category": "台湾・中台関係",
-      "title": "Spero Therapeutics and Innovent Biologics Announce Exclusive License for SP001 (IBI355), a Phase 2-Ready Third-Generation Anti-CD40L Antibody",
-      "summary": "スペロセラピューティクスとイノベント バイオロジクスは、第2相臨床試験準備段階にある第3世代抗CD40L抗体のSP001（イノベント開発コード：IBI355）について独占的ライセンス契約を締結した。この契約により、スペロセラピューティクスはこの次世代免疫療法候補薬の開発および商業化の権利を獲得し、両社は協力して患者への治療選択肢拡大を目指す。",
-      "url": "https://www.globenewswire.com/news-release/2026/07/14/3326657/0/en/Spero-Therapeutics-and-Innovent-Biologics-Announce-Exclusive-License-for-SP001-IBI355-a-Phase-2-Ready-Third-Generation-Anti-CD40L-Antibody.html",
-      "source": "GlobeNewswire",
-      "published_at": "2026-07-14T10:00:00+00:00",
+      "title": "\"It's not like the Eye of Sauron is looking at everything we're doing\" – Silent Hill F developer NeoBards on why trust is essential for co-dev",
+      "summary": "サイレントヒルFの開発スタジオNeoBardsは、複数の大手企業との協力開発において信頼関係の構築が最も重要であると述べており、特にSquare Enix、Konami、Capcomとの協業では、監視的な管理体制ではなく顔を合わせたコミュニケーションを通じて相互の信頼を深めることが成功の鍵だと強調している。台湾に拠点を置くNeoBardsは、大企業とのパートナーシップにおいて、柔軟で透明性のある関係性が開発の質と効率性を高めることを経験から学んでいる。",
+      "url": "https://www.gamesindustry.biz/its-not-like-the-eye-of-sauron-is-looking-at-everything-were-doing-silent-hill-f-developer-neobards-on-why-trust-is-essential-for-co-dev",
+      "source": "GamesIndustry.biz",
+      "published_at": "2026-07-14T13:00:00+00:00",
       "lang": "en"
     },
     {
-      "id": "84000280",
+      "id": "18308280",
       "category": "台湾・中台関係",
-      "title": "European Commission approves €659M German state aid for semiconductor facilities",
-      "summary": "欧州委員会がドイツの半導体施設に対して6億5900万ユーロの国家支援を承認した。この戦略的投資はアジアへの依存を減らし、ヨーロッパの現地での半導体生産を強化し、技術的自立性を高めることを目的としている。",
-      "url": "https://cryptobriefing.com/eu-approves-german-semiconductor-state-aid/",
-      "source": "Crypto Briefing",
-      "published_at": "2026-07-14T09:51:40+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "83986290",
-      "category": "台湾・中台関係",
-      "title": "NVIDIA Teams With US Government to Slam Shut the Backdoor Feeding Banned AI Chips Into China",
-      "summary": "NVIDIAは米国政府と協力し、禁止されたAIチップが中国に流入するのを防ぐための厳格な措置を講じている。同社は自社のAI GPUが正規の顧客のみに届くよう管理を強化し、米国の輸出規制に違反して中国へのチップ供給ルートを遮断することで、台湾やその他の当局の監視に対応している。",
-      "url": "https://wccftech.com/nvidia-teams-with-us-government-to-slam-shut-the-backdoor-feeding-banned-ai-chips-into-china/",
-      "source": "Wccftech",
-      "published_at": "2026-07-14T09:48:20+00:00",
+      "title": "As China Claims Philippines’ Batanes, Taiwan Emphasizes Kinship",
+      "summary": "中国がフィリピンのバタネス地域の領有権を主張する中、台湾はこの地域の先住民とのつながりを強調している。台湾とフィリピンの先住民族間の歴史的なつながりが、現在の地政学的懸念と結びついている状況を示唆している。この動きは、南シナ海をめぐる領土紛争の複雑さが、民族的・文化的なつながりにも根ざしていることを浮き彫りにしている。",
+      "url": "https://thediplomat.com/2026/07/as-china-claims-philippines-batanes-taiwan-emphasizes-kinship/",
+      "source": "The Diplomat",
+      "published_at": "2026-07-14T12:51:00+00:00",
       "lang": "en"
     }
   ]
