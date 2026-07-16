@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T23:01:55.706148+00:00",
+  "updated_at": "2026-07-16T05:42:42.923360+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -58,17 +58,27 @@
   ],
   "news": [
     {
-      "id": "27351700",
+      "id": "28433694",
       "category": "経済・ビジネス（日本）",
-      "title": "米軍 イランに5日連続の攻撃 イラン「国益を最後まで守る」",
-      "summary": "米軍は日本時間16日朝からイランへの追加攻撃を開始し、5日連続の攻撃となっています。これに対してイランのガリバフ議長は国民向けの声明で国の安全と国益を守る覚悟を示し、対抗する姿勢を改めて表明しました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260716/k10015178061000.html",
+      "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月16日の動き）",
+      "summary": "ロシアのウクライナ軍事侵攻が続き、ウクライナ全土でロシア軍とウクライナ軍の戦闘が激化している中、多くの市民が国外への避難を余儀なくされている状況を伝えるニュースである。",
+      "url": "http://www3.nhk.or.jp/news/html/20260716/k10015141071000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-07-15T22:24:15+00:00",
+      "published_at": "2026-07-16T05:28:26+00:00",
       "lang": "ja"
     },
     {
-      "id": "80202088",
+      "id": "77457628",
+      "category": "経済・ビジネス（日本）",
+      "title": "米軍 “海上封鎖再開 警告無視の船攻撃” イランは攻撃で反発",
+      "summary": "米軍は日本時間16日朝からイランへの追加攻撃を開始し、5日連続の攻撃となっています。これに対してイランのガリバフ議長は国民向けの声明で国の安全と国益を守る覚悟を示し、対抗する姿勢を改めて表明しました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260716/k10015178061000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-16T03:04:00+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "26179183",
       "category": "経済・ビジネス（日本）",
       "title": "ウクライナ軍の無人システム部隊 「影の船団」136隻を攻撃",
       "summary": "ウクライナ軍はドローンと無人艇を活用した海上作戦を強化し、ロシア産の石油やガスを運ぶ制裁対象船舶「影の船団」136隻以上を攻撃したと発表した。これはロシアの資金源を遮断する戦略の一環となっている。",
@@ -78,7 +88,7 @@
       "lang": "ja"
     },
     {
-      "id": "56112611",
+      "id": "23900380",
       "category": "経済・ビジネス（日本）",
       "title": "米FRB経済報告 イラン情勢影響で物価は全体として緩やかに上昇",
       "summary": "アメリカのFRBが発表した最新の経済報告によると、イラン情勢の影響によるエネルギー価格の上昇などを背景に、物価は全体として緩やかに上昇している状況が示されました。",
@@ -88,7 +98,7 @@
       "lang": "ja"
     },
     {
-      "id": "54503300",
+      "id": "29107922",
       "category": "経済・ビジネス（日本）",
       "title": "米軍 イランの海上封鎖再開 イラン“周辺国の基地を攻撃”",
       "summary": "米軍が日本時間15日午後7時からイランへの攻撃を開始し、5日連続の攻撃となった一方、イラン側はバーレーンやクウェートの基地を攻撃したと主張しており、米イラン間の軍事衝突は激化している。事態の沈静化の見通しは立っていない状況が続いている。",
@@ -98,7 +108,7 @@
       "lang": "ja"
     },
     {
-      "id": "73949130",
+      "id": "40326839",
       "category": "経済・ビジネス（日本）",
       "title": "【詳細】ロシア ウクライナに軍事侵攻（7月15日の動き）",
       "summary": "ロシアによるウクライナへの軍事侵攻が継続しており、各地でロシア軍とウクライナ軍の戦闘が続いている。多数の市民が国外への避難を余儀なくされており、7月15日の戦闘状況や関連国の外交動向が随時更新される。",
@@ -108,7 +118,7 @@
       "lang": "ja"
     },
     {
-      "id": "48557323",
+      "id": "54291604",
       "category": "経済・ビジネス（日本）",
       "title": "ロシア製油所の稼働率 21年間で最低水準 ウクライナ攻撃で",
       "summary": "ウクライナ軍がロシア内陸部の石油関連施設を無人機などで相次いで攻撃した結果、ロシアの製油所の稼働率が過去21年間で最低水準に低下しており、これはロシアの軍事行動を制限することを狙った戦略の一環である。",
@@ -118,7 +128,7 @@
       "lang": "ja"
     },
     {
-      "id": "34524120",
+      "id": "60776152",
       "category": "経済・ビジネス（日本）",
       "title": "バングラデシュ 大雨で洪水や土砂崩れ相次ぐ 50人以上死亡",
       "summary": "バングラデシュはモンスーンシーズンの大雨により洪水や土砂崩れが相次ぎ、50人以上の死亡が確認されました。",
@@ -128,17 +138,27 @@
       "lang": "ja"
     },
     {
-      "id": "42849847",
-      "category": "経済・ビジネス（日本）",
-      "title": "イラク駐留のアメリカ軍 9月末までに撤退完了へ イラク首相",
-      "summary": "イラクのザイディ首相は、イラクに駐留するアメリカ軍が2024年9月末までに撤退を完了することを明らかにしました。これはイラク政府とアメリカ間の合意に基づくもので、20年以上にわたるアメリカ軍の駐留が終了することになります。",
-      "url": "http://www3.nhk.or.jp/news/html/20260715/k10015177651000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-15T09:15:55+00:00",
-      "lang": "ja"
+      "id": "45052297",
+      "category": "経済・ビジネス（世界）",
+      "title": "Government brings British Steel under public ownership",
+      "summary": "英国政府は今週可決された新しい権限に基づき、スカントープ製鉄所を公式に国有化しました。この措置により、ブリティッシュ・スチール社は公的所有下に置かれることになりました。政府による産業支援の一環として実施されたこの決定は、地域の雇用と製鋼産業の維持を目的としています。",
+      "url": "https://www.bbc.co.uk/news/articles/c5y680w62wno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-16T05:22:15+00:00",
+      "lang": "en"
     },
     {
-      "id": "60011417",
+      "id": "52280352",
+      "category": "経済・ビジネス（世界）",
+      "title": "Celebrity influencers paid up to £1m to advertise deodorant on Instagram",
+      "summary": "有名インフルエンサーがInstagramで制汗剤の広告に最大100万ポンドの報酬を受け取っていることが、ブランドWildのCEOにより明かされた。ソーシャルメディア上の一見自然に見える投稿の背後には、多額の金銭が動いていることが露呈した。インフルエンサーマーケティングの透明性の欠如が改めて注目を集めている。",
+      "url": "https://www.bbc.co.uk/news/articles/cvgegqrp656o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-15T23:00:42+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "41243942",
       "category": "経済・ビジネス（世界）",
       "title": "Buffett calls Bill Gates relationship with Epstein 'distasteful'",
       "summary": "バフェットはゲイツとエプスタイン元被告の関係を「不快」と呼び、自身の投資会社がマイクロソフト共同創業者の慈善団体への寄付を中止したことを明らかにした。ゲイツがエプスタイン受刑者と交流を持っていたことが問題視されている。",
@@ -148,7 +168,7 @@
       "lang": "en"
     },
     {
-      "id": "53585862",
+      "id": "87257413",
       "category": "経済・ビジネス（世界）",
       "title": "Salary information to be shown on job ads under new laws",
       "summary": "政府は新しい法律により、求人広告に給与情報を表示することを義務付ける方針を示している。この施策は求職者の利便性を高め、給与差別に関する申し立てを減らすのに役立つと考えられている。",
@@ -158,7 +178,7 @@
       "lang": "en"
     },
     {
-      "id": "63193601",
+      "id": "13468794",
       "category": "経済・ビジネス（世界）",
       "title": "SpaceX share price drops below stock market debut",
       "summary": "SpaceXの株価が上場時の価格を下回った。同社は1ヶ月前に上場して以来、株取引が不安定な状況が続いており、ロケット企業として知られるイーロン・マスク率いる企業の株価変動が顕著になっている。",
@@ -168,7 +188,7 @@
       "lang": "en"
     },
     {
-      "id": "11323225",
+      "id": "90649795",
       "category": "経済・ビジネス（世界）",
       "title": "Burnham faces crucial choice for chancellor as battle for No 11 continues",
       "summary": "バーナム氏は首相就任後の重要なポスト財務大臣の人事決定に直面しており、この人選が彼の政策方針を示す重要な信号となることが指摘されている。",
@@ -178,17 +198,7 @@
       "lang": "en"
     },
     {
-      "id": "30649830",
-      "category": "経済・ビジネス（世界）",
-      "title": "EasyJet passengers stuck on tarmac for hours when plane couldn't refuel",
-      "summary": "イージェット航空の便が滑走路を塞いだため複数便がゲートウィック空港から他の空港へ迂回した。この便はスタンステッド空港に着陸したものの、燃料が見つからず足止めとなった。",
-      "url": "https://www.bbc.co.uk/news/articles/c3ryr25gvjdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-15T15:31:23+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "75093630",
+      "id": "45013068",
       "category": "経済・ビジネス（世界）",
       "title": "Brewdog co-founder James Watt launches bid to buy back beer firm",
       "summary": "BrewDogの共同創業者ジェームス・ワット氏が、米国企業に売却されたクラフトビール事業を買い戻すための入札を開始した。ワット氏は数ヶ月前に米企業に売却された同事業の買収提案を行ったと述べている。BrewDogの買収動向が注目される中、創業者による経営権奪還の可能性が浮上した。",
@@ -198,7 +208,7 @@
       "lang": "en"
     },
     {
-      "id": "12652486",
+      "id": "35442147",
       "category": "経済・ビジネス（世界）",
       "title": "Cash-strapped Thames Water poses big test for Burnham",
       "summary": "テムズ・ウォーター社は料金値上げにより利益を回復したが、同社は2026年末までの事業継続に必要な債務資金しか確保していないと述べている。企業の持続可能性に対する懸念が生じており、さらなる資金調達が急務となっている状況が浮き彫りになっている。",
@@ -208,17 +218,47 @@
       "lang": "en"
     },
     {
-      "id": "47969804",
-      "category": "経済・ビジネス（世界）",
-      "title": "Don't panic - five ways to stop your kids' endless scrolling",
-      "summary": "スマートフォンやタブレットの使用時間が長くなる子どもたちに対して、親が実践できる5つの対策方法を育児専門家が紹介している記事である。子どもの無限スクロール習慣を改善するための実用的なアドバイスが提供されており、親たちが画面時間をより効果的に管理できるようになることを目指している。",
-      "url": "https://www.bbc.co.uk/news/articles/c86e3q5j992o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-15T11:13:40+00:00",
+      "id": "50724449",
+      "category": "テクノロジー・AI",
+      "title": "Lululemon backs nylon-recycling startup Syntetica in $30M Series A",
+      "summary": "ルルレモンはナイロンリサイクル技術を開発したフランススタートアップのシンテティカのシリーズAラウンドで3000万ドルを出資した。シンテティカは革新的なナイロン回収・リサイクル方法を開発しており、既に大手企業からのパートナーシップと投資を獲得している。",
+      "url": "https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-16T04:00:00+00:00",
       "lang": "en"
     },
     {
-      "id": "91045813",
+      "id": "36310290",
+      "category": "テクノロジー・AI",
+      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+      "summary": "Applied Computingは石油・ガス・石油化学業界向けの基盤AIモデルを開発するため、シリーズAで2000万ドルの資金調達に成功しました。このAIモデルは、油田やガスプラント全体の運用を支援するために設計されており、業界全体の効率化と最適化を目指しています。",
+      "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-16T04:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "34958497",
+      "category": "テクノロジー・AI",
+      "title": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
+      "summary": "グレイロックは新しいファンドの規模を15億ドルに制限することで、ファンドあたりの投資案件を約25件に抑え、創業者にとって「最も重要なパートナー」であり続けることを目指している。これにより、より大きな資金を調達できたにもかかわらず、質の高い支援と個別対応を優先する戦略を採用している。",
+      "url": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-16T00:20:42+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "61935835",
+      "category": "テクノロジー・AI",
+      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+      "summary": "マイクロソフトが自社のAIモデルを、OpenAIやAnthropicの競合製品よりも効率的でコスト効果的であると位置付けるため、営業担当者にOpenAIやAnthropicの製品を批判するよう訓練していると報じられている。マイクロソフトは社内開発のAIモデルの販売を強化する戦略の一環として、競合他社との差別化を図ろうとしている。",
+      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-15T23:59:44+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "54487253",
       "category": "テクノロジー・AI",
       "title": "xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;",
       "summary": "イーロン・マスク傘下のxAIが、同社のAIチャットボット「Grok」を使用して児童性的虐待画像を生成したと主張されるサウスカロライナ州の男性を提訴しました。訴状によると、テリー・ウェイン・ハーウッドは安全対策を回避し、非合意画像を改変し、児童性的虐待画像を生成・配布するためにGrokを意図的に利用したと主張されています。xAIはこれが利用規約違反に当たると考えています。",
@@ -228,7 +268,7 @@
       "lang": "en"
     },
     {
-      "id": "31560945",
+      "id": "21816930",
       "category": "テクノロジー・AI",
       "title": "Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms",
       "summary": "テキサス州での致命的な衝突事故でテスラの運転者がアクセルを100%踏み込んでいたことが米国家運輸安全委員会（NTSB）によって確認された。テスラが事故発生後に公開した説明と一致していることが明らかになった。",
@@ -238,7 +278,7 @@
       "lang": "en"
     },
     {
-      "id": "69768855",
+      "id": "29443307",
       "category": "テクノロジー・AI",
       "title": "AI slop movies are the new direct-to-video cash grabs",
       "summary": "AI生成コンテンツを使った低品質映画が、かつてのVHS直販映画のような新たなマネタイズ手段になっている。一方、クリストファー・ノーランの新作「オデッセイ」の映画化は週末に8000万～1億ドルの興行収入が見込まれており、高品質な映像制作技術への需要と対比されている。質の低い生成AI映画の氾濫が、映画業界に新たな課題をもたらしている。",
@@ -248,7 +288,7 @@
       "lang": "en"
     },
     {
-      "id": "55583977",
+      "id": "15126452",
       "category": "テクノロジー・AI",
       "title": "Daniel Ek’s body-scanning startup Neko Health raises another $700M",
       "summary": "Daniel Ekが創設した身体スキャン企業Neko Healthは、新たに7億ドルの資金調達に成功した。同社は独自開発の身体スキャン技術と血液検査を組み合わせて、個人の健康状態を総合的に評価するサービスを提供している。この資金調達により、Neko Healthは早期疾患検出と予防医療の分野での事業展開をさらに加速させることができるようになった。",
@@ -258,113 +298,73 @@
       "lang": "en"
     },
     {
-      "id": "30688725",
-      "category": "テクノロジー・AI",
-      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-      "summary": "OpenAIはAppleとのハードウェア商標盗用疑惑に関する法廷闘争の最中、自社のエージェント型コーディングアプリと連携するように設計された発光キーボード（230ドル）をリリースした。このキーボードはCodexアプリと組み合わせて使用するもので、OpenAIのハードウェア事業拡大の動きを示している。",
-      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-15T19:41:38+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "26848725",
-      "category": "テクノロジー・AI",
-      "title": "Microsoft patches bug in video game Age of Empires II",
-      "summary": "マイクロソフトが数十年前のビデオゲーム「Age of Empires II」の脆弱性を修正した。この脆弱性は悪意あるゲーム招待を通じてハッカーが被害者のコンピュータを乗っ取る可能性があったものである。",
-      "url": "https://techcrunch.com/2026/07/15/microsoft-patches-bug-in-video-game-age-of-empires-ii/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-15T18:47:01+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "33201235",
-      "category": "テクノロジー・AI",
-      "title": "Apple bans home services from its upcoming Maps ads",
-      "summary": "Appleは新しいMapsの広告事業に関するポリシーを公開し、配管工や電気技師、錠前師、屋根職人などの住宅関連サービス業者の広告掲載を禁止していることが明らかになった。これはGoogleの戦略と異なり、Appleがより厳選された広告アプローチを採用していることを示している。",
-      "url": "https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-15T18:21:22+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "18560242",
-      "category": "テクノロジー・AI",
-      "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
-      "summary": "SpaceXが135ドルでIPO価格を下回る株価となったのは、スターシップの打ち上げを控えた中での出来事です。株価は上場後の高値から着実に下落しており、イーロン・マスクCEOが上場前後に述べた約束に対して、市場が現実的な評価を始めている可能性があります。楽観的な期待から冷静さを取り戻しつつある市場の動きが、SpaceXの株価低迷に反映されています。",
-      "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-15T18:06:05+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "53986804",
+      "id": "50973971",
       "category": "台湾・中台関係",
-      "title": "Have You Seen These Enigmatic Exotic Birds? (20 PICS)",
-      "summary": "世界には驚くべき外来鳥が数多く存在し、その多くは独特の外観と行動で知られています。これらの鳥たちは、鮮やかな羽毛、異常な頭部の形状、複雑な求愛儀式など、進化の過程で発達させた様々な特徴を持っています。この記事では、自然界で最も謎めいた美しい外来鳥20種を紹介し、その神秘的な魅力を探ります。",
-      "url": "https://izismile.com/2026/07/15/have_you_seen_these_enigmatic_exotic_birds_20_pics.html",
-      "source": "Izismile.com",
-      "published_at": "2026-07-14T22:00:15+00:00",
+      "title": "Taiwan becomes Ukraine's third-largest drone battery supplier",
+      "summary": "台湾の国家シンクタンクである民主主義・社会・新興技術研究所が発表した報告書によると、台湾のドローン電池産業は近年着実な成長を遂げており、台湾はウクライナ向けのドローン電池供給国として世界第3位となっている。台湾の産業は技術革新と生産能力の向上により国際市場での地位を確立し、戦争状況下のウクライナへの支援において重要な役割を担っている。",
+      "url": "https://www.digitimes.com/news/a20260714PD236/taiwan-ukraine-drone-supplier-2025.html",
+      "source": "Digitimes",
+      "published_at": "2026-07-15T05:07:24+00:00",
       "lang": "en"
     },
     {
-      "id": "68069366",
+      "id": "11202878",
       "category": "台湾・中台関係",
-      "title": "Iran Overplayed Its Hand. Now Trump Must Finish The Job",
-      "summary": "イランの指導部が無分別に過度な行動を取ったことで、自らの滅亡を招いた可能性があり、トランプ氏がこの局面を終わらせるべき立場にあるという論旨の記事である。イラン政権の独裁的な支配体制が、軽率な判断によって国際的な反発を招き、その権力基盤が揺らいでいるとの見方を示している。",
-      "url": "https://www.forbes.com/sites/steveforbes/2026/07/14/iran-overplayed-its-hand-now-trump-must-finish-the-job/",
-      "source": "Forbes",
-      "published_at": "2026-07-14T21:57:26+00:00",
+      "title": "What Did the Nine-Dash Line Ruling Accomplish?",
+      "summary": "フィリピンは南シナ海における9段線判決から10年経った現在、同海域での防衛計画を強化している。この国際仲裁判決は中国の領土主張の法的根拠を否定したものの、中国はこれを受け入れていない。フィリピンはこの判決を背景に、自国の権益を守るため軍事力の増強と国際的な連携の強化を進めている。",
+      "url": "http://foreignpolicy.com/2026/07/15/south-china-sea-philippines-nine-dash-line-ruling/",
+      "source": "Foreign Policy",
+      "published_at": "2026-07-15T05:00:42+00:00",
       "lang": "en"
     },
     {
-      "id": "78972224",
+      "id": "63000506",
       "category": "台湾・中台関係",
-      "title": "Victor Davis Hanson: The World Is Becoming More Pro-American Than It Has Been in Years",
-      "summary": "ヴィクター・デイヴィス・ハンソンは、現在の世界情勢が数年間で最も親米的になってきていると指摘しており、国際的な政治力学に変化が生じていることを示唆している。デイリー・シグナルの高級寄稿者であるハンソンは、この分析をビデオコンテンツを通じて視聴者に伝えており、グローバルな米国への好感度の上昇について論じている。",
-      "url": "https://www.dailysignal.com/2026/07/14/world-trump-pro-american/",
-      "source": "Daily Signal",
-      "published_at": "2026-07-14T21:45:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "60706780",
-      "category": "台湾・中台関係",
-      "title": "Japan ramps up defences amid concerns about China's 'military activities'",
-      "summary": "日本は中国の軍事活動への懸念の中で防衛力を強化しており、第二次世界大戦以来最大の防衛体制の転換を進めている。世界が中国の台頭に注視する中で、日本は防衛予算の大幅な増加や軍事力の近代化により、地域の安全保障環境の変化に対応しようとしている。この防衛強化は中国による軍事的脅威に対する日本の危機感を反映している。",
-      "url": "https://www.abc.net.au/news/2026-07-15/china-japan-defence-spending/106912686",
-      "source": "ABC News (AU)",
-      "published_at": "2026-07-14T18:40:57+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "90313664",
-      "category": "台湾・中台関係",
-      "title": "LEQEMBI® Real-World LEADER Study Presented at AAIC® 2026 Finds Over 75% of Early Alzheimer’s Patients Enrolled in the Study Remained Stable and Nearly 7% Improved Over an Average of 17 Months of Treatment",
-      "summary": "LEQEMBI（レケンビ）の実臨床研究「LEADER試験」がAAIC 2026で発表され、早期アルツハイマー病患者の75％以上が平均17ヶ月の治療期間中に症状が安定し、約7％が改善したことが明らかになった。この実臨床でのデータは、継続的なLEQEMBI治療の長期的な有効性を支持し、臨床試験以外の実際の治療環境における患者体験について重要な知見をもたらしている。",
-      "url": "https://www.globenewswire.com/news-release/2026/07/14/3327109/0/en/LEQEMBI-Real-World-LEADER-Study-Presented-at-AAIC-2026-Finds-Over-75-of-Early-Alzheimer-s-Patients-Enrolled-in-the-Study-Remained-Stable-and-Nearly-7-Improved-Over-an-Average-of-17.html",
+      "title": "Global Second-Life Battery Market Size to Reach USD 46.9 Billion by 2035 | Growing at 11.8% CAGR | Industry Trends, Market Share & Forecast – Custom Market Insights",
+      "summary": "グローバルセカンドライフバッテリー市場は2025年の約154億ドルから2035年には469億ドルに達すると予想され、年間11.8%の成長率で拡大する見込みです。電気自動車の普及とバッテリーリサイクル技術の進展により、使用済みバッテリーの再利用需要が急速に高まっており、エネルギー貯蔵やグリーン産業における重要な市場として成長しています。",
+      "url": "https://www.globenewswire.com/news-release/2026/07/15/3327445/0/en/Global-Second-Life-Battery-Market-Size-to-Reach-USD-46-9-Billion-by-2035-Growing-at-11-8-CAGR-Industry-Trends-Market-Share-Forecast-Custom-Market-Insights.html",
       "source": "GlobeNewswire",
-      "published_at": "2026-07-14T15:18:00+00:00",
+      "published_at": "2026-07-15T04:30:00+00:00",
       "lang": "en"
     },
     {
-      "id": "79720234",
+      "id": "13552305",
       "category": "台湾・中台関係",
-      "title": "LEQEMBI® Real-World LEADER Study Presented at AAIC® 2026 Finds Over 75% of Early Alzheimer's Patients Enrolled in the Study Remained Stable and Nearly 7% Improved Over an Average of 17 Months of Treatment",
-      "summary": "AAIC 2026で発表されたLEQEMBI®のLEADER実証研究によると、初期アルツハイマー病患者の75%以上が17ヶ月の平均治療期間を通じて安定した状態を維持し、約7%が改善を示したことが明らかになった。この実世界でのデータは、臨床試験環境外での継続的な治療の長期的な利益と治療経験に関する重要な知見を提供している。",
-      "url": "https://www.prnewswire.com/news-releases/leqembi-real-world-leader-study-presented-at-aaic-2026-finds-over-75-of-early-alzheimers-patients-enrolled-in-the-study-remained-stable-and-nearly-7-improved-over-an-average-of-17-months-of-treatment-302825236.html",
+      "title": "‘Some people don’t even live past 40’: Singer Eric Moo feels lucky to be in showbiz for 4 decades",
+      "summary": "シンガーのエリック・ムーは、63歳になった今も音楽業界で活躍できることに幸運を感じており、「40歳を超えて生きられない人もいる」とコメントしている。マレーシア出身の彼は1月にシンガポールのリゾーツ・ワールド・セントーサでコンサートを開催する予定で、40年間のショービジネスキャリアを記念する。",
+      "url": "https://www.straitstimes.com/life/entertainment/singer-eric-moo-feels-lucky-to-be-in-showbiz-for-4-decades-some-people-dont-even-live-past-40",
+      "source": "The Straits Times",
+      "published_at": "2026-07-15T02:45:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "53469692",
+      "category": "台湾・中台関係",
+      "title": "DBS wealth assets eye $1 trillion with AI and hiring",
+      "summary": "DBS銀行は2030年までに資産管理規模を1兆ドルに拡大することを目指しており、人工知能の導入と戦略的な人員採用を通じてクライアントサービスを強化する計画である。",
+      "url": "https://www.straitstimes.com/business/dbs-eyes-1-trillion-in-wealth-assets-by-2030-banks-on-ai-and-hiring-600-more-staff",
+      "source": "The Straits Times",
+      "published_at": "2026-07-15T02:05:02+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "11548175",
+      "category": "台湾・中台関係",
+      "title": "GEM and Senhwa Biosciences have formally executed a Share Purchase Agreement for up to NT$500 million",
+      "summary": "GEMグローバル・イールド・エルエルシーがシェンファ・バイオサイエンシズの既存株主と株式購入契約を締結し、最大500万台湾ドルの投資をコミットした。この契約によりGEMはシェンファ・バイオサイエンシズへの戦略的出資を通じて、同社の事業展開を支援することになる。シェンファ・バイオサイエンシズは台湾の上場企業であり、この投資により経営基盤の強化が期待される。",
+      "url": "https://www.prnewswire.com/news-releases/gem-and-senhwa-biosciences-have-formally-executed-a-share-purchase-agreement-for-up-to-nt500-million-302825774.html",
       "source": "PRNewswire",
-      "published_at": "2026-07-14T15:15:00+00:00",
+      "published_at": "2026-07-15T01:09:00+00:00",
       "lang": "en"
     },
     {
-      "id": "53790075",
+      "id": "38748429",
       "category": "台湾・中台関係",
-      "title": "China claims chip exports nearly doubled to $177 billion in the first half of 2026 as memory prices surged — 96% year-on-year increase inflated by hikes",
-      "summary": "中国が2026年上半期のチップ輸出額が177億ドルで前年比96%増加したと発表し、メモリ価格の急騰が要因となった。しかし平均的な輸出チップの価値は約1ドルで、低価格帯の製品大量輸出によって数字が水増しされている状況にある。",
-      "url": "https://www.tomshardware.com/tech-industry/china-claims-chip-exports-nearly-doubled-to-177-billion-in-the-first-half-of-2026",
-      "source": "Tom's Hardware UK",
-      "published_at": "2026-07-14T14:52:27+00:00",
+      "title": "How Trade With Korea Boosts US Economic Security",
+      "summary": "米国と韓国の貿易は相互の経済的繁栄を増加させ、経済的ショックに対するクッション機能を果たしており、保護主義政策はこうした重要なパートナーシップに悪影響を及ぼす可能性がある。米韓間の貿易関係を強化することは、両国の経済安全保障を高め、予期しない経済危機への耐性を向上させることが期待されている。",
+      "url": "https://www.thefreedomfrequency.org/p/how-trade-with-korea-boosts-us-economic",
+      "source": "Thefreedomfrequency.org",
+      "published_at": "2026-07-15T00:00:00+00:00",
       "lang": "en"
     }
   ]
