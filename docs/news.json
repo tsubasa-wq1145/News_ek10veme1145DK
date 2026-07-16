@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T05:42:42.923360+00:00",
+  "updated_at": "2026-07-16T10:49:53.672586+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -58,17 +58,37 @@
   ],
   "news": [
     {
-      "id": "28433694",
+      "id": "20039427",
+      "category": "経済・ビジネス（日本）",
+      "title": "日ギリシャ外相 ホルムズ海峡の安全航行回復へ 連携で一致",
+      "summary": "茂木外務大臣はギリシャのゲラペトリティス外相と会談し、海洋国家として海上交通の安全確保に共に取り組むことを確認しました。両外相はホルムズ海峡の自由で安全な航行の回復に向けて連携することで一致しました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260716/k10015178611000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-16T10:47:30+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "49804862",
       "category": "経済・ビジネス（日本）",
       "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月16日の動き）",
       "summary": "ロシアのウクライナ軍事侵攻が続き、ウクライナ全土でロシア軍とウクライナ軍の戦闘が激化している中、多くの市民が国外への避難を余儀なくされている状況を伝えるニュースである。",
       "url": "http://www3.nhk.or.jp/news/html/20260716/k10015141071000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-07-16T05:28:26+00:00",
+      "published_at": "2026-07-16T09:32:56+00:00",
       "lang": "ja"
     },
     {
-      "id": "77457628",
+      "id": "47032318",
+      "category": "経済・ビジネス（日本）",
+      "title": "韓国 3年半ぶり利上げ イラン情勢受けた物価上昇抑えるねらい",
+      "summary": "韓国中央銀行が3年半ぶりに政策金利を0.25％引き上げることを決定し、イラン情勢などを背景とした物価上昇の抑制を狙っています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260716/k10015178351000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-16T05:58:08+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "21352525",
       "category": "経済・ビジネス（日本）",
       "title": "米軍 “海上封鎖再開 警告無視の船攻撃” イランは攻撃で反発",
       "summary": "米軍は日本時間16日朝からイランへの追加攻撃を開始し、5日連続の攻撃となっています。これに対してイランのガリバフ議長は国民向けの声明で国の安全と国益を守る覚悟を示し、対抗する姿勢を改めて表明しました。",
@@ -78,7 +98,7 @@
       "lang": "ja"
     },
     {
-      "id": "26179183",
+      "id": "61533736",
       "category": "経済・ビジネス（日本）",
       "title": "ウクライナ軍の無人システム部隊 「影の船団」136隻を攻撃",
       "summary": "ウクライナ軍はドローンと無人艇を活用した海上作戦を強化し、ロシア産の石油やガスを運ぶ制裁対象船舶「影の船団」136隻以上を攻撃したと発表した。これはロシアの資金源を遮断する戦略の一環となっている。",
@@ -88,7 +108,7 @@
       "lang": "ja"
     },
     {
-      "id": "23900380",
+      "id": "46123759",
       "category": "経済・ビジネス（日本）",
       "title": "米FRB経済報告 イラン情勢影響で物価は全体として緩やかに上昇",
       "summary": "アメリカのFRBが発表した最新の経済報告によると、イラン情勢の影響によるエネルギー価格の上昇などを背景に、物価は全体として緩やかに上昇している状況が示されました。",
@@ -98,7 +118,7 @@
       "lang": "ja"
     },
     {
-      "id": "29107922",
+      "id": "90963241",
       "category": "経済・ビジネス（日本）",
       "title": "米軍 イランの海上封鎖再開 イラン“周辺国の基地を攻撃”",
       "summary": "米軍が日本時間15日午後7時からイランへの攻撃を開始し、5日連続の攻撃となった一方、イラン側はバーレーンやクウェートの基地を攻撃したと主張しており、米イラン間の軍事衝突は激化している。事態の沈静化の見通しは立っていない状況が続いている。",
@@ -108,7 +128,7 @@
       "lang": "ja"
     },
     {
-      "id": "40326839",
+      "id": "64083990",
       "category": "経済・ビジネス（日本）",
       "title": "【詳細】ロシア ウクライナに軍事侵攻（7月15日の動き）",
       "summary": "ロシアによるウクライナへの軍事侵攻が継続しており、各地でロシア軍とウクライナ軍の戦闘が続いている。多数の市民が国外への避難を余儀なくされており、7月15日の戦闘状況や関連国の外交動向が随時更新される。",
@@ -118,47 +138,77 @@
       "lang": "ja"
     },
     {
-      "id": "54291604",
-      "category": "経済・ビジネス（日本）",
-      "title": "ロシア製油所の稼働率 21年間で最低水準 ウクライナ攻撃で",
-      "summary": "ウクライナ軍がロシア内陸部の石油関連施設を無人機などで相次いで攻撃した結果、ロシアの製油所の稼働率が過去21年間で最低水準に低下しており、これはロシアの軍事行動を制限することを狙った戦略の一環である。",
-      "url": "http://www3.nhk.or.jp/news/html/20260715/k10015177761000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-15T10:46:41+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "60776152",
-      "category": "経済・ビジネス（日本）",
-      "title": "バングラデシュ 大雨で洪水や土砂崩れ相次ぐ 50人以上死亡",
-      "summary": "バングラデシュはモンスーンシーズンの大雨により洪水や土砂崩れが相次ぎ、50人以上の死亡が確認されました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260715/k10015177791000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-15T10:41:32+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "45052297",
+      "id": "14782146",
       "category": "経済・ビジネス（世界）",
-      "title": "Government brings British Steel under public ownership",
-      "summary": "英国政府は今週可決された新しい権限に基づき、スカントープ製鉄所を公式に国有化しました。この措置により、ブリティッシュ・スチール社は公的所有下に置かれることになりました。政府による産業支援の一環として実施されたこの決定は、地域の雇用と製鋼産業の維持を目的としています。",
-      "url": "https://www.bbc.co.uk/news/articles/c5y680w62wno?at_medium=RSS&at_campaign=rss",
+      "title": "Chip giant TSMC pledges another $100bn to expand US production",
+      "summary": "台湾の半導体大手TSMCが米国での生産拡大に向けて追加で100億ドルの投資を誓約し、米国への総投資額を265億ドルに引き上げた。同社は高度な技術を要する高給与の雇用創出をもたらすと述べており、米国のチップ産業強化に向けた大規模な戦略投資となっている。",
+      "url": "https://www.bbc.co.uk/news/articles/c62x8ldxr7eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published_at": "2026-07-16T05:22:15+00:00",
+      "published_at": "2026-07-16T10:23:00+00:00",
       "lang": "en"
     },
     {
-      "id": "52280352",
+      "id": "22497350",
+      "category": "経済・ビジネス（世界）",
+      "title": "Who is frontrunner to be the UK's next chancellor?",
+      "summary": "アンディ・バーナムが来週ダウニング街に入居し、その隣のナンバー11に誰が住むことになるかが注目されている。イギリスの次期財務大臣の候補者が誰なのかについての記事である。",
+      "url": "https://www.bbc.co.uk/news/articles/c36yj4pn7jdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-16T10:03:05+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "81226286",
+      "category": "経済・ビジネス（世界）",
+      "title": "Aer Lingus proposes cutting 500 jobs under savings plan",
+      "summary": "アイルランドの航空会社エアーリンガスが、経営効率化計画の一環として500人の人員削減を提案している。これは本社での290職、客室乗務員140職、パイロット70職の削減を含んでいる。",
+      "url": "https://www.bbc.co.uk/news/articles/ceqe52l4yr4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-16T09:45:41+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "18974173",
+      "category": "経済・ビジネス（世界）",
+      "title": "UK economy returns to growth in May",
+      "summary": "英国経済は5月に成長へ戻り、前月の若干の縮小を逆転させた。この控えめな成長は、経済が回復基調に向かっていることを示唆している。詳細な統計データは、製造業やサービス業を含む複数の部門からの貢献を反映している。",
+      "url": "https://www.bbc.co.uk/news/articles/c8xnllq944go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-16T08:43:28+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "33524754",
+      "category": "経済・ビジネス（世界）",
+      "title": "TikTok faces Ofcom investigation over child age checks",
+      "summary": "TikTokは子どもの年齢確認に関してOfcom（英国通信庁）の調査対象となっている。これは5月の規制当局の審査に続くもので、同審査ではプラットフォームが子どもにとって「十分に安全ではない」として批判されていた。",
+      "url": "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-16T08:19:21+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "50513238",
+      "category": "経済・ビジネス（世界）",
+      "title": "British Steel taken into public ownership to protect 'vital' UK supply",
+      "summary": "英国政府は今週可決された新しい権限に基づき、スカントープ製鉄所を公式に国有化しました。この措置により、ブリティッシュ・スチール社は公的所有下に置かれることになりました。政府による産業支援の一環として実施されたこの決定は、地域の雇用と製鋼産業の維持を目的としています。",
+      "url": "https://www.bbc.co.uk/news/articles/c5y680w62wno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-16T07:34:47+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "57871099",
       "category": "経済・ビジネス（世界）",
       "title": "Celebrity influencers paid up to £1m to advertise deodorant on Instagram",
       "summary": "有名インフルエンサーがInstagramで制汗剤の広告に最大100万ポンドの報酬を受け取っていることが、ブランドWildのCEOにより明かされた。ソーシャルメディア上の一見自然に見える投稿の背後には、多額の金銭が動いていることが露呈した。インフルエンサーマーケティングの透明性の欠如が改めて注目を集めている。",
       "url": "https://www.bbc.co.uk/news/articles/cvgegqrp656o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published_at": "2026-07-15T23:00:42+00:00",
+      "published_at": "2026-07-16T06:40:58+00:00",
       "lang": "en"
     },
     {
-      "id": "41243942",
+      "id": "88520972",
       "category": "経済・ビジネス（世界）",
       "title": "Buffett calls Bill Gates relationship with Epstein 'distasteful'",
       "summary": "バフェットはゲイツとエプスタイン元被告の関係を「不快」と呼び、自身の投資会社がマイクロソフト共同創業者の慈善団体への寄付を中止したことを明らかにした。ゲイツがエプスタイン受刑者と交流を持っていたことが問題視されている。",
@@ -168,57 +218,17 @@
       "lang": "en"
     },
     {
-      "id": "87257413",
-      "category": "経済・ビジネス（世界）",
-      "title": "Salary information to be shown on job ads under new laws",
-      "summary": "政府は新しい法律により、求人広告に給与情報を表示することを義務付ける方針を示している。この施策は求職者の利便性を高め、給与差別に関する申し立てを減らすのに役立つと考えられている。",
-      "url": "https://www.bbc.co.uk/news/articles/ckg7gg2zdexo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-15T18:46:26+00:00",
+      "id": "91412620",
+      "category": "テクノロジー・AI",
+      "title": "Phone maker OnePlus says it won’t release new phones in the U.S. and Europe",
+      "summary": "スマートフォンメーカーのOnePlusは、米国とヨーロッパでの新型スマートフォンの発売を中止すると発表した。さらに同社はインドでの事業を2027年までに段階的に縮小する可能性もあるとしており、グローバル市場における事業戦略の大幅な転換を計画しているようだ。",
+      "url": "https://techcrunch.com/2026/07/16/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-16T09:00:00+00:00",
       "lang": "en"
     },
     {
-      "id": "13468794",
-      "category": "経済・ビジネス（世界）",
-      "title": "SpaceX share price drops below stock market debut",
-      "summary": "SpaceXの株価が上場時の価格を下回った。同社は1ヶ月前に上場して以来、株取引が不安定な状況が続いており、ロケット企業として知られるイーロン・マスク率いる企業の株価変動が顕著になっている。",
-      "url": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-15T18:11:57+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "90649795",
-      "category": "経済・ビジネス（世界）",
-      "title": "Burnham faces crucial choice for chancellor as battle for No 11 continues",
-      "summary": "バーナム氏は首相就任後の重要なポスト財務大臣の人事決定に直面しており、この人選が彼の政策方針を示す重要な信号となることが指摘されている。",
-      "url": "https://www.bbc.co.uk/news/articles/ceqe55d0q9po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-15T17:13:06+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "45013068",
-      "category": "経済・ビジネス（世界）",
-      "title": "Brewdog co-founder James Watt launches bid to buy back beer firm",
-      "summary": "BrewDogの共同創業者ジェームス・ワット氏が、米国企業に売却されたクラフトビール事業を買い戻すための入札を開始した。ワット氏は数ヶ月前に米企業に売却された同事業の買収提案を行ったと述べている。BrewDogの買収動向が注目される中、創業者による経営権奪還の可能性が浮上した。",
-      "url": "https://www.bbc.co.uk/news/articles/c7vyv2v2vmzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-15T15:14:39+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "35442147",
-      "category": "経済・ビジネス（世界）",
-      "title": "Cash-strapped Thames Water poses big test for Burnham",
-      "summary": "テムズ・ウォーター社は料金値上げにより利益を回復したが、同社は2026年末までの事業継続に必要な債務資金しか確保していないと述べている。企業の持続可能性に対する懸念が生じており、さらなる資金調達が急務となっている状況が浮き彫りになっている。",
-      "url": "https://www.bbc.co.uk/news/articles/c4gygy43103o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-15T12:09:08+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "50724449",
+      "id": "28929228",
       "category": "テクノロジー・AI",
       "title": "Lululemon backs nylon-recycling startup Syntetica in $30M Series A",
       "summary": "ルルレモンはナイロンリサイクル技術を開発したフランススタートアップのシンテティカのシリーズAラウンドで3000万ドルを出資した。シンテティカは革新的なナイロン回収・リサイクル方法を開発しており、既に大手企業からのパートナーシップと投資を獲得している。",
@@ -228,7 +238,7 @@
       "lang": "en"
     },
     {
-      "id": "36310290",
+      "id": "53211179",
       "category": "テクノロジー・AI",
       "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
       "summary": "Applied Computingは石油・ガス・石油化学業界向けの基盤AIモデルを開発するため、シリーズAで2000万ドルの資金調達に成功しました。このAIモデルは、油田やガスプラント全体の運用を支援するために設計されており、業界全体の効率化と最適化を目指しています。",
@@ -238,7 +248,7 @@
       "lang": "en"
     },
     {
-      "id": "34958497",
+      "id": "15477242",
       "category": "テクノロジー・AI",
       "title": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
       "summary": "グレイロックは新しいファンドの規模を15億ドルに制限することで、ファンドあたりの投資案件を約25件に抑え、創業者にとって「最も重要なパートナー」であり続けることを目指している。これにより、より大きな資金を調達できたにもかかわらず、質の高い支援と個別対応を優先する戦略を採用している。",
@@ -248,7 +258,7 @@
       "lang": "en"
     },
     {
-      "id": "61935835",
+      "id": "71603028",
       "category": "テクノロジー・AI",
       "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
       "summary": "マイクロソフトが自社のAIモデルを、OpenAIやAnthropicの競合製品よりも効率的でコスト効果的であると位置付けるため、営業担当者にOpenAIやAnthropicの製品を批判するよう訓練していると報じられている。マイクロソフトは社内開発のAIモデルの販売を強化する戦略の一環として、競合他社との差別化を図ろうとしている。",
@@ -258,7 +268,7 @@
       "lang": "en"
     },
     {
-      "id": "54487253",
+      "id": "14183333",
       "category": "テクノロジー・AI",
       "title": "xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;",
       "summary": "イーロン・マスク傘下のxAIが、同社のAIチャットボット「Grok」を使用して児童性的虐待画像を生成したと主張されるサウスカロライナ州の男性を提訴しました。訴状によると、テリー・ウェイン・ハーウッドは安全対策を回避し、非合意画像を改変し、児童性的虐待画像を生成・配布するためにGrokを意図的に利用したと主張されています。xAIはこれが利用規約違反に当たると考えています。",
@@ -268,7 +278,7 @@
       "lang": "en"
     },
     {
-      "id": "21816930",
+      "id": "87671252",
       "category": "テクノロジー・AI",
       "title": "Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms",
       "summary": "テキサス州での致命的な衝突事故でテスラの運転者がアクセルを100%踏み込んでいたことが米国家運輸安全委員会（NTSB）によって確認された。テスラが事故発生後に公開した説明と一致していることが明らかになった。",
@@ -278,7 +288,7 @@
       "lang": "en"
     },
     {
-      "id": "29443307",
+      "id": "14766877",
       "category": "テクノロジー・AI",
       "title": "AI slop movies are the new direct-to-video cash grabs",
       "summary": "AI生成コンテンツを使った低品質映画が、かつてのVHS直販映画のような新たなマネタイズ手段になっている。一方、クリストファー・ノーランの新作「オデッセイ」の映画化は週末に8000万～1億ドルの興行収入が見込まれており、高品質な映像制作技術への需要と対比されている。質の低い生成AI映画の氾濫が、映画業界に新たな課題をもたらしている。",
@@ -288,83 +298,83 @@
       "lang": "en"
     },
     {
-      "id": "15126452",
-      "category": "テクノロジー・AI",
-      "title": "Daniel Ek’s body-scanning startup Neko Health raises another $700M",
-      "summary": "Daniel Ekが創設した身体スキャン企業Neko Healthは、新たに7億ドルの資金調達に成功した。同社は独自開発の身体スキャン技術と血液検査を組み合わせて、個人の健康状態を総合的に評価するサービスを提供している。この資金調達により、Neko Healthは早期疾患検出と予防医療の分野での事業展開をさらに加速させることができるようになった。",
-      "url": "https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-15T19:46:54+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "50973971",
+      "id": "72517467",
       "category": "台湾・中台関係",
-      "title": "Taiwan becomes Ukraine's third-largest drone battery supplier",
-      "summary": "台湾の国家シンクタンクである民主主義・社会・新興技術研究所が発表した報告書によると、台湾のドローン電池産業は近年着実な成長を遂げており、台湾はウクライナ向けのドローン電池供給国として世界第3位となっている。台湾の産業は技術革新と生産能力の向上により国際市場での地位を確立し、戦争状況下のウクライナへの支援において重要な役割を担っている。",
-      "url": "https://www.digitimes.com/news/a20260714PD236/taiwan-ukraine-drone-supplier-2025.html",
-      "source": "Digitimes",
-      "published_at": "2026-07-15T05:07:24+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "11202878",
-      "category": "台湾・中台関係",
-      "title": "What Did the Nine-Dash Line Ruling Accomplish?",
-      "summary": "フィリピンは南シナ海における9段線判決から10年経った現在、同海域での防衛計画を強化している。この国際仲裁判決は中国の領土主張の法的根拠を否定したものの、中国はこれを受け入れていない。フィリピンはこの判決を背景に、自国の権益を守るため軍事力の増強と国際的な連携の強化を進めている。",
-      "url": "http://foreignpolicy.com/2026/07/15/south-china-sea-philippines-nine-dash-line-ruling/",
-      "source": "Foreign Policy",
-      "published_at": "2026-07-15T05:00:42+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "63000506",
-      "category": "台湾・中台関係",
-      "title": "Global Second-Life Battery Market Size to Reach USD 46.9 Billion by 2035 | Growing at 11.8% CAGR | Industry Trends, Market Share & Forecast – Custom Market Insights",
-      "summary": "グローバルセカンドライフバッテリー市場は2025年の約154億ドルから2035年には469億ドルに達すると予想され、年間11.8%の成長率で拡大する見込みです。電気自動車の普及とバッテリーリサイクル技術の進展により、使用済みバッテリーの再利用需要が急速に高まっており、エネルギー貯蔵やグリーン産業における重要な市場として成長しています。",
-      "url": "https://www.globenewswire.com/news-release/2026/07/15/3327445/0/en/Global-Second-Life-Battery-Market-Size-to-Reach-USD-46-9-Billion-by-2035-Growing-at-11-8-CAGR-Industry-Trends-Market-Share-Forecast-Custom-Market-Insights.html",
+      "title": "Global Clinical Trials Market to Reach $176.32 Billion by 2030 as AI and Decentralized Research Accelerate Growth",
+      "summary": "世界の臨床試験市場は2030年までに1763億2000万ドルに達すると予測されており、AI技術と分散型研究プラットフォームが成長を加速させている。分散型・ハイブリッド試験プラットフォーム、AI活用による被験者募集と最適化、遠隔モニタリング、精密医療、実世界エビデンス研究が主要な成長機会となっており、アジア太平洋地域の地理的拡大が期待されながら北米が市場を主導し続けている。",
+      "url": "https://www.globenewswire.com/news-release/2026/07/15/3327567/28124/en/Global-Clinical-Trials-Market-to-Reach-176-32-Billion-by-2030-as-AI-and-Decentralized-Research-Accelerate-Growth.html",
       "source": "GlobeNewswire",
-      "published_at": "2026-07-15T04:30:00+00:00",
+      "published_at": "2026-07-15T10:46:00+00:00",
       "lang": "en"
     },
     {
-      "id": "13552305",
+      "id": "76975419",
       "category": "台湾・中台関係",
-      "title": "‘Some people don’t even live past 40’: Singer Eric Moo feels lucky to be in showbiz for 4 decades",
-      "summary": "シンガーのエリック・ムーは、63歳になった今も音楽業界で活躍できることに幸運を感じており、「40歳を超えて生きられない人もいる」とコメントしている。マレーシア出身の彼は1月にシンガポールのリゾーツ・ワールド・セントーサでコンサートを開催する予定で、40年間のショービジネスキャリアを記念する。",
-      "url": "https://www.straitstimes.com/life/entertainment/singer-eric-moo-feels-lucky-to-be-in-showbiz-for-4-decades-some-people-dont-even-live-past-40",
-      "source": "The Straits Times",
-      "published_at": "2026-07-15T02:45:00+00:00",
+      "title": "Hybrid Robots Market Projected to Reach $10.03 Billion by 2030 as Smart Manufacturing Accelerates",
+      "summary": "ハイブリッドロボット市場は2030年までに100億3000万ドルに達すると予測されており、スマート製造の加速に伴い急速に成長している。スマート製造、物流、危険環境での作業、人間とロボットの協働がビジネスチャンスの中心となり、エッジAI、センサーフュージョン、適応的自律性により支えられている。北米が採用をリードしており、アジア太平洋地域が強い成長の可能性を示している。",
+      "url": "https://www.globenewswire.com/news-release/2026/07/15/3327565/28124/en/Hybrid-Robots-Market-Projected-to-Reach-10-03-Billion-by-2030-as-Smart-Manufacturing-Accelerates.html",
+      "source": "GlobeNewswire",
+      "published_at": "2026-07-15T10:44:00+00:00",
       "lang": "en"
     },
     {
-      "id": "53469692",
+      "id": "57779235",
       "category": "台湾・中台関係",
-      "title": "DBS wealth assets eye $1 trillion with AI and hiring",
-      "summary": "DBS銀行は2030年までに資産管理規模を1兆ドルに拡大することを目指しており、人工知能の導入と戦略的な人員採用を通じてクライアントサービスを強化する計画である。",
-      "url": "https://www.straitstimes.com/business/dbs-eyes-1-trillion-in-wealth-assets-by-2030-banks-on-ai-and-hiring-600-more-staff",
-      "source": "The Straits Times",
-      "published_at": "2026-07-15T02:05:02+00:00",
+      "title": "Warehouse Shuttle Software Market to Reach $2.66 Billion by 2030 as AI and Automation Transform Logistics",
+      "summary": "ウェアハウスシャトルソフトウェア市場は2030年までに26億6000万ドルに達すると予測されており、AIと自動化が物流業界を変革している。市場の成長機会はAI対応の統制、クラウド統合制御、IoT監視、デジタルツイン、自律型マルチシャトルの連携など高密度フルフィルメント向けの技術に集中している。北米は大規模な市場展開が可能である一方、アジア太平洋地域は急速な拡大の可能性を提供している。",
+      "url": "https://www.globenewswire.com/news-release/2026/07/15/3327564/28124/en/Warehouse-Shuttle-Software-Market-to-Reach-2-66-Billion-by-2030-as-AI-and-Automation-Transform-Logistics.html",
+      "source": "GlobeNewswire",
+      "published_at": "2026-07-15T10:42:00+00:00",
       "lang": "en"
     },
     {
-      "id": "11548175",
+      "id": "66083365",
       "category": "台湾・中台関係",
-      "title": "GEM and Senhwa Biosciences have formally executed a Share Purchase Agreement for up to NT$500 million",
-      "summary": "GEMグローバル・イールド・エルエルシーがシェンファ・バイオサイエンシズの既存株主と株式購入契約を締結し、最大500万台湾ドルの投資をコミットした。この契約によりGEMはシェンファ・バイオサイエンシズへの戦略的出資を通じて、同社の事業展開を支援することになる。シェンファ・バイオサイエンシズは台湾の上場企業であり、この投資により経営基盤の強化が期待される。",
-      "url": "https://www.prnewswire.com/news-releases/gem-and-senhwa-biosciences-have-formally-executed-a-share-purchase-agreement-for-up-to-nt500-million-302825774.html",
-      "source": "PRNewswire",
-      "published_at": "2026-07-15T01:09:00+00:00",
+      "title": "40% off Travel eSIMs: Europe/UK, Japan, China, Korea, Bali/Indonesia, USA & 60 More Destinations from A$4.62 @ ChillaxSIM",
+      "summary": "ChillaxSIMの旅行用eSIMプランが40％割引となっており、ヨーロッパ、アジア、日本、中国、韓国、タイ、ベトナム、アメリカなど60以上の目的地で利用可能で、A$4.62からの低価格で提供されている。このキャンペーンは、ヨーロッパやバリなどの人気観光地への旅行予定がある利用者向けの特別セール企画となっている。",
+      "url": "https://www.ozbargain.com.au/node/967971",
+      "source": "Ozbargain.com.au",
+      "published_at": "2026-07-15T10:05:55+00:00",
       "lang": "en"
     },
     {
-      "id": "38748429",
+      "id": "60922661",
       "category": "台湾・中台関係",
-      "title": "How Trade With Korea Boosts US Economic Security",
-      "summary": "米国と韓国の貿易は相互の経済的繁栄を増加させ、経済的ショックに対するクッション機能を果たしており、保護主義政策はこうした重要なパートナーシップに悪影響を及ぼす可能性がある。米韓間の貿易関係を強化することは、両国の経済安全保障を高め、予期しない経済危機への耐性を向上させることが期待されている。",
-      "url": "https://www.thefreedomfrequency.org/p/how-trade-with-korea-boosts-us-economic",
-      "source": "Thefreedomfrequency.org",
-      "published_at": "2026-07-15T00:00:00+00:00",
+      "title": "Japan pivots to Mexican crude as Iran conflict reshuffles global energy trade",
+      "summary": "イランとの紛争緊張が高まる中、日本がメキシコ産原油へのシフトを進めており、これが世界的なエネルギー貿易の再編をもたらす可能性がある。この変化はインフレーション、為替相場、暗号資産市場に影響を与える見通しである。",
+      "url": "https://cryptobriefing.com/japan-mexican-crude-iran-war-crypto-impact/",
+      "source": "Crypto Briefing",
+      "published_at": "2026-07-15T10:01:52+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "57632757",
+      "category": "台湾・中台関係",
+      "title": "CXMT close to matching Micron's memory capacity in 2026, research claims — would put China on track to become world's second-largest DRAM producer",
+      "summary": "中国の半導体メーカーCXMTが2026年までにマイクロンのメモリ容量に匹敵する生産能力を達成する見通しで、中国はDRAM産業で世界第2位となる可能性がある。現在、世界のDRAM市場は韓国がトップで、CXMTの拡大によって中国はマイクロンに次ぐ規模の生産体制を整えることになる。",
+      "url": "https://www.tomshardware.com/pc-components/dram/cxmt-close-to-matching-microns-memory-capacity-in-2026-research-claims-would-put-china-on-track-to-become-worlds-second-largest-dram-producer",
+      "source": "Tom's Hardware UK",
+      "published_at": "2026-07-15T09:48:03+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "20192444",
+      "category": "台湾・中台関係",
+      "title": "Global Biochemistry Analyzer Market to Reach $8.18 Billion by 2035 as Diagnostic Testing Demand Accelerates",
+      "summary": "世界的な生化学分析装置市場は2035年までに81億8000万ドルに達する見通しで、診断検査需要の加速が主要因となっています。完全自動化システム、人工知能、検査室の連携システム、予防的スクリーニングプログラムの拡大が長期的な市場成長を支えるとされています。これらの技術革新と医療分野での予防医学の重視が市場拡大を牽引するとの分析です。",
+      "url": "https://www.globenewswire.com/news-release/2026/07/15/3327515/28124/en/Global-Biochemistry-Analyzer-Market-to-Reach-8-18-Billion-by-2035-as-Diagnostic-Testing-Demand-Accelerates.html",
+      "source": "GlobeNewswire",
+      "published_at": "2026-07-15T09:24:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "69610257",
+      "category": "台湾・中台関係",
+      "title": "Taiwan’s opposition TPP launches historic first trip to mainland China",
+      "summary": "台湾の野党・民進党が歴史的な初の中国本土訪問を開始した。この訪問は両岸関係の緊張緩和と相互理解の促進を目指すもので、台湾野党指導部による最初の公式訪中となる。台湾と中国間の政治的対話と交流の新たな局面を開く可能性を持つ注目すべき動きである。",
+      "url": "https://www.scmp.com/news/china/politics/article/3360552/taiwans-opposition-tpp-launches-historic-first-trip-mainland-china",
+      "source": "Post Magazine",
+      "published_at": "2026-07-15T08:37:14+00:00",
       "lang": "en"
     }
   ]
