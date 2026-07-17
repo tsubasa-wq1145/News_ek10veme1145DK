@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T10:30:16.932346+00:00",
+  "updated_at": "2026-07-17T14:43:35.732559+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -58,7 +58,77 @@
   ],
   "news": [
     {
-      "id": "98134691",
+      "id": "60553865",
+      "category": "経済・ビジネス（日本）",
+      "title": "インド 初の“水素列車” 運行開始",
+      "summary": "インドが脱炭素社会の実現に向けて、水素燃料電池を動力源とする初の水素列車を開発し、17日から運行を開始しました。この列車は二酸化炭素を排出しないため、環境負荷の低減に貢献することが期待されています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260717/k10015179761000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-17T14:31:37+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "49369112",
+      "category": "経済・ビジネス（日本）",
+      "title": "パプアニューギニア外相 台湾窓口機関「閉鎖」投稿 台湾抗議",
+      "summary": "パプアニューギニアの外相が首都にある台湾の窓口機関を閉鎖するとSNSで発表し、台湾側がこの一方的な決定に抗議しました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260717/k10015179681000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-17T13:05:52+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "81989050",
+      "category": "経済・ビジネス（日本）",
+      "title": "茂木外相 ASEAN関連外相会議に出席へ",
+      "summary": "茂木外務大臣が来週フィリピンを訪問し、ASEAN関連の外相会議に出席する。日本は「自由で開かれたインド太平洋」の推進に向けてASEAN側との協力強化を確認する方針である。",
+      "url": "http://www3.nhk.or.jp/news/html/20260717/k10015179711000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-17T13:04:10+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "91233916",
+      "category": "経済・ビジネス（日本）",
+      "title": "イギリス 与党 労働党新党首にバーナム氏選出 首相就任へ",
+      "summary": "イギリスの与党労働党は特別党大会でマンチェスターの前市長バーナム氏を新党首に選出しました。バーナム氏は来週20日にチャールズ国王の任命を受けて首相に就任する見通しです。",
+      "url": "http://www3.nhk.or.jp/news/html/20260717/k10015179611000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-17T12:51:41+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "74269339",
+      "category": "経済・ビジネス（日本）",
+      "title": "キオクシア 米で約371億円の賠償の評決 控訴含め争う方針",
+      "summary": "キオクシアホールディングスがアメリカで特許侵害を理由に約371億円の賠償支払いを命じる評決を受けました。同社は判決に不服として控訴を含めて争う方針を明らかにしています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260717/k10015179581000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-17T11:29:53+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "68114103",
+      "category": "経済・ビジネス（日本）",
+      "title": "ミャンマー沖でロヒンギャ難民らの船2隻不明 国連が強い懸念",
+      "summary": "ミャンマー沖でロヒンギャ難民など500人以上を乗せた2隻の船が転覆するなどして、多数の人命が失われた可能性があると国連機関が指摘しました。国連は事態に強い懸念を表明しています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260717/k10015179421000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-17T10:57:58+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "65563081",
+      "category": "経済・ビジネス（日本）",
+      "title": "イランの橋など攻撃で死者も 米中央軍 6日連続攻撃を完了",
+      "summary": "アメリカ軍がイランへの攻撃を6日連続で実施する一方、イランはイエメンの反政府組織フーシ派にバーブルマンデブ海峡の封鎖を要請したと報じられており、両国の緊張対立が続いている。米中央軍は16日も攻撃を開始し、イランの軍事能力の低下を目指している。",
+      "url": "http://www3.nhk.or.jp/news/html/20260717/k10015178751000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-17T10:46:10+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "58961751",
       "category": "経済・ビジネス（日本）",
       "title": "トランプ氏 “中国が米有権者情報2億件超を不正取得”と主張",
       "summary": "トランプ大統領は演説で、中国が2020年の大統領選挙期間からの数年間でアメリカの有権者情報2億2000万件以上を不正取得したと主張しました。アメリカメディアは、この発言が選挙に関する根拠のない主張の蒸し返しだと報じています。",
@@ -68,77 +138,37 @@
       "lang": "ja"
     },
     {
-      "id": "71052360",
-      "category": "経済・ビジネス（日本）",
-      "title": "中国 習近平国家主席 AI発展を主導していく姿勢を改めて示す",
-      "summary": "習近平国家主席はAI関連の大会で演説し、国際社会の協力によるAI発展とガバナンスの推進を強調しました。米中のAI開発競争の中で、国際的なルール作りにおいて中国の主導権確立を目指す姿勢を示しています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260717/k10015179381000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-17T09:35:38+00:00",
-      "lang": "ja"
+      "id": "32909864",
+      "category": "経済・ビジネス（世界）",
+      "title": "Why are UK fuel prices rising again?",
+      "summary": "イランを巻き込む米国とイスラエルの紛争を終わらせるための平和交渉が決裂したことを受けて、英国のガソリン価格が再び上昇している。中東地域の紛争激化により、石油市場の不安定性が増し、供給に対する懸念から燃料価格が値上がりしている。この状況は、既に高い生活費に苦しむ英国の消費者にさらなる経済的な負担をもたらしている。",
+      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-17T14:09:45+00:00",
+      "lang": "en"
     },
     {
-      "id": "59284108",
-      "category": "経済・ビジネス（日本）",
-      "title": "北朝鮮 キム総書記 中国最高指導部メンバーと関係強化を確認",
-      "summary": "北朝鮮のキム・ジョンウン総書記が訪朝中の中国最高指導部メンバーと会談し、両国の関係強化と発展に向けた方針を確認した。中国と北朝鮮の間でハイレベルな往来が続いている。",
-      "url": "http://www3.nhk.or.jp/news/html/20260717/k10015179391000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-17T08:45:26+00:00",
-      "lang": "ja"
+      "id": "85008350",
+      "category": "経済・ビジネス（世界）",
+      "title": "The financial winners and losers from the World Cup",
+      "summary": "2026年ワールドカップは試合外でも多くの資金が動いており、その利益は参加国や関連企業に大きな経済効果をもたらしている。大会の放映権やスポンサーシップ、観光収入などを通じて、各国や企業が異なる程度の経済的恩恵を受けることになる。どの国や企業がこうした経済的な利益を最も大きく獲得するのかは、大会の運営体制や市場規模に大きく左右される。",
+      "url": "https://www.bbc.co.uk/news/articles/cgrkek8lrzvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-17T11:36:11+00:00",
+      "lang": "en"
     },
     {
-      "id": "39589724",
-      "category": "経済・ビジネス（日本）",
-      "title": "トランプ大統領創設のSNS 早く投稿受け取る有料サービス開始へ",
-      "summary": "トランプ大統領が創設したSNS「トゥルース・ソーシャル」の運営企業が、投稿をいち早く受け取れる有料サービスを開始します。トランプ大統領は同プラットフォームで頻繁に投稿しており、その発言が金融市場に影響を及ぼすことが多いため、米メディアはビジネス上の利益と公務の混同と指摘しています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260717/k10015179081000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-17T08:43:36+00:00",
-      "lang": "ja"
+      "id": "70424651",
+      "category": "経済・ビジネス（世界）",
+      "title": "China hits out at British Steel nationalisation",
+      "summary": "中国は英国の鉄鋼企業国有化に反発している。英国政府は同企業を公的管理下に置くことで「重要な国家的能力」を守ると述べているが、中国側はこれに対して批判的な立場を示している。",
+      "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-17T11:07:45+00:00",
+      "lang": "en"
     },
     {
-      "id": "21902592",
-      "category": "経済・ビジネス（日本）",
-      "title": "イランの橋など攻撃で死者も 米中央軍 6日連続攻撃を完了",
-      "summary": "アメリカ軍がイランへの攻撃を6日連続で実施する一方、イランはイエメンの反政府組織フーシ派にバーブルマンデブ海峡の封鎖を要請したと報じられており、両国の緊張対立が続いている。米中央軍は16日も攻撃を開始し、イランの軍事能力の低下を目指している。",
-      "url": "http://www3.nhk.or.jp/news/html/20260717/k10015178751000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-17T07:55:31+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "34727014",
-      "category": "経済・ビジネス（日本）",
-      "title": "米政府 国立公園の奴隷制に関する展示を差し替え 大統領令受け",
-      "summary": "アメリカの国立公園局がトランプ大統領の大統領令に従い、フィラデルフィアの国立公園で奴隷制の歴史を扱う展示パネルの内容を変更しました。奴隷制に対する批判的な表現が修正され、地元から反発が生じています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260717/k10015179331000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-17T07:02:57+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "13014208",
-      "category": "経済・ビジネス（日本）",
-      "title": "バーブルマンデブ海峡封鎖の報道 赤澤経産相 “深刻に注視”",
-      "summary": "イランがイエメンの反政府勢力にバーブルマンデブ海峡の封鎖を要請したとの報道について、赤澤経済産業大臣は封鎖された場合にサウジアラビアからの石油輸出が危機に陥る可能性があるとして、事態を深刻に注視していると述べた。",
-      "url": "http://www3.nhk.or.jp/news/html/20260717/k10015179211000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-17T06:45:08+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "57938045",
-      "category": "経済・ビジネス（日本）",
-      "title": "日本で開発された種苗 海外流出を防止へ 改正種苗法が成立",
-      "summary": "日本で開発された農産物の種や苗が無断で海外に流出するのを防ぐため、改正種苗法が成立しました。この法律により、国に品種を登録する前の段階でも輸出の差し止めが可能になるなど、規制が強化されます。",
-      "url": "http://www3.nhk.or.jp/news/html/20260717/k10015179291000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-17T05:26:35+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "89224865",
+      "id": "31136473",
       "category": "経済・ビジネス（世界）",
       "title": "Why has British Steel been nationalised?",
       "summary": "イギリスの唯一の新規鋼鉄製造工場が、数年間の経営不安を経て国有化されました。この決定により、イギリスの鋼鉄産業の継続と雇用維持が図られています。国有化により、戦略的に重要な産業インフラを政府が直接管理することになります。",
@@ -148,7 +178,7 @@
       "lang": "en"
     },
     {
-      "id": "44643128",
+      "id": "52850446",
       "category": "経済・ビジネス（世界）",
       "title": "Who is the frontrunner to be the UK's next chancellor?",
       "summary": "アンディ・バーナムが来週ダウニング街に入居し、その隣のナンバー11に誰が住むことになるかが注目されている。イギリスの次期財務大臣の候補者が誰なのかについての記事である。",
@@ -158,37 +188,17 @@
       "lang": "en"
     },
     {
-      "id": "28076492",
+      "id": "62942361",
       "category": "経済・ビジネス（世界）",
-      "title": "The financial winners and losers from the World Cup",
-      "summary": "2026年ワールドカップは試合外でも多くの資金が動いており、その利益は参加国や関連企業に大きな経済効果をもたらしている。大会の放映権やスポンサーシップ、観光収入などを通じて、各国や企業が異なる程度の経済的恩恵を受けることになる。どの国や企業がこうした経済的な利益を最も大きく獲得するのかは、大会の運営体制や市場規模に大きく左右される。",
-      "url": "https://www.bbc.co.uk/news/articles/cgrkek8lrzvo?at_medium=RSS&at_campaign=rss",
+      "title": "Five headaches Andy Burnham will have to deal with as PM",
+      "summary": "アンディ・バーナムが首相として直面する5つの課題について述べられており、防衛支出から住宅問題まで、次期英国指導者が対処しなければならない一連の課題が存在することが指摘されている。記事は、バーナムが首相就任時に取り組むべき複数の重要な政策課題があることを示唆している。",
+      "url": "https://www.bbc.co.uk/news/articles/c62122pgjqdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published_at": "2026-07-17T09:40:17+00:00",
+      "published_at": "2026-07-17T05:59:36+00:00",
       "lang": "en"
     },
     {
-      "id": "58440166",
-      "category": "経済・ビジネス（世界）",
-      "title": "China hits out at British Steel nationalisation",
-      "summary": "中国は英国の鉄鋼企業国有化に反発している。英国政府は同企業を公的管理下に置くことで「重要な国家的能力」を守ると述べているが、中国側はこれに対して批判的な立場を示している。",
-      "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-17T08:25:55+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "65848959",
-      "category": "経済・ビジネス（世界）",
-      "title": "Trump Media to sell instant access to 'market-moving' social posts",
-      "summary": "トランプ・メディアが、ウォール街のトレーダー向けに主要な投稿へのアクセスを優先する有料フィードを立ち上げている。この新サービスにより、機関投資家や金融専門家は、公開前または公開直後にトランプ関連の重要な投稿を確認でき、市場動向を先読みする機会が得られる。同社は金融市場から直接的な収益源を生み出そうとしている。",
-      "url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-17T07:25:31+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "43121629",
+      "id": "31475953",
       "category": "経済・ビジネス（世界）",
       "title": "Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK?",
       "summary": "マンチェスターの都市再生戦略で首相の座を勝ち取ったバーナム氏の「マンチェスター主義」が、イギリス全体でも機能するかどうかが焦点となっている。経済エディターのフェイサル・イスラムが、北西部の都市が国全体のモデルとなり得るかを検証している。バーナム首相は、地域経済の活性化と地方分権を基軸とした政策を掲げており、その有効性が全国規模での経済改革の成功を左右する可能性がある。",
@@ -198,7 +208,7 @@
       "lang": "en"
     },
     {
-      "id": "68216094",
+      "id": "83247232",
       "category": "経済・ビジネス（世界）",
       "title": "I wouldn't marry him until he paid off his debt, now I'm in charge of our money",
       "summary": "妻のサラは25年間夫と共有の銀行口座を持っていますが、その管理は自分の責任になっていると述べています。彼女は結婚前に夫の借金が完済されるまで結婚しないと宣言し、その後も家計管理を一手に引き受けることになりました。この状況について、夫婦間での金銭管理の責任分担に関する問題を提起しています。",
@@ -208,17 +218,37 @@
       "lang": "en"
     },
     {
-      "id": "59400992",
-      "category": "経済・ビジネス（世界）",
-      "title": "White House teleprompter operator accused of making $100k from Trump speech bets",
-      "summary": "ホワイトハウスのスタッフが、トランプ大統領のスピーチに関する内部情報を利用してKalshiという予測市場で約100,000ドルの利益を得たと指摘されている。このテレプロンプター操作者は、スピーチの内容を事前に知ることで不正な取引利益を得た疑いが持たれている。",
-      "url": "https://www.bbc.co.uk/news/articles/cjrvdqyr5d5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-16T18:52:35+00:00",
+      "id": "45991223",
+      "category": "テクノロジー・AI",
+      "title": "No product? No problem. This Disrupt 2026 session shows how to get pre-seed funding with conviction, storytelling",
+      "summary": "AI企業による大規模な資金調達が進む中、シード前段階の資金獲得はより困難になっている。TechCrunch Disruptでは、説得力のあるストーリーテリングと確固たるビジョンを使って、製品がなくても資金を調達する方法をプレシードの起業家向けにレクチャーする予定だ。",
+      "url": "https://techcrunch.com/2026/07/17/no-product-no-problem-this-disrupt-2026-session-shows-how-to-get-pre-seed-funding-with-conviction-storytelling/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-17T14:30:00+00:00",
       "lang": "en"
     },
     {
-      "id": "38749560",
+      "id": "70831387",
+      "category": "テクノロジー・AI",
+      "title": "Zoox issues software recall after a robotaxi got confused by heavy smoke",
+      "summary": "Amazon傘下の自動運転タクシー企業Zooxが、濃い煙に困惑したロボタクシーの不具合に対するソフトウェアリコールを発表しました。このリコールはアメリカの自動車安全規制当局が自動運転車が消防士などの緊急対応者の活動を妨害する可能性について警告している中での発生となっています。",
+      "url": "https://techcrunch.com/2026/07/17/zoox-issues-software-recall-after-a-robotaxi-got-confused-by-heavy-smoke/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-17T14:12:02+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "56334752",
+      "category": "テクノロジー・AI",
+      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+      "summary": "GPU市場の初期投資家たちが推論チップ市場へシフトしており、4億ドル規模のチップ担保ローンが今後のAIインフラ投資の新たな波を示唆している。推論チップは学習済みモデルの実行に特化しており、GPUよりもコスト効率が高いため、データセンター企業の関心が集まっている。この動きはAI産業が成熟し、大規模な学習から効率的な推論運用へ移行していることを反映している。",
+      "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-17T12:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "89895182",
       "category": "テクノロジー・AI",
       "title": "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco",
       "summary": "サンフランシスコのダニエル・ルーリ市長は、Waymoのロボタクシーが引き起こした数時間に及ぶ大規模な交通渋滞事象を受けて、州の規制当局に対し、Waymoなどのロボタクシー事業者に対してより厳しい要件を課すべき時が来たと主張している。市長は、ロボタクシー企業が都市インフラに与える影響を管理するために、より多くの規制措置が必要だと考えている。",
@@ -228,7 +258,7 @@
       "lang": "en"
     },
     {
-      "id": "34299891",
+      "id": "38677568",
       "category": "テクノロジー・AI",
       "title": "SpaceX suddenly aborts second Starship V3 launch after ignition",
       "summary": "SpaceXは第2回スターシップV3の打ち上げを点火後に突然中止し、同社は直ちに何が問題だったのか説明しなかった。この事態を受けてSpaceXの株価はアフターマーケット取引で4%以上急落したものの、その後損失は縮小した。",
@@ -238,7 +268,7 @@
       "lang": "en"
     },
     {
-      "id": "29318804",
+      "id": "91503592",
       "category": "テクノロジー・AI",
       "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
       "summary": "コカ・コーラは、ランサムウェア攻撃を受けたため、米国のフェアライフ乳製品部門の生産を「中断したまま」にすると発表した。同社はサイバー攻撃によるシステムへの影響から回復するまで、乳製品の生産を一時停止しており、復旧時期は未定である。",
@@ -248,7 +278,7 @@
       "lang": "en"
     },
     {
-      "id": "36241260",
+      "id": "12015908",
       "category": "テクノロジー・AI",
       "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)",
       "summary": "Founders Fund（フェンダーズ・ファンド）がOpenAIの元幹部ライアン・ベイアーマイスターをパートナーとして採用しました。ベイアーマイスターはFounders FundのYouTubeシリーズ「Mafia」で冷静な分析力を示していましたが、この採用は彼女の「Mafia」でのスキルのためではなく、OpenAIでの実績が評価されたものです。",
@@ -258,7 +288,7 @@
       "lang": "en"
     },
     {
-      "id": "84902790",
+      "id": "86059332",
       "category": "テクノロジー・AI",
       "title": "Google Vids now lets you star in your own AI videos",
       "summary": "Googleは動画作成ツール「Vids」に、ユーザーが自分のデジタル版アバターを使って動画に出演できるパーソナライズされたAIアバター機能を追加しました。このアップデートにより、プロンプトと参照画像から動画を生成・編集できるGemini Omniを搭載した機能も利用できるようになります。",
@@ -268,113 +298,83 @@
       "lang": "en"
     },
     {
-      "id": "38064171",
-      "category": "テクノロジー・AI",
-      "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
-      "summary": "Robloxは、モバイルアプリに新しい「Build」機能を導入し、ユーザーが単一のテキストプロンプトを使用してAIが基本的なゲームを生成できるようにしました。この機能により、プログラミングの知識がないユーザーでも簡単にゲーム制作に参入でき、Robloxのクリエイターエコシステムをより多くの人に開放することが期待されています。",
-      "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-16T18:22:06+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "71208271",
-      "category": "テクノロジー・AI",
-      "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
-      "summary": "ニューヨーク州のカシー・ホッカル知事は、州内の新しいAIデータセンターのモラトリアムに署名した一方で、AI技術そのものの活用には積極的で、自らの政策チームがAIを使って州のあらゆる規則や規制、政策を分析し、時代遅れの内容がないかを確認していると述べた。知事はBloombergのポッドキャストのインタビューでこの取り組みを明らかにし、州政府の効率化を目指す姿勢を示している。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
-      "source": "AI | The Verge",
-      "published_at": "2026-07-16T17:58:37+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "52847316",
-      "category": "テクノロジー・AI",
-      "title": "Oil giant BP shutters its corporate venture arm after 20 years",
-      "summary": "石油大手BPが約20年間運営していたコーポレートベンチャーアーム「BP Ventures」を閉鎖する。同部門は報告されている限りでは低迷したリターンが特徴であったとされており、この決定により長年にわたる投資活動に終止符が打たれることになる。",
-      "url": "https://techcrunch.com/2026/07/16/oil-giant-bp-shutters-its-corporate-venture-arm-after-20-years/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-16T17:37:03+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "40384119",
+      "id": "69688877",
       "category": "台湾・中台関係",
-      "title": "Sensex today | Stock Market Highlights: Sensex, Nifty end flat as IT gains offset financials drop",
-      "summary": "インド株式市場は7月16日、センセックスとニフティ50がほぼ横ばいで取引を終え、IT関連株の上昇が金融株の下落を相殺した。センセックス、ニフティ50の値動き、BSE、NSE、個別株価などインド株式市場全体の動向が注視された。",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-16-july-2026/article71225304.ece",
-      "source": "BusinessLine",
-      "published_at": "2026-07-16T10:27:32+00:00",
+      "title": "People: Six-plus years later, Prince William still refuses to speak to his brother",
+      "summary": "プリンス・ウィリアムは6年以上前から兄弟のプリンス・ハリーとの関係が断絶したままであり、先週のサセックス夫妻の英国訪問後も対話の意思を示していない。昨年9月のハリー王子の訪英時には父親との面会が実現したが、ウィリアム王子との関係改善には至っていない状況が続いている。過去のパターンから見ると、王族間の確執の根深さが伺える。",
+      "url": "https://www.celebitchy.com/987018/people_six-plus_years_later_prince_william_still_refuses_to_speak_to_his_brother/",
+      "source": "Celebitchy.com",
+      "published_at": "2026-07-16T14:20:10+00:00",
       "lang": "en"
     },
     {
-      "id": "63858865",
+      "id": "15172224",
       "category": "台湾・中台関係",
-      "title": "Global Market: TSMC to invest additional $100 billion in Arizona, raises capex on booming AI demand",
-      "summary": "TSMCは人工知能需要の急増に対応するため、アリゾナ施設への追加投資100億ドルを決定し、今後数年間の資本支出予想を引き上げた。この投資拡大は、AI市場の強い成長見通しに対する企業の確固とした信頼を示すものである。TSMCの強固な業績と市場における競争力の強化が、この積極的な投資決定につながっている。",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-tsmc-to-invest-additional-100-billion-in-arizona-raises-capex-on-booming-ai-demand/articleshow/132435792.cms",
-      "source": "The Times of India",
-      "published_at": "2026-07-16T10:02:35+00:00",
+      "title": "Russia–China vs. US–Australia: Military Build Up. Rival Blocs Race to Secure Asia-Pacific. “Confrontation”?",
+      "summary": "アジア太平洋地域における軍事的緊張が高まっており、米国とオーストラリアが爆撃機と潜水艦の配備を拡大して中国とその海上輸送路を標的にしている一方で、ロシアと中国も対抗措置を強化している。この地域は経済的に重要な海上交易路をめぐって、米国主導の陣営とロシア・中国陣営が軍事的優位性を争う対立構造に陥りつつある。両陣営の軍事的増強は地域の安定性を脅かし、衝突リスクを高めている。",
+      "url": "https://www.globalresearch.ca/russia-china-vs-us-australia-military-build-up-rival-blocs-race-to-secure-asia-pacific-confrontation/5933463",
+      "source": "Globalresearch.ca",
+      "published_at": "2026-07-16T14:13:54+00:00",
       "lang": "en"
     },
     {
-      "id": "26042163",
+      "id": "61830539",
       "category": "台湾・中台関係",
-      "title": "Klook signs an expanded two-year partnership with Korea Tourism Organization",
-      "summary": "クルック(Klook)が韓国観光公社と2年間の拡大パートナーシップを締結しました。このパートナーシップにより、両者は韓国への観光プロモーション、デジタルマーケティング、観光体験プログラムの開発を強化し、アジア太平洋地域からの訪韓観光客の増加を目指します。クルックのプラットフォームを通じて韓国の観光コンテンツがより多くの旅行者に提供されることになります。",
-      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/klook-signs-an-expanded-two-year-partnership-with-korea-tourism-organization/article71229354.ece",
-      "source": "BusinessLine",
-      "published_at": "2026-07-16T10:00:16+00:00",
+      "title": "Study on electrochemical corrosion behavior of gray cast iron processed via laser cavitation peening",
+      "summary": "レーザーキャビテーションピーニング（LCP）という新しい表面処理技術を用いてHT250鋳鉄を処理し、異なるレーザーエネルギー条件下での電気化学的腐食性能を調査した研究である。この処理により鋳鉄の耐腐食性が向上することが期待されており、被覆層の有無や焦点距離などの条件が性能に与える影響が検討されている。",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353846",
+      "source": "Plos.org",
+      "published_at": "2026-07-16T14:00:00+00:00",
       "lang": "en"
     },
     {
-      "id": "20421417",
+      "id": "97721422",
       "category": "台湾・中台関係",
-      "title": "Hong Kong official urges booksellers to avoid titles harming national security",
-      "summary": "香港のトップセキュリティ責任者は、書店が国家安全保障を害しないタイトルを扱うよう促しており、これは2つの書店に関連する5人が逮捕された後の発表です。警察の捜査は独立派をターゲットとした3回目の逮捕となっており、政府は国家安全保障法の厳格な執行を継続しています。",
-      "url": "https://apnews.com/article/hong-kong-booksellers-arrests-national-security-arrests-412f1458d3526d06a193e4412ec56250",
-      "source": "Associated Press",
-      "published_at": "2026-07-16T09:55:42+00:00",
+      "title": "Rumination and subjective well-being: The chain mediating role of emotion regulation difficulties and problematic social media use",
+      "summary": "省察的思考（反すう）と主観的幸福度の関係について、感情調整の困難さと問題のあるソーシャルメディア利用が連鎖的な仲介役を果たすかどうかを調べた研究です。補償的インターネット利用モデルと認知行動療法の枠組みに基づき、認知から感情、行動へと至る経路を通じた直列仲介モデルを開発し、反すう的思考が感情調整困難を増加させ、それがソーシャルメディアの過度な利用につながり、最終的に幸福度の低下をもたらすメカニズムを検証したものです。",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353931",
+      "source": "Plos.org",
+      "published_at": "2026-07-16T14:00:00+00:00",
       "lang": "en"
     },
     {
-      "id": "15173437",
+      "id": "84822929",
       "category": "台湾・中台関係",
-      "title": "TSMC shares fall in premarket despite record-breaking Q2 profits",
-      "summary": "TSMCは第2四半期に過去最高の利益を記録したにもかかわらず、地政学的緊張により株価がプレマーケット取引で下落した。この動きはテクノロジーサプライチェーンが世界的な政治情勢の変化に対して脆弱であることを浮き彫りにしており、財務的な成功が地政学的リスクによって相殺されている状況を示している。",
-      "url": "https://cryptobriefing.com/tsmc-shares-fall-premarket-record-profits/",
-      "source": "Crypto Briefing",
-      "published_at": "2026-07-16T09:47:22+00:00",
+      "title": "Wall Street's Fear Gauge VIX Jumps 3.66% to 16.24 as Chip Stock Selloff Reignites Investor Anxiety Again",
+      "summary": "米国の株式市場の恐怖指数であるVIX指数が3.66%上昇して16.24となり、半導体銘柄の売却と中東情勢の緊張を受けて投資家の不安心理が再び高まった。この上昇は地政学的リスクと技術セクターの変動に影響された市場のボラティリティの継続を反映している。",
+      "url": "https://www.ibtimes.com.au/cboe-volatility-index-geopolitical-tensions-1872417",
+      "source": "Ibtimes.com.au",
+      "published_at": "2026-07-16T13:59:10+00:00",
       "lang": "en"
     },
     {
-      "id": "46728831",
+      "id": "40630253",
       "category": "台湾・中台関係",
-      "title": "Claude Code and DeepSeek Powered Chinese Cyber Espionage Campaign",
-      "summary": "中国の攻撃者がClaudeのコード生成機能とDeepSeekを悪用して、政府システムへの侵入やサイバー攻撃を自動化していることが判明した。Hunt.ioの研究者が2026年6月に既知のTencShellコマンド・アンド・コントロールを調査中に、進行中の侵入キャンペーンを発見した。AIツールを利用した自動化により、金融機関を標的にした高度なサイバースパイ活動が可能になっている。",
-      "url": "https://securityaffairs.com/195474/ai/claude-code-and-deepseek-powered-chinese-cyber-espionage-campaign.html",
-      "source": "Securityaffairs.com",
-      "published_at": "2026-07-16T09:16:08+00:00",
+      "title": "Asia’s Other AI Winners: The Thailand and Taiwan Funds Riding the Same Boom as Korea’s 105% Run",
+      "summary": "アジアのAI関連銘柄投資では韓国だけでなく、タイと台湾のファンドも同等のブームに乗じて好調な成績を上げている。韓国市場が105%の上昇率を記録する中、これらの地域に焦点を当てたETFも同様の利益機会を提供しており、アジア市場全体でのAI産業の成長の恩恵を受けている。従来のアジア新興市場ETFに加えて、地域別に特化したファンドに投資することで、より細かい機会を捉えることができる。",
+      "url": "https://biztoc.com/x/a2763748d1f22c36",
+      "source": "Biztoc.com",
+      "published_at": "2026-07-16T13:41:25+00:00",
       "lang": "en"
     },
     {
-      "id": "26797365",
+      "id": "15504845",
       "category": "台湾・中台関係",
-      "title": "Global Full-Stack Observability Services Market Size/Share Worth USD 35 Billion by 2034 at a 22.5% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth, Growth Rate, Value)",
-      "summary": "グローバルフルスタック可観測性サービス市場は、2024年の約53億ドルから2034年には350億ドルに成長し、年平均成長率22.5%で拡大することが予想されています。この調査はカスタムマーケットインサイツによって発表され、市場規模や市場シェアの詳細な分析を含む220ページ以上のレポートで、市場動向や将来予測、セグメンテーション、成長率などが提示されています。",
-      "url": "https://www.globenewswire.com/news-release/2026/07/16/3328272/0/en/Global-Full-Stack-Observability-Services-Market-Size-Share-Worth-USD-35-Billion-by-2034-at-a-22-5-CAGR-Custom-Market-Insights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segmen.html",
-      "source": "GlobeNewswire",
-      "published_at": "2026-07-16T08:30:00+00:00",
+      "title": "Dow Jones Rises to 52,747 as Investors Rotate Into Blue-Chip Stocks While Tech and Chip Shares Slide",
+      "summary": "ダウ平均株価が52,747まで上昇し、投資家がテクノロジー株からブルーチップ株へシフトしています。テクノロジー株と半導体株は下落する中、混合的な決算発表と地政学的緊張がエネルギー価格に影響を与えています。投資家はテクノロジーセクターから工業株への資金移動を行い、より安定した大型優良株への関心を高めています。",
+      "url": "https://www.ibtimes.com.au/dow-jones-edges-higher-amid-mixed-earnings-1872413",
+      "source": "Ibtimes.com.au",
+      "published_at": "2026-07-16T13:34:18+00:00",
       "lang": "en"
     },
     {
-      "id": "13727715",
+      "id": "14616855",
       "category": "台湾・中台関係",
-      "title": "TSMC to invest another $100 billion in US as Q2 profit blows past forecasts",
-      "summary": "TSMCは米国での競争力強化を目指し、アリゾナ州に追加で100億ドルを投資することを発表した。同社は第2四半期の利益が予想を大きく上回り、今年度の設備投資予測を大幅に引き上げた。この投資により米国の半導体産業とサプライチェーンが強化される見通しだ。",
-      "url": "https://economictimes.indiatimes.com/tech/technology/tsmc-to-invest-another-100-billion-in-us-as-q2-profit-blows-past-forecasts/articleshow/132433412.cms",
-      "source": "The Times of India",
-      "published_at": "2026-07-16T08:12:36+00:00",
+      "title": "Hong Kong official warns booksellers on security risks after raids",
+      "summary": "香港当局者が捜査後、書店経営者に対してセキュリティ上のリスクについて警告を発した。警察による今回の作戦は、4ヶ月間で独立系書店を狙った3度目の逮捕作戦となっている。",
+      "url": "https://www.npr.org/2026/07/16/g-s1-133931/hong-kong-official-warns-booksellers-on-security-risks-after-raids",
+      "source": "NPR",
+      "published_at": "2026-07-16T13:31:33+00:00",
       "lang": "en"
     }
   ]
