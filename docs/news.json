@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T22:54:39.907248+00:00",
+  "updated_at": "2026-07-18T05:28:46.738174+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -58,87 +58,87 @@
   ],
   "news": [
     {
-      "id": "48187073",
+      "id": "16492695",
       "category": "経済・ビジネス（日本）",
-      "title": "ベネズエラ大地震 “5069人の死亡確認”と発表",
-      "summary": "ベネズエラで6月に発生した大地震について、ベネズエラ政府は17日に5069人の死亡が確認されたと発表しました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260718/k10015180041000.html",
+      "title": "米アップル 日本でiPhoneの販売価格を約10％値上げ",
+      "summary": "アップルが日本国内でのiPhoneの販売価格を約10％引き上げました。円安の進行が価格上昇の主な要因とみられています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260718/k10015180171000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-07-17T22:29:50+00:00",
+      "published_at": "2026-07-18T03:40:21+00:00",
       "lang": "ja"
     },
     {
-      "id": "14277482",
+      "id": "49956261",
       "category": "経済・ビジネス（日本）",
-      "title": "フランスの核戦力演習にドイツが初めて通常戦力で参加へ",
-      "summary": "フランスとドイツは年内に予定されているフランス軍の核戦力演習にドイツ軍の通常戦力が初めて参加すると発表しました。米国がヨーロッパの安全保障の負担を減らす方針を示す中で、この参加はヨーロッパの抑止力強化に向けた象徴的な一歩として評価されています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260718/k10015179991000.html",
+      "title": "米が7日連続イラン攻撃 覚書は形がい化 事態悪化懸念",
+      "summary": "アメリカ軍がイランに対して7日連続で攻撃を行い、イランは「攻撃が続けば全面的な攻勢に入る」とアメリカを強く牽制している。両国間の緊張が高まり、事態の一層の悪化が懸念されている。",
+      "url": "http://www3.nhk.or.jp/news/html/20260718/k10015180131000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-07-17T22:27:11+00:00",
+      "published_at": "2026-07-18T02:37:45+00:00",
       "lang": "ja"
     },
     {
-      "id": "29255390",
+      "id": "56182406",
+      "category": "経済・ビジネス（日本）",
+      "title": "米グリア通商代表 日本など対象の新関税措置“結論に数週間”",
+      "summary": "トランプ政権の10％関税措置の期限が来週24日に迫る中、アメリカ通商代表部のグリア代表は、これに代わる新たな関税措置の結論を出すまでに数週間かかる見通しを示しました。日本を含む対象国の関税政策決定には時間がかかる見込みです。",
+      "url": "http://www3.nhk.or.jp/news/html/20260718/k10015180111000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-18T01:56:05+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "62348703",
+      "category": "経済・ビジネス（日本）",
+      "title": "米大統領“カナダ山火事の大気汚染費用を関税に上乗せ”と主張",
+      "summary": "カナダの山火事による煙がアメリカにも影響する中、トランプ大統領はカナダの森林管理不足が原因だと指摘し、大気汚染の費用をカナダへの関税に上乗せする必要があると主張した。オンタリオ州で相次ぐ山火事の消火活動が続く中、その影響は国境を越えてアメリカまで及んでいる。",
+      "url": "http://www3.nhk.or.jp/news/html/20260718/k10015180091000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-18T01:51:26+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "78725961",
       "category": "経済・ビジネス（日本）",
       "title": "アメリカとイラン 覚書署名から1か月 合意形がい化で被害拡大",
       "summary": "アメリカとイランが戦闘終結に向けた覚書に署名してから1か月が経過しましたが、合意が形骸化し連日の攻撃の応酬が続いています。湾岸諸国のインフラ施設も被害を受けており、事態の一層の悪化が懸念されている状況です。",
       "url": "http://www3.nhk.or.jp/news/html/20260718/k10015179971000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-07-17T22:15:18+00:00",
+      "published_at": "2026-07-18T00:16:57+00:00",
       "lang": "ja"
     },
     {
-      "id": "26909869",
-      "category": "経済・ビジネス（日本）",
-      "title": "メキシコ南部の沖合で大地震 M7.3 大きな被害報告なし",
-      "summary": "メキシコ南部の太平洋沖で日本時間17日夜にマグニチュード7.3の大地震が発生しましたが、現在のところ大きな被害は報告されていません。",
-      "url": "http://www3.nhk.or.jp/news/html/20260718/k10015179891000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-17T21:53:11+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "47093929",
+      "id": "33597684",
       "category": "経済・ビジネス（日本）",
       "title": "ゼレンスキー大統領 安全保障政策担う重要ポストを内相に打診",
       "summary": "ウクライナのゼレンスキー大統領がフェドロフ国防相を事実上解任した後、安全保障政策を担当する重要なポストにクリメンコ内相の就任を打診しました。相次ぐ人事交代がウクライナの安全保障体制にどのような影響を与えるかが注視されています。",
       "url": "http://www3.nhk.or.jp/news/html/20260718/k10015179981000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-07-17T21:41:52+00:00",
+      "published_at": "2026-07-17T23:22:49+00:00",
       "lang": "ja"
     },
     {
-      "id": "56355261",
+      "id": "58383282",
       "category": "経済・ビジネス（日本）",
-      "title": "中国 重慶 山の斜面崩れ8人死亡 34人と連絡取れず 捜索は難航",
-      "summary": "中国重慶で山の斜面が崩れ、多くの住宅が巻き込まれて8人が死亡し、34人と連絡が取れない状況が発生しました。現場では捜索活動が行われていますが、難航しているとのことです。",
-      "url": "http://www3.nhk.or.jp/news/html/20260718/k10015179961000.html",
+      "title": "EU 「排出量取引制度」排出規制の緩和などを提案 産業界に配慮",
+      "summary": "EU執行機関は、二酸化炭素の排出枠を取引する「排出量取引制度」について排出規制を緩和する提案を示しました。これは環境政策の強化による競争力低下を懸念する産業界の要望に配慮したものです。",
+      "url": "http://www3.nhk.or.jp/news/html/20260718/k10015180071000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-07-17T21:16:08+00:00",
+      "published_at": "2026-07-17T23:19:04+00:00",
       "lang": "ja"
     },
     {
-      "id": "62323840",
+      "id": "46405932",
       "category": "経済・ビジネス（日本）",
-      "title": "ICC赤根所長 “国際法は強い圧力にさらされている”",
-      "summary": "ICC国際刑事裁判所のトップである赤根智子所長は、設立条約採択日に声明を発表し、国際法が強い圧力にさらされている状況を指摘しました。その上で、圧力に屈することなく被害者のために正義を追求し続けるICCの姿勢を改めて強調しています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260718/k10015179791000.html",
+      "title": "【動画解説】イギリス新首相 バーナム氏就任へ どんな人物？",
+      "summary": "イギリス労働党は17日の特別党大会でバーナム下院議員を新党首に選出し、同氏は20日にも首相に就任する見通しです。",
+      "url": "http://www3.nhk.or.jp/news/html/20260718/k10015180081000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-07-17T20:45:28+00:00",
+      "published_at": "2026-07-17T23:16:18+00:00",
       "lang": "ja"
     },
     {
-      "id": "30371422",
-      "category": "経済・ビジネス（日本）",
-      "title": "中国で日系企業ら会合 金杉大使「輸出規制強化に留意を」",
-      "summary": "中国・北京で開かれた日系企業の会合で、金杉憲治大使は中国によるレアアース輸出規制の強化に留意するよう促し、日本人2人の逮捕事例を背景に企業関係者に対し、不安な点があれば大使館に相談するよう呼びかけました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260718/k10015179691000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-17T20:36:37+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "12601950",
+      "id": "33556060",
       "category": "経済・ビジネス（世界）",
       "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
       "summary": "中国のAIスタートアップ「Moonshot AI」は、新型言語モデル「Kimi K3」がOpenAIやAnthropicなどの米国大手企業と競争できると主張しており、この大規模AIモデルが世界の主要企業と同等の能力を持つと考えている。",
@@ -148,7 +148,7 @@
       "lang": "en"
     },
     {
-      "id": "29285127",
+      "id": "80399484",
       "category": "経済・ビジネス（世界）",
       "title": "China hits out at British Steel nationalisation",
       "summary": "中国は英国の鉄鋼企業国有化に反発している。英国政府は同企業を公的管理下に置くことで「重要な国家的能力」を守ると述べているが、中国側はこれに対して批判的な立場を示している。",
@@ -158,7 +158,7 @@
       "lang": "en"
     },
     {
-      "id": "90308203",
+      "id": "47112432",
       "category": "経済・ビジネス（世界）",
       "title": "Brewdog founder faces data complaints over efforts to buy back firm",
       "summary": "BrewDogの創業者ジェームス・ワット氏が、自社の買収を目指して元株主に接触したことが報道された後、英国のデータ保護当局に苦情が寄せられた。ワット氏は企業買収の資金調達のために元株主の個人情報を利用したとみられており、個人データの不正な使用に関する懸念が生じている。この件について、英国の規制当局による調査が進められている。",
@@ -168,7 +168,7 @@
       "lang": "en"
     },
     {
-      "id": "23110357",
+      "id": "20738045",
       "category": "経済・ビジネス（世界）",
       "title": "The financial winners and losers from the World Cup",
       "summary": "2026年ワールドカップは試合外でも多くの資金が動いており、その利益は参加国や関連企業に大きな経済効果をもたらしている。大会の放映権やスポンサーシップ、観光収入などを通じて、各国や企業が異なる程度の経済的恩恵を受けることになる。どの国や企業がこうした経済的な利益を最も大きく獲得するのかは、大会の運営体制や市場規模に大きく左右される。",
@@ -178,7 +178,7 @@
       "lang": "en"
     },
     {
-      "id": "54840424",
+      "id": "47236942",
       "category": "経済・ビジネス（世界）",
       "title": "Why has British Steel been nationalised?",
       "summary": "イギリスの唯一の新規鋼鉄製造工場が、数年間の経営不安を経て国有化されました。この決定により、イギリスの鋼鉄産業の継続と雇用維持が図られています。国有化により、戦略的に重要な産業インフラを政府が直接管理することになります。",
@@ -188,7 +188,7 @@
       "lang": "en"
     },
     {
-      "id": "30720923",
+      "id": "51609701",
       "category": "経済・ビジネス（世界）",
       "title": "Five headaches Andy Burnham will have to deal with as PM",
       "summary": "アンディ・バーナムが首相として直面する5つの課題について述べられており、防衛支出から住宅問題まで、次期英国指導者が対処しなければならない一連の課題が存在することが指摘されている。記事は、バーナムが首相就任時に取り組むべき複数の重要な政策課題があることを示唆している。",
@@ -198,7 +198,7 @@
       "lang": "en"
     },
     {
-      "id": "50713172",
+      "id": "51656646",
       "category": "経済・ビジネス（世界）",
       "title": "Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK?",
       "summary": "マンチェスターの都市再生戦略で首相の座を勝ち取ったバーナム氏の「マンチェスター主義」が、イギリス全体でも機能するかどうかが焦点となっている。経済エディターのフェイサル・イスラムが、北西部の都市が国全体のモデルとなり得るかを検証している。バーナム首相は、地域経済の活性化と地方分権を基軸とした政策を掲げており、その有効性が全国規模での経済改革の成功を左右する可能性がある。",
@@ -208,7 +208,7 @@
       "lang": "en"
     },
     {
-      "id": "34447838",
+      "id": "86318342",
       "category": "経済・ビジネス（世界）",
       "title": "I wouldn't marry him until he paid off his debt, now I'm in charge of our money",
       "summary": "妻のサラは25年間夫と共有の銀行口座を持っていますが、その管理は自分の責任になっていると述べています。彼女は結婚前に夫の借金が完済されるまで結婚しないと宣言し、その後も家計管理を一手に引き受けることになりました。この状況について、夫婦間での金銭管理の責任分担に関する問題を提起しています。",
@@ -218,7 +218,37 @@
       "lang": "en"
     },
     {
-      "id": "87132342",
+      "id": "45951682",
+      "category": "テクノロジー・AI",
+      "title": "Neil Rimer thinks the AI money is coming back out",
+      "summary": "インデックス・ベンチャーズの共同創業者であるベンチャーキャピタリストのニール・リマーは、シリコンバレーがAIによって生み出す歴史的規模の富は、自発的であれ強制的であれ、再分配されなければならないと予測している。",
+      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-18T04:47:25+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "25921304",
+      "category": "テクノロジー・AI",
+      "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
+      "summary": "Stripe x Startup Battlefieldの申し込みは48時間で締め切られ、8月19日にシドニーでピッチイベントが開催される。優勝スタートアップはTechCrunch Disrupt San Franciscoへの自動出場権を獲得でき、投資家や国際メディア、オーストラリアのテック業界関係者の前でプレゼンする機会が得られる。オーストラリアの起業家にとって重要な期限と機会についての記事である。",
+      "url": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-17T23:08:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "32420276",
+      "category": "テクノロジー・AI",
+      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+      "summary": "Vertuは高級折りたたみスマートフォンに搭載したAIエージェント機能を6,880ドルで提供しており、本記事ではこのデバイスの実際の使用感をAIワークフロー、バッテリー持ち時間、セキュリティなどの観点から詳細に検証している。Vertuの luxury foldableデバイスが日常生活でどの程度実用的かつ価値のあるものかを、実際の利用を通じて評価する内容となっている。",
+      "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-17T22:55:09+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "85044051",
       "category": "テクノロジー・AI",
       "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
       "summary": "データブリックスは188億ドルの企業評価額に達し、AIの「第二幕」における最有力企業としての地位を拡大した。同社はAI企業としてのイメージを刷新し、コーディング向けオープンウェイトAIモデルのコスト削減に関する研究を発表している。データブリックスは元々データウェアハウス企業だったが、生成AIの急速な発展に伴い事業を転換し、現在AI分野で急速に成長している注目企業となっている。",
@@ -228,7 +258,7 @@
       "lang": "en"
     },
     {
-      "id": "41026206",
+      "id": "16083148",
       "category": "テクノロジー・AI",
       "title": "The Zoom hack that says, ‘Don’t record me’",
       "summary": "Zoomの会議やプライベートな会話まですべてが記録・要約される時代において、実際にそれらを読む人がいるのかという疑問が提起されている。会議の記録と要約機能の急速な普及に対し、ユーザーの間ではプライバシーと情報の実用性のバランスについて懸念が高まっている。記録されたくないという需要に応えるための対抗手段が求められている。",
@@ -238,7 +268,7 @@
       "lang": "en"
     },
     {
-      "id": "80887137",
+      "id": "70733384",
       "category": "テクノロジー・AI",
       "title": "Agility Robotics plants its flag in Tesla’s backyard",
       "summary": "アジリティ・ロボティクス社がカリフォルニア州フリーモント市にDigitロボット用の新しいトレーニングセンターを開設する。これはテスラの本拠地であるフリーモント地域でのロボット産業への進出を示すもので、同社はこの地域でのロボット技術開発と人材育成に注力する計画である。Digitロボットは物流や製造業での自動化を目指した次世代型ロボットとして開発されている。",
@@ -248,7 +278,7 @@
       "lang": "en"
     },
     {
-      "id": "27367339",
+      "id": "42314723",
       "category": "テクノロジー・AI",
       "title": "AI-driven memory crunch jolts India’s smartphone market",
       "summary": "インドのスマートフォン市場で、AI機能への対応がメモリ不足を引き起こし、価格設定や需要、企業戦略など消費者電子機器全体の再編を加速させている。AI搭載スマートフォンの需要増加によるメモリ逼迫がインド市場の成長鈍化をもたらしており、業界全体がAI技術への対応を迫られている状況を反映している。",
@@ -258,7 +288,7 @@
       "lang": "en"
     },
     {
-      "id": "41185384",
+      "id": "52178071",
       "category": "テクノロジー・AI",
       "title": "Apple and Google ordered to purge ‘nudify’ apps from App Stores",
       "summary": "サンフランシスコ市検察長のデイビッド・チュー氏がアップルとグーグルに送付した書簡では、両社が州法違反のアプリをアプリストアで提供していることを長年認識していたと指摘しており、AppleとGoogleに対して「ヌードフィケーション」アプリをアプリストアから削除するよう命じた。チュー氏は両社が違法性を知りながらも対応を怠ってきたと主張しており、この問題は女性の画像を無断で裸体に加工するアプリに関するもので、プライバシーと尊厳の侵害が深刻な問題となっている。",
@@ -268,113 +298,83 @@
       "lang": "en"
     },
     {
-      "id": "64942471",
-      "category": "テクノロジー・AI",
-      "title": "TikTok is testing an AI likeness detection tool",
-      "summary": "TikTokはAIによって生成された人物の顔や声を検出するツールのテストを開始しており、クリエイターがそのような疑わしいコンテンツを企業に報告できるようにしている。このオプトイン機能は現在、米国の一部のクリエイターを対象にテストされており、YouTubeも同様のツール開発を進めている。このツールはディープフェイクや不正なAI生成コンテンツへの対策として機能することが期待されている。",
-      "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
-      "source": "AI | The Verge",
-      "published_at": "2026-07-17T19:34:30+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "77080839",
-      "category": "テクノロジー・AI",
-      "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
-      "summary": "核融合スタートアップのヴァラー・アトミクス社が60億ドルの評価額での新規資金調達交渉を進めており、複数段階の複雑な融資ラウンドが実際の参入価格を曖昧にする傾向が増加していることが浮き彫りになった。この動きは、スタートアップ企業が高い評価額を維持しながら資金を調達する現象が業界で広がっていることを示している。",
-      "url": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-17T19:22:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "17724221",
-      "category": "テクノロジー・AI",
-      "title": "I replaced my space heater and ceiling fan with one Dyson appliance",
-      "summary": "ダイソンの「Hot+Cool HF1」は、ブレードレス設計を採用した年間通して使用できる空調家電で、静かな運転と簡単な操作性が特徴である。この1台でスペースヒーターとシーリングファンの両方の役割を果たすため、ユーザーは複数の家電を1つの製品に統合することができた。ダイソン独自の技術により、快適性と利便性を兼ね備えた革新的なソリューションが実現している。",
-      "url": "https://techcrunch.com/2026/07/17/i-replaced-my-space-heater-and-ceiling-fan-with-one-dyson-appliance/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-17T18:00:17+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "54350922",
+      "id": "73501577",
       "category": "台湾・中台関係",
-      "title": "China conducts military simulations near Taiwan using US ship mock-ups",
-      "summary": "中国がアメリカ艦船を模した標的を使用して台湾近海で軍事演習を実施し、地域の緊張を高めている。この演習は紛争リスクを増加させ、グローバルな安定性に悪影響を与える可能性があるとされている。",
-      "url": "https://cryptobriefing.com/china-conducts-military-simulations-near-taiwan-using-us-ship-mock-ups/",
-      "source": "Crypto Briefing",
-      "published_at": "2026-07-16T22:32:24+00:00",
+      "title": "Hong Kong official says booksellers should ensure titles won't harm national security after arrests",
+      "summary": "香港の最高治安当局者は、書籍販売業者に対して、扱う書籍が国家安全保障に害を及ぼさないことを確認するよう促しました。この発言は、複数の書籍販売業者が逮捕された後に出されたもので、香港の言論の自由に関する懸念が高まっています。当局は国家安全保障法を根拠に、セキュリティ上の脅威となる可能性のある出版物に対する監視を強化する姿勢を示しており、出版業界に自主規制を求める圧力が増しています。",
+      "url": "https://abcnews.com/Entertainment/wireStory/hong-kong-official-booksellers-ensure-titles-harm-national-134838464",
+      "source": "Abcnews.com",
+      "published_at": "2026-07-17T05:25:36+00:00",
       "lang": "en"
     },
     {
-      "id": "63119554",
+      "id": "28074995",
       "category": "台湾・中台関係",
-      "title": "How We Can Win vs. China",
-      "summary": "米国と中国の間で産業競争が激化しており、現在米国は後れを取っているが、状況を逆転させるまだ望みがあるという主張を述べている。記事は産業戦争における米国の競争力強化の可能性について論じており、適切な戦略と政策によって中国に対抗できる道筋が存在することを示唆している。",
-      "url": "https://dailyreckoning.com/how-we-can-win-vs-china/",
-      "source": "Dailyreckoning.com",
-      "published_at": "2026-07-16T22:00:02+00:00",
+      "title": "Hong Kong official says booksellers should ensure titles won't harm national security after arrests",
+      "summary": "香港の治安責任者が、最近の逮捕事件後に書店経営者に対し、取り扱う書籍が国家安全保障を害さないようにすべきだと促しました。香港の最高治安当局者は書店に対して、扱う出版物が国家安全保障に悪影響を与えないことを確認するよう強く求めています。",
+      "url": "https://abcnews.com/Business/wireStory/hong-kong-official-booksellers-ensure-titles-harm-national-134838465",
+      "source": "Abcnews.com",
+      "published_at": "2026-07-17T05:25:31+00:00",
       "lang": "en"
     },
     {
-      "id": "78541379",
+      "id": "80977400",
       "category": "台湾・中台関係",
-      "title": "Netflix To Ramp Up Live Programming As ‘BTS: The Comeback Live’ & ‘The Roast Of Kevin Hart’ Perform For Streamer, Drive Subscriber Numbers",
-      "summary": "Netflixは、「ビー・ティー・エス：ザ・カムバック・ライブ」や「ケビン・ハートのロースト」などのライブプログラムが視聴者を獲得し好調だったことを受けて、ライブプログラミングの配信を倍増させる計画を発表した。Netflixはこれまでのライブコンテンツの成功に基づいて、より多くのライブ番組の制作に投資することで、加入者数の増加を目指している。",
-      "url": "http://deadline.com/2026/07/netflix-ramp-up-live-programming-bts-the-comeback-1236984610/",
-      "source": "Deadline",
-      "published_at": "2026-07-16T21:57:59+00:00",
+      "title": "Asian shares slide following an AI-led retreat on Wall St",
+      "summary": "アジア株が下落し、東京日経平均は5％低下した。コンピュータチップメーカーやAI関連銘柄の大量売却が市場全体を押し下げており、台湾株も5％以上下落している。これはウォール街でのAI関連株の売り圧力がアジア市場に波及した結果である。",
+      "url": "https://apnews.com/article/stocks-markets-ai-iran-trump-rates-65449e9565fba441a617f9517e097f5a",
+      "source": "Associated Press",
+      "published_at": "2026-07-17T04:59:48+00:00",
       "lang": "en"
     },
     {
-      "id": "45689211",
+      "id": "84197112",
       "category": "台湾・中台関係",
-      "title": "Taiwan Semiconductor commits $100B to US manufacturing expansion",
-      "summary": "台湾のTSMC（台湾積体電路製造）が米国の製造施設拡大に100億ドルを投資することを表明した。この大規模な投資により、世界的な半導体サプライチェーンが再編され、地政学的リスクが軽減され、米国の技術独立が強化される可能性がある。",
-      "url": "https://cryptobriefing.com/tsmc-100b-us-manufacturing-expansion/",
-      "source": "Crypto Briefing",
-      "published_at": "2026-07-16T21:22:54+00:00",
+      "title": "Stocks drop as chip selloff deepens, crude oil prices climb: Markets Wrap",
+      "summary": "技術株が売却圧力を受け、特にAI関連の急速な上昇が行き過ぎたのではないかという投資家の懸念が強まっている。半導体セクターの売却が深刻化する一方で、原油価格は上昇している。投資家たちは今年のAIブームの持続可能性について疑問を持ち始めており、株式市場全体に下落圧力がかかっている。",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-16/stock-market-today-dow-s-p-live-updates",
+      "source": "Bloomberg",
+      "published_at": "2026-07-17T04:58:25+00:00",
       "lang": "en"
     },
     {
-      "id": "46143186",
+      "id": "27035209",
       "category": "台湾・中台関係",
-      "title": "US Coast Guard shifts cutter squadron to Western Pacific amid China tensions",
-      "summary": "米国沿岸警備隊は中国との緊張が高まる中、カッターの艦隊を西太平洋へ配置転換した。この配置転換は、インド太平洋地域への米国の戦略的転換を強調し、中国の海洋的主張の抑止と地域の安定確保を目的としている。",
-      "url": "https://cryptobriefing.com/us-coast-guard-shifts-cutter-squadron-to-western-pacific-amid-china-tensions/",
-      "source": "Crypto Briefing",
-      "published_at": "2026-07-16T20:52:13+00:00",
+      "title": "PNG ousts Taiwan officials, seeks to 'reassure' China after Australian treaty",
+      "summary": "パプアニューギニアが台湾の貿易代表部を閉鎖し、中国との関係再構築を目指す戦略的転換を実施した。台湾は同国の第5位の貿易相手国であるが、この決定はオーストラリアとの条約締結後に中国を安心させるための動きと見られている。パプアニューギニアはこの措置により、中国との関係強化と戦略的な地政学的立場の再調整を意図している。",
+      "url": "https://www.abc.net.au/news/2026-07-17/png-to-close-taiwan-trade-office-seeking-to-reassure-china/106927630",
+      "source": "ABC News (AU)",
+      "published_at": "2026-07-17T04:51:19+00:00",
       "lang": "en"
     },
     {
-      "id": "11220862",
+      "id": "20646422",
       "category": "台湾・中台関係",
-      "title": "Global Structural Health Monitoring Market Size to Reach USD 8.6 Billion by 2035 | Growing at 9.1% CAGR | Industry Trends, Market Share & Forecast – Custom Market Insights",
-      "summary": "グローバル構造ヘルスモニタリング市場は2025年に36億ドルの規模を有しており、2035年までに86億ドルに達すると予測されており、年間平均成長率は9.1%である。この市場の拡大はインフラストラクチャの安全性向上への需要の高まりと、IoTおよびセンサー技術の進展により促進されている。",
-      "url": "https://www.globenewswire.com/news-release/2026/07/16/3328827/0/en/Global-Structural-Health-Monitoring-Market-Size-to-Reach-USD-8-6-Billion-by-2035-Growing-at-9-1-CAGR-Industry-Trends-Market-Share-Forecast-Custom-Market-Insights.html",
-      "source": "GlobeNewswire",
-      "published_at": "2026-07-16T20:30:00+00:00",
+      "title": "Between doing everything or letting go: Time-limited trials in the ICU",
+      "summary": "若く健康だった患者が劇症心筋炎を発症し、心停止と長時間の蘇生を経てICUで人工呼吸器による治療を受けることになった。循環は回復したものの、神経学的所見は深刻であり、医療チームは集中治療を続けるか中止するかの難しい決断に直面している。ICUにおける時間制限付き試験は、患者と家族が治療の継続と終了の判断をする際の重要な選択肢となっている。",
+      "url": "https://blogs.bmj.com/medical-ethics/2026/07/17/between-doing-everything-or-letting-go-time-limited-trials-in-the-icu/",
+      "source": "The BMJ",
+      "published_at": "2026-07-17T04:48:45+00:00",
       "lang": "en"
     },
     {
-      "id": "43181175",
+      "id": "21327142",
       "category": "台湾・中台関係",
-      "title": "Applied Optoelectronics Announces Date of Second Quarter 2026 Financial Results Conference Call",
-      "summary": "Applied Optoelectronics, Inc.は、AI技術を支える光学およびHFCネットワーク製品の大手提供企業として、2026年第2四半期の財務結果を発表するための電話会議の日程を公表しました。同社はナスダックに上場しており、AI関連の高度な光学ネットワーク製品市場での主要なポジションを保持しています。",
-      "url": "https://www.globenewswire.com/news-release/2026/07/16/3328800/9986/en/Applied-Optoelectronics-Announces-Date-of-Second-Quarter-2026-Financial-Results-Conference-Call.html",
-      "source": "GlobeNewswire",
-      "published_at": "2026-07-16T20:10:00+00:00",
+      "title": "Stocks Slide as Chip Selloff Deepens, Oil Climbs: Markets Wrap",
+      "summary": "アジア株が下落し、米国の株価指数先物も下げるなか、投資家がテクノロジー株から資金を引き上げており、今年初めの急上昇後、半導体メーカーの売却がさらに深刻化している。一方、石油は上昇した。",
+      "url": "https://financialpost.com/pmn/business-pmn/stocks-slide-as-chip-selloff-deepens-oil-climbs-markets-wrap",
+      "source": "Financial Post",
+      "published_at": "2026-07-17T04:29:27+00:00",
       "lang": "en"
     },
     {
-      "id": "51657777",
+      "id": "89961785",
       "category": "台湾・中台関係",
-      "title": "???? | IMP Packing Brand Identity Renewal",
-      "summary": "IMP Packingは50年以上にわたってテープ業界での専門知識を蓄積し、台湾、中国、ベトナムに生産拠点を構え、北米や日本などの主要市場に製品を供給している企業である。グローバル競争が激化する中、同社はブランドアイデンティティの刷新に取り組んでおり、業界での競争力強化と市場での存在感向上を目指している。",
-      "url": "https://www.behance.net/gallery/244762711/-IMP-Packing-Brand-Identity-Renewal",
-      "source": "Behance.net",
-      "published_at": "2026-07-16T19:30:13+00:00",
+      "title": "ETMarkets Smart Talk | India’s indirect AI play could create wealth in power, data centres and capital goods: Hiren Ved",
+      "summary": "インドのAIブームは電力やデータセンター、資本財といったインフラ関連産業に間接的な富創出機会をもたらす見通しが示されている。外国機関投資家は従来の大型株から資金配分をシフトさせ、インターネット消費者産業や産業スペースでの成長機会を探っている。この投資戦略の転換により、AI関連の周辺産業が恩恵を受ける可能性が高まっている。",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-indias-indirect-ai-play-could-create-wealth-in-power-data-centres-and-capital-goods-hiren-ved/articleshow/132431395.cms",
+      "source": "The Times of India",
+      "published_at": "2026-07-17T03:30:00+00:00",
       "lang": "en"
     }
   ]
