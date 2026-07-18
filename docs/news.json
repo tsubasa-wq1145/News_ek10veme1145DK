@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T14:19:51.779078+00:00",
+  "updated_at": "2026-07-18T22:56:07.157497+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -44,31 +44,41 @@
   ],
   "digest": [
     {
-      "title": "フランスの核戦力演習にドイツが初めて通常戦力で参加へ",
-      "body": "フランスとドイツは年内に予定されているフランス軍の核戦力演習にドイツ軍の通常戦力が初めて参加すると発表しました。米国がヨーロッパの安全保障の負担を減らす方針を示す中で、この参加はヨーロッパの抑止力強化に向けた象徴的な一歩として評価されており、欧州の戦略的独立性が強化される重要な動きとなっています。"
+      "title": "米イラン対立が深刻化、覚書が形骸化し軍事衝突が継続",
+      "body": "アメリカとイランが戦闘終結の覚書に署名してから1か月が経過しましたが、両国の約束が形骸化し、7日連続の攻撃の応酬が続いています。アメリカ軍はイランへの攻撃で兵士2人が死亡し、イランは「攻撃が続けば全面的な攻勢に入る」と強く牽制しており、湾岸諸国のインフラ施設も被害を受けるなど事態の一層の悪化が懸念されています。"
     },
     {
-      "title": "アメリカとイラン 覚書署名から1か月 合意形骸化で被害拡大",
-      "body": "アメリカとイランが戦闘終結に向けた覚書に署名してから1か月が経過しましたが、合意が形骸化し連日の攻撃の応酬が続いています。湾岸諸国のインフラ施設も被害を受けており、中東地域の安定が一層脅かされている状況です。"
+      "title": "ウクライナがロシア西部の物流施設を攻撃、民間被害が拡大",
+      "body": "ウクライナのゼレンスキー大統領がロシア首都モスクワに隣接する州の物流施設を攻撃したと発表し、ロシア側は7人の死亡と20人以上の負傷者が出たとして「テロ攻撃」と非難しています。ロシア軍とウクライナ軍の戦闘が各地で継続する中で、多くの市民が国外への避難を余儀なくされており、民間人への被害が深刻化しています。"
     },
     {
-      "title": "ウクライナのゼレンスキー大統領 安全保障政策担う重要ポストで人事交代",
-      "body": "ゼレンスキー大統領がフェドロフ国防相を事実上解任した後、安全保障政策を担当する重要なポストにクリメンコ内相の就任を打診しました。相次ぐ人事交代がウクライナの安全保障体制と対ロシア戦略にどのような影響を与えるかが注視されている重要な局面です。"
+      "title": "米アップルが日本でiPhone販売価格を約10％値上げ、円安が主因",
+      "body": "アップルが日本国内でのiPhone販売価格を約10％引き上げました。円安の進行が価格上昇の主な要因とみられており、今後も為替変動が消費者負担に直結する懸念があります。"
     }
   ],
   "news": [
     {
-      "id": "27123221",
+      "id": "50934755",
       "category": "経済・ビジネス（日本）",
-      "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月18日の動き）",
-      "summary": "ロシアによるウクライナへの軍事侵攻が継続しており、各地でロシア軍とウクライナ軍の戦闘が続いている中で、多くの市民が国外への避難を余儀なくされています。日本時間7月18日のウクライナ情勢に関する戦闘状況や国際的な外交動向について随時更新で報道されています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260718/k10015141091000.html",
+      "title": "イラン“覚書の履行停止” 米はイラン攻撃対応で2人死亡と発表",
+      "summary": "イランはアメリカが戦闘終結の覚書義務に違反していると主張し、自らも義務の履行を停止したと表明した。アメリカ中央軍はイランの攻撃に対応していた兵士2人の死亡を発表し、米イラン間の対立が一層深刻化している。",
+      "url": "http://www3.nhk.or.jp/news/html/20260719/k10015180431000.html",
       "source": "NHKニュース|国際",
-      "published_at": "2026-07-18T13:43:51+00:00",
+      "published_at": "2026-07-18T21:57:26+00:00",
       "lang": "ja"
     },
     {
-      "id": "53805199",
+      "id": "43228775",
+      "category": "経済・ビジネス（日本）",
+      "title": "【詳細】ロシア ウクライナに軍事侵攻（7月18日の動き）",
+      "summary": "ロシアによるウクライナへの軍事侵攻が継続しており、各地でロシア軍とウクライナ軍の戦闘が続いている中で、多くの市民が国外への避難を余儀なくされています。日本時間7月18日のウクライナ情勢に関する戦闘状況や国際的な外交動向について随時更新で報道されています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260718/k10015141091000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-18T15:09:11+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "62416704",
       "category": "経済・ビジネス（日本）",
       "title": "アメリカとイラン 覚書署名から1か月 合意形がい化で被害拡大",
       "summary": "アメリカとイランが戦闘終結に向けた覚書に署名してから1か月が経過しましたが、合意が形骸化し連日の攻撃の応酬が続いています。湾岸諸国のインフラ施設も被害を受けており、事態の一層の悪化が懸念されている状況です。",
@@ -78,7 +88,7 @@
       "lang": "ja"
     },
     {
-      "id": "58929412",
+      "id": "60802311",
       "category": "経済・ビジネス（日本）",
       "title": "ウクライナ ロシア大手通信販売会社の倉庫などを攻撃",
       "summary": "ウクライナのゼレンスキー大統領は、ロシアの首都モスコウに隣接する州や西部の州にある物流施設を攻撃したと発表し、ロシア西部の州知事は攻撃により7人が死亡、20人以上が負傷したとして「テロ攻撃」と非難しました。",
@@ -88,7 +98,7 @@
       "lang": "ja"
     },
     {
-      "id": "88424734",
+      "id": "57398903",
       "category": "経済・ビジネス（日本）",
       "title": "中国と北朝鮮の貿易総額 ことし上半期はコロナ拡大前の水準超",
       "summary": "中国と北朝鮮の2024年上半期の貿易総額が前年同期比で19％以上増加し、コロナ拡大前の水準を上回った。この増加は両国の関係強化を示しており、経済的な結びつきが深まっていることを反映している。",
@@ -98,7 +108,7 @@
       "lang": "ja"
     },
     {
-      "id": "48295709",
+      "id": "81762267",
       "category": "経済・ビジネス（日本）",
       "title": "米アップル 日本でiPhoneの販売価格を約10％値上げ",
       "summary": "アップルが日本国内でのiPhoneの販売価格を約10％引き上げました。円安の進行が価格上昇の主な要因とみられています。",
@@ -108,7 +118,7 @@
       "lang": "ja"
     },
     {
-      "id": "42373029",
+      "id": "21561625",
       "category": "経済・ビジネス（日本）",
       "title": "米が7日連続イラン攻撃 覚書は形がい化 事態悪化懸念",
       "summary": "アメリカ軍がイランに対して7日連続で攻撃を行い、イランは「攻撃が続けば全面的な攻勢に入る」とアメリカを強く牽制している。両国間の緊張が高まり、事態の一層の悪化が懸念されている。",
@@ -118,7 +128,7 @@
       "lang": "ja"
     },
     {
-      "id": "75108963",
+      "id": "71744582",
       "category": "経済・ビジネス（日本）",
       "title": "米グリア通商代表 日本など対象の新関税措置“結論に数週間”",
       "summary": "トランプ政権の10％関税措置の期限が来週24日に迫る中、アメリカ通商代表部のグリア代表は、これに代わる新たな関税措置の結論を出すまでに数週間かかる見通しを示しました。日本を含む対象国の関税政策決定には時間がかかる見込みです。",
@@ -128,17 +138,7 @@
       "lang": "ja"
     },
     {
-      "id": "88262807",
-      "category": "経済・ビジネス（日本）",
-      "title": "米大統領“カナダ山火事の大気汚染費用を関税に上乗せ”と主張",
-      "summary": "カナダの山火事による煙がアメリカにも影響する中、トランプ大統領はカナダの森林管理不足が原因だと指摘し、大気汚染の費用をカナダへの関税に上乗せする必要があると主張した。オンタリオ州で相次ぐ山火事の消火活動が続く中、その影響は国境を越えてアメリカまで及んでいる。",
-      "url": "http://www3.nhk.or.jp/news/html/20260718/k10015180091000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-18T01:51:26+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "65870140",
+      "id": "16722919",
       "category": "経済・ビジネス（世界）",
       "title": "'My buyers dropped their offer by £15,000 the day before exchange': Gazundering and how to avoid it",
       "summary": "売買契約直前に購入者が申し出価格を15,000ポンド引き下げるという「ガザンダリング」と呼ばれる問題が不動産市場で増加しており、売り手はこうした値下げ要求から身を守るための対策が必要となっている。",
@@ -148,7 +148,7 @@
       "lang": "en"
     },
     {
-      "id": "35970316",
+      "id": "54939131",
       "category": "経済・ビジネス（世界）",
       "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
       "summary": "中国のAIスタートアップ「Moonshot AI」は、新型言語モデル「Kimi K3」がOpenAIやAnthropicなどの米国大手企業と競争できると主張しており、この大規模AIモデルが世界の主要企業と同等の能力を持つと考えている。",
@@ -158,7 +158,7 @@
       "lang": "en"
     },
     {
-      "id": "27227246",
+      "id": "27216337",
       "category": "経済・ビジネス（世界）",
       "title": "China hits out at British Steel nationalisation",
       "summary": "中国は英国の鉄鋼企業国有化に反発している。英国政府は同企業を公的管理下に置くことで「重要な国家的能力」を守ると述べているが、中国側はこれに対して批判的な立場を示している。",
@@ -168,7 +168,7 @@
       "lang": "en"
     },
     {
-      "id": "86847165",
+      "id": "10493639",
       "category": "経済・ビジネス（世界）",
       "title": "Brewdog founder faces data complaints over efforts to buy back firm",
       "summary": "BrewDogの創業者ジェームス・ワット氏が、自社の買収を目指して元株主に接触したことが報道された後、英国のデータ保護当局に苦情が寄せられた。ワット氏は企業買収の資金調達のために元株主の個人情報を利用したとみられており、個人データの不正な使用に関する懸念が生じている。この件について、英国の規制当局による調査が進められている。",
@@ -178,7 +178,7 @@
       "lang": "en"
     },
     {
-      "id": "53256692",
+      "id": "42340385",
       "category": "経済・ビジネス（世界）",
       "title": "The financial winners and losers from the World Cup",
       "summary": "2026年ワールドカップは試合外でも多くの資金が動いており、その利益は参加国や関連企業に大きな経済効果をもたらしている。大会の放映権やスポンサーシップ、観光収入などを通じて、各国や企業が異なる程度の経済的恩恵を受けることになる。どの国や企業がこうした経済的な利益を最も大きく獲得するのかは、大会の運営体制や市場規模に大きく左右される。",
@@ -188,7 +188,7 @@
       "lang": "en"
     },
     {
-      "id": "13956926",
+      "id": "51157994",
       "category": "経済・ビジネス（世界）",
       "title": "Five headaches Andy Burnham will have to deal with as PM",
       "summary": "アンディ・バーナムが首相として直面する5つの課題について述べられており、防衛支出から住宅問題まで、次期英国指導者が対処しなければならない一連の課題が存在することが指摘されている。記事は、バーナムが首相就任時に取り組むべき複数の重要な政策課題があることを示唆している。",
@@ -198,7 +198,7 @@
       "lang": "en"
     },
     {
-      "id": "46068681",
+      "id": "55619059",
       "category": "経済・ビジネス（世界）",
       "title": "Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK?",
       "summary": "マンチェスターの都市再生戦略で首相の座を勝ち取ったバーナム氏の「マンチェスター主義」が、イギリス全体でも機能するかどうかが焦点となっている。経済エディターのフェイサル・イスラムが、北西部の都市が国全体のモデルとなり得るかを検証している。バーナム首相は、地域経済の活性化と地方分権を基軸とした政策を掲げており、その有効性が全国規模での経済改革の成功を左右する可能性がある。",
@@ -208,7 +208,7 @@
       "lang": "en"
     },
     {
-      "id": "48250283",
+      "id": "91276179",
       "category": "経済・ビジネス（世界）",
       "title": "I wouldn't marry him until he paid off his debt, now I'm in charge of our money",
       "summary": "妻のサラは25年間夫と共有の銀行口座を持っていますが、その管理は自分の責任になっていると述べています。彼女は結婚前に夫の借金が完済されるまで結婚しないと宣言し、その後も家計管理を一手に引き受けることになりました。この状況について、夫婦間での金銭管理の責任分担に関する問題を提起しています。",
@@ -218,7 +218,77 @@
       "lang": "en"
     },
     {
-      "id": "32254163",
+      "id": "70759017",
+      "category": "テクノロジー・AI",
+      "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
+      "summary": "OpenAIのスタッフ約200名を前に講演したベストセラー作家デイブ・エガーズは、ChatGPTが「世代全体を沈黙させている」と警告した。複数の小説や脚本、ジャーナリズム作品を執筆し、文芸誌マクスウィーニーズを創刊した著者は、作家や芸術家の支援を通じてAIが創作活動に与える影響について懸念を表明したと見られる。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+      "source": "AI | The Verge",
+      "published_at": "2026-07-18T20:54:42+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "74794130",
+      "category": "テクノロジー・AI",
+      "title": "Waymo says San Francisco service has resumed after one-hour pause",
+      "summary": "Waymoが1時間の停止後にサンフランシスコでのサービス再開を発表した。停電がWaymoのサービスに支障をきたすのはこれが初めてではない。記事の詳細は明記されていないが、Waymoの自動運転タクシーサービスが電力供給の問題により一時中断され、その後復旧したことが伝えられている。",
+      "url": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-18T19:30:23+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "78455271",
+      "category": "テクノロジー・AI",
+      "title": "Kimi: Threat or menace?",
+      "summary": "中国のスタートアップMoonshot AIが今週、自社のAIモデル「Kimi」の新版をリリースし、「完全なAI共産主義」への懸念が生じている。このリリースは、AI技術の発展と社会への影響についての議論を呼び起こしており、新モデルの能力と規制の必要性について業界内での注目が高まっている。",
+      "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-18T18:51:07+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "13411092",
+      "category": "テクノロジー・AI",
+      "title": "All the EVs that were discontinued or killed off in the U.S. this year",
+      "summary": "ホンダ プロローグが米国での販売を中止され、今年市場から撤退する電動車モデルのリストに加わった。米国では2024年、複数のEV車種が販売中止または市場から撤退しており、電動車市場が調整局面に入っていることを示している。消費者の購買パターンの変化やメーカーの戦略見直しが影響しているとみられる。",
+      "url": "https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-18T16:30:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "30165352",
+      "category": "テクノロジー・AI",
+      "title": "Federal employees can download TikTok on their work phones again",
+      "summary": "米司法省は、連邦職員が政府支給の端末にTikTokをダウンロードすることを再び許可したと発表した。これまでのセキュリティ上の懸念から実施されていた制限が解除され、職員はスマートフォンなどの業務用デバイスでTikTokアプリを利用できるようになった。",
+      "url": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-18T15:54:24+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "29962523",
+      "category": "テクノロジー・AI",
+      "title": "A 600-mile road trip (and data) proves EV charging doesn’t suck anymore",
+      "summary": "米国での600マイルの電気自動車による実際の走行テストにより、DC急速充電技術が以前より大幅に高速化かつ信頼性が向上していることが実証された。この調査結果は、電気自動車の長距離走行がもはや問題ではなくなりつつあることを示唆しており、充電インフラの改善が電気自動車の普及を加速させる重要な要因になっていることが明らかになった。",
+      "url": "https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-18T14:32:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "76698083",
+      "category": "テクノロジー・AI",
+      "title": "The apps, gadgets, and tools every reader needs",
+      "summary": "今週のInstaller第136号では、読書好きに必要なアプリ、ガジェット、ツールについて紹介される。このコラムではThe Vergeが厳選した最高で最もVergeらしい製品やサービスをガイドしており、今週は次シーズンのVersion Historyの録音作業が進められている。新規読者向けには過去の全号がInstallerホームページで読める。",
+      "url": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
+      "source": "AI | The Verge",
+      "published_at": "2026-07-18T12:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "20106948",
       "category": "テクノロジー・AI",
       "title": "Neil Rimer thinks the AI money is coming back out",
       "summary": "インデックス・ベンチャーズの共同創業者であるベンチャーキャピタリストのニール・リマーは、シリコンバレーがAIによって生み出す歴史的規模の富は、自発的であれ強制的であれ、再分配されなければならないと予測している。",
@@ -228,153 +298,83 @@
       "lang": "en"
     },
     {
-      "id": "99923453",
-      "category": "テクノロジー・AI",
-      "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
-      "summary": "Stripe x Startup Battlefieldの申し込みは48時間で締め切られ、8月19日にシドニーでピッチイベントが開催される。優勝スタートアップはTechCrunch Disrupt San Franciscoへの自動出場権を獲得でき、投資家や国際メディア、オーストラリアのテック業界関係者の前でプレゼンする機会が得られる。オーストラリアの起業家にとって重要な期限と機会についての記事である。",
-      "url": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-17T23:08:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "34278698",
-      "category": "テクノロジー・AI",
-      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-      "summary": "Vertuは高級折りたたみスマートフォンに搭載したAIエージェント機能を6,880ドルで提供しており、本記事ではこのデバイスの実際の使用感をAIワークフロー、バッテリー持ち時間、セキュリティなどの観点から詳細に検証している。Vertuの luxury foldableデバイスが日常生活でどの程度実用的かつ価値のあるものかを、実際の利用を通じて評価する内容となっている。",
-      "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-17T22:55:09+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "42121676",
-      "category": "テクノロジー・AI",
-      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-      "summary": "データブリックスは188億ドルの企業評価額に達し、AIの「第二幕」における最有力企業としての地位を拡大した。同社はAI企業としてのイメージを刷新し、コーディング向けオープンウェイトAIモデルのコスト削減に関する研究を発表している。データブリックスは元々データウェアハウス企業だったが、生成AIの急速な発展に伴い事業を転換し、現在AI分野で急速に成長している注目企業となっている。",
-      "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-17T22:12:56+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "24974620",
-      "category": "テクノロジー・AI",
-      "title": "The Zoom hack that says, ‘Don’t record me’",
-      "summary": "Zoomの会議やプライベートな会話まですべてが記録・要約される時代において、実際にそれらを読む人がいるのかという疑問が提起されている。会議の記録と要約機能の急速な普及に対し、ユーザーの間ではプライバシーと情報の実用性のバランスについて懸念が高まっている。記録されたくないという需要に応えるための対抗手段が求められている。",
-      "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-17T21:20:47+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "21344565",
-      "category": "テクノロジー・AI",
-      "title": "Agility Robotics plants its flag in Tesla’s backyard",
-      "summary": "アジリティ・ロボティクス社がカリフォルニア州フリーモント市にDigitロボット用の新しいトレーニングセンターを開設する。これはテスラの本拠地であるフリーモント地域でのロボット産業への進出を示すもので、同社はこの地域でのロボット技術開発と人材育成に注力する計画である。Digitロボットは物流や製造業での自動化を目指した次世代型ロボットとして開発されている。",
-      "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-17T20:19:49+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "77497959",
-      "category": "テクノロジー・AI",
-      "title": "AI-driven memory crunch jolts India’s smartphone market",
-      "summary": "インドのスマートフォン市場で、AI機能への対応がメモリ不足を引き起こし、価格設定や需要、企業戦略など消費者電子機器全体の再編を加速させている。AI搭載スマートフォンの需要増加によるメモリ逼迫がインド市場の成長鈍化をもたらしており、業界全体がAI技術への対応を迫られている状況を反映している。",
-      "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-17T20:09:27+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "26857731",
-      "category": "テクノロジー・AI",
-      "title": "Apple and Google ordered to purge ‘nudify’ apps from App Stores",
-      "summary": "サンフランシスコ市検察長のデイビッド・チュー氏がアップルとグーグルに送付した書簡では、両社が州法違反のアプリをアプリストアで提供していることを長年認識していたと指摘しており、AppleとGoogleに対して「ヌードフィケーション」アプリをアプリストアから削除するよう命じた。チュー氏は両社が違法性を知りながらも対応を怠ってきたと主張しており、この問題は女性の画像を無断で裸体に加工するアプリに関するもので、プライバシーと尊厳の侵害が深刻な問題となっている。",
-      "url": "https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-17T19:49:53+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "62127873",
+      "id": "19851349",
       "category": "台湾・中台関係",
-      "title": "U.S.-China Relations Are More Volatile Than Ever",
-      "summary": "トランプ氏と習近平主席は外交を守る責任を持つ機関と職員を徹底的に弱体化させており、米中関係はこれまで以上に不安定になっている。両国指導者が外交的な仲介機能を損なわせたことで、対立が激化しやすい状況が生まれている。",
-      "url": "http://foreignpolicy.com/2026/07/17/china-united-states-diplomacy-trump-xi-taiwan-stability-chaos-rivalry-partnership/",
-      "source": "Foreign Policy",
-      "published_at": "2026-07-17T14:15:08+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "53528865",
-      "category": "台湾・中台関係",
-      "title": "Papua New Guinea Just Closed Taiwan’s Economic Office",
-      "summary": "パプアニューギニアがビジネス関係を理由に台湾の経済事務所を閉鎖し、中国の影響力拡大に伴い太平洋地域における台湾の外交活動が縮小している。この決定は太平洋のエネルギー輸送ルートの重要性が高まる中で起こり、台湾の国際的な立場がさらに弱まることを示している。",
-      "url": "https://thediplomat.com/2026/07/papua-new-guinea-just-closed-taiwans-economic-office/",
-      "source": "The Diplomat",
-      "published_at": "2026-07-17T14:15:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "15118516",
-      "category": "台湾・中台関係",
-      "title": "Meta’s Oversight Board Finds Top AI Models Are Hesitant to Criticize Repressive Governments",
-      "summary": "メタの監視委員会が実施した調査によると、同社の最先端AI モデルは圧制的な政府を批判することに慎重であることが判明しました。監視委員会はこうした課題の全体像を把握するため、さらに幅広い視点から検討を進めています。",
-      "url": "https://gizmodo.com/metas-oversight-board-finds-top-ai-models-are-hesitant-to-criticize-repressive-governments-2000786689",
-      "source": "Gizmodo.com",
-      "published_at": "2026-07-17T14:10:37+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "38049708",
-      "category": "台湾・中台関係",
-      "title": "Surveillance of hepatocellular carcinoma (HCC) patients using Protein Induced by Vitamin K (PIVKA-II): A cost-utility analysis for Hong Kong",
-      "summary": "ビタミンK誘導タンパク質（PIVKA-II）を用いた香港の肝細胞がん患者監視に関する費用対効果分析で、慢性肝炎Bや肝硬変を持つ患者に対してPIVKA-IIを超音波検査に加えることで、HCC早期発見の精度が向上し、長期的には医療費削減と生命年の延長をもたらす可能性が示唆されている。",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353882",
-      "source": "Plos.org",
-      "published_at": "2026-07-17T14:00:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "29191527",
-      "category": "台湾・中台関係",
-      "title": "US Air Force boosts missile production to counter China naval threat",
-      "summary": "米空軍は中国の海洋的脅威に対抗するためにミサイルの生産を増強している。台湾への侵攻が2027年12月31日までに発生する可能性は10.5%と評価されており、米国はこの地域での軍事的プレゼンスを強化することで対中国戦略を推し進めている。",
-      "url": "https://cryptobriefing.com/us-air-force-boosts-missile-production-to-counter-china-naval-threat/",
+      "title": "Trump and Xi aim for stable US-China ties amid Taiwan tensions",
+      "summary": "トランプ米大統領と習近平中国国家主席が台湾問題を背景とした緊張の中、米中関係の安定化を目指して会談した。習主席は2027年までに米国を訪問する可能性が87%と評価されており、両国は対立の緩和と関係改善に向けて協議を進めている。",
+      "url": "https://cryptobriefing.com/trump-and-xi-aim-for-stable-us-china-ties-amid-taiwan-tensions/",
       "source": "Crypto Briefing",
-      "published_at": "2026-07-17T13:50:25+00:00",
+      "published_at": "2026-07-17T21:16:12+00:00",
       "lang": "en"
     },
     {
-      "id": "30957280",
+      "id": "35452523",
       "category": "台湾・中台関係",
-      "title": "Klook signs an expanded two-year partnership with Korea Tourism Organization",
-      "summary": "クルック（Klook）がアジア太平洋地域を代表する体験プラットフォームとして、韓国観光公社との2年間の拡大パートナーシップ契約を締結しました。本契約により、クルックは韓国内の観光体験やアクティビティをプラットフォーム上でさらに充実させ、アジア太平洋地域の利用者に対して韓国ツーリズムの認知度向上と利用機会の拡大を目指します。この協力体制は両機関の相互発展と地域観光の活性化に貢献することが期待されています。",
-      "url": "https://en.antaranews.com/news/423119/klook-signs-an-expanded-two-year-partnership-with-korea-tourism-organization",
-      "source": "Antaranews.com",
-      "published_at": "2026-07-17T13:42:49+00:00",
+      "title": "MKDWELL Tech Inc. to Acquire Premium Smart-Home and IoT Group, Diversifying Beyond Automotive Electronics",
+      "summary": "MKDWELL Tech Inc.は自動車電子機器製造からの事業多角化を目指し、プレミアムスマートホームおよびIoTグループの買収契約を締結した。この買収により、同社は自動車電子機器事業以外の分野への展開を加速させる予定である。買収の詳細な条件や実施時期については、今後の発表が予定されている。",
+      "url": "https://www.globenewswire.com/news-release/2026/07/17/3329312/0/en/MKDWELL-Tech-Inc-to-Acquire-Premium-Smart-Home-and-IoT-Group-Diversifying-Beyond-Automotive-Electronics.html",
+      "source": "GlobeNewswire",
+      "published_at": "2026-07-17T21:15:00+00:00",
       "lang": "en"
     },
     {
-      "id": "87087577",
+      "id": "82727187",
       "category": "台湾・中台関係",
-      "title": "These 16 Splendid Aerial Views Capture Wildlife From Above, Revealing the Beauty and Mystery of Nature",
-      "summary": "国際航空写真家年間コンテスト「International Aerial Photographer of the Year」の第2回大会で受賞作品と上位101作品が選出され、上空から捉えた動物たちの新しい視点を示す写真が集められた。このコンテストは、航空写真を通じて自然界の美しさと神秘性を明らかにし、これまで見たことのない角度から野生動物の姿を捉えた16枚の秀作を厳選して紹介している。",
-      "url": "https://www.smithsonianmag.com/smart-news/these-16-splendid-aerial-views-capture-wildlife-from-above-revealing-the-beauty-and-mystery-of-nature-180989141/",
-      "source": "Smithsonian.com",
-      "published_at": "2026-07-17T13:36:40+00:00",
+      "title": "British Open 2026: Where does Bryson DeChambeau controversy rank among all-time Rules blunders?",
+      "summary": "ブリティッシュオープン2026：ブライソン・デシャンボーの論争は歴史的ルール違反の中でどの位置にあるのか 第2ラウンド後に2打のペナルティを科されたブライソン・デシャンボーは、オープンチャンピオンシップで高い注目を集めたルール違反を経験した選手の長いリストに加わった。デシャンボーは過去の著名なゴルフルール違反事件の中で、一定の位置を占めることになった。",
+      "url": "https://sports.yahoo.com/articles/british-open-2026-where-does-210900954.html",
+      "source": "Yahoo Entertainment",
+      "published_at": "2026-07-17T21:09:00+00:00",
       "lang": "en"
     },
     {
-      "id": "27047502",
+      "id": "24105141",
       "category": "台湾・中台関係",
-      "title": "Europe Making South China Sea Crisis Worse: Philippines Now Washington’s Front Line",
-      "summary": "中国とフィリピン間の領土紛争、米国の軍事活動の増加、およびEUのインド太平洋地域への積極的な関与により、地域のパワーバランスが変化しており、フィリピンが米国の最前線となりつつある。国際法への支援と見なされている行動が、実は戦略的な対立をさらに深める可能性があることが懸念されている。これらの要因が相まって、南シナ海における危機的状況の悪化につながるリスクが高まっている。",
-      "url": "https://www.globalresearch.ca/europe-south-china-sea-crisis-philippines-washington-front-line/5933535",
-      "source": "Globalresearch.ca",
-      "published_at": "2026-07-17T13:32:10+00:00",
+      "title": "MediaHuman YouTube Downloader 3.9.22 (1007)",
+      "summary": "MediaHuman YouTube Downloader 3.9.22は、YouTubeから動画をダウンロードしたり音声ファイルとして保存したりできるアプリケーションである。YouTubeではデフォルトでこうした機能が提供されていないため、このツールは動画を迅速にダウンロードするのに役立つ。ユーザーは興味深い動画を簡単に保存できるようになる。",
+      "url": "https://post.rlsbb.cc/mediahuman-youtube-downloader-3-9-22-1007/",
+      "source": "Rlsbb.cc",
+      "published_at": "2026-07-17T20:22:10+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "36573763",
+      "category": "台湾・中台関係",
+      "title": "Intel’s Gelsinger Admits Firm ‘Scoffed’ at NVIDIA’s GPUs While Riding High on CPU Dominance & Makes Big Quantum Computing Claims",
+      "summary": "インテルの前CEOパトリック・ゲルシンガーは、インテルがCPU市場で優位にあった時代にNVIDIAのGPUを軽視していたことを認めた。同氏はインテルが業界を支配していた当時、CPUがコンピューティングの中心であった時期にNVIDIAの技術を過小評価していたと述べており、これはインテルが後にAI市場におけるGPUの重要性を見落とした判断の誤りを示唆している。",
+      "url": "https://wccftech.com/intels-gelsinger-admits-firm-scoffed-at-nvidias-gpus-while-riding-high-on-cpu-dominance-makes-big-quantum-computing-claims/",
+      "source": "Wccftech",
+      "published_at": "2026-07-17T19:22:34+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "33360021",
+      "category": "台湾・中台関係",
+      "title": "Beijing Is Trying to Turn Taiwan’s Sea Goddess Into a Chinese Agent",
+      "summary": "中国政府は台湾の海の女神マズーを中国統一のプロパガンダ道具として利用しようとしている。マズーは台湾で広く信仰されている古い神格であり、中国はこの信仰を政治的に活用して台湾統一を推し進めたいと考えている。このような文化的シンボルの政治利用は、台湾と中国の統一をめぐる対立がいかに多角的かを示す事例である。",
+      "url": "http://foreignpolicy.com/2026/07/17/china-taiwan-mazu-matsu-goddess-pilgrimage/",
+      "source": "Foreign Policy",
+      "published_at": "2026-07-17T19:00:33+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "91586018",
+      "category": "台湾・中台関係",
+      "title": "‘Sea of Red’ Hits Emerging Stocks as AI Concerns Jolts Markets",
+      "summary": "人工知能産業の見通しが高い株価評価を正当化しないという懸念の高まりを受けて、新興国株式が急落し、主要指標が技術的調整局面に向かっている。AI関連企業の過度な期待が調整局面を迎え、市場全体に売り圧力が広がっている状況が報告されている。",
+      "url": "https://financialpost.com/pmn/business-pmn/sea-of-red-hits-emerging-stocks-as-ai-concerns-jolts-markets",
+      "source": "Financial Post",
+      "published_at": "2026-07-17T17:41:37+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "38273851",
+      "category": "台湾・中台関係",
+      "title": "FEDS Note: Vietnam's Export Boom to the U.S.: The Role of Chinese Firms",
+      "summary": "ベトナムは2018年から2019年の米中関税引き上げの影響を受けて米国への輸出が大幅に増加し、中国からの貿易転換が進んでいる。この現象の背景には、中国企業がベトナムに生産拠点を移転させ、そこから米国への輸出を行うという戦略が存在している。つまりベトナムの輸出ブームは、中国企業による関税回避手段として機能しており、実質的な経済効果は限定的である可能性が指摘されている。",
+      "url": "https://www.federalreserve.gov/econres/notes/feds-notes/vietnams-export-boom-to-the-u-s-the-role-of-Chinese-firms-20260717.html",
+      "source": "Federalreserve.gov",
+      "published_at": "2026-07-17T16:54:14+00:00",
       "lang": "en"
     }
   ]
