@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T05:55:34.416573+00:00",
+  "updated_at": "2026-07-19T10:19:20.050841+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -58,7 +58,47 @@
   ],
   "news": [
     {
-      "id": "15637059",
+      "id": "13799469",
+      "category": "経済・ビジネス（日本）",
+      "title": "米軍8日連続の攻撃完了 イラン「壊滅的な反撃招く」とけん制",
+      "summary": "アメリカ中央軍がイランへの8日連続の攻撃完了を発表し、イランの攻撃対応中に死亡した兵士2人への対抗措置としたが、イランは「壊滅的な反撃を招く」と警告しており、両国間の報復の応酬がさらに激化する可能性がある。",
+      "url": "http://www3.nhk.or.jp/news/html/20260719/k10015180851000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-19T10:15:21+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "75176630",
+      "category": "経済・ビジネス（日本）",
+      "title": "OSAの枠組み通じ初めてカンボジアに通信機材など供与合意 日本",
+      "summary": "日本政府がOSA（防衛装備品等の提供スキーム）の枠組みを通じて、カンボジアに通信機材などを供与することで合意した。これはOSAの枠組みを使用した初めてのカンボジアへの供与であり、現地で式典が開かれた。",
+      "url": "http://www3.nhk.or.jp/news/html/20260719/k10015180841000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-19T10:09:04+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "31422820",
+      "category": "経済・ビジネス（日本）",
+      "title": "ロシア軍の攻撃で被害受けたキーウの世界遺産 修復に2年以上か",
+      "summary": "ウクライナの首都キーウがロシア軍の大規模な攻撃を受けて被害が相次いでおり、世界遺産の修道院も損傷を受けました。修復には2年以上の期間が必要とされており、現在も修復作業が進められています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260719/k10015180791000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-19T09:25:09+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "75786755",
+      "category": "経済・ビジネス（日本）",
+      "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月19日の動き）",
+      "summary": "ロシアによるウクライナへの軍事侵攻が継続しており、ウクライナ各地でロシア軍とウクライナ軍の戦闘が続いている。多数の市民が国外への避難を余儀なくされており、戦闘状況と関係各国の外交動向が随時更新される。",
+      "url": "http://www3.nhk.or.jp/news/html/20260719/k10015141101000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-19T08:34:41+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "32289432",
       "category": "経済・ビジネス（日本）",
       "title": "兵士死亡受けて米軍が8日連続でイラン攻撃 対立の先鋭化懸念",
       "summary": "イランはアメリカが戦闘終結の覚書義務に違反していると主張し、自らも義務の履行を停止したと表明した。アメリカ中央軍はイランの攻撃に対応していた兵士2人の死亡を発表し、米イラン間の対立が一層深刻化している。",
@@ -68,7 +108,7 @@
       "lang": "ja"
     },
     {
-      "id": "47900398",
+      "id": "11412660",
       "category": "経済・ビジネス（日本）",
       "title": "ハンガリー前政権で就任の大統領辞任へ 体制刷新図る",
       "summary": "ハンガリーの議会が前政権下で就任した大統領を解任する憲法改正案を可決し、大統領が辞任することになった。マジャル首相は汚職対策と司法の独立確保を進めることで体制刷新を図る方針である。",
@@ -78,7 +118,7 @@
       "lang": "ja"
     },
     {
-      "id": "89102258",
+      "id": "81853160",
       "category": "経済・ビジネス（日本）",
       "title": "ウクライナ軍総司令官の解任検討か イギリス有力紙",
       "summary": "ウクライナで国防相の事実上の解任に抗議するデモが続く中、イギリスの有力紙はゼレンスキー大統領がウクライナ軍の総司令官の解任も検討していると報じた。実現すれば国防省や軍のトップが相次いで交代する異例の事態となる。",
@@ -88,7 +128,7 @@
       "lang": "ja"
     },
     {
-      "id": "74598827",
+      "id": "73776613",
       "category": "経済・ビジネス（日本）",
       "title": "【詳細】ロシア ウクライナに軍事侵攻（7月18日の動き）",
       "summary": "ロシアによるウクライナへの軍事侵攻が継続しており、各地でロシア軍とウクライナ軍の戦闘が続いている中で、多くの市民が国外への避難を余儀なくされています。日本時間7月18日のウクライナ情勢に関する戦闘状況や国際的な外交動向について随時更新で報道されています。",
@@ -98,47 +138,37 @@
       "lang": "ja"
     },
     {
-      "id": "16773853",
-      "category": "経済・ビジネス（日本）",
-      "title": "【詳細】米イラン 覚書署名から1か月 合意形がい化で被害拡大",
-      "summary": "アメリカとイランが戦闘終結に向けた覚書に署名してから1か月が経過しましたが、合意が形骸化し連日の攻撃の応酬が続いています。湾岸諸国のインフラ施設も被害を受けており、事態の一層の悪化が懸念されている状況です。",
-      "url": "http://www3.nhk.or.jp/news/html/20260718/k10015179971000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-18T13:36:42+00:00",
-      "lang": "ja"
+      "id": "50598881",
+      "category": "経済・ビジネス（世界）",
+      "title": "Is Burnham promising a new dawn for North Sea oil and gas?",
+      "summary": "新しい首相となるバーナムは、首相就任初日から北海の石油・ガス産業への新たな支援を発表することが予想されている。バーナムは北海産業に対して前向きな姿勢を示しており、この地域の経済的重要性を認識していると考えられている。同氏の政策が北海エネルギー産業に新たな転機をもたらすかどうかが注視されている。",
+      "url": "https://www.bbc.co.uk/news/articles/c4g3l22ry6wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-19T09:52:48+00:00",
+      "lang": "en"
     },
     {
-      "id": "39951560",
-      "category": "経済・ビジネス（日本）",
-      "title": "ウクライナ ロシア大手通信販売会社の倉庫などを攻撃",
-      "summary": "ウクライナのゼレンスキー大統領は、ロシアの首都モスコウに隣接する州や西部の州にある物流施設を攻撃したと発表し、ロシア西部の州知事は攻撃により7人が死亡、20人以上が負傷したとして「テロ攻撃」と非難しました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260718/k10015180421000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-18T13:04:20+00:00",
-      "lang": "ja"
+      "id": "60815055",
+      "category": "経済・ビジネス（世界）",
+      "title": "New EU border system tripling time at passport control, airport boss says",
+      "summary": "欧州連合の新しい国境管理システムにより、パスポートコントロールの時間が3倍に増加していると空港責任者が指摘し、ライアンエアーも今夏のヨーロッパ旅行者に対して長時間の待機に備えるよう警告している。",
+      "url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-19T01:47:59+00:00",
+      "lang": "en"
     },
     {
-      "id": "29893339",
-      "category": "経済・ビジネス（日本）",
-      "title": "中国と北朝鮮の貿易総額 ことし上半期はコロナ拡大前の水準超",
-      "summary": "中国と北朝鮮の2024年上半期の貿易総額が前年同期比で19％以上増加し、コロナ拡大前の水準を上回った。この増加は両国の関係強化を示しており、経済的な結びつきが深まっていることを反映している。",
-      "url": "http://www3.nhk.or.jp/news/html/20260718/k10015180311000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-18T09:16:05+00:00",
-      "lang": "ja"
+      "id": "44599606",
+      "category": "経済・ビジネス（世界）",
+      "title": "The hidden cost of the night shift and how to sleep it off",
+      "summary": "英国では300万人以上が夜勤で働いており、これは健康に大きな悪影響を及ぼしている。夜勤労働者の健康被害として、睡眠障害、代謝異常、精神的ストレスなどが報告されており、長期的には心臓病やがんなどの重大疾患のリスク増加につながる可能性がある。対策としては、職場での照明環境の改善、睡眠スケジュール管理のサポート、医学的監視の充実など、雇用主と医療機関が連携して夜勤労働者の健康を守る必要がある。",
+      "url": "https://www.bbc.co.uk/news/articles/cp9errxl97go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-19T00:01:55+00:00",
+      "lang": "en"
     },
     {
-      "id": "64124553",
-      "category": "経済・ビジネス（日本）",
-      "title": "米アップル 日本でiPhoneの販売価格を約10％値上げ",
-      "summary": "アップルが日本国内でのiPhoneの販売価格を約10％引き上げました。円安の進行が価格上昇の主な要因とみられています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260718/k10015180171000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-18T03:40:21+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "10031563",
+      "id": "77958396",
       "category": "経済・ビジネス（世界）",
       "title": "'My buyers dropped their offer by £15,000 the day before exchange': Gazundering and how to avoid it",
       "summary": "売買契約直前に購入者が申し出価格を15,000ポンド引き下げるという「ガザンダリング」と呼ばれる問題が不動産市場で増加しており、売り手はこうした値下げ要求から身を守るための対策が必要となっている。",
@@ -148,17 +178,7 @@
       "lang": "en"
     },
     {
-      "id": "67498383",
-      "category": "経済・ビジネス（世界）",
-      "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
-      "summary": "中国のAIスタートアップ「Moonshot AI」は、新型言語モデル「Kimi K3」がOpenAIやAnthropicなどの米国大手企業と競争できると主張しており、この大規模AIモデルが世界の主要企業と同等の能力を持つと考えている。",
-      "url": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-17T16:53:04+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "71273857",
+      "id": "19632997",
       "category": "経済・ビジネス（世界）",
       "title": "China hits out at British Steel nationalisation",
       "summary": "中国は英国の鉄鋼企業国有化に反発している。英国政府は同企業を公的管理下に置くことで「重要な国家的能力」を守ると述べているが、中国側はこれに対して批判的な立場を示している。",
@@ -168,7 +188,7 @@
       "lang": "en"
     },
     {
-      "id": "49337225",
+      "id": "83759876",
       "category": "経済・ビジネス（世界）",
       "title": "Brewdog founder faces data complaints over efforts to buy back firm",
       "summary": "BrewDogの創業者ジェームス・ワット氏が、自社の買収を目指して元株主に接触したことが報道された後、英国のデータ保護当局に苦情が寄せられた。ワット氏は企業買収の資金調達のために元株主の個人情報を利用したとみられており、個人データの不正な使用に関する懸念が生じている。この件について、英国の規制当局による調査が進められている。",
@@ -178,7 +198,7 @@
       "lang": "en"
     },
     {
-      "id": "77951976",
+      "id": "56973088",
       "category": "経済・ビジネス（世界）",
       "title": "The financial winners and losers from the World Cup",
       "summary": "2026年ワールドカップは試合外でも多くの資金が動いており、その利益は参加国や関連企業に大きな経済効果をもたらしている。大会の放映権やスポンサーシップ、観光収入などを通じて、各国や企業が異なる程度の経済的恩恵を受けることになる。どの国や企業がこうした経済的な利益を最も大きく獲得するのかは、大会の運営体制や市場規模に大きく左右される。",
@@ -188,17 +208,7 @@
       "lang": "en"
     },
     {
-      "id": "44227904",
-      "category": "経済・ビジネス（世界）",
-      "title": "Five headaches Andy Burnham will have to deal with as PM",
-      "summary": "アンディ・バーナムが首相として直面する5つの課題について述べられており、防衛支出から住宅問題まで、次期英国指導者が対処しなければならない一連の課題が存在することが指摘されている。記事は、バーナムが首相就任時に取り組むべき複数の重要な政策課題があることを示唆している。",
-      "url": "https://www.bbc.co.uk/news/articles/c62122pgjqdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-17T05:59:36+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "17163874",
+      "id": "66119881",
       "category": "経済・ビジネス（世界）",
       "title": "Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK?",
       "summary": "マンチェスターの都市再生戦略で首相の座を勝ち取ったバーナム氏の「マンチェスター主義」が、イギリス全体でも機能するかどうかが焦点となっている。経済エディターのフェイサル・イスラムが、北西部の都市が国全体のモデルとなり得るかを検証している。バーナム首相は、地域経済の活性化と地方分権を基軸とした政策を掲げており、その有効性が全国規模での経済改革の成功を左右する可能性がある。",
@@ -208,17 +218,7 @@
       "lang": "en"
     },
     {
-      "id": "54943450",
-      "category": "経済・ビジネス（世界）",
-      "title": "I wouldn't marry him until he paid off his debt, now I'm in charge of our money",
-      "summary": "妻のサラは25年間夫と共有の銀行口座を持っていますが、その管理は自分の責任になっていると述べています。彼女は結婚前に夫の借金が完済されるまで結婚しないと宣言し、その後も家計管理を一手に引き受けることになりました。この状況について、夫婦間での金銭管理の責任分担に関する問題を提起しています。",
-      "url": "https://www.bbc.co.uk/news/articles/c5yz4wnz6jdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-16T23:14:11+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "49492511",
+      "id": "17944255",
       "category": "テクノロジー・AI",
       "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
       "summary": "OpenAIのスタッフ約200名を前に講演したベストセラー作家デイブ・エガーズは、ChatGPTが「世代全体を沈黙させている」と警告した。複数の小説や脚本、ジャーナリズム作品を執筆し、文芸誌マクスウィーニーズを創刊した著者は、作家や芸術家の支援を通じてAIが創作活動に与える影響について懸念を表明したと見られる。",
@@ -228,7 +228,7 @@
       "lang": "en"
     },
     {
-      "id": "27219660",
+      "id": "51888750",
       "category": "テクノロジー・AI",
       "title": "Waymo says San Francisco service has resumed after one-hour pause",
       "summary": "Waymoが1時間の停止後にサンフランシスコでのサービス再開を発表した。停電がWaymoのサービスに支障をきたすのはこれが初めてではない。記事の詳細は明記されていないが、Waymoの自動運転タクシーサービスが電力供給の問題により一時中断され、その後復旧したことが伝えられている。",
@@ -238,7 +238,7 @@
       "lang": "en"
     },
     {
-      "id": "70581032",
+      "id": "24699017",
       "category": "テクノロジー・AI",
       "title": "Kimi: Threat or menace?",
       "summary": "中国のスタートアップMoonshot AIが今週、自社のAIモデル「Kimi」の新版をリリースし、「完全なAI共産主義」への懸念が生じている。このリリースは、AI技術の発展と社会への影響についての議論を呼び起こしており、新モデルの能力と規制の必要性について業界内での注目が高まっている。",
@@ -248,7 +248,7 @@
       "lang": "en"
     },
     {
-      "id": "17762178",
+      "id": "74399773",
       "category": "テクノロジー・AI",
       "title": "All the EVs that were discontinued or killed off in the U.S. this year",
       "summary": "ホンダ プロローグが米国での販売を中止され、今年市場から撤退する電動車モデルのリストに加わった。米国では2024年、複数のEV車種が販売中止または市場から撤退しており、電動車市場が調整局面に入っていることを示している。消費者の購買パターンの変化やメーカーの戦略見直しが影響しているとみられる。",
@@ -258,7 +258,7 @@
       "lang": "en"
     },
     {
-      "id": "41962992",
+      "id": "36166998",
       "category": "テクノロジー・AI",
       "title": "Federal employees can download TikTok on their work phones again",
       "summary": "米司法省は、連邦職員が政府支給の端末にTikTokをダウンロードすることを再び許可したと発表した。これまでのセキュリティ上の懸念から実施されていた制限が解除され、職員はスマートフォンなどの業務用デバイスでTikTokアプリを利用できるようになった。",
@@ -268,7 +268,7 @@
       "lang": "en"
     },
     {
-      "id": "39805474",
+      "id": "11287156",
       "category": "テクノロジー・AI",
       "title": "A 600-mile road trip (and data) proves EV charging doesn’t suck anymore",
       "summary": "米国での600マイルの電気自動車による実際の走行テストにより、DC急速充電技術が以前より大幅に高速化かつ信頼性が向上していることが実証された。この調査結果は、電気自動車の長距離走行がもはや問題ではなくなりつつあることを示唆しており、充電インフラの改善が電気自動車の普及を加速させる重要な要因になっていることが明らかになった。",
@@ -278,7 +278,7 @@
       "lang": "en"
     },
     {
-      "id": "67893005",
+      "id": "90740699",
       "category": "テクノロジー・AI",
       "title": "The apps, gadgets, and tools every reader needs",
       "summary": "今週のInstaller第136号では、読書好きに必要なアプリ、ガジェット、ツールについて紹介される。このコラムではThe Vergeが厳選した最高で最もVergeらしい製品やサービスをガイドしており、今週は次シーズンのVersion Historyの録音作業が進められている。新規読者向けには過去の全号がInstallerホームページで読める。",
@@ -288,17 +288,47 @@
       "lang": "en"
     },
     {
-      "id": "49337443",
+      "id": "85002806",
       "category": "テクノロジー・AI",
-      "title": "A Framework for Frontier AI and the Dawning of a New Age",
-      "summary": "人工知能の発展が急速に進む中、汎用人工知能（AGI）は数年以内に実現される可能性が高く、人類の歴史における極めて重要な転換点を迎えている。AGIは人間の脳が持つすべての認知能力を備えたシステムとして定義され、その出現は新たな時代の到来を意味する。この革新的な技術の発展に対応するための新しい枠組みが必要とされている。",
-      "url": "https://demishassabis.substack.com/p/a-framework-for-frontier-ai-and-the-dawning-of-a-new-age",
-      "source": "Substack.com",
-      "published_at": "2026-07-18T05:47:01+00:00",
+      "title": "US data center protests go national as backlash grows",
+      "summary": "米国でAIインフラの急速な拡大に反対する市民活動が広がっており、少なくとも125か所以上の場所で全国規模の抗議活動が計画されている。データセンターの建設ラッシュに対する反発が高まる中、この初の全国統一的な抗議活動は市民の懸念を結集させる狙いがある。",
+      "url": "https://www.channelnewsasia.com/business/us-data-center-protests-go-national-backlash-grows-6262631",
+      "source": "CNA",
+      "published_at": "2026-07-18T10:06:47+00:00",
       "lang": "en"
     },
     {
-      "id": "73517801",
+      "id": "78309584",
+      "category": "台湾・中台関係",
+      "title": "Occupation BV: The Dutch Infrastructure Behind Israel’s War Economy",
+      "summary": "オランダの建設企業Occupation BVは、イスラエルの占領地での建設プロジェクトを通じてイスラエルの戦争経済を支援しており、2025年4月にはオランダ政府関係者がテルアビブでイスラエル投資家向けのネットワーキングイベントを開催していた。ガザではすでに5万人以上のパレスチナ人が殺害され、国際刑事裁判所がイスラエル指導部に逮捕状を発行していた状況下での動きとなっている。この事案はオランダがイスラエルの紛争に対して経済的・政治的に深く関与していることを示唆している。",
+      "url": "https://www.activistpost.com/occupation-bv-the-dutch-infrastructure-behind-israels-war-economy/",
+      "source": "Activistpost.com",
+      "published_at": "2026-07-18T10:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "42037935",
+      "category": "台湾・中台関係",
+      "title": "Michael Hudson with Radhika Desai: We’re Headed for a Depression Worse Than 2008",
+      "summary": "経済学者のマイケル・ハドソンとラディカ・デサイは、米国経済の好調とされるパフォーマンスの大部分が幻想であり、それが崩壊する際の影響について論じている。両者は2008年を上回る深刻な不況が迫っていると警告しており、現在の経済指標の虚実と今後の経済危機の可能性を分析している。",
+      "url": "https://www.nakedcapitalism.com/2026/07/michael-hudson-with-radhika-desai-were-headed-for-a-depression-worse-than-2008.html",
+      "source": "Nakedcapitalism.com",
+      "published_at": "2026-07-18T09:00:35+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "48323986",
+      "category": "台湾・中台関係",
+      "title": "Innovative CBD-Coated Bedding Clinically Proven to Improve Sleep Quality: Song Beam Bedding and China Medical University's Joint Study Published in International Journal Healthcare",
+      "summary": "Song Beam Bedding と中国医科大学の共同研究により、CBDコーティングされた寝具が睡眠の質を改善することが臨床的に証明され、国際医療ジャーナルに発表されました。台湾のプレミアム睡眠ソリューション企業である Song Beam Bedding Co., Ltd. が、医学・薬理学の専門家 Juan-Cheng Yang 博士が主導する臨床睡眠研究プロジェクトの成果を公表しました。",
+      "url": "https://www.prnewswire.com/news-releases/innovative-cbd-coated-bedding-clinically-proven-to-improve-sleep-quality-song-beam-bedding-and-china-medical-universitys-joint-study-published-in-international-journal-healthcare-302828990.html",
+      "source": "PRNewswire",
+      "published_at": "2026-07-18T09:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "13894802",
       "category": "台湾・中台関係",
       "title": "D-Street bucks Asian markets' meltdown",
       "summary": "インドの株式市場がアジア市場全体の下落基調に逆行し、強気の展開を見せた。NSEのNifty 50は261.55ポイント上昇して24,334.3で終値を付け、BSE Sensexは964.58ポイント値上がりして78,151.45で取引を終えた。",
@@ -308,7 +338,7 @@
       "lang": "en"
     },
     {
-      "id": "23120660",
+      "id": "72121978",
       "category": "台湾・中台関係",
       "title": "China builds US Navy destroyer replica for missile testing in Xinjiang desert",
       "summary": "中国が新疆砂漠にアメリカ海軍駆逐艦のレプリカを建設し、ミサイル試験に使用しているとのこと。軍事衝突の可能性として、2027年までに日本との衝突が7.5%、フィリピンとの衝突が11.0%と予測されている。このプロジェクトはアメリカの最新鋭駆逐艦の性能をシミュレートするために実施されているものと考えられている。",
@@ -318,7 +348,7 @@
       "lang": "en"
     },
     {
-      "id": "31686160",
+      "id": "11541915",
       "category": "台湾・中台関係",
       "title": "The Mainstream Media Freaks Out As This “Super El Niño” Causes Unprecedented Heat, Monster Storms And Catastrophic Damage All Over The Globe",
       "summary": "「スーパーエルニーニョ」現象により、世界中で記録的な熱波、巨大嵐、壊滅的な被害が発生しており、主流メディアがこの深刻な気象異常を認め始めている。これまで多くの専門家が指摘していたように、今年後半は極端な気象災害がさらに激化することが予想されており、グローバルな気象パターンはハリウッドの災害映画さながらの状況になっている。",
@@ -328,7 +358,7 @@
       "lang": "en"
     },
     {
-      "id": "59807544",
+      "id": "38817341",
       "category": "台湾・中台関係",
       "title": "Leather jacket worn by Nvidia CEO goes for just under $1 million at Sotheby's auction",
       "summary": "Nvidia CEO が着用していたレザージャケットがSotheby's のオークションでほぼ100万ドルで落札され、AI ブームにまつわるアーティファクトやコレクティブルに対するコレクターの関心の高さを示している。この高額落札は、人工知能産業の急速な成長に伴い、関連する歴史的な品物への需要が急増していることを反映している。テクノロジー企業の指導者に関連した品物は、投資価値のあるコレクティブルアイテムとして注目を集めている。",
@@ -338,43 +368,13 @@
       "lang": "en"
     },
     {
-      "id": "33932722",
+      "id": "69410530",
       "category": "台湾・中台関係",
       "title": "Trump and Xi aim for stable US-China ties amid Taiwan tensions",
       "summary": "トランプ米大統領と習近平中国国家主席が台湾問題を背景とした緊張の中、米中関係の安定化を目指して会談した。習主席は2027年までに米国を訪問する可能性が87%と評価されており、両国は対立の緩和と関係改善に向けて協議を進めている。",
       "url": "https://cryptobriefing.com/trump-and-xi-aim-for-stable-us-china-ties-amid-taiwan-tensions/",
       "source": "Crypto Briefing",
       "published_at": "2026-07-17T21:16:12+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "55328810",
-      "category": "台湾・中台関係",
-      "title": "MKDWELL Tech Inc. to Acquire Premium Smart-Home and IoT Group, Diversifying Beyond Automotive Electronics",
-      "summary": "MKDWELL Tech Inc.は自動車電子機器製造からの事業多角化を目指し、プレミアムスマートホームおよびIoTグループの買収契約を締結した。この買収により、同社は自動車電子機器事業以外の分野への展開を加速させる予定である。買収の詳細な条件や実施時期については、今後の発表が予定されている。",
-      "url": "https://www.globenewswire.com/news-release/2026/07/17/3329312/0/en/MKDWELL-Tech-Inc-to-Acquire-Premium-Smart-Home-and-IoT-Group-Diversifying-Beyond-Automotive-Electronics.html",
-      "source": "GlobeNewswire",
-      "published_at": "2026-07-17T21:15:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "59882775",
-      "category": "台湾・中台関係",
-      "title": "British Open 2026: Where does Bryson DeChambeau controversy rank among all-time Rules blunders?",
-      "summary": "ブリティッシュオープン2026：ブライソン・デシャンボーの論争は歴史的ルール違反の中でどの位置にあるのか 第2ラウンド後に2打のペナルティを科されたブライソン・デシャンボーは、オープンチャンピオンシップで高い注目を集めたルール違反を経験した選手の長いリストに加わった。デシャンボーは過去の著名なゴルフルール違反事件の中で、一定の位置を占めることになった。",
-      "url": "https://sports.yahoo.com/articles/british-open-2026-where-does-210900954.html",
-      "source": "Yahoo Entertainment",
-      "published_at": "2026-07-17T21:09:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "15928167",
-      "category": "台湾・中台関係",
-      "title": "MediaHuman YouTube Downloader 3.9.22 (1007)",
-      "summary": "MediaHuman YouTube Downloader 3.9.22は、YouTubeから動画をダウンロードしたり音声ファイルとして保存したりできるアプリケーションである。YouTubeではデフォルトでこうした機能が提供されていないため、このツールは動画を迅速にダウンロードするのに役立つ。ユーザーは興味深い動画を簡単に保存できるようになる。",
-      "url": "https://post.rlsbb.cc/mediahuman-youtube-downloader-3-9-22-1007/",
-      "source": "Rlsbb.cc",
-      "published_at": "2026-07-17T20:22:10+00:00",
       "lang": "en"
     }
   ]
