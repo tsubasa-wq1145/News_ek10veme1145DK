@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T05:53:28.682275+00:00",
+  "updated_at": "2026-07-21T10:56:48.419462+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -58,7 +58,37 @@
   ],
   "news": [
     {
-      "id": "68651145",
+      "id": "46157686",
+      "category": "経済・ビジネス（日本）",
+      "title": "中国艦艇が日本のEEZ内で機関銃射撃訓練実施 防衛省が確認",
+      "summary": "防衛省は、中国海軍の艦艇が小笠原諸島の沖ノ鳥島周辺の日本のEEZ内で機関銃射撃訓練を実施したことを確認しました。付近にはロシア海軍の艦艇も確認されており、防衛省が警戒と監視を続けています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260720/k10015181411000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-21T10:47:32+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "83448762",
+      "category": "経済・ビジネス（日本）",
+      "title": "米10日連続攻撃 イランはバーレーンの米関連施設を攻撃",
+      "summary": "アメリカ中央軍は7月21日、ホルムズ海峡での商船攻撃に対抗するため、イランへの攻撃を開始したと発表しました。これはイランの軍事能力を削減することが目的で、7月11日からの10日連続の攻撃となります。",
+      "url": "http://www3.nhk.or.jp/news/html/20260721/k10015181491000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-21T10:19:32+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "66384347",
+      "category": "経済・ビジネス（日本）",
+      "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月21日の動き）",
+      "summary": "ロシアによるウクライナへの軍事侵攻が継続しており、各地でロシア軍とウクライナ軍の戦闘が続いている中、多数の市民が国外への避難を余儀なくされている。7月21日の戦闘状況や関係国の外交動向など、ウクライナ情勢の最新情報を随時更新している。",
+      "url": "http://www3.nhk.or.jp/news/html/20260721/k10015141121000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-21T08:25:18+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "68353594",
       "category": "経済・ビジネス（日本）",
       "title": "ニューヨークの連邦庁舎に放火疑いで拘束 移民政策に反発か",
       "summary": "ニューヨークのICEが入った連邦庁舎で放火事件が発生し、3人がけがをしました。容疑者は拘束されており、捜査当局はトランプ政権の移民政策への反発が動機である可能性があるとして詳しく調べています。",
@@ -68,17 +98,7 @@
       "lang": "ja"
     },
     {
-      "id": "68202268",
-      "category": "経済・ビジネス（日本）",
-      "title": "中国艦艇が日本のEEZ内で機関銃射撃訓練実施 防衛省が確認",
-      "summary": "防衛省は、中国海軍の艦艇が小笠原諸島の沖ノ鳥島周辺の日本のEEZ内で機関銃射撃訓練を実施したことを確認しました。付近にはロシア海軍の艦艇も確認されており、防衛省が警戒と監視を続けています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260720/k10015181411000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-21T03:23:55+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "62382354",
+      "id": "58369281",
       "category": "経済・ビジネス（日本）",
       "title": "英労働党のバーナム党首 イギリスの新首相に就任 国王が任命",
       "summary": "英労働党のバーナム党首がチャールズ国王の任命を受けてイギリスの新首相に就任しました。バーナム氏はマンチェスターの前市長で、6月の補欠選挙で当選した後、17日に労働党の党首に選出されました。",
@@ -88,17 +108,7 @@
       "lang": "ja"
     },
     {
-      "id": "40399903",
-      "category": "経済・ビジネス（日本）",
-      "title": "イランへの攻撃「大統領が判断を下すまで続ける」米政府当局者",
-      "summary": "アメリカ中央軍は7月21日、ホルムズ海峡での商船攻撃に対抗するため、イランへの攻撃を開始したと発表しました。これはイランの軍事能力を削減することが目的で、7月11日からの10日連続の攻撃となります。",
-      "url": "http://www3.nhk.or.jp/news/html/20260721/k10015181491000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-21T03:07:32+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "29704827",
+      "id": "30594167",
       "category": "経済・ビジネス（日本）",
       "title": "トランプ政権 カナダの乳製品などに追加関税50％の方針",
       "summary": "トランプ政権はカナダとの貿易不均衡を理由に、カナダ産の乳製品などに対して50％の追加関税を課す方針を発表した。この措置はカナダとの間の貿易面での不公正を是正することが目的である。",
@@ -108,7 +118,7 @@
       "lang": "ja"
     },
     {
-      "id": "30863705",
+      "id": "62633857",
       "category": "経済・ビジネス（日本）",
       "title": "トランプ大統領 米国内でネタニヤフ首相は拘束されない",
       "summary": "トランプ米大統領は、戦争犯罪の疑いでICC（国際刑事裁判所）から逮捕状が出ているイスラエルのネタニヤフ首相について、アメリカ滞在中は拘束されないとSNSで表明しました。",
@@ -118,7 +128,7 @@
       "lang": "ja"
     },
     {
-      "id": "48001077",
+      "id": "95717896",
       "category": "経済・ビジネス（日本）",
       "title": "フーシ派 サウジアラビアに対し「海上封鎖」を宣言 影響懸念",
       "summary": "イエメンの反政府勢力フーシ派がサウジアラビアに対する海上封鎖を宣言しました。バーブルマンデブ海峡での船舶航行に影響が出る可能性があり、ホルムズ海峡の代替ルートとしての機能が懸念されています。",
@@ -128,57 +138,57 @@
       "lang": "ja"
     },
     {
-      "id": "40674715",
-      "category": "経済・ビジネス（日本）",
-      "title": "イギリス航空ショーに日英伊開発の次期戦闘機の専用ブース",
-      "summary": "イギリスで開催された航空ショーに、日本、イギリス、イタリアの3か国が共同開発する次期戦闘機の専用ブースが出展されました。開発を担う合弁企業のCEOは開発が順調に進んでおり、2035年の配備目標に向けて着実に成果をあげていると述べました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260721/k10015181441000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-20T22:49:52+00:00",
-      "lang": "ja"
+      "id": "14664330",
+      "category": "経済・ビジネス（世界）",
+      "title": "UK borrows less than expected in June but public finances remain a challenge",
+      "summary": "6月の英国の借入金は予想より少なかったが、公的債務は依然として深刻な課題である。先月の公的財政は予想を上回る改善を見せたものの、英国は依然として大規模な負債を抱えており、中期的な財政健全化が必要とされている。",
+      "url": "https://www.bbc.co.uk/news/articles/cx2vd3qgjy9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-21T10:31:06+00:00",
+      "lang": "en"
     },
     {
-      "id": "24425438",
+      "id": "31599716",
+      "category": "経済・ビジネス（世界）",
+      "title": "Thames Water lenders offer 'golden share' to head off nationalisation",
+      "summary": "テムズ・ウォーター社の債権者らが国有化を回避するため、バーナム政権による企業買収を防ぐ目的で「黄金株」を提供することで、同社が国営化されるのを防ごうとしている。債権者らはこの特別な株式を通じて経営権の一部を保持することで、政府による完全な接収を阻止しようと試みている。この措置は経営難に陥っている水道事業会社の将来的な処遇について、政府と民間部門の間で進む緊迫した交渉の一部となっている。",
+      "url": "https://www.bbc.co.uk/news/articles/clyv43x372wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-21T10:30:45+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "87791129",
       "category": "経済・ビジネス（世界）",
       "title": "VAT to be cut from household electricity bills in October",
       "summary": "10月から家庭用電気料金の付加価値税が引き下げられることが発表された。これはバーナム首相が2016年以降英国の7代目首相となってからわずか1日以内の発表である。",
       "url": "https://www.bbc.co.uk/news/articles/cjwxll8jyz8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published_at": "2026-07-21T05:37:21+00:00",
+      "published_at": "2026-07-21T10:07:38+00:00",
       "lang": "en"
     },
     {
-      "id": "60012854",
+      "id": "38295354",
+      "category": "経済・ビジネス（世界）",
+      "title": "What does an Andy Burnham-led government mean for your money?",
+      "summary": "アンディ・バーナム率いる政府が国民の家計にもたらす影響について、新しい首相は所得税の課税対象となる収入水準の見直しを検討すると述べながらも、その変更は困難であることを認めている。",
+      "url": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-21T09:45:21+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "76374598",
       "category": "経済・ビジネス（世界）",
       "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
       "summary": "トランプ大統領がカナダからの輸入品に50%の関税を課した。この措置は北米隣国間の貿易摩擦の大幅な激化を示すものである。カナダはこの関税政策に対抗措置を検討しており、米加間の貿易紛争がさらに深刻化する可能性がある。",
       "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published_at": "2026-07-21T00:34:47+00:00",
+      "published_at": "2026-07-21T09:16:21+00:00",
       "lang": "en"
     },
     {
-      "id": "47073172",
-      "category": "経済・ビジネス（世界）",
-      "title": "Why Andy Burnham will find it so tricky to unite Britain",
-      "summary": "イギリスの政治的分裂が深刻化している中で、アンディ・バーナムのような指導者が国民統一を実現することは極めて困難であり、左右両派間のイデオロギー的対立や地域間格差が解決を妨げている状況にある。労働党と保守党の支持者たちの間には根本的な価値観の相違が存在し、共通の地盤を見つけることが現在のイギリス政治において最大の課題となっている。",
-      "url": "https://www.bbc.co.uk/news/articles/c17y7r9yv1ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-20T23:49:02+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "23132294",
-      "category": "経済・ビジネス（世界）",
-      "title": "Craft and keyboard: The trainees mastering tech and age-old skills",
-      "summary": "企業は若い労働者の育成において、最新技術と伝統的なスキルのバランスを取る必要があります。デジタル化の進展により、プログラミングやデータ分析といった技術的能力が求められる一方で、職人技や手作業などの従来型スキルも依然として重要であり、企業はこの両方を兼ね備えた人材を育成することで競争力を維持しています。",
-      "url": "https://www.bbc.co.uk/news/articles/cy8dg1kpj48o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-20T23:07:40+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "67023638",
+      "id": "73840119",
       "category": "経済・ビジネス（世界）",
       "title": "'I made £100,000 of TikTok sales in one day': The business of live shopping",
       "summary": "ソーシャルメディアのライブストリーム配信での買い物は、多くの消費者にとって日常的な行動になりつつあり、あるTikTokセラーは1日で10万ポンドの売上を達成した。ライブショッピングはリアルタイムのインタラクションと緊急性を生み出すことで、従来のオンラインショッピングとは異なるビジネス機会をもたらしている。このトレンドは特にZ世代の消費者を中心に急速に拡大しており、プラットフォーム企業にとって新たな収益源となっている。",
@@ -188,7 +198,7 @@
       "lang": "en"
     },
     {
-      "id": "24432289",
+      "id": "51269778",
       "category": "経済・ビジネス（世界）",
       "title": "The 20-somethings betting big on tech stocks",
       "summary": "20代の若い投資家たちが、テクノロジー企業の株式に大きく投資して利益を狙っている。BBCが投資のリスクとリターンについて、実際に株式投資している人々の話を取材し、テクノロジー銘柄への投資の現状と課題を報告している。",
@@ -198,19 +208,9 @@
       "lang": "en"
     },
     {
-      "id": "23126839",
+      "id": "34842188",
       "category": "経済・ビジネス（世界）",
-      "title": "Burnham has big ideas - but what will they cost?",
-      "summary": "バーナム首相は大規模な改革案を掲げているが、その実現には多くの困難と市場への影響が伴う。同氏の各決定は国民と金融市場の両方から同時に厳しく監視されており、経済的な代償がどの程度になるかが重要な課題となっている。野心的な政策と財政的な現実のバランスをどう取るかが、政権の成功を左右する鍵となる。",
-      "url": "https://www.bbc.co.uk/news/articles/c9357rlk494o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-20T21:47:14+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "66023560",
-      "category": "経済・ビジネス（世界）",
-      "title": "John Healey becomes chancellor weeks after shock resignation from defence job",
+      "title": "Who is new chancellor John Healey? Labour veteran who quit as defence secretary",
       "summary": "ジョン・ヒーリー前防衛相が、防衛相職からの衝撃的な辞任から数週間後に財務大臣に就任した。彼は信頼できる人物として評価されており、政府の財政を管理する立場に置かれることになった。",
       "url": "https://www.bbc.co.uk/news/articles/ce85y9lm81no?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -218,7 +218,17 @@
       "lang": "en"
     },
     {
-      "id": "81507026",
+      "id": "83446901",
+      "category": "テクノロジー・AI",
+      "title": "Gritt exits stealth with $34 million for robots to build solar plants—then, everything else",
+      "summary": "Grittはステルスモードを終了し、3,400万ドルの資金調達を発表した。同社は建設現場の最も困難な作業を自動化するロボットの開発を計画しており、太陽光発電所の建設から始まり、やがて他の建設プロジェクトへも対応を拡大する予定である。",
+      "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-21T10:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "19801610",
       "category": "テクノロジー・AI",
       "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
       "summary": "Anthropicが著作権侵害訴訟で15億ドルの和解金支払いで合意し、最終承認された。ただしこの和解は個別の事案を解決するもので、AIモデルの学習に著作権作品を使用することの是非についての根本的な問題は未解決のままである。",
@@ -228,7 +238,7 @@
       "lang": "en"
     },
     {
-      "id": "79181873",
+      "id": "18277091",
       "category": "テクノロジー・AI",
       "title": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation",
       "summary": "絶滅種復活を目指すスタートアップのコロッサル・バイオサイエンシズが、200億～300億ドルの企業評価額での新規資金調達を検討しており、これは過去の評価額の2～3倍に相当するという。",
@@ -238,7 +248,7 @@
       "lang": "en"
     },
     {
-      "id": "70693759",
+      "id": "81779861",
       "category": "テクノロジー・AI",
       "title": "Trump’s latest AI czar has already resigned",
       "summary": "トランプ政権の最新のAI最高責任者がすでに辞任した。AI基準・革新センター(CAISI)の所長職は、デイビッド・サックスがczarの職を離れて以来、頻繁に人事交代が生じている状況となっている。",
@@ -248,7 +258,7 @@
       "lang": "en"
     },
     {
-      "id": "64354603",
+      "id": "84976227",
       "category": "テクノロジー・AI",
       "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
       "summary": "ソニー・ミュージック・エンターテインメントは、AI音楽生成ツール「Udio」が3万曲以上の著作権を侵害しているとして、ニューヨーク州裁判所に訴訟を提起した。侵害されたとされる楽曲には、エルヴィス・プレスリーの「ハウンド・ドッグ」からビヨンセの「Say My Name」、ハリー・スタイルズの「As It Was」など多数の名曲が含まれている。この訴訟により、AIツールの学習データに著作権保護された音楽が無断で使用された可能性が指摘されている。",
@@ -258,7 +268,7 @@
       "lang": "en"
     },
     {
-      "id": "88683790",
+      "id": "84230630",
       "category": "テクノロジー・AI",
       "title": "Google is working on a new AI chip designed to make Gemini more efficient",
       "summary": "Googleの親会社Alphabetは、Geminiモデルをより効率的に実行するために設計された新しいAIチップの開発に取り組んでいると報じられている。この新しいチップにより、Geminiの処理速度が向上し、運用コストが削減される可能性があり、GoogleのAI競争力強化につながると考えられている。",
@@ -268,7 +278,7 @@
       "lang": "en"
     },
     {
-      "id": "60926364",
+      "id": "79397689",
       "category": "テクノロジー・AI",
       "title": "SpaceX in your index fund, explained",
       "summary": "インデックスファンドは市場全体に投資する安全な投資方法として推奨されていますが、SpaceXのような高リスクで過大評価された企業がナスダック100に急速に組み入れられる場合、投資家の安定性志向とリスク資産への曝露のバランスに影響を与える可能性があります。この動きは、インデックスファンドの安全性という前提に対して疑問を投じるものです。",
@@ -278,7 +288,7 @@
       "lang": "en"
     },
     {
-      "id": "34001676",
+      "id": "51282860",
       "category": "テクノロジー・AI",
       "title": "AI’s most important protocol is getting a little bit easier to use",
       "summary": "AIの最も重要なプロトコルがより使いやすくなろうとしている。新しいシステムでは、プロトコルはサーバー側でセッションIDに対してより緩やかで「ステートレス」なアプローチを採用し、ほとんどの一般的なウェブサイトが既に使用している方法と同様になる。この変更により、AIシステムの運用がより効率的で柔軟になることが期待される。",
@@ -288,73 +298,83 @@
       "lang": "en"
     },
     {
-      "id": "52176907",
-      "category": "テクノロジー・AI",
-      "title": "X relaunches a rebuilt Android app after year-long effort",
-      "summary": "X（旧Twitter）が1年の開発期間を経て、再構築されたAndroidアプリをグローバルで公開した。新版アプリはユーザーエクスペリエンスとパフォーマンスを改善するために根本から再設計されている。この大規模な再開発プロジェクトにより、Androidプラットフォーム上でのアプリの安定性と機能性が大幅に向上することが期待されている。",
-      "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-20T19:37:39+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "10306746",
+      "id": "41136309",
       "category": "台湾・中台関係",
-      "title": "Top China, Philippines Envoys to Meet for First Time Since 2024",
-      "summary": "中国とフィリピンの外交トップが2024年以来初めて会談する予定であり、南シナ海に加えて日本と台湾を含む問題で両国の溝が広がっている。両国は過去2年間で対立が深まっており、この会談は地域の緊張緩和に向けた重要な機会となる可能性がある。会談では、海洋領土問題や地域安全保障など複数の懸案事項が議論されると予想される。",
-      "url": "https://financialpost.com/pmn/business-pmn/top-china-philippines-envoys-to-meet-for-first-time-since-2024",
-      "source": "Financial Post",
-      "published_at": "2026-07-20T05:47:55+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "87539570",
-      "category": "台湾・中台関係",
-      "title": "Xi Jinping’s US visit in September confirmed despite Trump accusations",
-      "summary": "国務長官ルビオが2026年9月の習近平国家主席の米国訪問を確認したと報道されており、2027年前の訪問実現の可能性は92.5%と評価されている。この訪問確認は、トランプ前大統領からの批判があるにもかかわらず実現する見通しである。",
-      "url": "https://cryptobriefing.com/xi-jinpings-us-visit-in-september-confirmed-despite-trump-accusations/",
-      "source": "Crypto Briefing",
-      "published_at": "2026-07-20T05:43:15+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "10634237",
-      "category": "台湾・中台関係",
-      "title": "Galderma Launches Alastin® in Japan and Key Markets Across Asia Pacific, Expanding Its Footprint in the Region",
-      "summary": "ガルデルマは、プレミアム再生スキンケアブランドのアラスティンを日本、シンガポール、韓国、台湾に展開し、アジア太平洋地域での事業を拡大しました。同地域は医療美容と皮膚科学的スキンケアの市場として世界的に最も急速に成長している地域の一つです。",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/galderma-launches-alastin-in-japan-and-key-markets-across-asia-pacific-expanding-its-footprint-in-the-region",
-      "source": "Financial Post",
-      "published_at": "2026-07-20T05:01:31+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "79679707",
-      "category": "台湾・中台関係",
-      "title": "South Korea's Kospi drops 4.5% as some AI stocks swoon, while oil keeps climbing",
-      "summary": "月曜日のアジア株式市場では南米相場が下落し、韓国総合株価指数（KOSPI）は人工知能関連銘柄の売却により4.5%低下した一方で、石油価格は上昇を続けた。投資家がAI関連株から資金を引き上げる中、エネルギー市場では需要見通しの強さが価格を支えている状況が続いている。",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/south-koreas-kospi-drops-nearly-043530052.html",
+      "title": "Philippines accuses Chinese coast guard of injuring Filipino sailor in disputed shoal",
+      "summary": "フィリピン軍は、南シナ海の領有権が争われている浅瀬での事件で、フィリピン人船員が中国沿岸警備隊に負傷させられたと月曜日に非難した。このような領土紛争は、両国間の緊張を増加させており、この地域の海上安全保障に関する懸念が高まっている。",
+      "url": "https://www.yahoo.com/news/world/articles/philippines-condemns-chinese-coast-guard-103829070.html",
       "source": "Yahoo Entertainment",
-      "published_at": "2026-07-20T04:35:30+00:00",
+      "published_at": "2026-07-20T10:38:29+00:00",
       "lang": "en"
     },
     {
-      "id": "18076942",
+      "id": "53592379",
       "category": "台湾・中台関係",
-      "title": "Taiwan says Chinese vessel activity jumps, raising fears for Pacific supply routes",
-      "summary": "台湾は6月に周辺海域での中国沿岸警備隊の活動が大幅に増加したと報告し、太平洋沿岸での中国の可能的なエスカレーションに対応するための訓練を計画している。この活動の増加は太平洋供給路の安全性に対する懸念を高めており、台湾とその地域的利益を守る国々の間で緊張が高まっている。",
-      "url": "https://economictimes.indiatimes.com/news/international/business/taiwan-says-chinese-vessel-activity-jumps-raising-fears-for-pacific-supply-routes/articleshow/132506155.cms",
+      "title": "Korean Grocery Sensation H Mart Wants to Conquer the Sun Belt",
+      "summary": "H Martは米国の南部地域での事業拡大を目指しており、アジア系スーパーマーケットとして急速に人気を高めている。ソーシャルメディアではZ世代のユーザーが同店の商品紹介動画を多く投稿しており、高級品ではなくアジア食材やグロッサリー製品へのシェアリングが新しいトレンドとなっている。このような口コミとSNS効果により、H Martは従来のアジア系コミュニティを超えた主流消費者層への浸透を加速させている。",
+      "url": "http://commercialobserver.com/2026/07/h-mart-expansion-sun-belt/",
+      "source": "Commercial Observer",
+      "published_at": "2026-07-20T10:30:32+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "40477542",
+      "category": "台湾・中台関係",
+      "title": "Is Korean stock market turning into open casino? How retail leverage is fueling wild swings",
+      "summary": "韓国株式市場が個人投資家の過度なレバレッジ取引によって不安定化している。メモリチップ大手のSKハイニックスとサムスン電子がコスピ指数の半分以上を占めており、これら2銘柄の急激な値動きが市場全体の乱高下を引き起こしている。個人投資家による信用買いの増加が、市場のボラティリティを急速に拡大させているとの指摘がある。",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/is-korean-stock-market-turning-into-open-casino-how-retail-leverage-is-fueling-wild-swings/articleshow/132512407.cms",
       "source": "The Times of India",
-      "published_at": "2026-07-20T04:35:03+00:00",
+      "published_at": "2026-07-20T10:09:08+00:00",
       "lang": "en"
     },
     {
-      "id": "56592953",
+      "id": "89310530",
       "category": "台湾・中台関係",
-      "title": "Iran war, Myanmar crisis and South China Sea rifts under spotlight in ASEAN ministerial talks",
-      "summary": "東南アジア諸国連合（ASEAN）の外相会談では、イランの戦争、ミャンマーの危機、南シナ海の対立が主要議題として取り上げられ、米国のマルコ・ルビオ国務長官、中国の王毅外相、ロシアのセルゲイ・ラブロフ外相を含む各国指導者が参加している。今回の会談では、地域の安全保障と国際関係における複雑な課題について、各国が相互の立場を調整する機会となっている。",
-      "url": "https://www.thehindubusinessline.com/news/world/iran-war-myanmar-crisis-and-south-china-sea-rifts-under-spotlight-in-asean-ministerial-talks/article71243772.ece",
-      "source": "BusinessLine",
-      "published_at": "2026-07-20T04:24:39+00:00",
+      "title": "American Oligarchs Sell the Ground Out From Underneath Their Own Feet",
+      "summary": "アメリカの富豪層が長期的な視点を失い、目先の利益のため国家基盤を売却している現象が進行中であり、これにより民主主義制度が機能不全に陥っている。政治経済システムの崩壊は構造的な問題の表れではあるが、残念ながらそれが社会的資本を社会的ニーズに向け直すことにはつながっていない。結果として、国家基盤の破壊と社会的不公正の拡大が同時に進行している。",
+      "url": "https://www.nakedcapitalism.com/2026/07/american-oligarchs-sold-the-ground-out-from-underneath-their-own-feet.html",
+      "source": "Nakedcapitalism.com",
+      "published_at": "2026-07-20T10:00:24+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "66839999",
+      "category": "台湾・中台関係",
+      "title": "MRI Contrast Agents Market to Reach $2.17 Billion by 2030 as Precision Diagnostics Advance",
+      "summary": "MRI造影剤市場は2030年までに21億7000万ドルに達する見通しで、慢性疾患の増加、より安全な造影剤の開発、診断画像検査能力の拡大が世界的な市場成長を支えている。精密診断技術の進展に伴い、医療機関のMRI検査需要が増加しており、より安全で効果的な造影剤の開発がこの市場拡大を促進している。",
+      "url": "https://www.globenewswire.com/news-release/2026/07/20/3329520/28124/en/MRI-Contrast-Agents-Market-to-Reach-2-17-Billion-by-2030-as-Precision-Diagnostics-Advance.html",
+      "source": "GlobeNewswire",
+      "published_at": "2026-07-20T09:26:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "69224326",
+      "category": "台湾・中台関係",
+      "title": "Humanoid Robots: The US-China Divide and Who Controls the Supply Chain — Latest Analysis on TrendForce's Substack",
+      "summary": "世界のヒューマノイドロボット産業において、米国と中国の競争が激化している中、業界全体の焦点は持続可能なビジネスモデルの構築と主要部品の供給チェーン支配へとシフトしている。米国は先端技術開発で優位性を保つ一方、中国は製造コストと大規模生産能力を活かしながら市場シェア拡大を目指している。供給チェーン管理と部品産業の掌握がロボット産業全体の覇権を左右する重要な要素となっている。",
+      "url": "https://www.globenewswire.com/news-release/2026/07/20/3329503/0/en/Humanoid-Robots-The-US-China-Divide-and-Who-Controls-the-Supply-Chain-Latest-Analysis-on-TrendForce-s-Substack.html",
+      "source": "GlobeNewswire",
+      "published_at": "2026-07-20T09:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "99688730",
+      "category": "台湾・中台関係",
+      "title": "Before Q-Day: The Race to Quantum First",
+      "summary": "量子コンピュータが既存の暗号を破る「Q-Day」が近づいており、秘密を保護する競争が加速している。2026年3月30日、複数の独立した研究チームが現在の暗号を解読するために必要な計算能力の公開見積もりを引き下げ、その脅威をより現実的なものにした。世界中の政府や企業は、量子コンピュータが登場する前に強力な耐量子暗号技術への移行を急いでいる。",
+      "url": "https://warontherocks.com/cogs-of-war/before-q-day-the-race-to-quantum-first/",
+      "source": "War on the Rocks",
+      "published_at": "2026-07-20T08:00:11+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "91154435",
+      "category": "台湾・中台関係",
+      "title": "New Free Speech Concern: When AI Chatbots Won't Criticize Leaders from Repressive Regimes",
+      "summary": "AI企業のAnthropicが開発したClaudeなどのチャットボットが、中国の指導者やタイの国王、サウジアラビアの皇太子を批判するコンテンツの作成を拒否しており、Meta監視委員会の調査によってこうした自己検閲の傾向が明らかになった。これはAIシステムが独裁的な政権の指導者への批判を制限することで、言論の自由に関する懸念が生じている問題である。AIの開発企業によるこうした制限は、表現の自由とAIの倫理的責任のバランスに関する重要な議論を引き起こしている。",
+      "url": "https://yro.slashdot.org/story/26/07/20/0611253/new-free-speech-concern-when-ai-chatbots-wont-criticize-leaders-from-repressive-regimes",
+      "source": "Slashdot.org",
+      "published_at": "2026-07-20T07:34:00+00:00",
       "lang": "en"
     }
   ]
