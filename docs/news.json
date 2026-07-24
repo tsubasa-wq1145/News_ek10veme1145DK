@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T10:54:19.763914+00:00",
+  "updated_at": "2026-07-24T14:54:09.462686+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -58,7 +58,37 @@
   ],
   "news": [
     {
-      "id": "67571433",
+      "id": "82629308",
+      "category": "経済・ビジネス（日本）",
+      "title": "韓国統一相“北朝鮮の非核化より対話再開を先に”",
+      "summary": "韓国統一相が北朝鮮政策を転換し、非核化よりも対話の再開を優先すると発表しました。対話を通じて段階的に核開発の凍結を進め、最終的な非核化を目指す方針ですが、韓国メディアからは北朝鮮の核保有を容認する可能性があるとの懸念の声が上がっています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260724/k10015185651000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-24T12:47:51+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "74561836",
+      "category": "経済・ビジネス（日本）",
+      "title": "スペイン山火事拡大で首都周辺に非常事態宣言 欧州各地で被害",
+      "summary": "スペインの首都マドリード周辺で山火事が拡大したため非常事態宣言が発令され、消火活動が進行中です。ヨーロッパ全域で山火事が多発しており、各地に被害が広がっています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260724/k10015185581000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-24T11:53:13+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "40017773",
+      "category": "経済・ビジネス（日本）",
+      "title": "独フォルクスワーゲン 上半期決算は減益 中国販売減少などで",
+      "summary": "フォルクスワーゲンが2024年上半期の決算を発表し、中国市場での販売減少などを受けて最終利益が前年同期比35%以上の減益となったと報告した。",
+      "url": "http://www3.nhk.or.jp/news/html/20260724/k10015185551000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-24T11:46:33+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "51003501",
       "category": "経済・ビジネス（日本）",
       "title": "トランプ大統領“損害 イランの資産で補償”にイラン外相反発",
       "summary": "トランプ大統領がイランの攻撃による損害賠償をアメリカが管理するイランの資産から支払うと主張して圧力を強める一方、イラン外相はこれを「火種となりうる前例」と強く反発しており、米イラン間の対立が深刻化している。",
@@ -68,7 +98,7 @@
       "lang": "ja"
     },
     {
-      "id": "11543988",
+      "id": "84510953",
       "category": "経済・ビジネス（日本）",
       "title": "世界遺産登録の審議始まる 「飛鳥・藤原の宮都」は26日か",
       "summary": "韓国で開かれているユネスコの世界遺産委員会で新規登録候補の審議が24日から始まり、日本が推薦する奈良県の「飛鳥・藤原の宮都」は26日にも世界遺産として登録される見通しが示されている。",
@@ -78,7 +108,7 @@
       "lang": "ja"
     },
     {
-      "id": "56829895",
+      "id": "77157968",
       "category": "経済・ビジネス（日本）",
       "title": "トランプ政権 新追加関税を発動 日本は既存税率あわせ12.5％",
       "summary": "トランプ政権が日本を含む60の貿易相手に対して新たな追加関税を発動し、日本からの輸入品には既存の関税率と合わせて12.5％の関税が課されることになりました。この措置は日本時間24日午後1時すぎに実施される予定です。",
@@ -88,7 +118,7 @@
       "lang": "ja"
     },
     {
-      "id": "20229996",
+      "id": "62284501",
       "category": "経済・ビジネス（日本）",
       "title": "茂木外相 日本の対ロシア政策変わらずも意思疎通は必要",
       "summary": "茂木外相はフィリピンでロシアのラブロフ外相と会談し、制裁を含む日本の対ロシア政策に変更がないことを強調しながらも、隣国として政府間の意思疎通が必要だという立場を示しました。",
@@ -98,7 +128,7 @@
       "lang": "ja"
     },
     {
-      "id": "16082824",
+      "id": "44122761",
       "category": "経済・ビジネス（日本）",
       "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月24日の動き）",
       "summary": "ロシアによるウクライナへの軍事侵攻が継続しており、各地でロシア軍とウクライナ軍の戦闘が激化しています。多くの市民が国外への避難を余儀なくされており、7月24日のウクライナ情勢に関する戦闘状況と関係国の外交動向が随時更新で報告されています。",
@@ -108,37 +138,37 @@
       "lang": "ja"
     },
     {
-      "id": "42839559",
-      "category": "経済・ビジネス（日本）",
-      "title": "米大統領機の報道めぐり 記者への召喚状 政権側が取り下げ",
-      "summary": "トランプ大統領の新たな大統領専用機に攻撃対応機能がないとするニューヨーク・タイムズの記事を書いた記者に対し、司法省が出していた召喚状が取り下げられた。同紙は報道の自由に対するアメリカの姿勢を確認する重要な手続きになったと述べている。",
-      "url": "http://www3.nhk.or.jp/news/html/20260724/k10015185191000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-24T05:58:18+00:00",
-      "lang": "ja"
+      "id": "65136759",
+      "category": "経済・ビジネス（世界）",
+      "title": "Faisal Islam: The UK's Trump trade deal no longer looks world-beating",
+      "summary": "英国がアメリカと交渉したトランプ政権との貿易協定は、当初の期待ほど優れたものではなくなった。英国に課せられている米国の関税は実質的に変わっていない一方で、他国がより有利な条件の協定を獲得しており、英国の交渉成果の相対的な価値が低下している。",
+      "url": "https://www.bbc.co.uk/news/articles/c9v4ymwddwgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-24T14:02:26+00:00",
+      "lang": "en"
     },
     {
-      "id": "47174145",
-      "category": "経済・ビジネス（日本）",
-      "title": "次の国連事務総長は誰か？候補6人が公開討論",
-      "summary": "グテーレス国連事務総長の後任候補6人が23日に公開討論を行い、国連改革などについて意見を述べました。今後、候補者選びに向けた交渉や調整が加速する見通しです。",
-      "url": "http://www3.nhk.or.jp/news/html/20260724/k10015185101000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-24T05:36:23+00:00",
-      "lang": "ja"
+      "id": "31627841",
+      "category": "経済・ビジネス（世界）",
+      "title": "We split money equally even when one of us earned a lot more",
+      "summary": "ハンナとマックスは、マックスがリストラされた後も財務を統合し続け、支出を削減するために「抜本的な措置」を講じた。収入に大きな差があっても請求書を均等に分割しているカップルが、経済的困難に直面しながらも、共同財政管理の方針を貫いている状況が描かれている。",
+      "url": "https://www.bbc.co.uk/news/articles/cz05rdn1n80o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-24T13:33:02+00:00",
+      "lang": "en"
     },
     {
-      "id": "51383949",
-      "category": "経済・ビジネス（日本）",
-      "title": "米大統領「船舶など損害イラン資産で補償」13日連続イラン攻撃",
-      "summary": "アメリカ中央軍は13日連続でイランへの攻撃を実施し、トランプ大統領は船舶や貨物の損害賠償をアメリカが管理するイラン資産から支払うと主張することで、イランへの圧力を強化している。",
-      "url": "http://www3.nhk.or.jp/news/html/20260724/k10015184781000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-24T05:34:38+00:00",
-      "lang": "ja"
+      "id": "89761154",
+      "category": "経済・ビジネス（世界）",
+      "title": "US hits dozens of countries with new wave of tariffs",
+      "summary": "米国が強制労働に関連する輸入品について約60の貿易相手国に対する関税を発表しました。これらの関税は、強制労働を適切に防止できなかったとの主張に基づいています。米国は貿易パートナーに対して強制労働慣行の撤廃を求める厳しい姿勢を示しており、この措置は国際的な労働基準の遵守を強制するためのものです。",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-24T12:40:44+00:00",
+      "lang": "en"
     },
     {
-      "id": "90013626",
+      "id": "17499194",
       "category": "経済・ビジネス（世界）",
       "title": "Why are UK fuel prices rising again?",
       "summary": "イギリスのガソリンとディーゼル価格が再び上昇している。これは原油価格がバレルあたり100ドル付近まで戻ってきたためである。",
@@ -148,7 +178,17 @@
       "lang": "en"
     },
     {
-      "id": "86228881",
+      "id": "28293437",
+      "category": "経済・ビジネス（世界）",
+      "title": "Watch: Another day, more Trump tariffs - but are they working?",
+      "summary": "トランプ大統領が関税を継続して発動しており、BBC記者が米国経済への影響、負担を負う層、そして関税が実際に機能しているかについて解説している。関税政策がもたらす経済的効果と課題について焦点を当てた報道内容となっている。",
+      "url": "https://www.bbc.co.uk/news/videos/c5yw2xgnv2jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-24T10:21:31+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "17378030",
       "category": "経済・ビジネス（世界）",
       "title": "UK mortgage rates rise to highest level for a month",
       "summary": "イギリスの住宅ローン金利が1ヶ月間で最高水準に上昇した。中東の緊張が再燃したことで貸し手のコストが増加し、借入金利の上昇につながっている。",
@@ -158,27 +198,7 @@
       "lang": "en"
     },
     {
-      "id": "75103870",
-      "category": "経済・ビジネス（世界）",
-      "title": "US hits dozens of countries with new wave of tariffs",
-      "summary": "米国が強制労働に関連する輸入品について約60の貿易相手国に対する関税を発表しました。これらの関税は、強制労働を適切に防止できなかったとの主張に基づいています。米国は貿易パートナーに対して強制労働慣行の撤廃を求める厳しい姿勢を示しており、この措置は国際的な労働基準の遵守を強制するためのものです。",
-      "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-24T08:59:31+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "26084686",
-      "category": "経済・ビジネス（世界）",
-      "title": "Tech titan ordered to pay ex-wife $644m in divorce settlement",
-      "summary": "韓国の大手企業会長が元妻に6億4400万ドルの離婚慰謝料を支払うよう命じられた。この韓国有数企業の経営者による離婚裁判は国民の高い関心を集めており、巨額の財産分与が注目されている。",
-      "url": "https://www.bbc.co.uk/news/articles/ckg68jky65eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-24T08:30:58+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "27767654",
+      "id": "22582804",
       "category": "経済・ビジネス（世界）",
       "title": "UK complacent about war threat, warns BAE boss",
       "summary": "欧州最大の防衛関連企業のトップが、英国は戦争の脅威に対して楽観的すぎると警告している。チャールズ・ウッドバーン博士は、攻撃の脅威がかつてないほど高まっていると述べており、英国がこの深刻な状況を十分に認識していないことへの懸念を示している。防衛産業の強化と国家の危機意識の向上が急務だと指摘している。",
@@ -188,17 +208,7 @@
       "lang": "en"
     },
     {
-      "id": "68812870",
-      "category": "経済・ビジネス（世界）",
-      "title": "We split bills equally even when one of us earned a lot more",
-      "summary": "ハンナとマックスは、マックスがリストラされた後も財務を統合し続け、支出を削減するために「抜本的な措置」を講じた。収入に大きな差があっても請求書を均等に分割しているカップルが、経済的困難に直面しながらも、共同財政管理の方針を貫いている状況が描かれている。",
-      "url": "https://www.bbc.co.uk/news/articles/cz05rdn1n80o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-23T23:01:08+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "24362762",
+      "id": "90388259",
       "category": "経済・ビジネス（世界）",
       "title": "Tourist tax introduced in Edinburgh: How much is it and who pays?",
       "summary": "スコットランドの首都エディンバラが、宿泊者に対する課金を導入した国内初の都市となりました。この観光税は、ホテルやゲストハウスなどの宿泊施設を利用する観光客に対して課される新たな料金制度です。この取り組みは、観光地としてのエディンバラの持続可能な発展と観光インフラの整備を目指しており、導入により得られた収益は地域の観光関連施設やサービスの改善に充てられる予定です。",
@@ -208,17 +218,37 @@
       "lang": "en"
     },
     {
-      "id": "87028038",
-      "category": "経済・ビジネス（世界）",
-      "title": "Oil prices hit $100 for the first time since May",
-      "summary": "ブレント原油の価格が木曜日に5%以上上昇し、5月以来初めて1バレルあたり100ドルに達した。中東での戦争の深刻化が原因となっている。",
-      "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-23T15:31:00+00:00",
+      "id": "17969992",
+      "category": "テクノロジー・AI",
+      "title": "The tech-broification of American science has officially begun",
+      "summary": "トランプ政権は木曜日に初の「ジェネシス・ミッション」助成金を発表し、AI駆動型科学プロジェクト数百件に50億ドルを充当し、ホワイトハウスはこの取り組みを「マンハッタン・プロジェクトと同等の緊急性と野心」と表現している。同時期にトランプ政権の科学顧問マイケル・クラツィオスは議会でこの構想を議員らに売り込んでいる。",
+      "url": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
+      "source": "AI | The Verge",
+      "published_at": "2026-07-24T14:43:55+00:00",
       "lang": "en"
     },
     {
-      "id": "30667658",
+      "id": "80827619",
+      "category": "テクノロジー・AI",
+      "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+      "summary": "OpenAIの新しい音声モード機能がChatGPTのデスクトップアプリに搭載されました。このデスクトップ版音声機能はChatGPT WorkやCodexと連携して、タスク完了やエージェント制御を行うことができます。",
+      "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-24T13:36:42+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "74668924",
+      "category": "テクノロジー・AI",
+      "title": "Facebook launches a dedicated Marketplace app for sellers, adds a free verification system",
+      "summary": "Facebookが頻繁に商品を出品・販売するユーザー向けに、専用マーケットプレイスアプリ「Seller」をリリースした。このアプリは売上管理やリスティング機能を効率化し、新たに無料の本人確認システムも導入して、ユーザーの信頼性向上を図っている。",
+      "url": "https://techcrunch.com/2026/07/24/facebook-launches-a-dedicated-marketplace-app-for-sellers-adds-a-free-verification-system/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-24T12:47:15+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "12372052",
       "category": "テクノロジー・AI",
       "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
       "summary": "OpenAIとAnthropicのAIセーフガード機能が、未知の脆弱性を発見し、それを悪用するツール開発を行う攻撃的サイバーセキュリティ研究者たちの業務を阻害しているという問題についての記事です。複数のセキュリティ研究者らが、これらの企業が導入した安全機構が自らの重要な研究活動にどのような影響を与えているかについて述べています。",
@@ -228,7 +258,7 @@
       "lang": "en"
     },
     {
-      "id": "15180515",
+      "id": "83696063",
       "category": "テクノロジー・AI",
       "title": "Meet the judges who will crown Australia’s next breakout startup",
       "summary": "TechCrunchはStripeとのパートナーシップでオーストラリア版「Startup Battlefield」を開催し、同国の最も革新的なアーリーステージのスタートアップを発掘する。このイベントでは、業界の著名な審査員たちがオーストラリアの次世代起業家を支援し、成長の機会を提供することで、地域のスタートアップエコシステムの活性化を目指している。",
@@ -238,7 +268,7 @@
       "lang": "en"
     },
     {
-      "id": "74334648",
+      "id": "55591232",
       "category": "テクノロジー・AI",
       "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
       "summary": "インテルの自動運転技術子会社モービルアイのアムノン・シャシュア最高経営責任者（CEO）は、ロボタクシーおよびロボティクス事業への展開に伴い、CEOの職を退任し、会長職に就く予定である。シャシュアは企業の新たな成長段階を指揮する新しいリーダーシップ体制へと移行することで、モービルアイが自動運転車やロボット技術の分野でさらなる事業拡大を目指している。",
@@ -248,7 +278,7 @@
       "lang": "en"
     },
     {
-      "id": "24794106",
+      "id": "69689025",
       "category": "テクノロジー・AI",
       "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
       "summary": "Amazonは、より複雑な指示に対応できるようにAlexa Plusアシスタントの更新を発表しました。このプレビュー版の更新により、Alexa PlusはBosch、Delta、Ecovacs、iRobot、Yale Home、Whirlpool、TapoおよびEufyなどの複数のスマートホームデバイスとの連携が可能になり、ユーザーのリクエストを自動的に適切なデバイスにルーティングします。",
@@ -258,7 +288,7 @@
       "lang": "en"
     },
     {
-      "id": "42109679",
+      "id": "85584557",
       "category": "テクノロジー・AI",
       "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
       "summary": "AMDがNvidiaに対抗する新型ラック規模システム「Helios」を発表し、本年中に顧客への出荷を開始する予定である。このシステムはAIインフラの構築において競争力を強化することを目的としている。AMDはチップメーカー市場での地位向上を目指し、エンタープライズAI分野でのプレゼンス拡大を進めている。",
@@ -268,113 +298,83 @@
       "lang": "en"
     },
     {
-      "id": "14731803",
-      "category": "テクノロジー・AI",
-      "title": "Patreon lays off 20% of its workforce",
-      "summary": "パトレオンが従業員の20%をレイオフした。同社のCEOは内部メモで、コア事業は堅調だが市場変化に対応し安定性を保つため経費構造の調整が必要だと説明した。",
-      "url": "https://techcrunch.com/2026/07/23/patreon-lays-off-off-20-of-its-workforce/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-23T20:30:07+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "65700659",
-      "category": "テクノロジー・AI",
-      "title": "Insurance startup Corgi reportedly raised more money at $4B — its third round in 8 weeks",
-      "summary": "保険スタートアップのCorgiが時価総額40億ドルで資金調達を実施し、8週間で3度目のラウンドとなった。AI企業への投資ブームの中で、多くのスタートアップが短期間に次々と資金調達を行い評価額を高めているが、Corgiはその中でも特に異例のペースで急速な成長を遂げている。",
-      "url": "https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-23T20:13:24+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "55498708",
-      "category": "テクノロジー・AI",
-      "title": "Tesla’s door handles may spur new US safety rules",
-      "summary": "テスラの独特なドアハンドル設計が、米国での新しい安全規則制定につながる可能性がある。これまで人々が車内に閉じ込められる事故が複数件報告されており、その中には致命的なケースも含まれている。",
-      "url": "https://techcrunch.com/2026/07/23/teslas-door-handles-may-spur-new-u-s-safety-rules/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-23T20:06:21+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "56988028",
+      "id": "38299474",
       "category": "台湾・中台関係",
-      "title": "Chinese FM meets Philippine counterpart, lodges strong protest over Philippine personnel's violent act to Chinese vessel at Ren'ai Jiao",
-      "summary": "中国の王毅外相がフィリピンのラサロ外相とマニラで会談し、仁愛礁における中国船舶への暴力行為に対して強く抗議した。王毅外相はASEAN Plus外相会議の傍らで、ラサロ外相の要請を受けて会談に臨み、この事件に関する中国の厳粛な立場と抗議を詳しく説明した。両国間の領土問題をめぐる緊張が続いている。",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260723-globaltimes02.htm",
-      "source": "Globalsecurity.org",
-      "published_at": "2026-07-23T10:21:46+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "84052205",
-      "category": "台湾・中台関係",
-      "title": "America needs an artificial intelligence coalition, not an AI fortress",
-      "summary": "アメリカの人工知能(AI)専門家たちは、中国がAI技術を戦略的に制限する動きを強めている中で、米国が単独で対抗するのではなく、同盟国との連携によるAI連合を構築すべきだと主張している。中国は最先端のAIモデルへの海外アクセスを制限する一方で、米国の輸出規制によって閉め出された顧客を獲得すべく、中国の二流企業が急速に成長しており、米国の一方的な規制は効果が限定的であることが浮き彫りになっている。このため専門家らは、西側民主主義国家が共通のAI規制基準と安全保障戦略を策定し、技術開発と世界市場での影響力を維持するための国際的な協力体制が必要だと提言している。",
-      "url": "https://www.theblaze.com/columns/opinion/america-needs-an-artificial-intelligence-coalition-not-an-ai-fortress",
-      "source": "TheBlaze",
-      "published_at": "2026-07-23T10:00:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "43848436",
-      "category": "台湾・中台関係",
-      "title": "Israel’s AI Czar Seeks Chip Fab, New Data Centers to Keep Edge",
-      "summary": "イスラエルは自国の半導体製造とAIインフラの整備を目指しており、米国およびアジアの大手半導体メーカーを誘致しながら、データセンター容量の大幅な拡張を計画して、同国の地域技術的リーダーシップを維持しようとしている。",
-      "url": "https://financialpost.com/pmn/business-pmn/israels-ai-czar-seeks-chip-fab-new-data-centers-to-keep-edge",
-      "source": "Financial Post",
-      "published_at": "2026-07-23T09:22:37+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "12364629",
-      "category": "台湾・中台関係",
-      "title": "Britain’s National Security Must Not Be Sacrificed to Net Zero",
-      "summary": "英国の国家安全保障がネットゼロ目標の達成によって損なわれてはならないという主張の記事です。著者は、ネットゼロ政策によって英国が国家として破綻する危険性を警告し、これが敵対国に利益をもたらす可能性があると述べています。英国政府は経済的および軍事的な国力を維持しながら、環境目標とのバランスを取ることの重要性を強調しています。",
-      "url": "https://wattsupwiththat.com/2026/07/23/britains-national-security-must-not-be-sacrificed-to-net-zero/",
-      "source": "Wattsupwiththat.com",
-      "published_at": "2026-07-23T09:00:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "67983548",
-      "category": "台湾・中台関係",
-      "title": "[Latest] Global Implantable Cardiac Fluorine-Free Resins Market Size/Share Worth USD 4.26 Billion by 2035 at a 10.8% CAGR: Healthcare Foresights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate,SWOT Analysis)",
-      "summary": "2025年に15億2000万ドルと評価された世界的な植込み型心臓用フッ素フリー樹脂市場は、2035年までに426億ドルに達すると予想されており、年平均成長率は10.8%となる見通しである。この成長は医療技術の進展と心臓疾患の増加に伴う需要拡大によって牽引されると考えられている。",
-      "url": "https://www.globenewswire.com/news-release/2026/07/23/3331909/0/en/Latest-Global-Implantable-Cardiac-Fluorine-Free-Resins-Market-Size-Share-Worth-USD-4-26-Billion-by-2035-at-a-10-8-CAGR-Healthcare-Foresights-Analysis-Outlook-Leaders-Report-Trends-.html",
+      "title": "Jyong Biotech Highlights Multi-Billion Dollar Global BPH Market Opportunity and Reaffirms Strategic Focus on Global Licensing Partnerships",
+      "summary": "ジョン・バイオテック・リミテッド（Nasdaq: MENS）は、前立腺肥大症（BPH）の世界市場が数十億ドル規模の機会を提供していることを強調し、グローバルライセンシングパートナーシップへの戦略的焦点を改めて表明した。同社は植物由来の革新的治療薬の開発・商用化に専念する科学駆動型バイオテクノロジー企業である。",
+      "url": "https://www.globenewswire.com/news-release/2026/07/23/3332361/0/en/Jyong-Biotech-Highlights-Multi-Billion-Dollar-Global-BPH-Market-Opportunity-and-Reaffirms-Strategic-Focus-on-Global-Licensing-Partnerships.html",
       "source": "GlobeNewswire",
-      "published_at": "2026-07-23T08:30:00+00:00",
+      "published_at": "2026-07-23T14:52:00+00:00",
       "lang": "en"
     },
     {
-      "id": "76137210",
+      "id": "76042433",
       "category": "台湾・中台関係",
-      "title": "Menarini Asia-Pacific and Pharmacosmos partner to bring first-in-class oncology supportive care therapy Cosela® to Asian patients",
-      "summary": "メナリーニ・アジア・パシフィックとファルマコスモス社が提携し、化学療法による骨髄抑制を軽減する初の医薬品コセラ（トリラシクリブ）をアジアの患者に提供することになった。この独占的なパートナーシップにより、コセラの登録、商業化、流通がアジア太平洋地域で進められる予定である。",
-      "url": "https://en.antaranews.com/news/423729/menarini-asia-pacific-and-pharmacosmos-partner-to-bring-first-in-class-oncology-supportive-care-therapy-cosela-to-asian-patients",
-      "source": "Antaranews.com",
-      "published_at": "2026-07-23T08:19:58+00:00",
+      "title": "Environmental Monitoring Market to Reach $21.14 Billion by 2030 as Air Quality Regulations and IoT Adoption Accelerate",
+      "summary": "環境モニタリング市場は2030年までに214億ドルに達する見込みで、大気汚染規制の強化とIoT技術の採用が成長を加速させている。屋外モニターと大気汚染監視が最も急速な成長を記録し、アジア太平洋地域は工業化、スマートシティプロジェクト、規制強化、AI搭載センサーネットワークの導入により急速に拡大するとされている。",
+      "url": "https://www.globenewswire.com/news-release/2026/07/23/3332323/28124/en/Environmental-Monitoring-Market-to-Reach-21-14-Billion-by-2030-as-Air-Quality-Regulations-and-IoT-Adoption-Accelerate.html",
+      "source": "GlobeNewswire",
+      "published_at": "2026-07-23T14:14:00+00:00",
       "lang": "en"
     },
     {
-      "id": "64587033",
+      "id": "89087329",
       "category": "台湾・中台関係",
-      "title": "Taiwanese woman sentenced for attempted murder of Australian exchange student",
-      "summary": "台湾の女性楊金平氏は、2023年にブリスベンの交換留学生アレックス・ショーリー氏に対して行った殺人未遂の罪で有罪判決を受けた。台湾メディアが報じたところによると、この事件は昨年発生し、被害者の留学生が危機的状況から救出されたとされている。",
-      "url": "https://www.abc.net.au/news/2026-07-23/yang-jinping-sentenced-11-years-alex-shorey-attempted-murder/106951536",
-      "source": "ABC News (AU)",
-      "published_at": "2026-07-23T08:11:35+00:00",
+      "title": "Behavioural and emotional assessment of Malaysian adolescent boys with congenital colour vision deficiency and its association with socioeconomic factors",
+      "summary": "マレーシアの先天色覚異常を持つ思春期男性の行動および感情評価と社会経済的要因の関連性に関する研究で、色覚異常が日常機能と社会的相互作用に課題をもたらすことが知られているが、思春期における行動・感情的影響はまだ十分に研究されていない。本研究は色覚異常のある思春期男性とない者の行動・感情的特性を比較し、社会経済的要因との関連を調査することを目的としている。",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353847",
+      "source": "Plos.org",
+      "published_at": "2026-07-23T14:00:00+00:00",
       "lang": "en"
     },
     {
-      "id": "27276851",
+      "id": "28808612",
       "category": "台湾・中台関係",
-      "title": "America Needs an Off-Ramp Between Doing Nothing and Shutting AI Down",
-      "summary": "2026年6月、米国商務省がAnthropicに対してAIモデル「Fable 5」と「Mythos 5」の世界的な運用停止を命じ、18日間にわたって両モデルが利用できなくなった事例から、米国はAI規制において「何もしない」ことと「完全に廃止する」ことの間に、バランスの取れた中間的なアプローチが必要であることが示唆されている。この記事は、技術進化とリスク管理を両立させるための政策的な柔軟性の重要性を論じている。",
-      "url": "https://warontherocks.com/cogs-of-war/america-needs-an-off-ramp-between-doing-nothing-and-shutting-ai-down/",
-      "source": "War on the Rocks",
-      "published_at": "2026-07-23T08:00:26+00:00",
+      "title": "Global lung cancer burden, trends, and projections from 2010 to 2050: A population-level severity framework integrating DALYs-per-case and mortality-to-incidence ratio",
+      "summary": "肺がんは世界中でがん死亡の主要な原因であり、本研究は2010年から2050年にかけての肺がんの負担、傾向、将来予測を、患者個人レベルでの疾病重症度を示すDALY（障害調整生存年数）と死亡率・発症率の比率を組み合わせた枠組みを用いて定量化しました。発症率と死亡率だけでは個々の患者の疾病重症度を完全には捉えられないため、より包括的な評価が必要とされています。",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354350",
+      "source": "Plos.org",
+      "published_at": "2026-07-23T14:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "19094705",
+      "category": "台湾・中台関係",
+      "title": "T-shirt slogan speaks volumes in Taiwan as Hong Kong raids see book sales rocket",
+      "summary": "香港の独立系書店経営者に対する一連の逮捕が相次ぐ中、台湾ではTシャツのスローガンが香港の状況への懸念を象徴しており、この事態は香港の本の売上急増につながっている。台湾の人々は香港の言論の自由と出版の自由が脅かされていることに危機感を募らせながら、同時に香港の書店を支援する動きが広がっている。このように台湾が香港の民主主義と自由を巡る困難に対して共感と支援を示す姿勢が、社会的なムーブメントとして現れている。",
+      "url": "https://www.irishtimes.com/world/asia-pacific/2026/07/23/t-shirt-slogan-speaks-volumes-in-taiwan-as-hong-kong-raids-see-book-sales-rocket/",
+      "source": "The Irish Times",
+      "published_at": "2026-07-23T12:23:27+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "67562691",
+      "category": "台湾・中台関係",
+      "title": "Control Yuan orders Air Force to make changes after fatal F-16V crash",
+      "summary": "台湾の監察院は1月に起きたF-16V戦闘機の訓練中の墜落事故で操縦士が亡くなったことを受けて、空軍に対しリスク管理と整備手順の重大な不備を指摘し、改善措置を勧告した。この事故は空軍の安全管理体制に深刻な問題があることを露呈し、監察院は空軍の安全体制の強化を求めている。今後の同様の事故防止に向けて、空軍は整備プロセスとリスク評価システムの抜本的な改革が必要とされている。",
+      "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260723-cna02.htm",
+      "source": "Globalsecurity.org",
+      "published_at": "2026-07-23T12:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "21360373",
+      "category": "台湾・中台関係",
+      "title": "Taiwan Straits drills information already released, Chinese FM spokesperson says",
+      "summary": "中国外交部報道官は、台湾海峡での実弾演習は既に公開された情報に基づくものであると述べた。この演習は米国国務長官マルコ・ルビオと中国外交部長王毅がフィリピンで会談した翌日に実施されたもので、両者は台湾問題を含む複数の議題について協議していた。中国側は演習の実施が事前に計画されたものであることを強調している。",
+      "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260723-globaltimes01.htm",
+      "source": "Globalsecurity.org",
+      "published_at": "2026-07-23T12:00:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "57377741",
+      "category": "台湾・中台関係",
+      "title": "Taiwan condemns China after another research vessel enters its EEZ",
+      "summary": "台湾の海岸警備隊は、中国の調査船が台湾の排他的経済水域内で漁業資源調査を実施したことに対し、主権侵害として中国を非難した。台湾は中国による繰り返される領海侵犯に強く抗議し、国際法に基づく権利の尊重を求めている。",
+      "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260723-cna01.htm",
+      "source": "Globalsecurity.org",
+      "published_at": "2026-07-23T12:00:00+00:00",
       "lang": "en"
     }
   ]
