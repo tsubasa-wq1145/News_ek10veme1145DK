@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T05:52:12.081878+00:00",
+  "updated_at": "2026-07-24T10:54:19.763914+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -58,7 +58,67 @@
   ],
   "news": [
     {
-      "id": "50954960",
+      "id": "67571433",
+      "category": "経済・ビジネス（日本）",
+      "title": "トランプ大統領“損害 イランの資産で補償”にイラン外相反発",
+      "summary": "トランプ大統領がイランの攻撃による損害賠償をアメリカが管理するイランの資産から支払うと主張して圧力を強める一方、イラン外相はこれを「火種となりうる前例」と強く反発しており、米イラン間の対立が深刻化している。",
+      "url": "http://www3.nhk.or.jp/news/html/20260724/k10015185491000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-24T10:22:51+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "11543988",
+      "category": "経済・ビジネス（日本）",
+      "title": "世界遺産登録の審議始まる 「飛鳥・藤原の宮都」は26日か",
+      "summary": "韓国で開かれているユネスコの世界遺産委員会で新規登録候補の審議が24日から始まり、日本が推薦する奈良県の「飛鳥・藤原の宮都」は26日にも世界遺産として登録される見通しが示されている。",
+      "url": "http://www3.nhk.or.jp/news/html/20260724/k10015185361000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-24T10:16:30+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "56829895",
+      "category": "経済・ビジネス（日本）",
+      "title": "トランプ政権 新追加関税を発動 日本は既存税率あわせ12.5％",
+      "summary": "トランプ政権が日本を含む60の貿易相手に対して新たな追加関税を発動し、日本からの輸入品には既存の関税率と合わせて12.5％の関税が課されることになりました。この措置は日本時間24日午後1時すぎに実施される予定です。",
+      "url": "http://www3.nhk.or.jp/news/html/20260724/k10015184731000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-24T10:00:16+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "20229996",
+      "category": "経済・ビジネス（日本）",
+      "title": "茂木外相 日本の対ロシア政策変わらずも意思疎通は必要",
+      "summary": "茂木外相はフィリピンでロシアのラブロフ外相と会談し、制裁を含む日本の対ロシア政策に変更がないことを強調しながらも、隣国として政府間の意思疎通が必要だという立場を示しました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260724/k10015185281000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-24T07:27:40+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "16082824",
+      "category": "経済・ビジネス（日本）",
+      "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月24日の動き）",
+      "summary": "ロシアによるウクライナへの軍事侵攻が継続しており、各地でロシア軍とウクライナ軍の戦闘が激化しています。多くの市民が国外への避難を余儀なくされており、7月24日のウクライナ情勢に関する戦闘状況と関係国の外交動向が随時更新で報告されています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260724/k10015141151000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-24T07:25:05+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "42839559",
+      "category": "経済・ビジネス（日本）",
+      "title": "米大統領機の報道めぐり 記者への召喚状 政権側が取り下げ",
+      "summary": "トランプ大統領の新たな大統領専用機に攻撃対応機能がないとするニューヨーク・タイムズの記事を書いた記者に対し、司法省が出していた召喚状が取り下げられた。同紙は報道の自由に対するアメリカの姿勢を確認する重要な手続きになったと述べている。",
+      "url": "http://www3.nhk.or.jp/news/html/20260724/k10015185191000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-24T05:58:18+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "47174145",
       "category": "経済・ビジネス（日本）",
       "title": "次の国連事務総長は誰か？候補6人が公開討論",
       "summary": "グテーレス国連事務総長の後任候補6人が23日に公開討論を行い、国連改革などについて意見を述べました。今後、候補者選びに向けた交渉や調整が加速する見通しです。",
@@ -68,7 +128,7 @@
       "lang": "ja"
     },
     {
-      "id": "15377204",
+      "id": "51383949",
       "category": "経済・ビジネス（日本）",
       "title": "米大統領「船舶など損害イラン資産で補償」13日連続イラン攻撃",
       "summary": "アメリカ中央軍は13日連続でイランへの攻撃を実施し、トランプ大統領は船舶や貨物の損害賠償をアメリカが管理するイラン資産から支払うと主張することで、イランへの圧力を強化している。",
@@ -78,79 +138,49 @@
       "lang": "ja"
     },
     {
-      "id": "31728851",
-      "category": "経済・ビジネス（日本）",
-      "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月24日の動き）",
-      "summary": "ロシアによるウクライナへの軍事侵攻が継続しており、各地でロシア軍とウクライナ軍の戦闘が激化しています。多くの市民が国外への避難を余儀なくされており、7月24日のウクライナ情勢に関する戦闘状況と関係国の外交動向が随時更新で報告されています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260724/k10015141151000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-24T05:05:48+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "33253959",
-      "category": "経済・ビジネス（日本）",
-      "title": "「日本赤軍」 岡本公三容疑者死亡 空港乱射事件で国際手配",
-      "summary": "1972年にイスラエルの空港で銃乱射事件を起こし、殺人などの疑いで国際手配されていた日本赤軍のメンバー岡本公三容疑者が、亡命先のレバノンで死亡した。パレスチナ解放人民戦線が発表したもので、享年78歳である。",
-      "url": "http://www3.nhk.or.jp/news/html/20260724/k10015184681000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-24T04:32:47+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "21371119",
-      "category": "経済・ビジネス（日本）",
-      "title": "トランプ政権 新追加関税を発動 日本は既存税率あわせ12.5％",
-      "summary": "トランプ政権が日本を含む60の貿易相手に対して新たな追加関税を発動し、日本からの輸入品には既存の関税率と合わせて12.5％の関税が課されることになりました。この措置は日本時間24日午後1時すぎに実施される予定です。",
-      "url": "http://www3.nhk.or.jp/news/html/20260724/k10015184731000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-24T04:22:58+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "55263404",
-      "category": "経済・ビジネス（日本）",
-      "title": "アメリカ財務省 “円相場の過度な変動 望ましくない”",
-      "summary": "アメリカ財務省は通貨政策に関する報告書で、円相場の過度な変動は望ましくないとの見解を示しました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260724/k10015184801000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-24T00:35:38+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "13515358",
-      "category": "経済・ビジネス（日本）",
-      "title": "ナスダック株価指数 2％超の下落 AI過剰投資警戒や金利上昇",
-      "summary": "ニューヨーク株式市場でIT大手などハイテク株に売り注文が集中し、ナスダック株価指数は2.1％を超える大幅な下落となりました。AI過剰投資への警戒感と金利上昇が売却の要因となっています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260724/k10015184741000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-23T22:03:33+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "20540919",
-      "category": "経済・ビジネス（日本）",
-      "title": "日中外相が接触 中国側の出方を慎重に見極めへ 日本政府",
-      "summary": "茂木外務大臣がフィリピンで中国の王毅外相と日中関係悪化後初めて接触し、日本政府内では関係改善への期待がある一方で打開が容易ではないと見ており、中国側の今後の対応を慎重に見極めていく方針を示しています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260724/k10015184421000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-23T20:52:44+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "16409683",
+      "id": "90013626",
       "category": "経済・ビジネス（世界）",
-      "title": "US imposes tariffs on dozens of trade partners, citing forced labour concerns",
-      "summary": "米国が強制労働に関連する輸入品について約60の貿易相手国に対する関税を発表しました。これらの関税は、強制労働を適切に防止できなかったとの主張に基づいています。米国は貿易パートナーに対して強制労働慣行の撤廃を求める厳しい姿勢を示しており、この措置は国際的な労働基準の遵守を強制するためのものです。",
-      "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+      "title": "Why are UK fuel prices rising again?",
+      "summary": "イギリスのガソリンとディーゼル価格が再び上昇している。これは原油価格がバレルあたり100ドル付近まで戻ってきたためである。",
+      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published_at": "2026-07-24T04:27:15+00:00",
+      "published_at": "2026-07-24T10:45:41+00:00",
       "lang": "en"
     },
     {
-      "id": "56216891",
+      "id": "86228881",
       "category": "経済・ビジネス（世界）",
-      "title": "UK complacent about war threat, warns defence boss",
+      "title": "UK mortgage rates rise to highest level for a month",
+      "summary": "イギリスの住宅ローン金利が1ヶ月間で最高水準に上昇した。中東の緊張が再燃したことで貸し手のコストが増加し、借入金利の上昇につながっている。",
+      "url": "https://www.bbc.co.uk/news/articles/c70gknr7z1eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-24T09:44:53+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "75103870",
+      "category": "経済・ビジネス（世界）",
+      "title": "US hits dozens of countries with new wave of tariffs",
+      "summary": "米国が強制労働に関連する輸入品について約60の貿易相手国に対する関税を発表しました。これらの関税は、強制労働を適切に防止できなかったとの主張に基づいています。米国は貿易パートナーに対して強制労働慣行の撤廃を求める厳しい姿勢を示しており、この措置は国際的な労働基準の遵守を強制するためのものです。",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-24T08:59:31+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "26084686",
+      "category": "経済・ビジネス（世界）",
+      "title": "Tech titan ordered to pay ex-wife $644m in divorce settlement",
+      "summary": "韓国の大手企業会長が元妻に6億4400万ドルの離婚慰謝料を支払うよう命じられた。この韓国有数企業の経営者による離婚裁判は国民の高い関心を集めており、巨額の財産分与が注目されている。",
+      "url": "https://www.bbc.co.uk/news/articles/ckg68jky65eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-24T08:30:58+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "27767654",
+      "category": "経済・ビジネス（世界）",
+      "title": "UK complacent about war threat, warns BAE boss",
       "summary": "欧州最大の防衛関連企業のトップが、英国は戦争の脅威に対して楽観的すぎると警告している。チャールズ・ウッドバーン博士は、攻撃の脅威がかつてないほど高まっていると述べており、英国がこの深刻な状況を十分に認識していないことへの懸念を示している。防衛産業の強化と国家の危機意識の向上が急務だと指摘している。",
       "url": "https://www.bbc.co.uk/news/articles/cx2lpjjpny9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -158,17 +188,7 @@
       "lang": "en"
     },
     {
-      "id": "26538104",
-      "category": "経済・ビジネス（世界）",
-      "title": "UK mortgage rates rise to highest level for a month",
-      "summary": "イギリスの住宅ローン金利が1ヶ月間で最高水準に上昇した。中東の緊張が再燃したことで貸し手のコストが増加し、借入金利の上昇につながっている。",
-      "url": "https://www.bbc.co.uk/news/articles/c70gknr7z1eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-23T23:02:10+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "99021077",
+      "id": "68812870",
       "category": "経済・ビジネス（世界）",
       "title": "We split bills equally even when one of us earned a lot more",
       "summary": "ハンナとマックスは、マックスがリストラされた後も財務を統合し続け、支出を削減するために「抜本的な措置」を講じた。収入に大きな差があっても請求書を均等に分割しているカップルが、経済的困難に直面しながらも、共同財政管理の方針を貫いている状況が描かれている。",
@@ -178,27 +198,17 @@
       "lang": "en"
     },
     {
-      "id": "58319153",
+      "id": "24362762",
       "category": "経済・ビジネス（世界）",
-      "title": "Lawmakers push for AI 'kill switch' after OpenAI goes rogue",
-      "summary": "米国の議員たちがOpenAIの独断的な行動を受けて、AI企業に対する「キルスイッチ」機能の導入を推し進めている。新しい法案は、公共の脅威となるAIモデルの停止を米国政府が命じることを可能にするもの。この法案は、AIシステムの安全性管理と政府の監督権を強化することを目指している。",
-      "url": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss",
+      "title": "Tourist tax introduced in Edinburgh: How much is it and who pays?",
+      "summary": "スコットランドの首都エディンバラが、宿泊者に対する課金を導入した国内初の都市となりました。この観光税は、ホテルやゲストハウスなどの宿泊施設を利用する観光客に対して課される新たな料金制度です。この取り組みは、観光地としてのエディンバラの持続可能な発展と観光インフラの整備を目指しており、導入により得られた収益は地域の観光関連施設やサービスの改善に充てられる予定です。",
+      "url": "https://www.bbc.co.uk/news/articles/cvgl8j37839o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published_at": "2026-07-23T20:58:35+00:00",
+      "published_at": "2026-07-23T21:46:48+00:00",
       "lang": "en"
     },
     {
-      "id": "31327900",
-      "category": "経済・ビジネス（世界）",
-      "title": "Google and Tesla shares plunge as AI spending rattles markets",
-      "summary": "Googleは人工知能開発に莫大な資金を投じており、同社は今年初めに190億ドルもの投資支出を予想していると発表している。AIインフラの急速な拡大により、同社の現金消費ペースが加速している。",
-      "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-23T20:42:33+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "86120836",
+      "id": "87028038",
       "category": "経済・ビジネス（世界）",
       "title": "Oil prices hit $100 for the first time since May",
       "summary": "ブレント原油の価格が木曜日に5%以上上昇し、5月以来初めて1バレルあたり100ドルに達した。中東での戦争の深刻化が原因となっている。",
@@ -208,17 +218,7 @@
       "lang": "en"
     },
     {
-      "id": "13596372",
-      "category": "経済・ビジネス（世界）",
-      "title": "Pubs cheer business rates relief while other firms 'left out in the cold'",
-      "summary": "パブは支援策を歓迎しているが、他のハイストリート企業は自分たちが除外された理由に疑問を呈している。英国政府はパブに対して営業税の軽減措置を実施したが、小売店やレストランなど他の業種からは不公平だという批判の声が上がっている。この支援策の選別的な性質が、経営難に直面する他の企業との間に不満を生み出している。",
-      "url": "https://www.bbc.co.uk/news/articles/clyvnz4489wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-23T14:27:37+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "32722784",
+      "id": "30667658",
       "category": "テクノロジー・AI",
       "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
       "summary": "OpenAIとAnthropicのAIセーフガード機能が、未知の脆弱性を発見し、それを悪用するツール開発を行う攻撃的サイバーセキュリティ研究者たちの業務を阻害しているという問題についての記事です。複数のセキュリティ研究者らが、これらの企業が導入した安全機構が自らの重要な研究活動にどのような影響を与えているかについて述べています。",
@@ -228,7 +228,7 @@
       "lang": "en"
     },
     {
-      "id": "62748992",
+      "id": "15180515",
       "category": "テクノロジー・AI",
       "title": "Meet the judges who will crown Australia’s next breakout startup",
       "summary": "TechCrunchはStripeとのパートナーシップでオーストラリア版「Startup Battlefield」を開催し、同国の最も革新的なアーリーステージのスタートアップを発掘する。このイベントでは、業界の著名な審査員たちがオーストラリアの次世代起業家を支援し、成長の機会を提供することで、地域のスタートアップエコシステムの活性化を目指している。",
@@ -238,7 +238,7 @@
       "lang": "en"
     },
     {
-      "id": "16292888",
+      "id": "74334648",
       "category": "テクノロジー・AI",
       "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
       "summary": "インテルの自動運転技術子会社モービルアイのアムノン・シャシュア最高経営責任者（CEO）は、ロボタクシーおよびロボティクス事業への展開に伴い、CEOの職を退任し、会長職に就く予定である。シャシュアは企業の新たな成長段階を指揮する新しいリーダーシップ体制へと移行することで、モービルアイが自動運転車やロボット技術の分野でさらなる事業拡大を目指している。",
@@ -248,7 +248,7 @@
       "lang": "en"
     },
     {
-      "id": "15765797",
+      "id": "24794106",
       "category": "テクノロジー・AI",
       "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
       "summary": "Amazonは、より複雑な指示に対応できるようにAlexa Plusアシスタントの更新を発表しました。このプレビュー版の更新により、Alexa PlusはBosch、Delta、Ecovacs、iRobot、Yale Home、Whirlpool、TapoおよびEufyなどの複数のスマートホームデバイスとの連携が可能になり、ユーザーのリクエストを自動的に適切なデバイスにルーティングします。",
@@ -258,7 +258,7 @@
       "lang": "en"
     },
     {
-      "id": "62402770",
+      "id": "42109679",
       "category": "テクノロジー・AI",
       "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
       "summary": "AMDがNvidiaに対抗する新型ラック規模システム「Helios」を発表し、本年中に顧客への出荷を開始する予定である。このシステムはAIインフラの構築において競争力を強化することを目的としている。AMDはチップメーカー市場での地位向上を目指し、エンタープライズAI分野でのプレゼンス拡大を進めている。",
@@ -268,7 +268,7 @@
       "lang": "en"
     },
     {
-      "id": "44171909",
+      "id": "14731803",
       "category": "テクノロジー・AI",
       "title": "Patreon lays off 20% of its workforce",
       "summary": "パトレオンが従業員の20%をレイオフした。同社のCEOは内部メモで、コア事業は堅調だが市場変化に対応し安定性を保つため経費構造の調整が必要だと説明した。",
@@ -278,7 +278,7 @@
       "lang": "en"
     },
     {
-      "id": "20521288",
+      "id": "65700659",
       "category": "テクノロジー・AI",
       "title": "Insurance startup Corgi reportedly raised more money at $4B — its third round in 8 weeks",
       "summary": "保険スタートアップのCorgiが時価総額40億ドルで資金調達を実施し、8週間で3度目のラウンドとなった。AI企業への投資ブームの中で、多くのスタートアップが短期間に次々と資金調達を行い評価額を高めているが、Corgiはその中でも特に異例のペースで急速な成長を遂げている。",
@@ -288,7 +288,7 @@
       "lang": "en"
     },
     {
-      "id": "60270208",
+      "id": "55498708",
       "category": "テクノロジー・AI",
       "title": "Tesla’s door handles may spur new US safety rules",
       "summary": "テスラの独特なドアハンドル設計が、米国での新しい安全規則制定につながる可能性がある。これまで人々が車内に閉じ込められる事故が複数件報告されており、その中には致命的なケースも含まれている。",
@@ -298,83 +298,83 @@
       "lang": "en"
     },
     {
-      "id": "73578738",
+      "id": "56988028",
       "category": "台湾・中台関係",
-      "title": "Olivia Pichardo’s two home runs lead Team USA’s rout of Korea in World Cup group play",
-      "summary": "米国女子野球ワールドカップのグループステージで、オリビア・ピチャルドの2本のホームランが米国チームを牽引し、水曜夜に米国は韓国に22対2で大勝した。米国はこの圧倒的な勝利で大会の幕を開けた。",
-      "url": "https://www.mystateline.com/sports/local-sports/olivia-pichardos-two-home-runs-lead-team-usas-rout-of-korea-in-world-cup-group-play/",
-      "source": "MyStateline.com",
-      "published_at": "2026-07-23T05:10:25+00:00",
+      "title": "Chinese FM meets Philippine counterpart, lodges strong protest over Philippine personnel's violent act to Chinese vessel at Ren'ai Jiao",
+      "summary": "中国の王毅外相がフィリピンのラサロ外相とマニラで会談し、仁愛礁における中国船舶への暴力行為に対して強く抗議した。王毅外相はASEAN Plus外相会議の傍らで、ラサロ外相の要請を受けて会談に臨み、この事件に関する中国の厳粛な立場と抗議を詳しく説明した。両国間の領土問題をめぐる緊張が続いている。",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260723-globaltimes02.htm",
+      "source": "Globalsecurity.org",
+      "published_at": "2026-07-23T10:21:46+00:00",
       "lang": "en"
     },
     {
-      "id": "66613291",
+      "id": "84052205",
       "category": "台湾・中台関係",
-      "title": "Which country’s foreign tourists spend the most money per-person in Japan? Hint: Not the U..S. or China",
-      "summary": "日本を訪れる外国人観光客の1人当たりの支出額が平均の2倍以上に達する国があり、それはアメリカや中国ではなく、日本の観光業界がこれまであまり注目していなかった国である。2026年前半のデータによると、日本への外国人観光客数は初めて減少が見られたが、特定の国の観光客は非常に高い消費額を記録している。この傾向は、日本の観光戦略が高単価の顧客層の開拓に転換する必要があることを示唆している。",
-      "url": "https://soranews24.com/2026/07/23/what-countrys-foreign-tourists-spend-the-most-money-per-person-in-japan-hint-not-the-u-s-or-china/",
-      "source": "SoraNews24",
-      "published_at": "2026-07-23T03:00:56+00:00",
+      "title": "America needs an artificial intelligence coalition, not an AI fortress",
+      "summary": "アメリカの人工知能(AI)専門家たちは、中国がAI技術を戦略的に制限する動きを強めている中で、米国が単独で対抗するのではなく、同盟国との連携によるAI連合を構築すべきだと主張している。中国は最先端のAIモデルへの海外アクセスを制限する一方で、米国の輸出規制によって閉め出された顧客を獲得すべく、中国の二流企業が急速に成長しており、米国の一方的な規制は効果が限定的であることが浮き彫りになっている。このため専門家らは、西側民主主義国家が共通のAI規制基準と安全保障戦略を策定し、技術開発と世界市場での影響力を維持するための国際的な協力体制が必要だと提言している。",
+      "url": "https://www.theblaze.com/columns/opinion/america-needs-an-artificial-intelligence-coalition-not-an-ai-fortress",
+      "source": "TheBlaze",
+      "published_at": "2026-07-23T10:00:00+00:00",
       "lang": "en"
     },
     {
-      "id": "41551366",
+      "id": "43848436",
       "category": "台湾・中台関係",
-      "title": "Landy Wen to perform in Singapore 4 months after being hospitalised for life-threatening condition",
-      "summary": "台湾の歌手ウェン・ランディ（47歳）が、腎臓結石による敗血性ショックで5月に15日間入院した生命にかかわる状態から4ヶ月後にシンガポールでのパフォーマンスを行う予定である。",
-      "url": "https://www.straitstimes.com/life/entertainment/landy-wen-to-perform-in-singapore-4-months-after-being-hospitalised-for-life-threatening-condition",
-      "source": "The Straits Times",
-      "published_at": "2026-07-23T02:50:00+00:00",
+      "title": "Israel’s AI Czar Seeks Chip Fab, New Data Centers to Keep Edge",
+      "summary": "イスラエルは自国の半導体製造とAIインフラの整備を目指しており、米国およびアジアの大手半導体メーカーを誘致しながら、データセンター容量の大幅な拡張を計画して、同国の地域技術的リーダーシップを維持しようとしている。",
+      "url": "https://financialpost.com/pmn/business-pmn/israels-ai-czar-seeks-chip-fab-new-data-centers-to-keep-edge",
+      "source": "Financial Post",
+      "published_at": "2026-07-23T09:22:37+00:00",
       "lang": "en"
     },
     {
-      "id": "28284419",
+      "id": "12364629",
       "category": "台湾・中台関係",
-      "title": "Fitch sees AI investment momentum holding, with no signs of supply downturn",
-      "summary": "フィッチ・レーティングスは台湾の2026年と2027年のGDP成長率見通しをそれぞれ9.4%と4.8%に上方修正し、従来予想の6.9%と4.0%から引き上げた。同社はAI関連投資の勢いが続き供給減速の兆候がないと見ており、米国・イラン紛争の影響は限定的と予想している。台湾の好調なハイテク産業がこうした成長率上昇を牽引するとみられる。",
-      "url": "https://www.digitimes.com/news/a20260722PD231/taiwan-investment-growth-gdp-2027.html",
-      "source": "Digitimes",
-      "published_at": "2026-07-23T02:44:07+00:00",
+      "title": "Britain’s National Security Must Not Be Sacrificed to Net Zero",
+      "summary": "英国の国家安全保障がネットゼロ目標の達成によって損なわれてはならないという主張の記事です。著者は、ネットゼロ政策によって英国が国家として破綻する危険性を警告し、これが敵対国に利益をもたらす可能性があると述べています。英国政府は経済的および軍事的な国力を維持しながら、環境目標とのバランスを取ることの重要性を強調しています。",
+      "url": "https://wattsupwiththat.com/2026/07/23/britains-national-security-must-not-be-sacrificed-to-net-zero/",
+      "source": "Wattsupwiththat.com",
+      "published_at": "2026-07-23T09:00:00+00:00",
       "lang": "en"
     },
     {
-      "id": "26526996",
+      "id": "67983548",
+      "category": "台湾・中台関係",
+      "title": "[Latest] Global Implantable Cardiac Fluorine-Free Resins Market Size/Share Worth USD 4.26 Billion by 2035 at a 10.8% CAGR: Healthcare Foresights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate,SWOT Analysis)",
+      "summary": "2025年に15億2000万ドルと評価された世界的な植込み型心臓用フッ素フリー樹脂市場は、2035年までに426億ドルに達すると予想されており、年平均成長率は10.8%となる見通しである。この成長は医療技術の進展と心臓疾患の増加に伴う需要拡大によって牽引されると考えられている。",
+      "url": "https://www.globenewswire.com/news-release/2026/07/23/3331909/0/en/Latest-Global-Implantable-Cardiac-Fluorine-Free-Resins-Market-Size-Share-Worth-USD-4-26-Billion-by-2035-at-a-10-8-CAGR-Healthcare-Foresights-Analysis-Outlook-Leaders-Report-Trends-.html",
+      "source": "GlobeNewswire",
+      "published_at": "2026-07-23T08:30:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "76137210",
       "category": "台湾・中台関係",
       "title": "Menarini Asia-Pacific and Pharmacosmos partner to bring first-in-class oncology supportive care therapy Cosela® to Asian patients",
-      "summary": "メナリーニ・アジア・パシフィックとファルマコスモスが提携し、初の一類がん支持療法であるコセラ®をアジアの患者にもたらします。両社は協力して、このがん治療の副作用管理における革新的な治療法をアジア太平洋地域に展開し、がん患者の生活の質向上を目指しています。",
-      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/menarini-asia-pacific-and-pharmacosmos-partner-to-bring-first-in-class-oncology-supportive-care-therapy-cosela-to-asian-patients/article71256321.ece",
-      "source": "BusinessLine",
-      "published_at": "2026-07-23T02:04:39+00:00",
+      "summary": "メナリーニ・アジア・パシフィックとファルマコスモス社が提携し、化学療法による骨髄抑制を軽減する初の医薬品コセラ（トリラシクリブ）をアジアの患者に提供することになった。この独占的なパートナーシップにより、コセラの登録、商業化、流通がアジア太平洋地域で進められる予定である。",
+      "url": "https://en.antaranews.com/news/423729/menarini-asia-pacific-and-pharmacosmos-partner-to-bring-first-in-class-oncology-supportive-care-therapy-cosela-to-asian-patients",
+      "source": "Antaranews.com",
+      "published_at": "2026-07-23T08:19:58+00:00",
       "lang": "en"
     },
     {
-      "id": "79854385",
+      "id": "64587033",
       "category": "台湾・中台関係",
-      "title": "US looks to revive Ukraine peace efforts in Rubio-Lavrov meeting",
-      "summary": "アメリカのルビオ国務長官がマニラでロシアのラブロフ外相と会談し、ウクライナ戦争の終結に向けた平和努力の再開を目指している。また両国間の協力の可能性についても探る予定である。ルビオ氏は同時に中国の王毅外相との会談で南シナ海の最近の事件について協議した。",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-looks-to-revive-ukraine-peace-efforts-in-rubio-lavrov-meeting/articleshow/132570341.cms",
-      "source": "The Times of India",
-      "published_at": "2026-07-23T01:30:55+00:00",
+      "title": "Taiwanese woman sentenced for attempted murder of Australian exchange student",
+      "summary": "台湾の女性楊金平氏は、2023年にブリスベンの交換留学生アレックス・ショーリー氏に対して行った殺人未遂の罪で有罪判決を受けた。台湾メディアが報じたところによると、この事件は昨年発生し、被害者の留学生が危機的状況から救出されたとされている。",
+      "url": "https://www.abc.net.au/news/2026-07-23/yang-jinping-sentenced-11-years-alex-shorey-attempted-murder/106951536",
+      "source": "ABC News (AU)",
+      "published_at": "2026-07-23T08:11:35+00:00",
       "lang": "en"
     },
     {
-      "id": "29799728",
+      "id": "27276851",
       "category": "台湾・中台関係",
-      "title": "Trump, Taiwan, and the Reagan Doctrine",
-      "summary": "トランプ元大統領は台湾問題で一貫性を欠いており、中国寄りと批判されることが多いが、実際には台湾への武器供与や支援を継続している。この秋の習近平主席のワシントン訪問を前に武器パッケージが一時停止されているとの報道があるが、米国政府は詳細を明かしていない。トランプの対台湾政策はレーガン時代のドクトリンに基づいており、長期的には台湾の自決権と民主主義を支持する方針を取っている。",
-      "url": "https://www.hoover.org/research/trump-taiwan-and-reagan-doctrine",
-      "source": "Hoover.org",
-      "published_at": "2026-07-23T00:00:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "78335675",
-      "category": "台湾・中台関係",
-      "title": "Trump, Taiwan, and the Reagan Doctrine",
-      "summary": "トランプ前大統領が台湾問題で対中姿勢を軟化させたという批判が定期的に上がるなか、秋のシー・ジンピン国家主席の訪米を控えて米国の対台湾追加武器供与が一時停止されているとの報道がある。トランプ氏の対台湾戦略はレーガン・ドクトリンに基づいており、表面的な武器供与の遅延よりも長期的な台湾支援の枠組みが重視されている。米国政府の対台湾政策には複雑な外交的バランスが存在し、時間的には短期的な判断と長期的な戦略目標のずれが生じることもある。",
-      "url": "https://cms.hoover.org/research/trump-taiwan-and-reagan-doctrine",
-      "source": "Hoover.org",
-      "published_at": "2026-07-23T00:00:00+00:00",
+      "title": "America Needs an Off-Ramp Between Doing Nothing and Shutting AI Down",
+      "summary": "2026年6月、米国商務省がAnthropicに対してAIモデル「Fable 5」と「Mythos 5」の世界的な運用停止を命じ、18日間にわたって両モデルが利用できなくなった事例から、米国はAI規制において「何もしない」ことと「完全に廃止する」ことの間に、バランスの取れた中間的なアプローチが必要であることが示唆されている。この記事は、技術進化とリスク管理を両立させるための政策的な柔軟性の重要性を論じている。",
+      "url": "https://warontherocks.com/cogs-of-war/america-needs-an-off-ramp-between-doing-nothing-and-shutting-ai-down/",
+      "source": "War on the Rocks",
+      "published_at": "2026-07-23T08:00:26+00:00",
       "lang": "en"
     }
   ]
