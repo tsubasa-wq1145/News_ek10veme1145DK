@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T14:54:09.462686+00:00",
+  "updated_at": "2026-07-24T23:05:33.314679+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -58,7 +58,57 @@
   ],
   "news": [
     {
-      "id": "82629308",
+      "id": "63732684",
+      "category": "経済・ビジネス（日本）",
+      "title": "米大統領“大規模攻撃の準備万端もイラン側と話し合っている”",
+      "summary": "トランプ米大統領は、イランに対する大規模攻撃の準備が整っている一方で、現在イラン側と話し合いを進めていると述べた。大統領は引き金となる出来事の発生を見極めながら、イラン側の対応を注視する方針を示している。",
+      "url": "http://www3.nhk.or.jp/news/html/20260725/k10015185821000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-24T22:34:18+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "75279802",
+      "category": "経済・ビジネス（日本）",
+      "title": "中国 王毅外相「日本の再武装を許さない」 ロシアと連携姿勢",
+      "summary": "中国の王毅外相はロシアのラブロフ外相と会談し、日本の再武装に反対する立場を表明しました。ラブロフ外相も日本の再軍事化に断固反対すると述べるなど、両国は日本への対抗姿勢で連携する意向を示しています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260725/k10015185831000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-24T21:49:13+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "74495185",
+      "category": "経済・ビジネス（日本）",
+      "title": "英 首相官邸の機能の一部をマンチェスターに移転 初めて訪問",
+      "summary": "イギリスのバーナム首相は地方分権政策の一環として、首相官邸の機能の一部をロンドンからイングランド北部のマンチェスターに移すための新たな官邸を初めて訪問しました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260725/k10015185751000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-24T20:15:47+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "67925279",
+      "category": "経済・ビジネス（日本）",
+      "title": "インド 若者抗議デモ 約7週間続く 混乱収束の見通し立たず",
+      "summary": "インドで大学入試問題の漏えい疑惑をきっかけに若者たちによる政府への抗議デモが約7週間にわたって続いており、混乱の終息が見通せない状況が続いている。",
+      "url": "http://www3.nhk.or.jp/news/html/20260725/k10015185691000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-24T20:13:48+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "16790157",
+      "category": "経済・ビジネス（日本）",
+      "title": "ロシアとウクライナ 双方がミサイルによる攻撃 死傷者も",
+      "summary": "ウクライナの検察はロシアによるミサイル攻撃でキーウ近郊で10人が死亡したと発表し、一方ロシア中部ではウクライナのミサイル攻撃で6人が死亡するなど、双方による攻撃の応酬が続いています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260725/k10015185811000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-24T20:12:28+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "89726862",
       "category": "経済・ビジネス（日本）",
       "title": "韓国統一相“北朝鮮の非核化より対話再開を先に”",
       "summary": "韓国統一相が北朝鮮政策を転換し、非核化よりも対話の再開を優先すると発表しました。対話を通じて段階的に核開発の凍結を進め、最終的な非核化を目指す方針ですが、韓国メディアからは北朝鮮の核保有を容認する可能性があるとの懸念の声が上がっています。",
@@ -68,7 +118,7 @@
       "lang": "ja"
     },
     {
-      "id": "74561836",
+      "id": "48973931",
       "category": "経済・ビジネス（日本）",
       "title": "スペイン山火事拡大で首都周辺に非常事態宣言 欧州各地で被害",
       "summary": "スペインの首都マドリード周辺で山火事が拡大したため非常事態宣言が発令され、消火活動が進行中です。ヨーロッパ全域で山火事が多発しており、各地に被害が広がっています。",
@@ -78,7 +128,7 @@
       "lang": "ja"
     },
     {
-      "id": "40017773",
+      "id": "10837203",
       "category": "経済・ビジネス（日本）",
       "title": "独フォルクスワーゲン 上半期決算は減益 中国販売減少などで",
       "summary": "フォルクスワーゲンが2024年上半期の決算を発表し、中国市場での販売減少などを受けて最終利益が前年同期比35%以上の減益となったと報告した。",
@@ -88,57 +138,17 @@
       "lang": "ja"
     },
     {
-      "id": "51003501",
-      "category": "経済・ビジネス（日本）",
-      "title": "トランプ大統領“損害 イランの資産で補償”にイラン外相反発",
-      "summary": "トランプ大統領がイランの攻撃による損害賠償をアメリカが管理するイランの資産から支払うと主張して圧力を強める一方、イラン外相はこれを「火種となりうる前例」と強く反発しており、米イラン間の対立が深刻化している。",
-      "url": "http://www3.nhk.or.jp/news/html/20260724/k10015185491000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-24T10:22:51+00:00",
-      "lang": "ja"
+      "id": "71274852",
+      "category": "経済・ビジネス（世界）",
+      "title": "Trump vows to investigate EU over fining of US tech companies",
+      "summary": "トランプ米大統領は、EU（欧州連合）がグーグル、アップル、メタ、アマゾンなどの米国テック企業に課した罰金は「完全に撤回されるべき」だと述べ、EUに対する調査を約束した。大統領はEUの規制姿勢が米国の技術企業に不公正な扱いをしていると主張している。",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-24T20:23:58+00:00",
+      "lang": "en"
     },
     {
-      "id": "84510953",
-      "category": "経済・ビジネス（日本）",
-      "title": "世界遺産登録の審議始まる 「飛鳥・藤原の宮都」は26日か",
-      "summary": "韓国で開かれているユネスコの世界遺産委員会で新規登録候補の審議が24日から始まり、日本が推薦する奈良県の「飛鳥・藤原の宮都」は26日にも世界遺産として登録される見通しが示されている。",
-      "url": "http://www3.nhk.or.jp/news/html/20260724/k10015185361000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-24T10:16:30+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "77157968",
-      "category": "経済・ビジネス（日本）",
-      "title": "トランプ政権 新追加関税を発動 日本は既存税率あわせ12.5％",
-      "summary": "トランプ政権が日本を含む60の貿易相手に対して新たな追加関税を発動し、日本からの輸入品には既存の関税率と合わせて12.5％の関税が課されることになりました。この措置は日本時間24日午後1時すぎに実施される予定です。",
-      "url": "http://www3.nhk.or.jp/news/html/20260724/k10015184731000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-24T10:00:16+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "62284501",
-      "category": "経済・ビジネス（日本）",
-      "title": "茂木外相 日本の対ロシア政策変わらずも意思疎通は必要",
-      "summary": "茂木外相はフィリピンでロシアのラブロフ外相と会談し、制裁を含む日本の対ロシア政策に変更がないことを強調しながらも、隣国として政府間の意思疎通が必要だという立場を示しました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260724/k10015185281000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-24T07:27:40+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "44122761",
-      "category": "経済・ビジネス（日本）",
-      "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月24日の動き）",
-      "summary": "ロシアによるウクライナへの軍事侵攻が継続しており、各地でロシア軍とウクライナ軍の戦闘が激化しています。多くの市民が国外への避難を余儀なくされており、7月24日のウクライナ情勢に関する戦闘状況と関係国の外交動向が随時更新で報告されています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260724/k10015141151000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-24T07:25:05+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "65136759",
+      "id": "83745248",
       "category": "経済・ビジネス（世界）",
       "title": "Faisal Islam: The UK's Trump trade deal no longer looks world-beating",
       "summary": "英国がアメリカと交渉したトランプ政権との貿易協定は、当初の期待ほど優れたものではなくなった。英国に課せられている米国の関税は実質的に変わっていない一方で、他国がより有利な条件の協定を獲得しており、英国の交渉成果の相対的な価値が低下している。",
@@ -148,7 +158,7 @@
       "lang": "en"
     },
     {
-      "id": "31627841",
+      "id": "74223517",
       "category": "経済・ビジネス（世界）",
       "title": "We split money equally even when one of us earned a lot more",
       "summary": "ハンナとマックスは、マックスがリストラされた後も財務を統合し続け、支出を削減するために「抜本的な措置」を講じた。収入に大きな差があっても請求書を均等に分割しているカップルが、経済的困難に直面しながらも、共同財政管理の方針を貫いている状況が描かれている。",
@@ -158,7 +168,7 @@
       "lang": "en"
     },
     {
-      "id": "89761154",
+      "id": "75696822",
       "category": "経済・ビジネス（世界）",
       "title": "US hits dozens of countries with new wave of tariffs",
       "summary": "米国が強制労働に関連する輸入品について約60の貿易相手国に対する関税を発表しました。これらの関税は、強制労働を適切に防止できなかったとの主張に基づいています。米国は貿易パートナーに対して強制労働慣行の撤廃を求める厳しい姿勢を示しており、この措置は国際的な労働基準の遵守を強制するためのものです。",
@@ -168,7 +178,7 @@
       "lang": "en"
     },
     {
-      "id": "17499194",
+      "id": "26579756",
       "category": "経済・ビジネス（世界）",
       "title": "Why are UK fuel prices rising again?",
       "summary": "イギリスのガソリンとディーゼル価格が再び上昇している。これは原油価格がバレルあたり100ドル付近まで戻ってきたためである。",
@@ -178,7 +188,7 @@
       "lang": "en"
     },
     {
-      "id": "28293437",
+      "id": "54148210",
       "category": "経済・ビジネス（世界）",
       "title": "Watch: Another day, more Trump tariffs - but are they working?",
       "summary": "トランプ大統領が関税を継続して発動しており、BBC記者が米国経済への影響、負担を負う層、そして関税が実際に機能しているかについて解説している。関税政策がもたらす経済的効果と課題について焦点を当てた報道内容となっている。",
@@ -188,7 +198,7 @@
       "lang": "en"
     },
     {
-      "id": "17378030",
+      "id": "86771959",
       "category": "経済・ビジネス（世界）",
       "title": "UK mortgage rates rise to highest level for a month",
       "summary": "イギリスの住宅ローン金利が1ヶ月間で最高水準に上昇した。中東の緊張が再燃したことで貸し手のコストが増加し、借入金利の上昇につながっている。",
@@ -198,7 +208,7 @@
       "lang": "en"
     },
     {
-      "id": "22582804",
+      "id": "40955785",
       "category": "経済・ビジネス（世界）",
       "title": "UK complacent about war threat, warns BAE boss",
       "summary": "欧州最大の防衛関連企業のトップが、英国は戦争の脅威に対して楽観的すぎると警告している。チャールズ・ウッドバーン博士は、攻撃の脅威がかつてないほど高まっていると述べており、英国がこの深刻な状況を十分に認識していないことへの懸念を示している。防衛産業の強化と国家の危機意識の向上が急務だと指摘している。",
@@ -208,173 +218,163 @@
       "lang": "en"
     },
     {
-      "id": "90388259",
-      "category": "経済・ビジネス（世界）",
-      "title": "Tourist tax introduced in Edinburgh: How much is it and who pays?",
-      "summary": "スコットランドの首都エディンバラが、宿泊者に対する課金を導入した国内初の都市となりました。この観光税は、ホテルやゲストハウスなどの宿泊施設を利用する観光客に対して課される新たな料金制度です。この取り組みは、観光地としてのエディンバラの持続可能な発展と観光インフラの整備を目指しており、導入により得られた収益は地域の観光関連施設やサービスの改善に充てられる予定です。",
-      "url": "https://www.bbc.co.uk/news/articles/cvgl8j37839o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-23T21:46:48+00:00",
+      "id": "75776651",
+      "category": "テクノロジー・AI",
+      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M",
+      "summary": "リード・ホフマンとマーク・ピンカスが共同設立した新しいAIラボ「Prentis」が1億ドルの資金調達に向けて交渉中である。同社は、ルーチンなコンピュータタスクの自動化がやがてコーディングを上回り、AIの最大の用途になると予想している。",
+      "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-24T22:25:58+00:00",
       "lang": "en"
     },
     {
-      "id": "17969992",
+      "id": "55504393",
       "category": "テクノロジー・AI",
-      "title": "The tech-broification of American science has officially begun",
-      "summary": "トランプ政権は木曜日に初の「ジェネシス・ミッション」助成金を発表し、AI駆動型科学プロジェクト数百件に50億ドルを充当し、ホワイトハウスはこの取り組みを「マンハッタン・プロジェクトと同等の緊急性と野心」と表現している。同時期にトランプ政権の科学顧問マイケル・クラツィオスは議会でこの構想を議員らに売り込んでいる。",
-      "url": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
+      "title": "TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between",
+      "summary": "TechCrunch Disrupt 2026では、金銭がもはや単なる現金や銀行口座に留まらず、より複雑に進化していることに着目し、その進化を探索する専用ステージ「Smart Money Stage」を新たに設置する。このステージではフィンテック、決済、人工知能などの領域を網羅し、お金と技術の融合について深く掘り下げる予定となっている。",
+      "url": "https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-24T22:10:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "40901421",
+      "category": "テクノロジー・AI",
+      "title": "Vietnam is looking to restrict social media for kids; here are the growing number of other countries doing the same",
+      "summary": "ベトナムが子どもたちのソーシャルメディア利用を制限する方針を検討しており、同様の規制を導入する国が世界的に増加している。オーストラリアは2025年後半に最初の禁止措置を実施した国となり、いじめやネット依存、捕食者への曝露などの若年ユーザーが直面するリスクを軽減することを目指している。複数の国が子どもの安全保護とメンタルヘルス改善のため、ソーシャルメディアの利用年齢制限や規制強化に動き始めている。",
+      "url": "https://techcrunch.com/2026/07/24/social-media-ban-children-countries-list/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-24T21:15:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "81451542",
+      "category": "テクノロジー・AI",
+      "title": "Waymo reportedly mulling a breakup with Uber",
+      "summary": "Waymo（ウェイモ）とUberの提携関係が2028年5月に終了する予定であり、複数の報道によるとWaymoは両社の提携解消を検討しているとされている。ウェーバーが技術開発企業との協力を終了することで、自動運転タクシー事業の独立化を目指しているものと考えられる。",
+      "url": "https://techcrunch.com/2026/07/24/waymo-reportedly-mulling-a-breakup-with-uber/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-24T20:43:35+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "18827444",
+      "category": "テクノロジー・AI",
+      "title": "Volkswagen engineers charged with insider trading tied to Rivian joint venture",
+      "summary": "フォルクスワーゲンのエンジニア2名が、リヴィアンとの合弁事業に関連したインサイダー取引の容疑で起訴されました。金曜日に公開された起訴状によると、彼らはリヴィアン社の機密情報を利用して同社の株式を購入したと指摘されています。",
+      "url": "https://techcrunch.com/2026/07/24/volkswagen-engineers-charged-with-insider-trading-tied-to-rivian-joint-venture/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-24T19:56:23+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "62283234",
+      "category": "テクノロジー・AI",
+      "title": "Midjourney bought the astrology app Co-Star",
+      "summary": "AI画像生成企業のMidjourneyが、個人用占星術アプリの「Co-Star」を買収した。Co-Starは毎日のホロスコープを提供する無料アプリで、ユーザーは自分の星座情報をチェックできる。Midjourneyは猫の画像生成から医療スキャン画像生成へと事業を拡大してきたが、今回の買収により占星術分野への進出を実現させた。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
       "source": "AI | The Verge",
-      "published_at": "2026-07-24T14:43:55+00:00",
+      "published_at": "2026-07-24T19:06:58+00:00",
       "lang": "en"
     },
     {
-      "id": "80827619",
+      "id": "76720278",
       "category": "テクノロジー・AI",
-      "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
-      "summary": "OpenAIの新しい音声モード機能がChatGPTのデスクトップアプリに搭載されました。このデスクトップ版音声機能はChatGPT WorkやCodexと連携して、タスク完了やエージェント制御を行うことができます。",
-      "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+      "summary": "CognitionがPokeを買収したのは、AI技術の競争力がモデルの性能だけでなく、ユーザーとのインタラクション方法にも左右されるようになったためだ。この買収により、Pokeの会話スタイルと対話モデルがCognitionのコーディングエージェント「Devin」に統合され、AI アシスタントの個性や使いやすさがビジネス上の重要な差別化要因として認識されるようになった。",
+      "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
       "source": "TechCrunch",
-      "published_at": "2026-07-24T13:36:42+00:00",
+      "published_at": "2026-07-24T18:07:32+00:00",
       "lang": "en"
     },
     {
-      "id": "74668924",
+      "id": "86629537",
       "category": "テクノロジー・AI",
-      "title": "Facebook launches a dedicated Marketplace app for sellers, adds a free verification system",
-      "summary": "Facebookが頻繁に商品を出品・販売するユーザー向けに、専用マーケットプレイスアプリ「Seller」をリリースした。このアプリは売上管理やリスティング機能を効率化し、新たに無料の本人確認システムも導入して、ユーザーの信頼性向上を図っている。",
-      "url": "https://techcrunch.com/2026/07/24/facebook-launches-a-dedicated-marketplace-app-for-sellers-adds-a-free-verification-system/",
+      "title": "US accuses American of allegedly wiping his phone using a ‘duress’ password during border search",
+      "summary": "米国市民が国境検査時に強制パスワードを使用してスマートフォンのデータを削除したとする政府の主張を法廷で無効にするよう請求し、米国国境における憲法上の権利に関する新たな問題を提起している。この事件は、国境での捜索時における個人の法的保護と政府権限のバランスについて重要な判例を作る可能性を持っている。",
+      "url": "https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search/",
       "source": "TechCrunch",
-      "published_at": "2026-07-24T12:47:15+00:00",
+      "published_at": "2026-07-24T17:53:30+00:00",
       "lang": "en"
     },
     {
-      "id": "12372052",
-      "category": "テクノロジー・AI",
-      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-      "summary": "OpenAIとAnthropicのAIセーフガード機能が、未知の脆弱性を発見し、それを悪用するツール開発を行う攻撃的サイバーセキュリティ研究者たちの業務を阻害しているという問題についての記事です。複数のセキュリティ研究者らが、これらの企業が導入した安全機構が自らの重要な研究活動にどのような影響を与えているかについて述べています。",
-      "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-24T01:00:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "83696063",
-      "category": "テクノロジー・AI",
-      "title": "Meet the judges who will crown Australia’s next breakout startup",
-      "summary": "TechCrunchはStripeとのパートナーシップでオーストラリア版「Startup Battlefield」を開催し、同国の最も革新的なアーリーステージのスタートアップを発掘する。このイベントでは、業界の著名な審査員たちがオーストラリアの次世代起業家を支援し、成長の機会を提供することで、地域のスタートアップエコシステムの活性化を目指している。",
-      "url": "https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-24T00:05:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "55591232",
-      "category": "テクノロジー・AI",
-      "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
-      "summary": "インテルの自動運転技術子会社モービルアイのアムノン・シャシュア最高経営責任者（CEO）は、ロボタクシーおよびロボティクス事業への展開に伴い、CEOの職を退任し、会長職に就く予定である。シャシュアは企業の新たな成長段階を指揮する新しいリーダーシップ体制へと移行することで、モービルアイが自動運転車やロボット技術の分野でさらなる事業拡大を目指している。",
-      "url": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-23T22:40:08+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "69689025",
-      "category": "テクノロジー・AI",
-      "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
-      "summary": "Amazonは、より複雑な指示に対応できるようにAlexa Plusアシスタントの更新を発表しました。このプレビュー版の更新により、Alexa PlusはBosch、Delta、Ecovacs、iRobot、Yale Home、Whirlpool、TapoおよびEufyなどの複数のスマートホームデバイスとの連携が可能になり、ユーザーのリクエストを自動的に適切なデバイスにルーティングします。",
-      "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
-      "source": "AI | The Verge",
-      "published_at": "2026-07-23T21:15:06+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "85584557",
-      "category": "テクノロジー・AI",
-      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
-      "summary": "AMDがNvidiaに対抗する新型ラック規模システム「Helios」を発表し、本年中に顧客への出荷を開始する予定である。このシステムはAIインフラの構築において競争力を強化することを目的としている。AMDはチップメーカー市場での地位向上を目指し、エンタープライズAI分野でのプレゼンス拡大を進めている。",
-      "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-23T20:33:02+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "38299474",
+      "id": "26260980",
       "category": "台湾・中台関係",
-      "title": "Jyong Biotech Highlights Multi-Billion Dollar Global BPH Market Opportunity and Reaffirms Strategic Focus on Global Licensing Partnerships",
-      "summary": "ジョン・バイオテック・リミテッド（Nasdaq: MENS）は、前立腺肥大症（BPH）の世界市場が数十億ドル規模の機会を提供していることを強調し、グローバルライセンシングパートナーシップへの戦略的焦点を改めて表明した。同社は植物由来の革新的治療薬の開発・商用化に専念する科学駆動型バイオテクノロジー企業である。",
-      "url": "https://www.globenewswire.com/news-release/2026/07/23/3332361/0/en/Jyong-Biotech-Highlights-Multi-Billion-Dollar-Global-BPH-Market-Opportunity-and-Reaffirms-Strategic-Focus-on-Global-Licensing-Partnerships.html",
+      "title": "TEEMA advances Mexico science park plan as Sonora offers visa and policy support",
+      "summary": "メキシコのソノラ州がビザと政策面でのサポートを提供する中、台湾電機電子工業同業公会（TEEMA）がメキシコの科学園区への投資促進イベントを7月21日に台北で開催し、ソノラ州が重要な焦点となった。このイベントではソノラ州から台湾企業向けの新たな支援が発表され、両地域の科学技術産業における連携強化の意欲が示された。台湾の電子機器メーカーはメキシコの地政学的な位置づけと成長する産業基盤に関心を寄せており、この投資機会を通じて北米市場へのアクセス拡大を目指している。",
+      "url": "https://www.digitimes.com/news/a20260721PD246/taiwan-science-park-mexico-investment-government.html",
+      "source": "Digitimes",
+      "published_at": "2026-07-23T22:18:22+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "68435252",
+      "category": "台湾・中台関係",
+      "title": "Trump admin announces between 10% and 12.5% tariffs on 60 countries over forced labor imports",
+      "summary": "トランプ政権は、強制労働で製造された製品の輸入を禁止していない60カ国に対して関税を引き上げており、10％の世界的な関税が金曜日に期限切れとなる予定である。政権高官は木曜日、強制労働禁止の実施を開始した国々に対しては10％の関税を適用し、未実施の国々には12.5％の関税を課すと発表した。",
+      "url": "https://freerepublic.com/focus/f-news/4389129/posts",
+      "source": "Freerepublic.com",
+      "published_at": "2026-07-23T21:51:19+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "26791531",
+      "category": "台湾・中台関係",
+      "title": "USC Games Expo Is Shaping the Next Generation of Game Creators Through ‘Aftertaste’, ‘Sisyphus’s Worst Day (Again)’ & ‘Unrealtor’",
+      "summary": "USC Games Expoは10年間にわたり、新進のインディーゲーム開発者にとって業界有数の発表の場として機能してきました。「Journey」「What Remains of Edith Finch」「Threes!」など後に高く評価されたゲームの開発者たちも、このイベントを通じて初期段階での作品発表を行い、ゲーム業界の会話に新たな視点をもたらしています。今回のExpoでは「Aftertaste」「Sisyphus's Worst Day (Again)」「Unrealtor」などの作品が次世代のゲームクリエイターたちの才能を示しています。",
+      "url": "http://deadline.com/2026/07/usc-games-expo-interview-jim-huntley-1237001433/",
+      "source": "Deadline",
+      "published_at": "2026-07-23T21:45:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "45667828",
+      "category": "台湾・中台関係",
+      "title": "Roots Expands Travel Retail Presence with New Store at Vancouver International Airport (YVR)",
+      "summary": "ルーツは、カナダを代表するライフスタイルブランドとして、バンクーバー国際空港での新店舗オープンを発表し、トラベルリテール事業の拡大を進めている。同社は空港内での店舗展開を通じて、国内外の旅行者に向けた販売チャネルの強化を図っている。この新店舗は同ブランドのグローバル拡張戦略における重要なマイルストーンとなっている。",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/roots-expands-travel-retail-presence-with-new-store-at-vancouver-international-airport-yvr",
+      "source": "Financial Post",
+      "published_at": "2026-07-23T21:06:16+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "63682862",
+      "category": "台湾・中台関係",
+      "title": "Intel forecasts third-quarter revenue above estimates on AI chip demand, shares surge",
+      "summary": "インテルは人工知能チップの需要により第3四半期の売上が予想を上回ると予測し、株価が急騰した。同社はAI関連製品の好調な需要に支えられて、アナリスト予想を超える収益見通しを発表したことで投資家の信頼を回復させ、市場で強気の反応を呼び起こした。AI技術の急速な成長がインテルの業績改善を牽引している。",
+      "url": "https://www.theglobeandmail.com/business/international-business/article-intel-earnings-quarterly-revenue-estimates-ai-server-chip-demand/",
+      "source": "The Globe And Mail",
+      "published_at": "2026-07-23T20:21:35+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "40562707",
+      "category": "台湾・中台関係",
+      "title": "Trump says Chinese President Xi Jinping will visit US on Sept 24",
+      "summary": "トランプ大統領は中国の習近平国家主席が9月24日に米国を訪問すると発表した。人工知能の優位性が中心的な討議課題になると見込まれている。",
+      "url": "https://www.foxnews.com/politics/trump-says-chinese-president-xi-jinping-visit-us-sept-24",
+      "source": "Fox News",
+      "published_at": "2026-07-23T19:32:40+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "70507674",
+      "category": "台湾・中台関係",
+      "title": "[Latest] Global Molybdenum 99 Market Size/Share Worth USD 8.33 Billion by 2035 at a 4.89% CAGR: Healthcare Foresights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
+      "summary": "世界的なモリブデン99市場は2025年に約51億7,000万米ドルと評価され、2035年までに833億米ドルに達すると予測されており、年平均成長率は4.89%となる見通しです。この成長は医療用途における需要の増加、特に核医学診断における利用拡大に支えられています。",
+      "url": "https://www.globenewswire.com/news-release/2026/07/23/3332525/0/en/Latest-Global-Molybdenum-99-Market-Size-Share-Worth-USD-8-33-Billion-by-2035-at-a-4-89-CAGR-Healthcare-Foresights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segmentation-Growt.html",
       "source": "GlobeNewswire",
-      "published_at": "2026-07-23T14:52:00+00:00",
+      "published_at": "2026-07-23T19:30:00+00:00",
       "lang": "en"
     },
     {
-      "id": "76042433",
+      "id": "94741279",
       "category": "台湾・中台関係",
-      "title": "Environmental Monitoring Market to Reach $21.14 Billion by 2030 as Air Quality Regulations and IoT Adoption Accelerate",
-      "summary": "環境モニタリング市場は2030年までに214億ドルに達する見込みで、大気汚染規制の強化とIoT技術の採用が成長を加速させている。屋外モニターと大気汚染監視が最も急速な成長を記録し、アジア太平洋地域は工業化、スマートシティプロジェクト、規制強化、AI搭載センサーネットワークの導入により急速に拡大するとされている。",
-      "url": "https://www.globenewswire.com/news-release/2026/07/23/3332323/28124/en/Environmental-Monitoring-Market-to-Reach-21-14-Billion-by-2030-as-Air-Quality-Regulations-and-IoT-Adoption-Accelerate.html",
+      "title": "Hong Kong Mental Wellness Association Launches International Chapter of Mental Wellness Ambassadors Training",
+      "summary": "香港メンタルウェルネス協会がメンタルウェルネス・アンバサダー養成訓練の国際支部を立ち上げた。このプログラムは、メンタルヘルス啓発と心の健康サポートに取り組む国際的なアンバサダーを育成することを目的としている。同協会は世界中の地域で心の健康意識を高め、適切なサポート体制を構築していく方針である。",
+      "url": "https://www.globenewswire.com/news-release/2026/07/23/3332480/0/en/Hong-Kong-Mental-Wellness-Association-Launches-International-Chapter-of-Mental-Wellness-Ambassadors-Training.html",
       "source": "GlobeNewswire",
-      "published_at": "2026-07-23T14:14:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "89087329",
-      "category": "台湾・中台関係",
-      "title": "Behavioural and emotional assessment of Malaysian adolescent boys with congenital colour vision deficiency and its association with socioeconomic factors",
-      "summary": "マレーシアの先天色覚異常を持つ思春期男性の行動および感情評価と社会経済的要因の関連性に関する研究で、色覚異常が日常機能と社会的相互作用に課題をもたらすことが知られているが、思春期における行動・感情的影響はまだ十分に研究されていない。本研究は色覚異常のある思春期男性とない者の行動・感情的特性を比較し、社会経済的要因との関連を調査することを目的としている。",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353847",
-      "source": "Plos.org",
-      "published_at": "2026-07-23T14:00:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "28808612",
-      "category": "台湾・中台関係",
-      "title": "Global lung cancer burden, trends, and projections from 2010 to 2050: A population-level severity framework integrating DALYs-per-case and mortality-to-incidence ratio",
-      "summary": "肺がんは世界中でがん死亡の主要な原因であり、本研究は2010年から2050年にかけての肺がんの負担、傾向、将来予測を、患者個人レベルでの疾病重症度を示すDALY（障害調整生存年数）と死亡率・発症率の比率を組み合わせた枠組みを用いて定量化しました。発症率と死亡率だけでは個々の患者の疾病重症度を完全には捉えられないため、より包括的な評価が必要とされています。",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354350",
-      "source": "Plos.org",
-      "published_at": "2026-07-23T14:00:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "19094705",
-      "category": "台湾・中台関係",
-      "title": "T-shirt slogan speaks volumes in Taiwan as Hong Kong raids see book sales rocket",
-      "summary": "香港の独立系書店経営者に対する一連の逮捕が相次ぐ中、台湾ではTシャツのスローガンが香港の状況への懸念を象徴しており、この事態は香港の本の売上急増につながっている。台湾の人々は香港の言論の自由と出版の自由が脅かされていることに危機感を募らせながら、同時に香港の書店を支援する動きが広がっている。このように台湾が香港の民主主義と自由を巡る困難に対して共感と支援を示す姿勢が、社会的なムーブメントとして現れている。",
-      "url": "https://www.irishtimes.com/world/asia-pacific/2026/07/23/t-shirt-slogan-speaks-volumes-in-taiwan-as-hong-kong-raids-see-book-sales-rocket/",
-      "source": "The Irish Times",
-      "published_at": "2026-07-23T12:23:27+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "67562691",
-      "category": "台湾・中台関係",
-      "title": "Control Yuan orders Air Force to make changes after fatal F-16V crash",
-      "summary": "台湾の監察院は1月に起きたF-16V戦闘機の訓練中の墜落事故で操縦士が亡くなったことを受けて、空軍に対しリスク管理と整備手順の重大な不備を指摘し、改善措置を勧告した。この事故は空軍の安全管理体制に深刻な問題があることを露呈し、監察院は空軍の安全体制の強化を求めている。今後の同様の事故防止に向けて、空軍は整備プロセスとリスク評価システムの抜本的な改革が必要とされている。",
-      "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260723-cna02.htm",
-      "source": "Globalsecurity.org",
-      "published_at": "2026-07-23T12:00:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "21360373",
-      "category": "台湾・中台関係",
-      "title": "Taiwan Straits drills information already released, Chinese FM spokesperson says",
-      "summary": "中国外交部報道官は、台湾海峡での実弾演習は既に公開された情報に基づくものであると述べた。この演習は米国国務長官マルコ・ルビオと中国外交部長王毅がフィリピンで会談した翌日に実施されたもので、両者は台湾問題を含む複数の議題について協議していた。中国側は演習の実施が事前に計画されたものであることを強調している。",
-      "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260723-globaltimes01.htm",
-      "source": "Globalsecurity.org",
-      "published_at": "2026-07-23T12:00:00+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "57377741",
-      "category": "台湾・中台関係",
-      "title": "Taiwan condemns China after another research vessel enters its EEZ",
-      "summary": "台湾の海岸警備隊は、中国の調査船が台湾の排他的経済水域内で漁業資源調査を実施したことに対し、主権侵害として中国を非難した。台湾は中国による繰り返される領海侵犯に強く抗議し、国際法に基づく権利の尊重を求めている。",
-      "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260723-cna01.htm",
-      "source": "Globalsecurity.org",
-      "published_at": "2026-07-23T12:00:00+00:00",
+      "published_at": "2026-07-23T17:58:00+00:00",
       "lang": "en"
     }
   ]
