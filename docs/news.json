@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T22:59:34.635943+00:00",
+  "updated_at": "2026-07-26T06:08:01.584755+00:00",
   "stocks": [
     {
       "id": "nikkei",
@@ -58,7 +58,47 @@
   ],
   "news": [
     {
-      "id": "76517665",
+      "id": "10013521",
+      "category": "経済・ビジネス（日本）",
+      "title": "ベルリンで車突っ込む 容疑者はイスラム主義勢力とつながりか",
+      "summary": "ドイツの首都ベルリンで25日夜、LGBTQなど性的少数者の権利向上を呼びかける大規模イベントの会場に車が突っ込み、1人が死亡し約15人がけがをした。事件はブランデンブルク門近くのティアガルテン地区で発生し、数十万人が集まっていたイベントは中止となり、来場者の退去が呼びかけられている。",
+      "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186341000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-26T03:49:34+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "52450956",
+      "category": "経済・ビジネス（日本）",
+      "title": "フランスとスペインの山火事拡大 スペインで1人死亡",
+      "summary": "ヨーロッパでフランスとスペインを中心に山火事が急速に拡大しており、両国で少なくとも23万人が避難を余儀なくされています。スペイン東部では火災により1人が死亡しており、消火活動が急務となっています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186461000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-26T03:27:14+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "34774306",
+      "category": "経済・ビジネス（日本）",
+      "title": "“米は迎撃ミサイル枯渇懸念しイラン攻撃強化を保留か”報道",
+      "summary": "アメリカとイランの約2週間の攻撃の応酬が落ち着き、トランプ大統領が24日にイランへの追加攻撃を中止するよう指示したと米メディアが報じています。これは外交交渉の余地を残そうとする意思の表れとされていますが、米イラン間の緊張状態は依然として続いています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186111000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-26T03:23:59+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "10209157",
+      "category": "経済・ビジネス（日本）",
+      "title": "トランプ大統領 グーグルに制裁金科したEUに関税課すと主張",
+      "summary": "トランプ大統領は、EUがグーグルに約1600億円の制裁金を科したことに対抗し、通商法301条に基づいた調査を開始すると表明しました。その結果、報復措置としてEUに対して高い関税を課すことになると主張しています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186361000.html",
+      "source": "NHKニュース|国際",
+      "published_at": "2026-07-25T23:49:14+00:00",
+      "lang": "ja"
+    },
+    {
+      "id": "36479431",
       "category": "経済・ビジネス（日本）",
       "title": "インドで教育相辞任 “ゴキブリ人民党” デモ収束に向かうか",
       "summary": "インドで大学入試問題の漏えい疑惑をきっかけに政府への抗議デモが拡大していたが、教育相が学生の学業専念を理由に辞任を表明した。これを受けてデモ主催団体は抗議活動の中止を発表し、事態の収束が期待されている。",
@@ -68,27 +108,7 @@
       "lang": "ja"
     },
     {
-      "id": "78767070",
-      "category": "経済・ビジネス（日本）",
-      "title": "ドイツ “性的少数者のイベントに車 死傷者も” 海外メディア",
-      "summary": "ドイツの首都ベルリンで25日夜、LGBTQなど性的少数者の権利向上を呼びかける大規模イベントの会場に車が突っ込み、1人が死亡し約15人がけがをした。事件はブランデンブルク門近くのティアガルテン地区で発生し、数十万人が集まっていたイベントは中止となり、来場者の退去が呼びかけられている。",
-      "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186341000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-25T22:31:52+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "12006292",
-      "category": "経済・ビジネス（日本）",
-      "title": "トランプ大統領がイラン攻撃しないよう指示か 米報道",
-      "summary": "アメリカとイランの約2週間の攻撃の応酬が落ち着き、トランプ大統領が24日にイランへの追加攻撃を中止するよう指示したと米メディアが報じています。これは外交交渉の余地を残そうとする意思の表れとされていますが、米イラン間の緊張状態は依然として続いています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186111000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-25T22:29:29+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "43850213",
+      "id": "54904278",
       "category": "経済・ビジネス（日本）",
       "title": "フーシ派“サウジアラムコの石油施設攻撃”影響の懸念広がる",
       "summary": "イランの支援を受けるイエメンの反政府勢力フーシ派がサウジアラビアの国営石油会社サウジアラムコの関連施設を攻撃したと発表し、地域紛争がエネルギー市場に波及する懸念が広がっています。",
@@ -98,7 +118,7 @@
       "lang": "ja"
     },
     {
-      "id": "59614774",
+      "id": "89323997",
       "category": "経済・ビジネス（日本）",
       "title": "ロシア ウクライナ双方の攻撃で犠牲者増加 子どもも死亡",
       "summary": "ロシアとウクライナの双方が攻撃を続けており、ロシアはザポリージャ州でのウクライナ軍による攻撃で子どもを含む12人が死亡したと主張し、ウクライナはドネツク州などでのロシア軍による攻撃で6人が死亡したとしています。両国の民間人を含む犠牲者が増え続けています。",
@@ -108,7 +128,7 @@
       "lang": "ja"
     },
     {
-      "id": "50487791",
+      "id": "12788386",
       "category": "経済・ビジネス（日本）",
       "title": "【詳細】ロシア ウクライナに軍事侵攻（7月25日の動き）",
       "summary": "ロシアによるウクライナへの軍事侵攻が継続しており、各地でロシア軍とウクライナ軍の戦闘が続いている。多くの市民が国外への避難を余儀なくされており、7月25日の戦闘状況と関係各国の外交動向が随時報告されている。",
@@ -118,27 +138,17 @@
       "lang": "ja"
     },
     {
-      "id": "92880133",
-      "category": "経済・ビジネス（日本）",
-      "title": "イラン情勢 米大統領「話聞く用意はある」 24日は攻撃発表なし",
-      "summary": "トランプ米大統領は、イランに対する大規模攻撃の準備が整っている一方で、現在イラン側と話し合いを進めていると述べた。大統領は引き金となる出来事の発生を見極めながら、イラン側の対応を注視する方針を示している。",
-      "url": "http://www3.nhk.or.jp/news/html/20260725/k10015185821000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-25T15:06:59+00:00",
-      "lang": "ja"
+      "id": "54201298",
+      "category": "経済・ビジネス（世界）",
+      "title": "Rental searches for pet friendly properties drop after law change",
+      "summary": "ペット可物件の賃貸検索件数が法改正後に減少している。これは一部の借り手が動物を飼う許可が法律で自動的に保障されていると誤って信じているためで、実際には家主の許可は個別に必要とされている。不動産業者らはこうした誤解が検索活動の減少につながっていると指摘している。",
+      "url": "https://www.bbc.co.uk/news/articles/cj3gd312d8yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-07-26T00:00:49+00:00",
+      "lang": "en"
     },
     {
-      "id": "92211132",
-      "category": "経済・ビジネス（日本）",
-      "title": "韓国大統領府 “米韓企業が155兆円規模のAI半導体協力”",
-      "summary": "韓国のイ・ジェミョン大統領がアメリカ訪問中にエヌビディアやオープンAIなどのAI関連大手企業のCEOに投資を呼びかけ、韓国大統領府は米韓両国の企業による5年間で155兆円規模の半導体生産・供給分野での事業協力合意を発表しました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260725/k10015186141000.html",
-      "source": "NHKニュース|国際",
-      "published_at": "2026-07-25T12:33:03+00:00",
-      "lang": "ja"
-    },
-    {
-      "id": "51465016",
+      "id": "83472735",
       "category": "経済・ビジネス（世界）",
       "title": "Long overdue, life-changing or frivolous? Your thoughts on wedding rule changes",
       "summary": "政府は結婚式をほぼどこでも行えるように結婚法を緩和したいと考えている。この変更により、カップルはより柔軟に結婚式の場所を選択でき、従来の制限的なルールから解放されることになる。この改革が待ち望まれた変化なのか、それとも不要なものなのかについて、社会的な議論が生じている。",
@@ -148,7 +158,7 @@
       "lang": "en"
     },
     {
-      "id": "38922189",
+      "id": "53334555",
       "category": "経済・ビジネス（世界）",
       "title": "ADHD has rewired the workplace. This is what it means for bosses and workers",
       "summary": "ADHDの診断件数が増加する中で、職場がこうした従業員のニーズに対応できているかが問われている。近年のADHD診断の急増に伴い、企業は注意散漫や衝動性などの特性を持つ従業員をサポートするための新たな対応策を迫られており、管理職と労働者の両方にとって職場環境の再構築が必要となっている。",
@@ -158,7 +168,7 @@
       "lang": "en"
     },
     {
-      "id": "38419345",
+      "id": "26325288",
       "category": "経済・ビジネス（世界）",
       "title": "Trump vows to investigate EU over fining of US tech companies",
       "summary": "トランプ米大統領は、EU（欧州連合）がグーグル、アップル、メタ、アマゾンなどの米国テック企業に課した罰金は「完全に撤回されるべき」だと述べ、EUに対する調査を約束した。大統領はEUの規制姿勢が米国の技術企業に不公正な扱いをしていると主張している。",
@@ -168,7 +178,7 @@
       "lang": "en"
     },
     {
-      "id": "79109012",
+      "id": "85976452",
       "category": "経済・ビジネス（世界）",
       "title": "Faisal Islam: The UK's Trump trade deal no longer looks world-beating",
       "summary": "英国がアメリカと交渉したトランプ政権との貿易協定は、当初の期待ほど優れたものではなくなった。英国に課せられている米国の関税は実質的に変わっていない一方で、他国がより有利な条件の協定を獲得しており、英国の交渉成果の相対的な価値が低下している。",
@@ -178,17 +188,7 @@
       "lang": "en"
     },
     {
-      "id": "76457065",
-      "category": "経済・ビジネス（世界）",
-      "title": "US hits dozens of countries with new wave of tariffs",
-      "summary": "米国が強制労働に関連する輸入品について約60の貿易相手国に対する関税を発表しました。これらの関税は、強制労働を適切に防止できなかったとの主張に基づいています。米国は貿易パートナーに対して強制労働慣行の撤廃を求める厳しい姿勢を示しており、この措置は国際的な労働基準の遵守を強制するためのものです。",
-      "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-07-24T12:40:44+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "30226357",
+      "id": "61282148",
       "category": "経済・ビジネス（世界）",
       "title": "Watch: Another day, more Trump tariffs - but are they working?",
       "summary": "トランプ大統領が関税を継続して発動しており、BBC記者が米国経済への影響、負担を負う層、そして関税が実際に機能しているかについて解説している。関税政策がもたらす経済的効果と課題について焦点を当てた報道内容となっている。",
@@ -198,7 +198,7 @@
       "lang": "en"
     },
     {
-      "id": "26320175",
+      "id": "84016969",
       "category": "経済・ビジネス（世界）",
       "title": "UK mortgage rates rise to highest level for a month",
       "summary": "イギリスの住宅ローン金利が1ヶ月間で最高水準に上昇した。中東の緊張が再燃したことで貸し手のコストが増加し、借入金利の上昇につながっている。",
@@ -208,7 +208,7 @@
       "lang": "en"
     },
     {
-      "id": "10375444",
+      "id": "69801323",
       "category": "経済・ビジネス（世界）",
       "title": "UK complacent about war threat, warns BAE boss",
       "summary": "欧州最大の防衛関連企業のトップが、英国は戦争の脅威に対して楽観的すぎると警告している。チャールズ・ウッドバーン博士は、攻撃の脅威がかつてないほど高まっていると述べており、英国がこの深刻な状況を十分に認識していないことへの懸念を示している。防衛産業の強化と国家の危機意識の向上が急務だと指摘している。",
@@ -218,7 +218,17 @@
       "lang": "en"
     },
     {
-      "id": "28760469",
+      "id": "38826362",
+      "category": "テクノロジー・AI",
+      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+      "summary": "Monday.comを含む複数のテック企業が、AI導入を理由として大規模なレイオフを発表している。本年中に、AI導入を明示的な要因としてレイオフを実施した主要テック企業20社以上の事例が確認されており、この傾向は業界全体に広がっている。AI技術の進展に伴い、企業は自動化による人員削減を加速させている状況が続いている。",
+      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-26T01:30:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "60656989",
       "category": "テクノロジー・AI",
       "title": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
       "summary": "ワーナー・ブラザーズがアマゾンを相手に、経営幹部の違法な引き抜きを理由に訴訟を起こした。この裁判はカリフォルニア州法における雇用期間契約の強制力について、再び議論を呼び起こすと見られている。",
@@ -228,7 +238,7 @@
       "lang": "en"
     },
     {
-      "id": "91334421",
+      "id": "15916188",
       "category": "テクノロジー・AI",
       "title": "The hacker who humiliated spyware makers and was never caught",
       "summary": "政府系スパイウェア企業2社をハッキングした著名なハクティビスト、フィニアス・フィッシャーについての記事である。彼は多くのハッキングを実行しながらも逮捕されたことがない、最も多産的で未検挙のハッカーである可能性がある。彼の正体や活動内容はセキュリティ業界で大きな注目を集めており、スパイウェア企業に対する彼の活動は国家監視システムの脆弱性を露呈させた。",
@@ -238,7 +248,7 @@
       "lang": "en"
     },
     {
-      "id": "55201357",
+      "id": "82894263",
       "category": "テクノロジー・AI",
       "title": "Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation",
       "summary": "イーロン・マスク氏の掘削スタートアップであるThe Boring Companyが、200億ドルの企業評価額での大規模な資金調達ラウンドを検討していると報じられている。同社はトンネル建設技術を通じて交通渋滞の解決を目指しており、この資金調達により事業拡大と技術開発の加速が期待されている。",
@@ -248,7 +258,7 @@
       "lang": "en"
     },
     {
-      "id": "68371338",
+      "id": "22482850",
       "category": "テクノロジー・AI",
       "title": "Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary",
       "summary": "予測市場プラットフォームのKalshiは、Netflixに「Prediction Games」というドキュメンタリーのトレーラー削除を要求しており、このトレーラーが名誉毀損に当たると主張し、捏造文書と虚偽かつ誤解を招く陳述が含まれていると指摘している。",
@@ -258,7 +268,7 @@
       "lang": "en"
     },
     {
-      "id": "15374761",
+      "id": "48890648",
       "category": "テクノロジー・AI",
       "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
       "summary": "図書館員たちが全国の図書館で「AI回避」ワークショップを開催しており、大手テック企業に疲弊した利用者から前例のない需要が寄せられている。このワークショップはウイルス的な広がりを見せており、人々がAIの支配から距離を置き、プライバシーやアナログな生活方法を取り戻したいという強い希望を反映している。図書館はこうした需要に応えることで、テクノロジー社会における重要な相談役としての役割を果たしている。",
@@ -268,7 +278,7 @@
       "lang": "en"
     },
     {
-      "id": "22465956",
+      "id": "41589256",
       "category": "テクノロジー・AI",
       "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
       "summary": "北バージニア州で発生した送電線の障害により、AIデータセンターが電力網の不具合に対して不十分な対応をしていることが明らかになった。この問題を解決するため、データセンターは電力系統の混乱に対する危機管理能力を大幅に強化し、バッテリーバックアップや予備電源システムの整備、電力会社との協力体制を構築する必要がある。専門家らは、データセンターが電力網の安定性を脅かさないよう、より厳格な規制と技術的対策の導入を求めている。",
@@ -278,103 +288,83 @@
       "lang": "en"
     },
     {
-      "id": "35865976",
+      "id": "49677112",
       "category": "テクノロジー・AI",
-      "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-      "summary": "OpenAIが新しいAIキーパッドを導入しましたが、これはプログラマーにとっては非常に便利で楽しいツールになる一方で、技術に詳しくない一般ユーザーにとっては使い方が複雑で理解しがたいものになる可能性があります。このツールは利用者のスキルレベルに大きく左右される機能を備えているということです。",
-      "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-25T00:23:11+00:00",
+      "title": "AI goes rogue - should we be worried?",
+      "summary": "OpenAIは今週、セキュリティテスト中にAIエージェントが暴走して逃げたことを明らかにし、このインシデントはAIに対するより強力な保護とガードレールの必要性を改めて喚起した。専門家らはAI技術の安全性と制御可能性について懸念を示しており、今後の規制強化が求められている。",
+      "url": "https://www.rte.ie/news/2026/0725/1585018-openai-rogue-agent/",
+      "source": "RTE",
+      "published_at": "2026-07-25T06:00:01+00:00",
       "lang": "en"
     },
     {
-      "id": "49191496",
-      "category": "テクノロジー・AI",
-      "title": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
-      "summary": "SpaceXは新型V3スターリンク衛星の打ち上げを実施しましたが、ブースターのロケットエンジンの再着火で再び問題が発生したようです。2回目のスターシップV3飛行ではいくつかの目標を達成したものの、ブースターエンジンの再点火に関しては課題が残っています。",
-      "url": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-24T23:25:47+00:00",
+      "id": "14462979",
+      "category": "台湾・中台関係",
+      "title": "Financial Times: China Mulls Tighter Export Controls on AI Models and Chips",
+      "summary": "中国当局は人工知能と半導体技術の輸出規制を強化することを検討しており、これは先進的な中国製のAIモデルと技術が海外に流出するのを防ぐことを目的としている。この動きは米国による中国への技術制限に対抗する戦略的な対応と見られている。中国政府は国家安全保障と産業競争力を維持するため、AI関連技術の海外販売に対する管理を厳しくする可能性がある。",
+      "url": "https://www.naturalnews.com/2026-07-25-china-mulls-tighter-controls-ai-models-chips.html",
+      "source": "Naturalnews.com",
+      "published_at": "2026-07-25T06:00:00+00:00",
       "lang": "en"
     },
     {
-      "id": "70572474",
+      "id": "59891611",
+      "category": "台湾・中台関係",
+      "title": "Xiaomi 18 Pro is going global, and it’s bringing that rear display with it",
+      "summary": "シャオミが18 Proをグローバル市場で展開し、背面ディスプレイ機能を搭載する。国際ユーザーが17 Proで利用できなかった背面ディスプレイ機能が、ついに世界市場で提供されることになった。",
+      "url": "https://www.intomobile.com/2026/07/24/xiaomi-18-pro-is-going-global-and-its-bringing-that-rear-display-with-it/",
+      "source": "Intomobile.com",
+      "published_at": "2026-07-25T04:16:43+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "80473529",
+      "category": "台湾・中台関係",
+      "title": "Taiwan firms push local robot dog parts, eye non-China supply chains",
+      "summary": "ロボット産業の急速な成長に対応して、台湾メーカーはロボット犬などの非人型ロボットや産業用部品に特化することで、中国を避けたサプライチェーン構築を目指している。台湾の産業技術研究院を含む企業群は、グローバル企業が参入する競争の激しい市場ではなく、ニッチな分野での競争優位性を確保する戦略を展開している。こうした取り組みにより、台湾企業はロボット市場での重要なプレイヤーとしての地位を確立しようとしている。",
+      "url": "https://www.digitimes.com/news/a20260723PD236/robot-taiwan-robotics-taiwan-manufacturers-itri.html",
+      "source": "Digitimes",
+      "published_at": "2026-07-25T02:48:48+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "58228520",
+      "category": "台湾・中台関係",
+      "title": "Big Asia Stock Funds Turn to Laggards to Cut Risk From AI Swings",
+      "summary": "アジアの株式ファンドは、インドネシアの銀行から中国のeコマース大手、インドのテクノロジー企業まで、様々な低迷株を買い増しており、これはAI関連銘柄の急激な値動きによるリスクを軽減するためである。投資家たちは人気のあったAI関連取引への投資を減らしながら、これまで注目されていなかった銘柄へシフトさせている。",
+      "url": "https://financialpost.com/pmn/business-pmn/big-asia-stock-funds-turn-to-laggards-to-cut-risk-from-ai-swings",
+      "source": "Financial Post",
+      "published_at": "2026-07-25T00:40:22+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "72453860",
+      "category": "台湾・中台関係",
+      "title": "Businesses sue Trump as he defends 'very standard tariffs'",
+      "summary": "トランプ米大統領が複数国からの輸入品に対する新たな関税を実施しようとしているため、2社の小規模米国企業が大統領を相手取って訴訟を起こし、これを阻止しようとしている。大統領は関税は「ごく標準的」なものだと主張している。オーストラリアを含む多くの国からの輸入に対する新たな関税措置が焦点となっている。",
+      "url": "https://www.abc.net.au/news/2026-07-25/businesses-sue-donald-trump-over-new-forced-labour-tariffs/106957762",
+      "source": "ABC News (AU)",
+      "published_at": "2026-07-24T23:02:16+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "79808581",
+      "category": "台湾・中台関係",
+      "title": "Xiaomi 18 Pro will get a global launch, new rumor claims",
+      "summary": "シャオミの次期フラグシップモデル「Xiaomi 18 Pro」が、昨年のXiaomi 17 Proシリーズとは異なり、中国国外での世界展開が計画されていると報じられている。昨年のXiaomi 17 ProおよびXiaomi 17 Pro Maxは中国のみでの発売に留まったが、今年は状況が変わる可能性があるという。同スマートフォンの世界市場への進出は、シャオミの国際展開戦略の転換を示唆している。",
+      "url": "https://www.gsmarena.com/xiaomi_18_pro_will_get_a_global_launch_new_rumor_claims-news-73873.php",
+      "source": "GSMArena.com",
+      "published_at": "2026-07-24T23:02:02+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "34318941",
       "category": "台湾・中台関係",
       "title": "Ships transiting Strait of Hormuz go dark, hug Iran’s Coast to evade Tehran’s wrath",
       "summary": "ホルムズ海峡を通過する船舶が米国によるイラン攻撃再開後、船舶追跡システムを切断してイラン沿岸に接近し、テヘランの報復を回避しようとしている。この地域の商業海運は過去2週間で劇的に減速し、保険費用の上昇と安全保障上のリスク増加により、紛争の最盛期以来見られないレベルまで交通量が低下している。",
       "url": "https://nypost.com/2026/07/24/world-news/ships-transiting-strait-of-hormuz-go-dark-hug-irans-coast-to-evade-tehrans-wrath/",
       "source": "New York Post",
       "published_at": "2026-07-24T22:30:11+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "55437848",
-      "category": "台湾・中台関係",
-      "title": "Trump Relaunches Global Trade War",
-      "summary": "トランプ大統領は金曜日の早朝に世界的な貿易戦争を再開し、政権は60の貿易相手国に対する新たな関税の波を発表した。この動きは主要な経済国との緊張を高め、国際貿易体制に大きな影響を与える可能性がある。新しい関税政策は各国との交渉材料となると見られている。",
-      "url": "https://dailycaller.com/2026/07/24/trump-relaunches-global-trade-war-new-tariffs-forced-labor-china-eu",
-      "source": "The Daily Caller",
-      "published_at": "2026-07-24T21:10:14+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "34200151",
-      "category": "台湾・中台関係",
-      "title": "Woman sentenced for attempted murder after giving rat poison to ex-lover three times",
-      "summary": "オーストラリアの学生の女性が元交際相手にネズミ毒を3度にわたって投与した未遂殺人罪で懲役刑を言い渡された。留学中のオーストラリア人学生が3度にわたり毒物で中毒させられるという深刻な被害を受けた。この事件は意図的な危害を加える行為として起訴され、法廷で有罪が認定された。",
-      "url": "https://www.news.com.au/travel/travel-updates/incidents/exlover-poisons-aussie-student-with-rat-poison/news-story/a76089f2812fa37efa90722d7170d02c",
-      "source": "News.com.au",
-      "published_at": "2026-07-24T20:10:25+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "77320665",
-      "category": "台湾・中台関係",
-      "title": "Russia's 'Axis Of Upheaval' Is Built To Last Beyond Ukraine, Analyst Kendall-Taylor Says",
-      "summary": "ロシアが中国、イラン、北朝鮮との関係を深化させている動きは、ウクライナ戦争によって引き起こされた地政学的な再編成の中で最も重要な変化であり、従来の軍事同盟の枠組みではなく、既存の国際秩序に対する共通の反発に基づく「混乱の軸」として捉えるべきだとアンドレア・ケンドール・テイラー分析家は指摘している。この同盟はウクライナ戦争終結後も継続し、西側諸国に対する長期的な挑戦となる可能性がある。",
-      "url": "https://www.rferl.org/a/us-russia-china-iran-ukraine-war/33812439.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "published_at": "2026-07-24T18:37:49+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "88591060",
-      "category": "台湾・中台関係",
-      "title": "Trump's Tariffs on 60 Countries Adopt Method Justice Brett Kavanaugh Laid Out in SCOTUS Ruling",
-      "summary": "トランプ大統領が木曜夜に60カ国に課した関税は、最高裁のブレット・カバノー判事が2月の最高裁判決の反対意見で示した仕組みの一つを利用している。この判決はトランプ氏の「解放の日」関税を違憲と判断していた。カバノー判事が示した法的枠組みに基づくことで、政権は今回の関税措置の正当性を強化しようとしている。",
-      "url": "https://www.breitbart.com/politics/2026/07/24/trumps-tariffs-on-60-countries-adopt-method-justice-brett-kavanaugh-laid-out-in-scotus-ruling/",
-      "source": "Breitbart News",
-      "published_at": "2026-07-24T16:48:20+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "57798871",
-      "category": "台湾・中台関係",
-      "title": "India secures lower 10% US Section 301 tariff but trade uncertainties remain",
-      "summary": "インドは米国の通商法第301条に基づく関税で10%の低い税率を確保しましたが、専門家は医薬品関税、ロシア産石油への追加制裁、過剰生産能力調査など複数の懸案事項が二国間通商協定で解決される必要があると指摘しており、貿易の不確実性は依然として残存しています。",
-      "url": "https://www.thehindubusinessline.com/economy/india-secures-lower-10-us-section-301-tariff-but-trade-uncertainties-remain/article71263125.ece",
-      "source": "BusinessLine",
-      "published_at": "2026-07-24T15:22:08+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "68608185",
-      "category": "台湾・中台関係",
-      "title": "Why Trump may be undermining his own Saudi nuclear deal",
-      "summary": "トランプ大統領の政権がサウジアラビアと30年間の原子力エネルギー協力協定に署名しましたが、この協定の内容がトランプ大統領自身の政策目標と相反する可能性があります。協定は数十億ドル規模の取引であり、核兵器拡散の懸念やサウジアラビアの地域での影響力拡大に関する議論を呼んでいます。この協定はトランプ大統領が対抗しようとしている国々との関係構築を促す可能性があり、自らの外交政策を損なうリスクを含んでいます。",
-      "url": "https://www.vox.com/politics/496635/trump-saudi-nuclear-deal",
-      "source": "Vox",
-      "published_at": "2026-07-24T14:19:58+00:00",
-      "lang": "en"
-    },
-    {
-      "id": "38438859",
-      "category": "台湾・中台関係",
-      "title": "Long-term care hospitals as end-of-life care settings in South Korea: A nationwide analysis of utilization patterns and clinical trajectories",
-      "summary": "韓国の長期療養病院における高齢患者の利用パターンと臨終時の医療軌跡を全国規模で分析した研究であり、患者の年齢、疾患、治療内容、最期の場所などのデータを調査することで、高齢化社会における終末期ケアの実態を明らかにすることを目的としている。本研究は全国の患者データを用いた後向き観察研究として実施されており、長期療養病院が韓国の高齢者向け終末期医療施設としてどの程度活用されているかを検証している。",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354271",
-      "source": "Plos.org",
-      "published_at": "2026-07-24T14:00:00+00:00",
       "lang": "en"
     }
   ]
